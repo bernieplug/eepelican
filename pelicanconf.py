@@ -32,7 +32,7 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-THEME = 'themes/pelican-bootstrap3'
+THEME = 'themes/bootstrap'
 BOOTSTRAP_THEME = 'yeti'
 
 # custom page generated with a jinja2 template
