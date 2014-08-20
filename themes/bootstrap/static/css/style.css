@@ -1,5 +1,18 @@
 /* below this point was added by Nathalie */
 
+.featured {
+  -webkit-box-shadow: 0 0 30px rgba(0,0,0,.5);
+        box-shadow: 0 0 30px rgba(0,0,0,.5);
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a .well:hover {
+  background-color: #d3d3d3;
+}
+
 /* Extra markup and styles for table-esque vertical and horizontal centering */
 .site-wrapper {
   display: table;
@@ -70,6 +83,12 @@
 
 .banner h3 {
     margin: 21px 0px;
+}
+
+.banner:hover,
+.banner .panel-heading:hover {
+  background-color: #00526e;
+  border-color: #00526e;
 }
 
 a.thumbnail.product:hover {
