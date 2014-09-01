@@ -40,4 +40,4 @@ DIRECT_TEMPLATES = ('index', 'categories', 'authors',
                     'archives', 'home', 'about',
                     'support', 'sign-up', 'customer-reviews',
                     'tax', 'seller-feedback', 'products',
-                    'pricing-table')
+                    'pricing-table', 'vat')
