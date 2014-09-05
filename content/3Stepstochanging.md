@@ -32,7 +32,7 @@ Acting quickly is critical when addressing customer complaints. If that angry cu
 <a href=http://www.zendesk.com/resources/customer-service-and-lifetime-customer-value>A study by Dimensional Research and sponsored by Zendesk </a> indicates that quick resolution to a problem is the #1 factor in making a customer service interaction “good”. Likewise, slow response is one of the top reasons that made customer service bad.
 If you respond quickly, the customer will notice. No matter how angry they might be with your product, a response from the seller can only be a positive in their eyes. You’ve got their attention, which is always the hardest step.
 
-Responding to Negative Reviews quickly requires both awareness of product reviews as they come in and the ability to reach out to them in private. Though both can be accomplished manually, we suggest looking into a  <a href= /customer-reviews.html>  software tool to ensure speed and reliability </a>
+Responding to Negative Reviews quickly requires both awareness of product reviews as they come in and the ability to reach out to them in private. Though both can be accomplished manually, we suggest looking into a  <a href= /customer-reviews.html>  software tool to ensure speed and reliability. </a>
 
 <h2> 2. Be Courteous </h2>
 
@@ -56,7 +56,7 @@ In order for the bad review to turn into a good review, you need to solve the cu
 
 A customer who leaves a bad review has lost faith in your company. In order to restore faith, you need to show meticulous attention to detail. Read the review carefully and ensure you understand their problem. Then, engage the reviewer and ask for more details where necessary.
 
-Speed in initial contact with the contact is critical. <a href=http://www.helpscout.net/blog/speed-kills/> Discourteous speediness when addressing customer concerns is deadly </a>
+Speed in initial contact with the contact is critical. <a href=http://www.helpscout.net/blog/speed-kills/> Discourteous speediness when addressing customer concerns is deadly. </a>
 
 The ideal solution should leave the customer feeling understood. One electronics retailer we work with has users send back defective units (after sending a new unit) with a pledge to examine the problem carefully and ensure it doesn’t occur in future manufacturing runs. Does this help the customer directly? Perhaps not. Yet it communicates to the customer a deep concern for service on the part of the seller.
 
