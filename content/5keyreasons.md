@@ -5,8 +5,8 @@ Tags: Testing
 Image: box.png
 Summary: Find out 5 key reasons why many Amazon sellers are switching over from Reselling to Private Label Selling.
 
-
-<img class="post-image-center" align="center" src="../../../../theme/img/blog/5reasonsplaceholder.png">
+<meta type=
+<img class="post-image-center" align="center" src="../../../../theme/img/blog/5-reasons-why-private-label-selling-beats-reselling-on-amazon.png", alt="5 reason why private-label selling-beats reselling on amazon">
 <div>
 
 As an Amazon seller, what are your biggest headaches on a day-to-day basis?
@@ -34,7 +34,7 @@ Exciting as it may be, this idea is no fantasy. Many Amazon sellers already acco
  Still not convinced? Here are Five key reasons why private label selling beats reselling on Amazon. 
 
 <h2> 1. No more competing for the Buy Box.</h2>
-<img class="post-image-right" align="right" src="../../../../theme/img/blog/buybox.png" style="height:382px;">
+<img class="post-image-right" align="right" src="../../../../theme/img/blog/No-more-buy-box.png" alt="No more buy box" style="height:382px;">
 
 <h3> Reselling </h3>
 As you settle down at your desk with your morning coffee and check your Amazon Products, your eye starts to twitch. It’s not the caffeine. It’s seeing that one of your competitors has nabbed the buy box for one of your best-selling products.
@@ -55,7 +55,7 @@ Of course, it’s not all sunshine and daisies. As Spiderman’s Uncle Ben famou
 Still, having your own brand beats reselling unambiguously on this count. Besides, work spent building your own line of products is infinitely more rewarding than time in the rat pack chasing the buy box.
 
 <h2>2. Carve a niche from what you know best.</h2>
-<img class="post-image-right" align="right" src="../../../../theme/img/blog/sellyourniche.png" style="height:300px;">
+<img class="post-image-right" align="right" src="../../../../theme/img/blog/Sell-what-you-want-to-sell-Amazon.png" alt="Sell what you want to sell Amazon" style="height:300px;">
 <h3> Reselling </h3>
 Ask a typical reseller what kind of products he sells and he’ll likely laugh in your face. The reality is that resellers sell whatever they can manage to get their hands on that will bring in a profit. On Amazon, burly, bearded lumberjack types sell lipstick and hello kitty binders, while basement bound geeks may find themselves selling powertools and fashionable apparel.
 
@@ -75,7 +75,7 @@ Selling products you don’t know about must be reactive by necessity, following
 Once again, a couple words of watchful warning. Even when selling what you know best, you have to sell what customers actually want. It can be easy to get emotionally invested in pet projects that don’t help your business (blog post here). Learn to be adaptable while still staying true to your knowledge base/
 
 <h2>3. Easier Management with less products </h2>
-<img class="post-image-right" align="right" src="../../../../theme/img/blog/limeguy.png" style="height:382px;">
+<img class="post-image-right" align="right" src="../../../../theme/img/blog/Too-many-amazon-ASINs.png" alt="Too many amazon ASINs" style="height:382px;">
 <h3> Reselling </h3>
 
 The number of unique ASINs that Amazon resellers must sell to make any kind of reasonable revenue is in the thousands. What with buy box woes, unpredictable demand, frequent out of stock situations, diversification is a necessity.  The result? Constant headaches. 
@@ -107,7 +107,7 @@ Less products to manage means:
 Simply put, branded selling means less tedious management and more meaningful management. To be blunt, becoming a successful branded selling involves no less work than successful reselling. The same hour devoted to branded selling, however, is more meaningful and provides better results.
 
 <h2> 4. See your profits skyrocket </h2>
-<img class="post-image-right" align="right" src="../../../../theme/img/blog/revenuevscost.png" style="height:382px;">
+<img class="post-image-right" align="right" src="../../../../theme/img/blog/Revenue-vs-cost-Amazon-reselling-vs-private-label.png" alt="Revenue vs cost Amazon reselling vs private label" style="height:382px;">
 
 <h3> Reselling </h3>
 
@@ -125,7 +125,7 @@ Private Label selling leads to higher revenue and lower costs. Once again, we’
 While higher profits might seem to signal fast cars and huge houses (and it may eventually) savvy business people know the best use of the excess: reinvestment. With higher profits, every extra dollar earned doesn’t necessarily equate to extra spending money, though it can. Instead, it allows you to infuse your new brand with capital, turning it from a hobby to business.
 
 <h2> 5. Build a lasting, respected brand. </h2>
-<img class="post-image-right" align="right" src="../../../../theme/img/blog/brands.png" style="height:382px;">
+<img class="post-image-right" align="right" src="../../../../theme/img/blog/private-label-amazon.png" alt="private label amazon" style="height:382px;">
 
 Perhaps the most important yet most underestimated asset of any business is its reputation. Reputation is so important that big corporations spend hundreds of millions of dollars on PR firms that gloss and polish their every action and product for public consumption.
 
@@ -158,7 +158,7 @@ Before you know it, competitors will be glaring at you with envy as you sit atop
 
 So what are you waiting for? Go Private label!
 
-<img class="post-image-right" align="right" src="../../../../theme/img/blog/greatpower.png" style="height:382px;">
+<img class="post-image-right" align="right" src="../../../../theme/img/blog/Great-power-great-responsibility-on-Amazon.png" alt="Great power great responsibility on Amazon" style="height:382px;">
 
 
 Of course it’s not that simple. That’s why we’ve written guides to getting started with private label selling here (link to blog post/ebook/white paper), with practical actionable steps.
