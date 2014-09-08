@@ -72,7 +72,7 @@ With Amazon private label selling, that vision is a reality to the benefit of bo
 
 Selling products you don’t know about must be reactive by necessity, following the herd from fad to fad. Selling from your niche of expertise means the trends start with you.
 
-Once again, a couple words of watchful warning. Even when selling what you know best, you have to sell what customers actually want. It can be easy to get emotionally invested in pet projects that don’t help your business (blog post here). Learn to be adaptable while still staying true to your knowledge base/
+Once again, a couple words of watchful warning. Even when selling what you know best, you have to sell what customers actually want. It can be easy to get emotionally invested in pet projects that don’t help your business (blog post here). Learn to be adaptable while still staying true to your knowledge base.
 
 <h2>3. Easier Management with less products </h2>
 <img class="post-image-right" align="right" src="../../../../theme/img/blog/Too-many-amazon-ASINs.png" alt="Too many amazon ASINs" style="height:382px;">
@@ -135,7 +135,7 @@ Unfortunately, we don’t have that luxury as Amazon sellers. Despite this, posi
 
 The only reputation Amazon resellers can establish is through their seller feedback rating. Amazon factors this rating into their search results and buy box algorithms. More visibly, if consumers bother to look beyond the buybox, the “Other Offers” page allows a direct comparison between sellers by their feedback rating. Finally, consumers often click through to the company page to view feedback directly. 
 
-Private label sellers must also pay attention to seller feedback, mostly in relation to Amazon’s search ranking algorithm (blog post here). Thus, maintaining high feedback ratings is <a href=/seller-feedback.html> critical to success both as a reseller and as a branded seller </a>
+Private label sellers must also pay attention to seller feedback, mostly in relation to Amazon’s search ranking algorithm (blog post here). Thus, maintaining high feedback ratings is <a href=/seller-feedback.html> critical to success both as a reseller and as a branded seller. </a>
 
 Besides this one statistic, however, resellers never have the opportunity to really build a lasting brand. Nobody remembers that they bought a Nike shoe or a used book from Lots O’ Stuff Inc. .  At best, your relationship with the customer ends once their package arrives. Any repeat sales are pure chance in the massive ocean of the Amazon Marketplace. 
 

@@ -70,7 +70,7 @@ With one large Amazon retailer we work with, their top product selling tens of t
 
 Product Reviews are critical to success on Amazon. Buyers use it when they compare search results, and scrutinize them carefully before adding to the cart. 
 
-The best way to make a difference with your amazon product reviews is <a href= /customer-reviews.html> stellar and rapid customer service </a>
+The best way to make a difference with your amazon product reviews is <a href= /customer-reviews.html> stellar and rapid customer service. </a>
 
 Product reviews are an indicator of whether your company stands behind their products. Buyers will use it to make purchasing decisions, and reviewers who are treated well will leave good reviews. This process feeds into itself until you’ve become a trusted brand.
 
