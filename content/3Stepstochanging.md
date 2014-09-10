@@ -7,7 +7,8 @@ Summary: When negative customer reviews come in, be a service superhero.
 
 
 <body>
-<div class="col-md-8">
+<img class="post-image-center" align="center" src="../../../../theme/img/blog/3-Steps-to-Changing-a-negative-Amazon-Review.png", alt="Start paying attention to your Amazon product reviews">
+<div class="col-xs-12">
 
 As you check your Amazon product pages to make sure everything is ship-shape, you scroll down to the reviews section of your best selling product.
 
@@ -26,7 +27,7 @@ It might be easy to tear one’s hair out in frustration, curse the reviewer, or
 With three steps,  you can turn a 1 star review for your product into a positive review. You’ll have a happy customer, and others will notice too when they read the revised review singing praises to your customer service.
 
 <h2> 1. Respond Quickly </h2>
-
+<img class="post-image-right" align="right" src="../../../../theme/img/blog/Respond-Quickly.png", alt="Respond-Quickly">
 Acting quickly is critical when addressing customer complaints. If that angry customer review was left a month ago, you’re toast. By this point, the customer has moved on and slipped through your fingers. That review will be an immortal monument to your inattentiveness.
 
 <a href=http://www.zendesk.com/resources/customer-service-and-lifetime-customer-value>A study by Dimensional Research and sponsored by Zendesk </a> indicates that quick resolution to a problem is the #1 factor in making a customer service interaction “good”. Likewise, slow response is one of the top reasons that made customer service bad.
@@ -34,8 +35,8 @@ If you respond quickly, the customer will notice. No matter how angry they might
 
 Responding to Negative Reviews quickly requires both awareness of product reviews as they come in and the ability to reach out to them in private. Though both can be accomplished manually, we suggest looking into a  <a href= /customer-reviews.html>  software tool to ensure speed and reliability. </a>
 
+<img class="post-image-left" align="left" src="../../../../theme/img/blog/Be-Courteous.png", alt="Be Courteous">
 <h2> 2. Be Courteous </h2>
-
 Now you’ve got the customer’s attention with your quick response. What’s the next step from here?
 
 Want to guess what the #2 factor in making a customer interaction “good” from that Zendesk study?
@@ -51,7 +52,7 @@ Acknowledge: The customer want their concerns to be acknowledged. The whole poin
 Solve: No matter what, provide solutions to your customer.
 
 <h2> 3. Be a Problem Solver </h2>
-
+<img class="post-image-right" align="right" src="../../../../theme/img/blog/Be-a-Problem-Solver.png", alt="Be a Problem Solver">
 In order for the bad review to turn into a good review, you need to solve the customer’s problem. Tempting as it may be from a speed standpoint, this doesn’t always mean offering a refund or return as soon as possible.
 
 A customer who leaves a bad review has lost faith in your company. In order to restore faith, you need to show meticulous attention to detail. Read the review carefully and ensure you understand their problem. Then, engage the reviewer and ask for more details where necessary.

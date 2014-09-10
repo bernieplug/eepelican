@@ -7,7 +7,8 @@ Summary: Product Reviews are the bread and butter for Private Label Amazon Selle
 
 
 <body>
-<div class="col-md-8">
+<img class="post-image-center" align="center" src="../../../../theme/img/blog/Start-paying-attention-to-your-Amazon-product-reviews.png", alt="Start paying attention to your Amazon product reviews">
+<div class="col-xs-12">
 
 Imagine you’re a customer shopping for a hot new product on Amazon. It shouldn’t be too hard, most of us have been in this situation before. You type your query into the search bar and hit enter.  
 
@@ -31,7 +32,7 @@ Optimizing each of these is crucial to driving sales in their own right. We’ve
  If you’re not private label selling on Amazon you should be.</a> If you are or plan on starting, this post will help you understand how customer reviews drive product sales.
 
 <h2>Amazon Search Result Comparison:</h2>
-
+<img class="post-image-right" align="right" src="../../../../theme/img/blog/Amazon-Search-Result-Comparison.png", alt="Amazon Search Result Comparison">
 Let's assume for now that the first four points above are close to identical for the top products in a given search . Not too much of a stretch. Product Names often boil down to “Company A Widget X” vs “Company B Widget X”. Pricing is close since amazon is a highly competitive market. Most competent sellers Fulfill by Amazon (link to FBA post).
 
 What does that leave for customer decision making?
@@ -47,6 +48,7 @@ I’ve personally use this feature <strong> every time </strong> I buy on Amazon
 Product reviews boil down to a comparison of quality in the search results page. If your product doesn’t measure up, buyers won’t even bother giving you a click. You miss 100% of the customers that won’t even click on your detail page.
 
 <h2>Amazon Product Page Decision </h2>
+<img class="post-image-right" align="right" src="../../../../theme/img/blog/Amazon-Product-Page-Decision.png", alt="Amazon Product Page Decision">
 
 Getting a customer to click on your Amazon search result is most of the battle. Once on the page, the customers are looking for a reason <strong> not to buy </strong>.
 
@@ -55,10 +57,11 @@ If the product meets their needs and the price is right, the last thing a consum
 If customers run into particularly positive or negative product reviews, their purchasing decision can be heavily influenced. Many customers are now savvy enough to check 1 star reviews, even for products that have mostly positive reviews. If those 1 star reviews reveal a systematic neglect of customer concerns on your part, those otherwise locked-in sales will quickly slip through your fingers and fly off to a competitor’s product.
 
 <h2> Driving Positive Amazon Reviews </h2>
+<img class="post-image-right" align="right" src="../../../../theme/img/blog/Driving-Positive-Amazon-Reviews.png", alt="Driving-Positive-Amazon-Reviews">
 
 Obviously, the main thing a seller can effect to generate positive reviews is selling high quality products. Still, despite your best efforts, there are customers who are bound to be dissatisfied How can you tip the scales and gain the edge over your competitors at this crucial decision point?
 
-The answer is simple: Customer service . Customer service should be the main focus for any <a href=5-reasons-why-Private-Label-selling-Beats-Reselling-on-Amazon.html>  Private Label Amazon seller </a>. After all, service along with marketing is really your main function as a seller! If it weren’t for customer service, the manufacturer could simply sell their product directly.
+The answer is simple: Customer service . Customer service should be the main focus for any [Private Label Amazon seller](5-reasons-why-Private-Label-selling-Beats-Reselling-on-Amazon.html) . After all, service along with marketing is really your main function as a seller! If it weren’t for customer service, the manufacturer could simply sell their product directly.
 
 As a seller, you need to be willing to get in the trenches and <a href=3-steps-to-changing-a-negative-amazon-review.html> reach out to every customer with a negative review </a>. Every legitimate concern with your product needs to be addressed courteously and rapidly. Otherwise, there’s a danger of other angry buyers voting the review “helpful”--so much so that it can show up on the first page of your product reviews!
 
