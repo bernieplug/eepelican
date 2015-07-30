@@ -6,8 +6,6 @@ AUTHOR = u'Efficient Era'
 SITENAME = u'Efficient Era'
 SITEURL = ''
 
-PATH = 'content'
-
 TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
@@ -16,28 +14,37 @@ DEFAULT_LANG = u'en'
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
 
 # Blogroll
-MENUITEMS = (('Blog', '/index.html'),
-             ('Support', '/support.html'),
-             ('About', '/about.html'))
-DISPLAY_PAGES_ON_MENU = False
-DISPLAY_CATEGORIES_ON_MENU = False
+LINKS = (('Pelican', 'http://getpelican.com/'),
+         ('Python.org', 'http://python.org/'),
+         ('Jinja2', 'http://jinja.pocoo.org/'),)
 
 # Social widget
-# SOCIAL = (('You can add links in your config file', '#'),('Another social link', '#'),)
+SOCIAL = (('BOOK OF FACES!', '#'),)
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-THEME = 'themes/bootstrap'
-BOOTSTRAP_THEME = 'yeti'
+# Paths
+PATH = 'content'
+STATIC_PATHS = ['blog', 'images', 'pages']
+ARTICLE_PATHS = ['blog']
+ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
+ARTICLE_URL = '{date:%Y}/{slug}.html'
 
-# custom page generated with a jinja2 template
-DIRECT_TEMPLATES = ('index', 'categories', 'authors',
-                    'archives', 'home', 'about',
-                    'support', 'sign-up', 'customer-reviews',
-                    'tax', 'seller-feedback', 'products',
-                    'pricing-table', 'vat')
+# Theme
+THEME = "themes/bootstrap3"
+BOOTSTRAP_THEME = 'paper'
+DISPLAY_BREADCRUMBS = True
+DISPLAY_CATEGORY_IN_BREADCRUMBS = True
+DISPLAY_ARTICLE_INFO_ON_INDEX = True
+SHOW_ARTICLE_AUTHOR = True
+
+# Plugins
+PLUGIN_PATHS = ["plugins", "plugins"]
+PLUGINS = []

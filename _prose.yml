@@ -1,0 +1,11 @@
+
+prose:
+  rooturl: 'content'
+  relativeLinks: 'https://efficientera.com'
+  media: 'content/images'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+
