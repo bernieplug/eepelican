@@ -30,12 +30,22 @@ DEFAULT_PAGINATION = 5
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+# Menu
+MENUITEMS = (('Blog', '/blog'),)
+MENUITEMS_RIGHT = (('Register', 'https://efficientera.com/register/'),
+                   ('Log In', 'https://efficientera.com/login/'),)
+
+# Post Settings
+DEFAULT_DATE = 'fs'
+
 # Paths
 PATH = 'content'
 STATIC_PATHS = ['blog', 'images', 'pages']
 ARTICLE_PATHS = ['blog']
 ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
 ARTICLE_URL = '{date:%Y}/{slug}.html'
+INDEX_SAVE_AS = 'blog.html'
+TEMPLATE_PAGES = {'templates/index.html': 'index.html'}
 
 # Theme
 THEME = "themes/bootstrap3"
@@ -44,6 +54,8 @@ DISPLAY_BREADCRUMBS = True
 DISPLAY_CATEGORY_IN_BREADCRUMBS = True
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
 SHOW_ARTICLE_AUTHOR = True
+DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = False
 
 # Plugins
 PLUGIN_PATHS = ["plugins", "plugins"]
