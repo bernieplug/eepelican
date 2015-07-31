@@ -1,10 +1,16 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+from os import environ
 
 AUTHOR = u'Efficient Era'
 SITENAME = u'Efficient Era'
-SITEURL = ''
+
+if 'ONLOCAL' in environ:
+    SITEURL = 'http://127.0.0.1:8000'
+else:
+    SITEURL = 'https://efficientera.com'
+    DISQUS_SITENAME = ''
 
 TIMEZONE = 'America/Los_Angeles'
 
@@ -17,33 +23,25 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),)
-
-# Social widget
-SOCIAL = (('BOOK OF FACES!', '#'),)
-
-DEFAULT_PAGINATION = 5
-
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
 # Menu
-MENUITEMS = (('Blog', '/blog'),)
-MENUITEMS_RIGHT = (('Register', 'https://efficientera.com/register/'),
-                   ('Log In', 'https://efficientera.com/login/'),)
+MENUITEMS = (('Blog', '/blog'),
+             ('Support', '/support'),)
+MENUITEMS_RIGHT = (('Log In', 'https://efficientera.com/login/'),
+                   ('Register', 'https://efficientera.com/register/'),)
 
 # Post Settings
+DEFAULT_PAGINATION = 5
 DEFAULT_DATE = 'fs'
 
 # Paths
 PATH = 'content'
 STATIC_PATHS = ['blog', 'images', 'pages']
 ARTICLE_PATHS = ['blog']
-ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
-ARTICLE_URL = '{date:%Y}/{slug}.html'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%b}/{slug}.html'
+ARTICLE_URL = '{date:%Y}/{date:%b}/{slug}.html'
 INDEX_SAVE_AS = 'blog.html'
 TEMPLATE_PAGES = {'templates/index.html': 'index.html'}
 
@@ -56,6 +54,8 @@ DISPLAY_ARTICLE_INFO_ON_INDEX = True
 SHOW_ARTICLE_AUTHOR = True
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
+DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
+DISPLAY_CATEGORIES_ON_SIDEBAR = True
 
 # Plugins
 PLUGIN_PATHS = ["plugins", "plugins"]
