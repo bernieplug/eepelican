@@ -12,6 +12,10 @@ else:
     SITEURL = 'https://efficientera.com'
     DISQUS_SITENAME = ''
 
+# URLS
+TAGS_URL = 'tags'
+CATEGORIES_URL = 'categories'
+
 TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
@@ -27,10 +31,8 @@ AUTHOR_FEED_RSS = None
 #RELATIVE_URLS = True
 
 # Menu
-MENUITEMS = (('Blog', '/blog'),
+MENUITEMS_RIGHT = (('Blog', '/blog'),
              ('Support', '/support'),)
-MENUITEMS_RIGHT = (('Log In', 'https://efficientera.com/login/'),
-                   ('Register', 'https://efficientera.com/register/'),)
 
 # Post Settings
 DEFAULT_PAGINATION = 5
