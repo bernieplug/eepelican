@@ -5,12 +5,7 @@ from os import environ
 
 AUTHOR = u'Efficient Era'
 SITENAME = u'Efficient Era'
-
-if 'ONLOCAL' in environ:
-    SITEURL = 'http://127.0.0.1:8000'
-else:
-    SITEURL = 'https://efficientera.com'
-    DISQUS_SITENAME = ''
+SITEURL = 'http://127.0.0.1:8000'
 
 # URLS
 TAGS_URL = 'tags'
@@ -32,7 +27,7 @@ AUTHOR_FEED_RSS = None
 
 # Menu
 MENUITEMS_RIGHT = (('Blog', '/blog'),
-             ('Support', '/support'),)
+                   ('Support', '/support'),)
 
 # Post Settings
 DEFAULT_PAGINATION = 5
@@ -49,7 +44,7 @@ TEMPLATE_PAGES = {'templates/index.html': 'index.html'}
 
 # Theme
 THEME = "themes/bootstrap3"
-BOOTSTRAP_THEME = 'paper'
+BOOTSTRAP_THEME = 'readable'
 DISPLAY_BREADCRUMBS = True
 DISPLAY_CATEGORY_IN_BREADCRUMBS = True
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
