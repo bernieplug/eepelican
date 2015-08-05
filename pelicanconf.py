@@ -5,7 +5,7 @@ from os import environ
 
 AUTHOR = u'Efficient Era'
 SITENAME = u'Efficient Era'
-SITEURL = 'http://127.0.0.1:8000'
+SITEURL = 'http://127.0.0.1:8080'
 
 # URLS
 TAGS_URL = 'tags'
@@ -26,8 +26,8 @@ AUTHOR_FEED_RSS = None
 #RELATIVE_URLS = True
 
 # Menu
-MENUITEMS_RIGHT = (('Blog', '/blog'),
-                   ('Support', '/support'),)
+MENUITEMS_RIGHT = (('Blog', '/blog/'),
+                   ('Support', '/support/'),)
 
 # Post Settings
 DEFAULT_PAGINATION = 5
@@ -37,9 +37,9 @@ DEFAULT_DATE = 'fs'
 PATH = 'content'
 STATIC_PATHS = ['blog', 'images', 'pages']
 ARTICLE_PATHS = ['blog']
-ARTICLE_SAVE_AS = '{date:%Y}/{date:%b}/{slug}.html'
-ARTICLE_URL = '{date:%Y}/{date:%b}/{slug}.html'
-INDEX_SAVE_AS = 'blog.html'
+ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{slug}.html'
+ARTICLE_URL = 'blog/{date:%Y}/{date:%b}/{slug}.html'
+INDEX_SAVE_AS = 'blog/index.html'
 TEMPLATE_PAGES = {'templates/index.html': 'index.html'}
 
 # Theme
