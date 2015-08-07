@@ -41,17 +41,18 @@ It may be a cliché, but “Service with a Smile” is the industry standard for
 
 Courtesy does not stop at using soft words instead of hurling insults. True courtesy involves empathizing with the customer and their complaints. In particular, make sure you:
 
-Apologize: Take responsibility for how your customer feels about your product! As easy as it might be to get frustrated or blame the buyer’s ignorance, starting off with “I’m sorry” goes a long way.
-Acknowledge: The customer wants their concerns to be acknowledged. The whole point of writing the negative review was so that others would acknowledge their bad experience with your company. Acknowledging their concerns directly is critical in building a positive relationship with the customer. 
-Solve: No matter what, provide solutions to your customer.
+ - Apologize: Take responsibility for how your customer feels about your product! As easy as it might be to get frustrated or blame the buyer’s ignorance, starting off with “I’m sorry” goes a long way.
+ - Acknowledge: The customer wants their concerns to be acknowledged. The whole point of writing the negative review was so that others would acknowledge their bad experience with your company. Acknowledging their concerns directly is critical in building a positive relationship with the customer.
+ - Solve: No matter what, provide solutions to your customer.
+
 
 ### 3. Be a Problem Solver
 
 In order for the bad review to turn into a good review, you need to solve the customer’s problem. Tempting as it may be from a speed standpoint, this doesn’t always mean offering a refund or return as soon as possible.
 
-A customer who leaves a bad review has lost faith in your company. In order to restore faith, you need to show meticulous attention to detail. Read the review carefully and ensure you understand their problem. Then, engage the reviewer and ask for more details where necessary.
-
 Speed in initial contact with the customer is critical. [That being said, don’t get too hung up on speed once the conversation has started.](http://www.helpscout.net/blog/speed-kills/) While you should make initial contact as quickly as you can, take the time to carefully solve their problem. Make them feel like you care, not like you’re trying to sloppily throw together a solution as quickly as you can.    
+
+A customer who leaves a bad review has lost faith in your company. In order to restore faith, you need to show meticulous attention to detail. Read the review carefully and ensure you understand their problem. Then, engage the reviewer and ask for more details where necessary.
 
 The ideal solution should leave the customer feeling understood. One electronics retailer we work with has users send back defective units (after sending a new unit) with a pledge to examine the problem carefully and ensure it doesn’t occur in future manufacturing runs. Does this help the customer directly? Perhaps not. Yet it communicates to the customer a deep concern for service on the part of the seller.
 
@@ -61,7 +62,7 @@ Finally, if all else fails, be generous in refunds and exchanges. Nobody wants t
 
 Don’t think that your role as a seller ends once you’ve shipped your product. In some ways, your job has just begun.
 
-Likewise, don’t despair when you receive a negative review. [With proper handling, a negative review can turn into the best thing that’s ever happened to your product.](http://www.damniwish.com/how-a-2-star-amazon-review-makes-thousands-of-sales/)
+Likewise, don’t despair when you receive a negative review. They’re a part of every Amazon seller’s life, and now you’re equipped with the tools to handle them. If all goes well, the reviewer might even edit it, turning a once-negative review into a glowing commendation of your customer service.
 
 One last note: you may think we’ve forgotten to ask for the customer to change their review! We think that your service should speak for itself, and customers will handle their end. Disagree? Feel free to let us know in the comments!
 
