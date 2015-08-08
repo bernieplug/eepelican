@@ -33,6 +33,14 @@ MENUITEMS_RIGHT = (('Blog', '/blog/'),
 DEFAULT_PAGINATION = 5
 DEFAULT_DATE = 'fs'
 
+# Share Buttons (Sharrif)
+SHARIFF = True
+SHARIFF_LANG = 'en'
+SHARIFF_THEME = 'grey'
+# TWITTER_USERNAME = ''
+# SHARIFF_TWITTER_VIA = True
+
+
 # Paths
 PATH = 'content'
 STATIC_PATHS = ['blog', 'images', 'pages']
@@ -56,4 +64,11 @@ DISPLAY_CATEGORIES_ON_SIDEBAR = True
 
 # Plugins
 PLUGIN_PATHS = ["plugins", "plugins"]
-PLUGINS = []
+PLUGINS = ["thumbnailer"]
+
+# Thumbnailer
+IMAGE_PATH = 'images'
+THUMBNAIL_DIR = 'images/thumbnails/'
+THUMBNAIL_SIZES = {'small': '250x?',
+                   'medium': '500x?',
+                   'large': '800x?'}

@@ -21,4 +21,9 @@ _This text is in italics_
 
 [This is a link](http://tosomeurl.com)
 
-![This is alt-image text](https://link_to_some_image.com/image.png)
+![Some Image]({filename}/images/image.png)
+![Small Thumbnail generate from image.png](/images/thumbnails/image_small.png)
+![Medium Thumbnail generate from image.png](/images/thumbnails/image_medium.png)
+![Large Thumbnail generate from image.png](/images/thumbnails/image_large.png)
+
+[![Medium Thumbnail with link to full-sized image](/images/thumbnails/image_medium.png)]({filename}/images/image.png)
