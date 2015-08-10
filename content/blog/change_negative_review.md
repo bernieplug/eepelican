@@ -41,9 +41,9 @@ It may be a cliché, but “Service with a Smile” is the industry standard for
 
 Courtesy does not stop at using soft words instead of hurling insults. True courtesy involves empathizing with the customer and their complaints. In particular, make sure you:
 
- - Apologize: Take responsibility for how your customer feels about your product! As easy as it might be to get frustrated or blame the buyer’s ignorance, starting off with “I’m sorry” goes a long way.
- - Acknowledge: The customer wants their concerns to be acknowledged. The whole point of writing the negative review was so that others would acknowledge their bad experience with your company. Acknowledging their concerns directly is critical in building a positive relationship with the customer.
- - Solve: No matter what, provide solutions to your customer.
+ * Apologize: Take responsibility for how your customer feels about your product! As easy as it might be to get frustrated or blame the buyer’s ignorance, starting off with “I’m sorry” goes a long way.
+ * Acknowledge: The customer wants their concerns to be acknowledged. The whole point of writing the negative review was so that others would acknowledge their bad experience with your company. Acknowledging their concerns directly is critical in building a positive relationship with the customer.
+ * Solve: No matter what, provide solutions to your customer.
 
 ### 3. Be a Problem Solver
 
