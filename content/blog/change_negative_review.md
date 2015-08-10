@@ -4,19 +4,19 @@ Category: Feedback Loop
 Tags: Customer Service, Amazon, Feedback
 Status: draft
 
-As you check your Amazon product pages to make sure everything is ship-shape, you scroll down to the reviews section of your best selling product.
+As you check your Amazon product pages to make sure everything is shipshape, you scroll down to the reviews section of your best selling product.
 
 First, you smile knowingly as you see the glowing reviews that users have marked most helpful. You know [how important product reviews are to your e-commerce brand’s reputation](/Start-Paying-Attention-to-your-Amazon-Product-Reviews.html). Just to be sure, you check on the newest reviews as well.
 
 Oh no.
 
-Staring you in the face is a big fat negative review. You can practically hear the customer shouting the all caps title “DO NOT BUY THIS PRODUCT” at you. This review isn’t easily ignored either. The content isn’t a tepid “I didn’t like it too much”. Rather, it’s 5 paragraph take-down of your product.
+Staring you in the face is a big fat negative review. You can practically hear the customer shouting the all caps title “DO NOT BUY THIS PRODUCT”. This review isn’t easily ignored either. The content isn’t a tepid “I didn’t like it too much”. Rather, it’s 5 paragraph take-down of your product.
 
 The complaints seem somewhat legitimate too. The problem is something you can fix. Maybe a manufacturer’s defect or an easy-to-address misunderstanding.  But the customer doesn’t know that. All they know is that they’re mad. Mad at you.
 
-Finally, you notice that 10 of 10 people have already marked the review helpful. All aboard for the first page of reviews on your product page.
+Finally, you notice that 10 of 10 people have already marked the review helpful. Off it goes to the first page of reviews.
 
-It might be easy to tear one’s hair out in frustration, curse the reviewer, or simply stop caring and become indifferent. However, for sellers who value their brand image, there’s a clear course of action.
+It might be easy to tear one’s hair out in frustration, curse the reviewer, or simply scoff with indifference and ignore it. However, for sellers who value their brand image, there’s a clear course of action.
 
 With three steps,  you can turn a 1 star review for your product into a positive review. Not only will you have a happy customer, but you will help build a reputation as a brand with great customer service. 
 
