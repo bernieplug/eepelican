@@ -45,7 +45,6 @@ Courtesy does not stop at using soft words instead of hurling insults. True cour
  - Acknowledge: The customer wants their concerns to be acknowledged. The whole point of writing the negative review was so that others would acknowledge their bad experience with your company. Acknowledging their concerns directly is critical in building a positive relationship with the customer.
  - Solve: No matter what, provide solutions to your customer.
 
-
 ### 3. Be a Problem Solver
 
 In order for the bad review to turn into a good review, you need to solve the customer’s problem. Tempting as it may be from a speed standpoint, this doesn’t always mean offering a refund or return as soon as possible.
