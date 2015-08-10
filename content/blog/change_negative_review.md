@@ -18,7 +18,7 @@ Finally, you notice that 10 of 10 people have already marked the review helpful.
 
 It might be easy to tear one’s hair out in frustration, curse the reviewer, or simply scoff with indifference and ignore it. However, for sellers who value their brand image, there’s a clear course of action.
 
-With three steps,  you can turn a 1 star review for your product into a positive review. Not only will you have a happy customer, but you will help build a reputation as a brand with great customer service. 
+With three steps,  you can turn a 1 star review into a positive review. Not only will you have a happy customer, but you will help build a reputation as a brand with great customer service. 
 
 ### 1. Respond Quickly
 
