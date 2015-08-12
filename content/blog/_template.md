@@ -3,7 +3,7 @@ Date: 2025-07-30 04:20PM
 Author: Jack Wayland
 Category: Space Exploration
 Tags: Space, Space Elevator, Moon Base
-Status: draft
+Status: hidden
 
 # This is big header text
 
