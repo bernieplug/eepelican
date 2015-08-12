@@ -2,7 +2,7 @@ Title: 3 Steps to Changing a Negative Amazon Review
 Author: Bruce O
 Category: Feedback Loop
 Tags: Customer Service, Amazon, Feedback
-Status: draft
+Status: final
 
 As you check your Amazon product pages to make sure everything is shipshape, you scroll down to the reviews section of your best selling product.
 
@@ -25,9 +25,10 @@ With three steps,  you can turn a 1 star review into a positive review. Not only
 Acting quickly is critical when addressing customer complaints. If that angry customer review was left a month ago, you’re toast. By this point, the customer has moved on and slipped through your fingers. That review will be an immortal monument to your inattentiveness.
 
 [A study by Dimensional Research and sponsored by Zendesk](http://www.zendesk.com/resources/customer-service-and-lifetime-customer-value) indicates that quick resolution to a problem is the #1 factor in making a customer service interaction “good”. Likewise, slow response is one of the top reasons that made customer service bad.
+
 If you respond quickly, the customer will notice. No matter how angry they might be with your product, a response from the seller can only be a positive in their eyes. You’ve got their attention, which is always the hardest step.
 
-Responding to negative reviews quickly requires both awareness of product reviews as they come in and the ability to reach out to them in private. Fortunately, Efficient Era has just to thing to help with quick responses!
+Responding to negative reviews quickly requires both awareness of product reviews as they come in and the ability to reach out to them in private. [Fortunately, Efficient Era has just to thing to help with quick responses!](https://efficientera.com/pages/feedback/review-notifications.html)
 
 ### 2. Be Courteous
 
