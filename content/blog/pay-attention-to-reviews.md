@@ -2,7 +2,7 @@ Title: Start Paying Attention to your Amazon Reviews
 Author: Bruce O
 Category: Feedback Loop
 Tags: Customer Service, Amazon, Feedback
-Status: hidden
+Status: published
 
 Imagine you’re a customer shopping for a hot new product on Amazon. Most of us have been in this situation before. You type your query into the search bar and hit enter.
 
