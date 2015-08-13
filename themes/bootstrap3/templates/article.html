@@ -99,14 +99,23 @@
 {% endblock %}
 
 {% block scripts %}
-{% if ADDTHIS_PROFILE %}
-    {% if ADDTHIS_DATA_TRACK_ADDRESSBAR|default(true) %}
-        <script type="text/javascript">var addthis_config = {"data_track_addressbar": true};</script>
-    {% endif %}
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid={{ ADDTHIS_PROFILE }}"></script>
-{% endif %}
 {% if SHARIFF|default(false) %}
     <!-- add shariff support -->
     <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/shariff.min.js"></script>
+{% endif %}
+{% if DISQUS_SITENAME %}
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES * * */
+        var disqus_shortname = 'efficientera';
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 {% endif %}
 {% endblock %}
