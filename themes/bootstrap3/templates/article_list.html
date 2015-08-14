@@ -4,14 +4,15 @@
         {% for article in (articles_page.object_list if articles_page else articles) %}
             <article>
                 <h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+                <div class="panel panel-default">
                 {% if DISPLAY_ARTICLE_INFO_ON_INDEX %}
-                    <div class="well well-sm">
-                        {% include "includes/article_info.html" %}
-                    </div>
+
+                    {% include "includes/article_info.html" %}
                 {% endif %}
-                <div class="summary">{{ article.summary }}
-                    {% include 'includes/comment_count.html' %}
-                    <a class="btn btn-default btn-xs" href="{{ SITEURL }}/{{ article.url }}">more ...</a>
+                    <div class="summary panel-body">{{ article.summary }}
+                        {% include 'includes/comment_count.html' %}
+                        <a class="btn btn-primary btn-xs" href="{{ SITEURL }}/{{ article.url }}">more &rightarrow;</a>
+                    </div>
                 </div>
             </article>
             <hr/>
