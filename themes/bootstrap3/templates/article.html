@@ -90,7 +90,6 @@
             <!-- /.entry-content -->
             {% include 'includes/related-posts.html' %}
             {% include 'includes/series.html' %}
-            {% include 'includes/addthis.html' %}
             {% include 'includes/shariff.html' %}
             {% include 'includes/comments.html' %}
         </article>
@@ -102,20 +101,5 @@
 {% if SHARIFF|default(false) %}
     <!-- add shariff support -->
     <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/shariff.min.js"></script>
-{% endif %}
-{% if DISQUS_SITENAME %}
-    <div id="disqus_thread"></div>
-    <script type="text/javascript">
-        /* * * CONFIGURATION VARIABLES * * */
-        var disqus_shortname = 'efficientera';
-
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 {% endif %}
 {% endblock %}
