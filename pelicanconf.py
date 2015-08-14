@@ -5,8 +5,8 @@ from os import environ
 
 AUTHOR = u'Efficient Era'
 SITENAME = u'Efficient Era'
-#SITEURL = 'http://127.0.0.1:8080'
-SITURL = ''
+SITEURL = 'http://127.0.0.1:8080'
+#SITEURL = 'efficientera.com'
 
 # URLS
 TAGS_URL = 'tags'
@@ -64,6 +64,10 @@ DISPLAY_PAGES_ON_MENU = False
 DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
 DISPLAY_CATEGORIES_ON_SIDEBAR = True
 BOOTSTRAP_NAVBAR_INVERSE = True
+SITELOGO = 'images/logo_name.png'
+SITELOGO_SIZE = '140px'
+HIDE_SITENAME = True
+FAVICON = 'images/logo_e.png'
 
 # Plugins
 PLUGIN_PATHS = ["plugins", "plugins"]
