@@ -5,7 +5,7 @@ from os import environ
 
 AUTHOR = u'Efficient Era'
 SITENAME = u'Efficient Era'
-#SITEURL = 'http://127.0.0.1:8080'
+SITEURL = 'http://127.0.0.1:8080'
 #SITEURL = 'efficientera.com'
 
 # URLS
@@ -36,12 +36,11 @@ DEFAULT_PAGINATION = 5
 DEFAULT_DATE = 'fs'
 
 # Share Buttons (Sharrif)
-SHARIFF = True
-SHARIFF_LANG = 'en'
-SHARIFF_THEME = 'grey'
+# SHARIFF = True
+# SHARIFF_LANG = 'en'
+# SHARIFF_THEME = 'grey'
 # TWITTER_USERNAME = ''
 # SHARIFF_TWITTER_VIA = True
-
 
 # Paths
 PATH = 'content'
@@ -68,6 +67,8 @@ SITELOGO = 'images/logo_name.png'
 SITELOGO_SIZE = '140px'
 HIDE_SITENAME = True
 FAVICON = 'images/logo_e.png'
+
+ADDTHIS_PROFILE = 'ra-53cd839229a71296'
 
 # Plugins
 PLUGIN_PATHS = ["plugins", "plugins"]
