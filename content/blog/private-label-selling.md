@@ -1,4 +1,4 @@
-﻿Title: 5 Reasons Why Private Label Selling Beats Reselling on Amazon
+Title: 5 Reasons Why Private Label Selling Beats Reselling on Amazon
 Author: Bruce O
 Category: Feedback Loop
 Tags: Customer Service, Amazon, Feedback
@@ -8,11 +8,11 @@ As an Amazon seller, what are your biggest headaches on a day-to-day basis?
 
 If you’re a reseller, like most Amazon sellers, your list probably looks something like the following:
 
- - Stressing over the buy box
- - Sourcing products to resell
- - Dealing with thousands of different products (and shipping them too!)
- - Sweating over razor-thin margins
- - Worrying about your sales going to zero in the blink of an eye
+ * Stressing over the buy box
+ * Sourcing products to resell
+ * Dealing with thousands of different products (and shipping them too!)
+ * Sweating over razor-thin margins
+ * Worrying about your sales going to zero in the blink of an eye
 
 After a while, many sellers begin treating these issues as necessary evils that come with doing business on Amazon. At seller meetups, rookies will complain about how awful dealing with the buy box is and how low profits are. Grizzled veterans usually respond with a gruff “Welcome to the club, kid.”
 
