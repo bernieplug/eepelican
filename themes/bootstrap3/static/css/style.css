@@ -1,6 +1,26 @@
+.well-lg h3 {
+    margin-top: 0px;
+}
+
+/* styling for article_info.html */
+.article-info {
+    padding-right: 10px;
+}
+
+.article-info i {
+    padding-right: 3px;
+}
+/* end styling for article_info.html */
+
+/* styling for sidebar.html */
+.well .list-group {
+    margin: 0px;
+}
+
 body {
     padding-top: 70px;
 }
+/* end styling for sidebar.html */
 
 #sidebar .list-group, #sidebar .list-group-item {
     background-color: transparent;

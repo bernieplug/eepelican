@@ -3,19 +3,25 @@
     {% if articles %}
         {% for article in (articles_page.object_list if articles_page else articles) %}
             <article>
-                <h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
                 <div class="panel panel-default">
-                {% if DISPLAY_ARTICLE_INFO_ON_INDEX %}
-
-                    {% include "includes/article_info.html" %}
-                {% endif %}
-                    <div class="summary panel-body">{{ article.summary }}
+                    <div class="panel-heading">
+                        <h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+                    </div>
+                    {% if DISPLAY_ARTICLE_INFO_ON_INDEX %}
+                        {% set SHOW_TAGS = False %}
+                        {% include "includes/article_info.html" %}
+                    {% endif %}
+                    <div class="summary panel-body">
+                        {% if DISPLAY_SUMMARY %}
+                            {{ article.summary }}
+                            <a class="btn btn-primary btn-xs" href="{{ SITEURL }}/{{ article.url }}">more &rightarrow;</a>
+                        {% else %}
+                            {{ article.content }}
+                        {% endif %}
                         {% include 'includes/comment_count.html' %}
-                        <a class="btn btn-primary btn-xs" href="{{ SITEURL }}/{{ article.url }}">more &rightarrow;</a>
                     </div>
                 </div>
             </article>
-            <hr/>
         {% endfor %}
     {% endif %}
 
