@@ -1,6 +1,5 @@
 Title: About
 save_as: about/index.html
-Status: published
 
 ## Why Amazon Sales?
 
