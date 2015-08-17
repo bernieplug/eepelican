@@ -1,3 +1,10 @@
+/* allows buttons to wrap text */
+.btn-wrap {
+    white-space:normal !important;
+    word-wrap: break-word;
+}
+
+/* styling for about page wells */
 .well-lg h3 {
     margin-top: 0px;
 }
