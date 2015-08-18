@@ -1,6 +1,6 @@
 Title: Efficient Era: Help for Online Sellers
 Date: 2015-08-10 8:00
-Category: Mission
+Category: Efficient Era
 Tags: amazon marketplace, ecommerce, marketplace seller, private label
 Slug: efficient-era-amazon-seller-our-mission
 Authors: Bernie Thompson
