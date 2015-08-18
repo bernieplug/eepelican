@@ -6,7 +6,7 @@ Status: published
 
 As you check your Amazon product pages to make sure everything is shipshape, you scroll down to the reviews section of your best selling product.
 
-First, you smile knowingly as you see the glowing reviews that users have marked most helpful. You know [how important product reviews are to your e-commerce brand’s reputation](../Start-Paying-Attention-to-your-Amazon-Product-Reviews.html). Just to be sure, you check on the newest reviews as well.
+First, you smile knowingly as you see the glowing reviews that users have marked most helpful. You know [how important product reviews are to your e-commerce brand’s reputation](Start-Paying-Attention-to-your-Amazon-Product-Reviews.html). Just to be sure, you check on the newest reviews as well.
 
 Oh no.
 

@@ -40,7 +40,7 @@ The easiest way to generate positive reviews is to sell a high quality product. 
 
 The answer is simple: customer service.
 
-As a seller, you must be willing to get in the trenches and [reach out to every customer with a negative review.](../3-Steps-to-Changing-a-Negative-Amazon-Review.html) Every legitimate concern with your product needs to be addressed courteously and rapidly. Otherwise, there’s a danger of other angry buyers voting the review “helpful”--so much so that it can show up on the first page of your product reviews!
+As a seller, you must be willing to get in the trenches and [reach out to every customer with a negative review.](3-Steps-to-Changing-a-Negative-Amazon-Review.html) Every legitimate concern with your product needs to be addressed courteously and rapidly. Otherwise, there’s a danger of other angry buyers voting the review “helpful”--so much so that it can show up on the first page of your product reviews!
 
 With dedication to customer reviews, your brand will build a reputation as a champion for the customers. A negative product review can be edited and changed to a positive review, with a note explaining how helpful customer service was, and how impressed they are with your company. 
 

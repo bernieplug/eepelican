@@ -134,7 +134,7 @@ The sad reality is that if your resale company disappeared tomorrow, not one cus
 
 Branded sales are a whole different ballgame. If you’ve done things right, the sudden disappearance of your company should prompt “sky-is-falling” despair among your niche of loyal customers. Even the cool-headed folk at Amazon HQ will note your disappearance with some dismay.
 
-Amazon product reviews play a large role in developing such a strong reputation. You’ll find [our in-depth post on them](../Start-Paying-Attention-to-your-Amazon-Reviews.html) valuable if you’re a branded seller or are planning on becoming one. 
+Amazon product reviews play a large role in developing such a strong reputation. You’ll find [our in-depth post on them](Start-Paying-Attention-to-your-Amazon-Reviews.html) valuable if you’re a branded seller or are planning on becoming one.
 
 Broadly speaking, private label selling on Amazon means building a long lasting reputation and brand. Every product you sell has your name and logo on it. Every customer interaction you have, good and bad, is associated with your name. Every product review speaks not only to your product, but to your company at large.
 
