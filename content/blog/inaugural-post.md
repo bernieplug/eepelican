@@ -24,7 +24,7 @@ Amazon doesn’t directly provide any of these capabilities. Yet they're essenti
 
 In the end the goal is simple. It's all about creating the feedback loop with your customers and with Amazon. That means knowing immediately when important events happen, and taking action on that information.
 
-Efficient Era is focused on providing the tools to close this feedback loop. It is a comprehensive set of services to make you successful, built by the team that grew one of [the most successful small global businesses on Amazon.](http://www.cnn.com/2014/09/03/business/thanks-to-amazon-tiny-sellers/index.html “CNN article”) We want to share our tools with you.
+Efficient Era is focused on providing the tools to close this feedback loop. It is a comprehensive set of services to make you successful, built by the team that grew one of  [the most successful small global businesses on Amazon.](http://www.cnn.com/2014/09/03/business/thanks-to-amazon-tiny-sellers/index.html "CNN Article") We want to share our tools with you.
 
 Each of our tools is its own microservice. Try one or use them all. Certainly take advantage of our free trial period. 
 
