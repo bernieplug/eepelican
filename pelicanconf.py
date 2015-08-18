@@ -5,7 +5,7 @@ from os import environ
 
 AUTHOR = u'Efficient Era'
 SITENAME = u'Efficient Era'
-#SITEURL = 'http://127.0.0.1:8080'
+SITEURL = 'http://127.0.0.1:8080'
 #SITEURL = 'efficientera.com'
 
 # URLS

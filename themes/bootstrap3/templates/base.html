@@ -53,6 +53,11 @@
     {# Twitter Cards tags #}
     {% include 'includes/twitter_cards.html' %}
 
+    {% if ADDTHIS_PROFILE %}
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53cd839229a71296" async="async"></script>
+    {% endif %}
+
     <!-- Bootstrap -->
     {% if BOOTSTRAP_THEME %}
         <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap.{{ BOOTSTRAP_THEME }}.min.css" type="text/css"/>
