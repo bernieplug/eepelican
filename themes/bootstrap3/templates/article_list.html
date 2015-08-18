@@ -1,10 +1,11 @@
 {% extends "base.html" %}
 {% block content %}
     {% if articles %}
+        <div class="well">
         {% for article in (articles_page.object_list if articles_page else articles) %}
             <article>
-                <div class="panel panel-default">
-                    <div class="panel-heading">
+                <div class="panel panel-info">
+                    <div class="panel-body">
                         <h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
                     </div>
                     {% if DISPLAY_ARTICLE_INFO_ON_INDEX %}
@@ -23,6 +24,7 @@
                 </div>
             </article>
         {% endfor %}
+        </div>
     {% endif %}
 
     {% include 'includes/pagination.html' %}
