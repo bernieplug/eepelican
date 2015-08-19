@@ -1,3 +1,11 @@
+{% if 'tipue_search' in PLUGINS %}
+<section>
+    <span><form class="navbar-search" action="{{ SEARCH_URL | default('/search.html') }}">
+        <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input" required>
+    </form></span>
+</section>
+{% endif %}
+
 {% if DISPLAY_TAGS_ON_SIDEBAR is not defined %}
 {% set DISPLAY_TAGS_ON_SIDEBAR = True %}
 {% endif %}

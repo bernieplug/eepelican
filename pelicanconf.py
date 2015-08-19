@@ -69,12 +69,13 @@ SITELOGO = 'images/logo_name.png'
 SITELOGO_SIZE = '140px'
 HIDE_SITENAME = True
 FAVICON = 'images/logo_e.png'
+BACK_TO_TO = True
 
 ADDTHIS_PROFILE = 'ra-53cd839229a71296'
 
 # Plugins
 PLUGIN_PATHS = ["plugins", "plugins"]
-PLUGINS = ["thumbnailer"]
+PLUGINS = ["thumbnailer", "tipue_search"]
 
 # Thumbnailer
 IMAGE_PATH = 'images'

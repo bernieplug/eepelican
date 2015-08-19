@@ -146,16 +146,16 @@
             {% for title, link in MENUITEMS_RIGHT %}
                 <li><a href="{{ link }}">{{ title }}</a></li>
             {% endfor %}
-            {% if 'tipue_search' in PLUGINS %}
+            <!--{% if 'tipue_search' in PLUGINS %}
               <li><span>
                 <form class="navbar-search" action="{{ SEARCH_URL | default('/search.html') }}">
                   <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input" required>
                 </form></span>
               </li>
-            {% endif %}
+            {% endif %}-->
                 <li><a href="https://app.efficientera.com/login/">Login</a></li>
                 <li>
-                    <form action="https://app.efficientera.com/register/" class="navbar-form">
+                    <form action="https://app.efficientera.com/register/" class="navbar-form navbar-right">
                         <button type="submit" class="btn btn-info">Register</button>
                     </form>
                 </li>
@@ -207,6 +207,10 @@
 
 <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
 <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/respond.min.js"></script>
+
+{% if BACK_TO_TOP %}
+<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/back2top.js"></script>
+{% endif %}
 
 {% if BANNER %}
     <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/bodypadding.js"></script>
