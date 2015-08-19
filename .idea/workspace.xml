@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ca33569-3b9d-469d-9246-0d784efe71be" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/jumbotron.jpg" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\ebay_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\header.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\jet_logo.jpg" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/header.jpg" />
+      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\jumbotron.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/logo_name.png" afterPath="$PROJECT_DIR$/content/images/logo_name.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="efficientera.com.iws" />
@@ -32,10 +31,39 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.911764">
+              <caret line="82" column="14" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.18055555">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.jpg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/images/header.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/output/blog/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.6527777">
-              <caret line="398" column="53" selection-start-line="398" selection-start-column="53" selection-end-line="398" selection-end-column="53" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="400" column="53" selection-start-line="400" selection-start-column="53" selection-end-line="400" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -44,14 +72,14 @@
       <file leaf-file-name="sidebar.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/bootstrap3/templates/includes/sidebar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-21.045872">
+            <state vertical-scroll-proportion="0.0">
               <caret line="111" column="58" selection-start-line="111" selection-start-column="58" selection-end-line="111" selection-end-column="58" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/bootstrap3/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
@@ -123,10 +151,10 @@
         <option value="$PROJECT_DIR$/content/blog/change_negative_review.md" />
         <option value="$PROJECT_DIR$/content/blog/pay-attention-to-reviews.md" />
         <option value="$PROJECT_DIR$/themes/bootstrap3/templates/article_list.html" />
-        <option value="$PROJECT_DIR$/output/index.html" />
         <option value="$PROJECT_DIR$/output/blog/index.html" />
         <option value="$PROJECT_DIR$/themes/bootstrap3/templates/includes/sidebar.html" />
         <option value="$PROJECT_DIR$/themes/bootstrap3/static/css/style.css" />
+        <option value="$PROJECT_DIR$/output/index.html" />
       </list>
     </option>
   </component>
@@ -195,11 +223,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap3" />
+              <option name="myItemId" value="content" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -217,41 +241,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="efficientera.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="efficientera.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="content" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -600,11 +590,17 @@
       <option name="project" value="LOCAL" />
       <updated>1439923116538</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="changed header image and deleted unecessary pictures">
+      <created>1439934047817</created>
+      <option name="number" value="00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1439934047817</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2869" y="-11" width="1942" height="1498" extended-state="6" />
+    <frame x="2869" y="-11" width="1942" height="1498" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19513485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -663,7 +659,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Rebooted site for new Efficient Era marketing site" />
     <MESSAGE value="Removed bootstrap3 submodule&#10;Added static index.html template&#10;Fixed image link on test.md&#10;Tweaked pelicanconf.py" />
     <MESSAGE value="Hide sidebar on non-blog pages&#10;Sidebar now displays recent posts and categories&#10;Added support page&#10;Added variable settings depending on local vs live" />
     <MESSAGE value="Nicer template for pages&#10;Updated nav bar to look better and display items on the right&#10;Display register now button at the bottom of every page&#10;More work on index page" />
@@ -688,7 +683,8 @@
     <MESSAGE value="fixed links in blog posts" />
     <MESSAGE value="fixed links in blog posts (FOR REAL)" />
     <MESSAGE value="reformatted article list" />
-    <option name="LAST_COMMIT_MESSAGE" value="reformatted article list" />
+    <MESSAGE value="changed header image and deleted unecessary pictures" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed header image and deleted unecessary pictures" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -927,13 +923,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/bootstrap3/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6287425">
@@ -1004,33 +993,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="78" column="83" selection-start-line="78" selection-start-column="83" selection-end-line="78" selection-end-column="83" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/bootstrap3/static/css/bootstrap.effera.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3797942">
           <caret line="9" column="34951" selection-start-line="9" selection-start-column="34944" selection-end-line="9" selection-end-column="34951" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/output/blog/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.6527777">
-          <caret line="398" column="53" selection-start-line="398" selection-start-column="53" selection-end-line="398" selection-end-column="53" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="400" column="53" selection-start-line="400" selection-start-column="53" selection-end-line="400" selection-end-column="53" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/bootstrap3/templates/includes/sidebar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.045872">
+        <state vertical-scroll-proportion="0.0">
           <caret line="111" column="58" selection-start-line="111" selection-start-column="58" selection-end-line="111" selection-end-column="58" />
           <folding />
         </state>
@@ -1042,6 +1022,29 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.911764">
+          <caret line="82" column="14" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18055555">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/images/header.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
