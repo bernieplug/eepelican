@@ -10,7 +10,7 @@ What greets you on the other side?
 
 Options. Lots and lots of options.
 
-How do you decide between all of these choices? First, you narrow it down to the topmost results. Between those, there are a number of factors that could lead to a final decision. But the one that influences purchases the most is to product reviews. 
+How do you decide between all of these choices? First, you narrow it down to the topmost results. Between those, there are a number of factors that could lead to a final decision. But the one that influences purchases the most is product reviews. 
 
 What could be more valuable than the experiences of real people who’ve already bought the product you’re looking at? The product with the better reviews will almost always win. It’s what the system was designed for, after all. Because buyers value reviews so heavily, it’s vital that you pay close attention to them. It could mean the difference between a purchase and a pass.
 
