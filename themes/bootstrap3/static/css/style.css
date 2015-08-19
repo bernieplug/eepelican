@@ -1,3 +1,8 @@
+.jumbotron-text {
+    background: rgba(255, 255, 255, .4);
+    padding: 10px 30px 15px 30px;
+}
+
 /* allows buttons to wrap text */
 .btn-wrap {
     white-space:normal !important;

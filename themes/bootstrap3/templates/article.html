@@ -81,10 +81,12 @@
                 </h1>
             </header>
             <div class="entry-content">
-                <div class="panel panel-default">
+                <div class="panel panel-info">
                     {% include "includes/article_info.html" %}
+                    <div class="panel-body">
+                    {{ article.content }}
+                    </div>
                 </div>
-                {{ article.content }}
             </div>
             <!-- /.entry-content -->
             {% include 'includes/related-posts.html' %}
