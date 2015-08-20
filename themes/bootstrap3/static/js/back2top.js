@@ -12,7 +12,7 @@ $(window).scroll(function() {
 });
 
 $('a.back-to-top, a.simple-back-to-top').click(function() {
-	$('body').animate({
+	$('body, html').animate({
 		scrollTop: 0
 	}, 'fast');
 	return false;

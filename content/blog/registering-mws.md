@@ -1,5 +1,5 @@
 Title: Registering your Amazon Account with MWS
-Author: Bruce O
+Author: Bruce O.
 Category: How-to
 Tags: Customer Service, Amazon, Getting Started
 Status: published
