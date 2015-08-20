@@ -1,12 +1,12 @@
 <div class="post-info panel-heading" id="article-info">
     <span class="published article-info">
-        <i class="fa fa-calendar"></i><time datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }}</time>
-    </span>
+        <i class="fa fa-calendar"></i><span class="icon-label"<time datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }}</time>
+    </span></span>
     {% if SHOW_DATE_MODIFIED %}
         {% if article.modified %}
             <span class="modified article-info">
-                <i class="fa fa-calendar"></i><time datetime="{{ article.modified.isoformat() }}"> {{ article.locale_modified }}</time>
-            </span>
+                <i class="fa fa-calendar"></i><span class="icon-label"<time datetime="{{ article.modified.isoformat() }}"> {{ article.locale_modified }}</time>
+            </span></span>
         {% endif %}
     {% endif %}
 
@@ -20,8 +20,8 @@
     {% if SHOW_ARTICLE_AUTHOR %}
         {% if article.author %}
             <span class="article-info">
-                <i class="fa fa-user"></i><a href="{{ SITEURL }}/{{ article.author.url }}"> {{ article.author }}</a>
-            </span>
+                <i class="fa fa-user"></i><span class="icon-label"<a href="{{ SITEURL }}/{{ article.author.url }}"> {{ article.author }}</a>
+            </span></span>
         {% endif %}
     {% endif %}
 

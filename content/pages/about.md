@@ -1,16 +1,17 @@
 Title: About
 save_as: about/index.html
 
-### Why Amazon Sales?
+### <i class="fa fa-rocket fa-lg"></i><span class="icon-label">Our platform</span>
 
 E-commerce is changing retail as we know it. Just a decade ago, “small business owner” and “global seller” were mutually exclusive. With the explosion of e-commerce and especially the Amazon Marketplace, the world is a different place. Small business owners have been placed on equal footing with the previously undefeatable giant corporations.
 
 In fact, small sellers have a lot of advantages over the bigger players in the commercial world. We can respond to market demands, customer needs, and the changing world around us with much more agility. In short, we're much more efficient.
 
 The internet has enabled the opening of this new era of retail. The Efficient Era.
+
 </div>
 <div class="well well-lg">
-### Our background
+### <i class="fa fa-briefcase fa-lg"></i><span class="icon-label">Our background</span>
 
 Our founder recognized this potential in 2009. He transitioned from a background in software engineering to Amazon e-commerce. 
 		
@@ -19,7 +20,7 @@ As the business grew, we realized that we were spending far too much time on men
 As a result, we’ve gone from shipping out of the garage to shipping from warehouses around the world in the span of a few years. Now, we’ve returned to software, realizing that the same time-saving tools that enabled us to grow can help countless other online retailers thrive.
 </div>
 <div class="well well-lg">
-### What we do
+### <i class="fa fa-cogs fa-lg"></i><span class="icon-label">Our work</span>
 
 Numerous talented entrepreneurs are working daily to build respected online retail brands. For many of them, Amazon is their main marketplace. Like any other business, however, selling on Amazon is full of countless time sinks that encroach on sellers’ valuable time. We think these monotonous tasks ought to be left with those meant to carry them out.
 
