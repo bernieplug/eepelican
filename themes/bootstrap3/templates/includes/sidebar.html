@@ -1,8 +1,13 @@
 {% if 'tipue_search' in PLUGINS %}
 <section>
-    <span><form class="navbar-search" action="{{ SEARCH_URL | default('/search.html') }}">
-        <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input" required>
-    </form></span>
+    <form class="" action="{{ SEARCH_URL | default('/search.html') }}">
+        <div class="form-group">
+            <div class="input-group">
+            <div class="input-group-addon"><span class="glyphicon glyphicon glyphicon-search" aria-hidden="true"></span></div>
+                <input type="search" class="form-control" placeholder="Search" name="q" id="tipue_search_input" required>
+            </div>
+        </div>
+    </form>
 </section>
 {% endif %}
 
