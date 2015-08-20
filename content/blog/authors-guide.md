@@ -1,5 +1,5 @@
 Title: The Author's Guide to Utilizing Efficient Era
-Author: Nathalie L
+Author: Nathalie L.
 Category: How-to
 Tags: Customer Service, Amazon, Getting Started
 Status: published
@@ -32,11 +32,17 @@ What do you consider a negative review: anything below five stars, or just the o
 
 Here you’ll be able to select which products to monitor. If you’re like us, this means all of the products!
 
-### Keep track of reviewer
+### Keep track of reviewer - Optional
+
+If you're in charge of your own Amazon listing (i.e. you're selling your books yourself) then you can enable this extra function. Otherwise, don't worry about it, you'll still get the reviews!
 
 If you provide your MWS credentials, this feature will show which buyer posted the review. Otherwise, you’ll just see the reviews, not who posted them. When this feature is enabled, you just check off which Amazon marketplaces you wish to use it in.
 
-All you have to do is hit submit and you’re done!
+### Conclusion
+
+Once you've completed these steps, all you have to do is hit submit and you’re done!
+
+**Note:** It will take up to a day for your reviews to start coming in. Don't be alarmed if you aren't getting emails immediately! 
 
 While you’re at it, feel free to check out the other services we offer. During your free trial period, you can play around and see what else can help your business.
 
