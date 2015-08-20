@@ -12,7 +12,7 @@ Interested? Here’s a few tips to help you get started.
 
 After you make an account, the first thing you’ll want to do is enter your products. There are two ways to do this. If you want to do it manually, click "Products" and follow the instructions. Just remember that for books, the ASIN is the 10 digit ISBN. If you’d rather leave it to us, select “Generate products from Amazon orders” and the software will input your products automatically. This option can be found under account settings.
 
-**Optional Step:** Entering your MWS details under the credentials tab of account settings. *You only need to do this if you're managing your own Amazon listings.* If you are, this will allow us to show you which buyer left the review. Otherwise, you'll still get the reviews, so don't worry. [Check out our post about MWS credentials](https://efficientera.com/blog/2015/08/registering-your-amazon-account-with-mws.html) to make sure they are set up correctly.
+**Optional Step:** Entering your MWS and Seller Central details under the credentials tab of account settings. *You only need to do this if you're managing your own Amazon listings.* If you are, this will allow us to show you which buyer left the review. Otherwise, you'll still get the reviews, so don't worry. [Check out our post about MWS credentials](https://efficientera.com/blog/2015/08/registering-your-amazon-account-with-mws.html) to make sure they are set up correctly.
 
 The last thing on your to-do list is to enable Product Review Notifications under the Feedback Features. Once you’ve done this, you can customize the tool for your needs. I’ll walk you through the fields one by one.
 
@@ -34,7 +34,7 @@ Here you’ll be able to select which products to monitor. If you’re like us, 
 
 ### Keep track of reviewer - Optional
 
-If you provided your MWS credentials (see above), this feature will show which buyer posted the review. Otherwise, you’ll just see the reviews, not who posted them. When this feature is enabled, you just check off which Amazon marketplaces you wish to use it in.
+If you provided your MWS and Seller Central credentials (see above), this feature will show which buyer posted the review. Otherwise, you’ll just see the reviews, not who posted them. When this feature is enabled, you just check off which Amazon marketplaces you wish to use it in.
 
 ### Conclusion
 
