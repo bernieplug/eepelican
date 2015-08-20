@@ -12,9 +12,8 @@ Interested? Here’s a few tips to help you get started.
 
 After you make an account, the first thing you’ll want to do is enter your products. There are two ways to do this. 
 
-If you want to do it manually, click "Products" and follow the instructions. Just remember that for books, the Amazon SKU and the ASIN are both the 10 digit ISBN. 
-
-If you’d rather leave it to us, select “Generate products from Amazon orders” and the software will input your products automatically. This option can be found under account settings.
+* If you want to do it manually, click "Products" and follow the instructions. Just remember that for books, the Amazon SKU and the ASIN are both the 10 digit ISBN.
+* If you’d rather leave it to us, select “Generate products from Amazon orders” and the software will input your products automatically. This option can be found under account settings.
 
 **Optional Step:** Entering your MWS and Seller Central details under the credentials tab of account settings. *You only need to do this if you're managing your own Amazon listings.* If you are, this will allow us to show you which buyer left the review. Otherwise, you'll still get the reviews, so don't worry. [Check out our post about MWS credentials](https://efficientera.com/blog/2015/08/registering-your-amazon-account-with-mws.html) to make sure they are set up correctly.
 
