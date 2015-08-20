@@ -4,7 +4,7 @@ Category: How-to
 Tags: Customer Service, Amazon, Getting Started
 Status: published
 
-Efficient Era accesses your Amazon Seller account by using Marketplace Web Services (MWS). In order to connect the services, here’s what you need to do. 
+Efficient Era accesses your Amazon Seller account by using [Marketplace Web Services](https://sellercentral.amazon.com/gp/mws/registration/register.html?%2AVersion%2A=1&%2Aentries%2A=0&signInPageDisplayed=1 "MWS") (MWS). In order to connect the services, here’s what you need to do. 
 
 In order to allow Efficient Era access, you need to go to Amazon’s site and register for MWS, making sure to select the ‘I want to give a developer access to my Amazon seller account with MWS’ option.
 
@@ -12,8 +12,7 @@ In order to allow Efficient Era access, you need to go to Amazon’s site and re
 * The Developer’s Name is **Efficient Era**. 
 * The Developer Account Number is **3262-1247-7045**. See the image below.
 
-![MWS Step 1](../../../images/registering_amazon_mws_1.jpg "MWS Step 1")
-
+[![MWS Step 1](../../../images/registering_amazon_mws_1.jpg "MWS Step 1")](https://sellercentral.amazon.com/gp/mws/registration/register.html?%2AVersion%2A=1&%2Aentries%2A=0&signInPageDisplayed=1)
 Once you have finished the registration process, you’ll receive the information you need to register your account with Efficient Era, like below.
 
 ![MWS Step 2](../../../images/registering_amazon_mws_2.jpg "MWS Step 2")
