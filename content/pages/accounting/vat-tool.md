@@ -1,5 +1,6 @@
 Title: VAT Tool
 save_as: pages/accounting/vat-tool.html
+image: https://s3-eu-west-1.amazonaws.com/efficientera.com/images/invoice_email.png
 
 Expanding your market overseas is a great step towards growing your business, but the ramifications can be daunting. Selling globally requires a lot of extra steps. One such step: value added tax (VAT).
 
@@ -19,5 +20,3 @@ We hope this helps with your expansion to new markets!
 2. Fill in the correct information as it pertains to the sale.
 3. Click the Submit VAT Invoice Request button.
 4. The customer will receive an email containing a PDF of the VAT invoice.
-
-![VAT Invoice Email](https://s3-us-west-2.amazonaws.com/keywordrankings/django-static/invoice_email.png)

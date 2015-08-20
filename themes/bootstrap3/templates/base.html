@@ -123,6 +123,7 @@
             </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
+            {% if MENUITEMS or DISPLAY_PAGES_ON_MENU or DISPLAY_CATEGORIES_ON_MENU %}
             <ul class="nav navbar-nav">
                 {% for title, link in MENUITEMS %}
                     <li><a href="{{ link }}">{{ title }}</a></li>
@@ -142,6 +143,7 @@
                     {% endfor %}
                 {% endif %}
             </ul>
+            {% endif %}
             <form class="navbar-form navbar-right" action="https://app.efficientera.com/register/">
                 <button type="submit" class="btn btn-info">Register</button>
             </form>

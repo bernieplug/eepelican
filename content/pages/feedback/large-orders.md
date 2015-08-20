@@ -8,3 +8,5 @@ Receiving a large order could mean that your product is being universally adopte
 Whatever the case, a large order is a good sign that you have a very satisfied customer. 
 
 In order to keep you up-to-date on these large orders, Efficient Era has developed a system that automatically sends you an email every time someone places a bulk order. Any order with more than 10 of the same item is the default setting, but this baseline is fully customizable.
+
+![Review Notifications](https://s3-eu-west-1.amazonaws.com/efficientera.com/images/large_order.png)

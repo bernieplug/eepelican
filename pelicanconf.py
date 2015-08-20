@@ -69,7 +69,7 @@ SITELOGO = 'images/logo_name.png'
 SITELOGO_SIZE = '140px'
 HIDE_SITENAME = True
 FAVICON = 'images/logo_e.png'
-BACK_TO_TO = True
+BACK_TO_TOP = True
 
 ADDTHIS_PROFILE = 'ra-53cd839229a71296'
 
@@ -83,3 +83,5 @@ THUMBNAIL_DIR = 'images/thumbnails/'
 THUMBNAIL_SIZES = {'small': '250x?',
                    'medium': '500x?',
                    'large': '800x?'}
+
+DIRECT_TEMPLATES = ['categories', 'index', 'archives', 'authors', 'tags', 'search']

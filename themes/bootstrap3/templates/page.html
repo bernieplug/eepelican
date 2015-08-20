@@ -56,11 +56,28 @@
                 get the pdf
             </a>
         {% endif %}
+        {% if page.image %}
+        <div class="row">
+            <div class="col-md-6">
+                <div class="entry-content well well-lg">
+                    {{ page.content }}
+                </div>
+                {% if page.comments == 'enabled' %}
+                    {% include 'includes/comments.html' %}
+                {% endif %}
+            </div>
+            <div class="col-md-6">
+                <img src="{{ page.image }}" class="img img-responsive">
+            </div>
+
+        </div>
+        {% else %}
         <div class="entry-content well well-lg">
             {{ page.content }}
             {% if page.comments == 'enabled' %}
                 {% include 'includes/comments.html' %}
             {% endif %}
         </div>
+        {% endif %}
     </section>
 {% endblock %}
