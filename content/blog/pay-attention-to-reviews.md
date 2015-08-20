@@ -1,5 +1,5 @@
 Title: Start Paying Attention to your Amazon Reviews
-Author: Bruce O
+Author: Bruce O., Daniel R.
 Category: Feedback Loop
 Tags: Customer Service, Amazon, Feedback
 Status: published

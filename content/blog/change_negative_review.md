@@ -1,5 +1,5 @@
 Title: 3 Steps to Changing a Negative Amazon Review
-Author: Bruce O
+Author: Bruce O., Daniel R.
 Category: Feedback Loop
 Tags: Customer Service, Amazon, Feedback
 Status: published
