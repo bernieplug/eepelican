@@ -37,7 +37,7 @@ When this feature is enabled, you just check off which Amazon marketplaces you w
 
 ### Conclusion
 
-Once you've completed these steps, all you have to do is hit submit and you’re done!
+Once you've completed these steps, all you have to do is hit submit and you’re done. Ready to start? [Sign up today!](https://app.efficientera.com/login/?next=/settings/ "Sign up")
 
 **Note:** It will take up to a day for your reviews to start coming in. Don't be alarmed if you aren't getting emails immediately! 
 
