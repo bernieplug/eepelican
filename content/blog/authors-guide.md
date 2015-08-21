@@ -4,16 +4,11 @@ Category: How-to
 Tags: Customer Service, Amazon, Getting Started
 Status: published
 
-Writing is hard enough. Selling your books on Amazon should be the easy part. Efficient Era has developed a set of tools to make selling simpler.
-
 Efficient Era has many services, so which ones are right for you? Well, to start, the [review notification tool](https://efficientera.com/pages/feedback/review-notifications.html). This feature will alert you any time someone leaves a review for your product. No more checking your listings every day in the hopes of a positive review. Instead, you’ll get an email automatically to let you know.
 
 Interested? Here’s a few tips to help you get started.
 
-After you make an account, the first thing you’ll want to do is enter your products. There are two ways to do this. 
-
-* If you want to do it manually, click "Products" and follow the instructions. Just remember that for books, the Amazon SKU and the ASIN are both the 10 digit ISBN.
-* If you’d rather leave it to us, select “Generate products from Amazon orders” and the software will input your products automatically. This option can be found under account settings.
+After you make an account, the first thing you’ll want to do is enter your products. Click "Products" and follow the instructions. Just remember that for books, the Amazon SKU and the ASIN are both the 10 digit ISBN.
 
 **Optional Step:** Entering your MWS and Seller Central details under the "Credentials" tab of the Account Settings page. *You only need to do this if you're managing your own Amazon listings.* If you are, this will allow us to show you which buyer left the review. Otherwise, you'll still get the reviews, so don't worry. [Check out our post about MWS credentials](https://efficientera.com/blog/2015/08/registering-your-amazon-account-with-mws.html) to make sure they are set up correctly.
 
