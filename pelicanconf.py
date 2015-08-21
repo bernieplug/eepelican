@@ -16,6 +16,8 @@ TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
 
+DIRECT_TEMPLATES = ['categories', 'index', 'archives', 'authors', 'tags', 'search']
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -35,7 +37,8 @@ MENUITEMS_RIGHT = (('Blog', '/blog/'),
 DEFAULT_PAGINATION = 8
 DEFAULT_DATE = 'fs'
 
-# Share Buttons (Sharrif)
+# Share Buttons
+ADDTHIS_PROFILE = 'ra-53cd839229a71296'
 # SHARIFF = True
 # SHARIFF_LANG = 'en'
 # SHARIFF_THEME = 'grey'
@@ -72,8 +75,6 @@ HIDE_SITENAME = True
 FAVICON = 'images/logo_e.png'
 BACK_TO_TOP = True
 
-ADDTHIS_PROFILE = 'ra-53cd839229a71296'
-
 # Plugins
 PLUGIN_PATHS = ["plugins", "plugins"]
 PLUGINS = ["thumbnailer", "tipue_search"]
@@ -84,5 +85,3 @@ THUMBNAIL_DIR = 'images/thumbnails/'
 THUMBNAIL_SIZES = {'small': '250x?',
                    'medium': '500x?',
                    'large': '800x?'}
-
-DIRECT_TEMPLATES = ['categories', 'index', 'archives', 'authors', 'tags', 'search']
