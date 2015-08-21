@@ -1,6 +1,6 @@
 Title: 5 Reasons Why Private Label Selling Beats Reselling on Amazon
 Author: Bruce O., Daniel R.
-Category: Feedback Loop
+Category: Feedback-loop
 Tags: Customer Service, Amazon, Feedback
 Status: published
 
