@@ -9,7 +9,7 @@ Efficient Era has many services, so which ones are right for you? Well, to start
 
 Interested? Here’s a few tips to help you get started.
 
-After you make an account, the first thing you’ll want to do is enter your products. Click "Products" and follow the instructions. Just remember that for books, the Amazon SKU and the ASIN are both the 10 digit ISBN.
+After you make an account, the first thing you’ll want to do is enter your products. Click "Products" and follow the instructions. Just remember that for books, the ASIN is  the 10 digit ISBN.
 
 **Optional Step:** Entering your MWS and Seller Central details under the "Credentials" tab of the Account Settings page. *You only need to do this if you're managing your own Amazon listings.* If you are, this will allow us to show you which buyer left the review. Otherwise, you'll still get the reviews, so don't worry. [Check out our post about MWS credentials](https://efficientera.com/blog/2015/08/registering-your-amazon-account-with-mws.html) to make sure they are set up correctly.
 
@@ -21,7 +21,7 @@ This is the email address that all reviews will be sent to - the good and the ba
 
 ### Negative review notification email
 
-The email provided in this field will receive any reviews below the minimum star threshold. It can be the same as the main email, it can be left blank if you want all reviews, or it can be another address entirely. One tip we have for sellers is to use a customer service software for ticketing in conjunction with this tool. If you choose to do so, then you’ll want to send the negative reviews to a unique email dedicated to addressing customer problems.
+The email provided in this field will receive any reviews below the minimum star threshold. It can be the same as the main email, it can be left blank if you want all reviews, or it can be another address entirely. 
 
 ### Minimum stars
 
@@ -33,7 +33,7 @@ Here you’ll be able to select which products to monitor. If you’re like us, 
 
 ### Keep track of reviewer - Optional
 
-If you provided your MWS and Seller Central credentials (see above), this feature will show which buyer posted the review. Otherwise, you’ll just see the reviews, not who posted them. When this feature is enabled, you just check off which Amazon marketplaces you wish to use it in.
+When this feature is enabled, you just check off which Amazon marketplaces you wish to use it in.
 
 ### Conclusion
 
