@@ -1,6 +1,7 @@
 Title: The Author's Guide to Utilizing Efficient Era
 Author: Nathalie L.
 Category: How-to
+Date: 2015-08-21 8:00
 Tags: Customer Service, Amazon, Getting Started
 Status: published
 
