@@ -4,7 +4,6 @@ Category: Efficient Era
 Tags: amazon marketplace, ecommerce, marketplace seller, private label
 Slug: efficient-era-amazon-seller-our-mission
 Authors: Bernie Thompson
-Summary: We built a successful Amazon businesses, and want to share our tools to improve your success rate
 Status: published
 
 Amazon offers you all the tools you need to sell and ship globally. But with over 200 million products listed on Amazon and over 3 million sellers competing to sell them, it's easy to get lost. The best product in the world will sit unnoticed without an Amazon-specific selling strategy.
