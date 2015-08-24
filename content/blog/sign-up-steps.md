@@ -3,7 +3,7 @@ Author: Nathalie L.
 Category: How-to
 Date: 2015-08-21 8:00
 Tags: Customer Service, Amazon, Getting Started
-Status: published
+Status: draft
 
 Efficient Era has many services, so which ones are right for you? Well, to start, the [review notification tool](https://efficientera.com/pages/feedback/review-notifications.html). This feature will alert you any time someone leaves a review for your product. No more checking your listings every day in the hopes of a positive review. Instead, you’ll get an email automatically to let you know.
 
