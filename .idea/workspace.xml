@@ -1,54 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ca33569-3b9d-469d-9246-0d784efe71be" name="Default" comment="Temporarily renamed categories so site works with pictures over the weekend (I'm not as smart as I thought)">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/category/How-to.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/category/blog.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/category/efficient_era.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/category/feedback_loop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/blog/2015/08/product.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/blog/2015/08/review.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/blog/2015/08/sign_up.png" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\accounting.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\alert.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\amazon_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\amazon_logo2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\automatic.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\category-Company.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\category-Feedback-loop.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\category-blog.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\category-how-to.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\chat.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\chevron-up.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\ebay_logo2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\header.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\invoice_email.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\invoice_request.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\jet_logo2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\keyword.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\large_order.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\math.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\notification.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\optimizing_seo_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\process.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\registering_amazon_mws_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\registering_amazon_mws_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\registering_amazon_mws_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\report.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Plugable\Documents\efficientera.com\content\images\review_notification.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bootstrap3/templates/article_list.html" afterPath="$PROJECT_DIR$/themes/bootstrap3/templates/article_list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/blog/authors-guide.md" afterPath="$PROJECT_DIR$/content/blog/authors-guide.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/blog/change_negative_review.md" afterPath="$PROJECT_DIR$/content/blog/change_negative_review.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/blog/inaugural-post.md" afterPath="$PROJECT_DIR$/content/blog/inaugural-post.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/templates/index.html" afterPath="$PROJECT_DIR$/content/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/pages/feedback/large-orders.md" afterPath="$PROJECT_DIR$/content/pages/feedback/large-orders.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/blog/pay-attention-to-reviews.md" afterPath="$PROJECT_DIR$/content/blog/pay-attention-to-reviews.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/blog/private-label-selling.md" afterPath="$PROJECT_DIR$/content/blog/private-label-selling.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/blog/registering-mws.md" afterPath="$PROJECT_DIR$/content/blog/registering-mws.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/pages/feedback/review-notifications.md" afterPath="$PROJECT_DIR$/content/pages/feedback/review-notifications.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/blog/sign-up-steps.md" afterPath="$PROJECT_DIR$/content/blog/sign-up-steps.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/blog/test.md" afterPath="$PROJECT_DIR$/content/blog/test.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/pages/accounting/vat-tool.md" afterPath="$PROJECT_DIR$/content/pages/accounting/vat-tool.md" />
+    <list default="true" id="3ca33569-3b9d-469d-9246-0d784efe71be" name="Default" comment="restructured content/images into folders, fixed spacing issue in category names, updated author's guide blog post">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/icons/accounting.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/icons/alert.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/home/amazon_logo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/icons/automatic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/icons/chat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/icons/chevron-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/home/ebay_logo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/home/header.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/pages/invoice_email.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/pages/invoice_request.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/home/jet_logo2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/icons/keyword.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/pages/large_order.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/icons/math.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/icons/notification.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/blog/2015/08/optimizing_seo_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/icons/process.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/blog/2015/08/registering_amazon_mws_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/blog/2015/08/registering_amazon_mws_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/blog/2015/08/registering_amazon_mws_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/icons/report.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/pages/review_notification.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="efficientera.com.iws" />
@@ -77,9 +52,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1493429">
-              <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
-              <folding />
+            <state vertical-scroll-proportion="0.6869773">
+              <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -460,7 +437,13 @@
       <option name="project" value="LOCAL" />
       <updated>1440201424094</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="restructured content/images into folders, fixed spacing issue in category names, updated author's guide blog post">
+      <created>1440440283345</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1440440283345</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -469,6 +452,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.168165" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996812" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2601969" sideWeight="0.50887096" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931423" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -479,7 +463,6 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996812" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -514,7 +497,8 @@
     <MESSAGE value="Added bullets to author's guide" />
     <MESSAGE value="Reformatted blog" />
     <MESSAGE value="Temporarily renamed categories so site works with pictures over the weekend (I'm not as smart as I thought)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Temporarily renamed categories so site works with pictures over the weekend (I'm not as smart as I thought)" />
+    <MESSAGE value="restructured content/images into folders, fixed spacing issue in category names, updated author's guide blog post" />
+    <option name="LAST_COMMIT_MESSAGE" value="restructured content/images into folders, fixed spacing issue in category names, updated author's guide blog post" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -867,9 +851,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1493429">
-          <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
-          <folding />
+        <state vertical-scroll-proportion="0.6869773">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
