@@ -1,6 +1,6 @@
 Title: VAT Tool
 save_as: pages/accounting/vat-tool.html
-image: https://s3-eu-west-1.amazonaws.com/efficientera.com/images/invoice_email.png
+image: https://s3-eu-west-1.amazonaws.com/efficientera.com/images/pages/invoice_email.png
 
 Expanding your market overseas is a great step towards growing your business, but the ramifications can be daunting. Selling globally requires a lot of extra steps. One such step: value added tax (VAT).
 

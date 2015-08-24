@@ -1,7 +1,8 @@
 Title: 3 Steps to Changing a Negative Amazon Review
 Author: Bruce O., Daniel R.
-Category: Feedback-loop
+Category: Feedback loop
 Tags: Customer Service, Amazon, Feedback
+Image: feedback_loop.png
 Status: published
 
 As you check your Amazon product pages to make sure everything is shipshape, you scroll down to the reviews section of your best selling product.

@@ -6,10 +6,10 @@
             <article>
                 <div class="panel panel-info">
                     <a href="{{ SITEURL }}/{{ article.url }}">
-                        {% if article.img %}
-                        <img src="{{ article.img }}" class="img">
+                        {% if article.image %}
+                        <img src="{{ SITEURL }}/images/category/{{ article.image }}" class="img img-responsive">
                         {% else %}
-                        <img src="{{ SITEURL }}/images/category-{{ article.category }}.png" class="img img-responsive">
+                        <img src="{{ SITEURL }}/images/category/{{ article.category }}.png" class="img img-responsive">
                         {% endif %}
                     </a>
                     {% if DISPLAY_ARTICLE_INFO_ON_INDEX %}

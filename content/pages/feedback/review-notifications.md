@@ -1,6 +1,6 @@
 Title: Review Notifications
 save_as: pages/feedback/review-notifications.html
-image: https://s3-eu-west-1.amazonaws.com/efficientera.com/images/review_notification.png
+image: https://s3-eu-west-1.amazonaws.com/efficientera.com/images/pages/review_notification.png
 
 One of the things that can most clearly make or break a branded Amazon seller is the customer rating of your products. Nowadays, people don’t buy something without first checking the reviews. Positive reviews are a sure sign you’re doing something right, and they indicate this to other interested buyers. Even more important, however, are the daunting negative reviews.
 

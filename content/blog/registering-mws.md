@@ -12,16 +12,16 @@ In order to allow Efficient Era access, you need to go to Amazon’s site and re
 * The Developer’s Name is **Efficient Era**. 
 * The Developer Account Number is **3262-1247-7045**. See the image below.
 
-[![MWS Step 1](../../../images/registering_amazon_mws_1.jpg "MWS Step 1")](https://sellercentral.amazon.com/gp/mws/registration/register.html?%2AVersion%2A=1&%2Aentries%2A=0&signInPageDisplayed=1)
+[![MWS Step 1](https://s3-eu-west-1.amazonaws.com/efficientera.com/images/blog/2015/08/registering_amazon_mws_1.jpg "MWS Step 1")](https://sellercentral.amazon.com/gp/mws/registration/register.html?%2AVersion%2A=1&%2Aentries%2A=0&signInPageDisplayed=1)
 
 Once you have finished the registration process, you’ll receive the information you need to register your account with Efficient Era, like below.
 
-[![MWS Step 2](../../../images/registering_amazon_mws_2.jpg "MWS Step 2")](https://sellercentral.amazon.com/gp/mws/registration/register.html?%2AVersion%2A=1&%2Aentries%2A=0&signInPageDisplayed=1)
+[![MWS Step 2](https://s3-eu-west-1.amazonaws.com/efficientera.com/images/blog/2015/08/registering_amazon_mws_2.jpg "MWS Step 2")](https://sellercentral.amazon.com/gp/mws/registration/register.html?%2AVersion%2A=1&%2Aentries%2A=0&signInPageDisplayed=1)
 
 * Carefully make note of all the information, including the MWS Auth Token, or print the page.
 
 Navigate to the Efficient Era “Account Settings” page, and under the “Credentials” tab, input the Seller ID (also known as Merchant ID), Marketplace ID, and the MWS Auth Token that you received. See screenshot below.
 
-[![MWS Step 3](../../../images/registering_amazon_mws_3.jpg "MWS Step 3")](https://app.efficientera.com/login/?next=/settings/)
+[![MWS Step 3](https://s3-eu-west-1.amazonaws.com/efficientera.com/images/blog/2015/08/registering_amazon_mws_3.jpg "MWS Step 3")](https://app.efficientera.com/login/?next=/settings/)
 
 * The Seller ID and Marketplace ID should be the same as when you registered the first time - registering again does not affect these in any way.
