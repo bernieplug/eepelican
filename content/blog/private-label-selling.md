@@ -3,6 +3,7 @@ Author: Bruce O., Daniel R.
 Category: Feedback loop
 Tags: Customer Service, Amazon, Feedback
 Image: blog.png
+Summary: Resellers make up the majority of Amazon sellers. But we have a few reasons why we think private label selling may be a better option.
 Status: published
 
 As an Amazon seller, what are your biggest headaches on a day-to-day basis?

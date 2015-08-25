@@ -4,6 +4,7 @@ Date: 2015-08-20 8:00
 Category: Feedback loop
 Tags: Customer Service, Amazon, Feedback
 Image: feedback_loop.png
+Summary: Why should you care about your Amazon reviews? Well, to put it bluntly, because they matter. Read more about how reviews are affecting your business.
 Status: published
 
 Imagine you’re a customer shopping for a hot new product on Amazon. Most of us have been in this situation before. You type your query into the search bar and hit enter.
