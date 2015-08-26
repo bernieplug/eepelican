@@ -72,6 +72,14 @@
     <section id="content">
         <article>
             <header class="page-header">
+                <div class="panel panel-info">
+                    {% if article.image %}
+                    <img src="{{ SITEURL }}/images/category/{{ article.image }}" class="img img-responsive">
+                    {% else %}
+                    <img src="{{ SITEURL }}/images/category/{{ article.category }}.png" class="img img-responsive">
+                    {% endif %}
+                    {% include "includes/article_info.html" %}
+                </div>
                 <h1>
                     <a href="{{ SITEURL }}/{{ article.url }}"
                        rel="bookmark"
@@ -81,12 +89,7 @@
                 </h1>
             </header>
             <div class="entry-content">
-                <div class="panel panel-info">
-                    {% include "includes/article_info.html" %}
-                    <div class="panel-body">
-                    {{ article.content }}
-                    </div>
-                </div>
+                {{ article.content }}
             </div>
             <!-- /.entry-content -->
             {% include 'includes/related-posts.html' %}
