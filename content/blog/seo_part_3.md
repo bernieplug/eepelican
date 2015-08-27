@@ -2,7 +2,7 @@ Title: Part three: Amazon SEO - Sales Potential
 Author: Bruce O.
 Category: SEO
 Tags: Keywords, Amazon, Search
-Summary: Struggling to get your products onto the first page? Our three part series on Amazon SEO will help you understand serach and improve your rank.
+Summary: The final part of our series is all about sales potential. How does Amazon know what will sell, and how can you use that information?
 Status: draft
 
 Your sales potential is very important to Amazon. They want to put the products that will sell the best in the top spot. But how do they measure your sales potential?
@@ -55,5 +55,4 @@ You could write a book about SEO and still not cover everything there is to know
 
 If you missed them, here's [Part 1](https://efficientera.com/blog/2015/08/part-one-amazon-seo-getting-started.html) and [Part 2](https://efficientera.com/blog/2015/09/part-two-amazon-seo-product-listing.html) of this series. 
 
-Have any questions or suggestions? Leave your comments below! We love hearing from our users, readers, and fellow online retailers. 
-
+Have any questions or suggestions? Leave your comments below! We love hearing from our users, readers, and fellow online retailers.
