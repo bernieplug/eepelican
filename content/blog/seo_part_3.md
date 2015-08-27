@@ -11,11 +11,11 @@ For starters, they look at your sales. They consider how much your product is se
 
 Keep reading for some tips in each of these areas, our best piece of advice regarding search rank, and some final thoughts on implementing your Amazon SEO strategy. 
 
-#### Sales
+### Sales
 
 Sales have a very strong correlation with search rank. The more sales you have the higher you will be listed and the higher you are listed, the more sales you will get. It’s a classic case of chicken and egg. However, don’t rely too heavily on sales when explaining changes in search rank. There are a *lot* of factors that could explain increases or decreases in sales, so keep that in mind when using this metric. 
 
-#### Conversion Rate
+### Conversion Rate
 
 Conversion rate is the number of people who buy your product divided by the number of people who view your listing. What matters here is how appealing users find your product page. Having a clear feature list and description, quality images, and generally positive reviews will help. 
 
@@ -25,13 +25,13 @@ The average conversion rate is somewhere around 4% on Amazon, going up to around
 
 If you’re below a 3% conversion rate, you probably need to take a hard look at your product page. The [“Product Listing”](https://efficientera.com/blog/2015/09/part-two-amazon-seo-product-listing.html portion of this series can help you with this. 
 
-#### Product Rating
+### Product Rating
 
 It goes without saying that product rating is a direct indicator of an item’s quality, so it would be a no-brainer for Amazon to include this metric in their algorithm. You’ll rarely see a product with an average rating lower than 4 stars in the first page of results. 
 
 If you’re at or around there, you’re in a good spot. If you’re below that metric, then maybe your listing needs a little TLC. There are a lot of reasons your rating might be suffering, so spend some time reading through your reviews to get to the root of the problem. Regardless of which group you fall into, it always pays to [keep an eye on your product reviews](/Start-Paying-Attention-to-your-Amazon-Product-Reviews.html).
 
-#### Customer Service
+### Customer Service
 
 Along with being a generally good practice, having a strong customer service presence on your Amazon listings can boost your search ranking quite nicely. Amazon’s algorithm measures average rating, questions answered, and negative feedback rate. If you’re willing to make customer service a priority, all of these areas are easy to improve. All it takes is paying a little more attention to your listings! 
 
