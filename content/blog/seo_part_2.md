@@ -3,7 +3,7 @@ Author: Bruce O.
 Category: SEO
 Date: 2015-09-01 8:00
 Tags: Keywords, Amazon, Search
-Summary: Struggling to get your products onto the first page? Our three part series on Amazon SEO will help you understand serach and improve your rank.
+Summary: Part two of our series focuses on enhancing your product listing. Want to know how to make your listing inviting as well as keyword-optimized? Look no further.
 Status: draft
 
 When customers land on your page, the content of your product listing is obviously important to their purchase decision. However, customers aren't the only ones who look at your product listing. Amazon is also looking at it. They use your listing to determine its relevancy to customer searches. Therefore, you have two main goals when writing a product listing. 

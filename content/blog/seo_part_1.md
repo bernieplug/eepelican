@@ -2,7 +2,7 @@ Title: Part one: Amazon SEO - Getting Started
 Author: Bruce O.
 Category: SEO
 Tags: Keywords, Amazon, Search
-Summary: Struggling to get your products onto the first page? Our three part series on Amazon SEO will help you understand serach and improve your rank.
+Summary: Struggling to get your products onto the first page? Our three part series on Amazon SEO will help you understand search and improve your rank.
 Status: published
 
 Amazon seems rather simple. Users search for the item they want, skim the top results, and pick one to buy based on features or prices. Easy, right?
