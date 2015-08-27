@@ -31,6 +31,8 @@ There are an enormous amount of factors that A9 considers, but it all boils down
 
 Amazon's overarching goal is to drive business. Everything from the placement of their links to the color of the background has been tested and chosen to optimize sales. Their search algorithm is no exception.
 
-The different pieces of A9 can be broken into two major categories: product listing and sales potential. Over the next two days we will go into depth about how to optimize your product listing in both of these areas. Stay tuned!
+The different pieces of A9 can be broken into two major categories: product listing and sales potential. Over the next two weeks we will go into depth about how to optimize your product listing in both of these areas. Stay tuned!
 
-Can't wait until tomorrow? Leave your comments below! We love hearing from our users, readers, and fellow online retailers.
+Can't wait until next week? Leave your comments below! We love hearing from our users, readers, and fellow online retailers.
+
+<!--*Update:* [Part two](https://efficientera.com/blog/2015/08/part-two-amazon-seo-product-listing.html) is here! Find out how to create a product listing that is sure to rank highly. -->

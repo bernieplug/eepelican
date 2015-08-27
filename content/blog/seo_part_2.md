@@ -1,9 +1,10 @@
 Title: Part two: Amazon SEO - Product Listing
 Author: Bruce O.
 Category: SEO
+Date: 2015-09-01 8:00
 Tags: Keywords, Amazon, Search
 Summary: Struggling to get your products onto the first page? Our three part series on Amazon SEO will help you understand serach and improve your rank.
-Status: published
+Status: draft
 
 When customers land on your page, the content of your product listing is obviously important to their purchase decision. However, customers aren't the only ones who look at your product listing. Amazon is also looking at it. They use your listing to determine its relevancy to customer searches. Therefore, you have two main goals when writing a product listing. 
 
@@ -81,6 +82,8 @@ If you're already an Amazon vendor, you probably know all about FBA. Amazon does
 
 If you're already using FBA, great. A lot of extra SEO benefits apply to you. If you aren't using it, you likely have your reasons, but bear with me. It could help your SEO efforts out quite a bit.
 
-### Conclusion
+#### Conclusion
+
+If you haven't already, check out [part one](https://efficientera.com/blog/2015/08/part-one-amazon-seo-getting-started.html) of the series to get a sense of how Amazon SEO can help you.
 
 Have any questions or suggestions? Leave your comments below! We love hearing from our users, readers, and fellow online retailers. 
