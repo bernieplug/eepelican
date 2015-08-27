@@ -87,3 +87,5 @@ If you're already using FBA, great. A lot of extra SEO benefits apply to you. If
 If you haven't already, check out [part one](https://efficientera.com/blog/2015/08/part-one-amazon-seo-getting-started.html) of the series to get a sense of how Amazon SEO can help you.
 
 Have any questions or suggestions? Leave your comments below! We love hearing from our users, readers, and fellow online retailers. 
+
+<!--*Update:* [Part 3](https://efficientera.com/blog/2015/09/part-three-amazon-seo-sales-potential.html) is here! Find out how to create a product listing that is sure to rank highly. -->

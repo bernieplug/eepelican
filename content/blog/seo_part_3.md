@@ -1,6 +1,7 @@
 Title: Part three: Amazon SEO - Sales Potential
 Author: Bruce O.
 Category: SEO
+Date: 2015-15-01 8:00
 Tags: Keywords, Amazon, Search
 Summary: Struggling to get your products onto the first page? Our three part series on Amazon SEO will help you understand serach and improve your rank.
 Status: draft
