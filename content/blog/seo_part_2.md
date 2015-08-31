@@ -50,7 +50,7 @@ The title takes up a total of 187 characters and reads like a nonsensical run-on
 
 Moral of the story: don't be afraid to make your title really long (but not too long). People will skim it, your search rankings will go up, and everyone will be happy. 
 
-#### Brand and Manufacturer Number
+### Brand and Manufacturer Number
 
 It's as simple as this: put the brand of your product as the first thing in your title. This serves a dual purpose. It makes you eligible for search filters and it helps bring in customers who are looking for a specific brand.
 
