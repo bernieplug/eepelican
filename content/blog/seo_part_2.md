@@ -26,7 +26,7 @@ You'll need to be very cognizant of what keywords could bring people to your pro
 
 Keep in mind - keywords are hard. Sellers often have an idea about what people *should* search to find their products, but more often than not this is different than what keywords people *are* actually using. 
 
-Finding the right keywords is a process. It involves research, tools and even some trial and error testing. Looking for more tips on picking keywords? Check out our post dedicated to keyword strategy.
+Finding the right keywords is a process. It involves research, tools and even some trial and error testing. Looking for more tips on picking keywords? Check out our post dedicated to keyword strategy (coming soon!).
 
 Your ultimate goal is to cover as much ground as possible without being too general. Thankfully, they can be used throughout your listing: the title, the specifications, the description. Keep reading to learn how!
 
