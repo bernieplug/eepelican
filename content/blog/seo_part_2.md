@@ -1,7 +1,7 @@
 Title: Part two: Amazon SEO - Product Listing
 Author: Bruce O.
 Category: SEO
-Date: 2015-09-01 8:00
+Date: 2015-08-31 8:00
 Tags: Keywords, Amazon, Search
 Summary: Part two of our series focuses on enhancing your product listing. Want to know how to make your listing inviting as well as keyword-optimized? Look no further.
 Status: published

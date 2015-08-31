@@ -1,7 +1,7 @@
 Title: Part three: Amazon SEO - Sales Potential
 Author: Bruce O.
 Category: SEO
-Date: 2015-15-01 8:00
+Date: 2015-09-07 8:00
 Tags: Keywords, Amazon, Search
 Summary: The final part of our series is all about sales potential. How does Amazon know what will sell, and how can you use that information?
 Status: draft

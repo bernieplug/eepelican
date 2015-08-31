@@ -1,6 +1,7 @@
 Title: 5 Reasons You Should Be A Private Label
 Author: Bruce O., Daniel R.
 Category: Feedback loop
+Date: 2015-08-26 8:00
 Tags: Customer Service, Amazon, Feedback
 Image: blog.png
 Summary: Resellers make up the majority of Amazon sellers. But we have a few reasons why we think private label selling may be a better option.

@@ -1,6 +1,7 @@
 Title: Registering your Amazon Account with MWS
 Author: Bruce O.
 Category: How-to
+Date: 2015-08-25 8:00
 Tags: Customer Service, Amazon, Getting Started
 Summary: Efficient Era accesses your Amazon Seller account by using Marketplace Web Services. In order to connect the services, here’s what you need to do.
 Status: published

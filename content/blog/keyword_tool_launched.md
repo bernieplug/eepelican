@@ -1,5 +1,6 @@
 Title: Release of the Keyword Tool
 Category: Efficient Era
+Date: 2015-09-30 8:00
 Tags: Feedback, Amazon, Feature
 Authors: Nathalie L.
 Image: efficient_era.png
