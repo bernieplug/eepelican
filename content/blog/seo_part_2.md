@@ -18,7 +18,7 @@ This includes filling in as much information as possible. The more information a
 
 However, just accurately representing your product isn't enough - you need to make good use of keywords to have the best chance of ranking highly. 
 
-#### Keywords
+### Keywords
 
 Keywords are one of the most powerful SEO tools on Amazon because you have a lot of control over them. However, it's not as easy as plugging in a few keywords that kind of describe your product and calling it good. To truly leverage the power of keywords, you need specificity and strategy in addition to quantity. 
 
@@ -30,7 +30,7 @@ Finding the right keywords is a process. It involves research, tools and even so
 
 Your ultimate goal is to cover as much ground as possible without being too general. Thankfully, they can be used throughout your listing: the title, the specifications, the description. Keep reading to learn how!
 
-#### Title
+### Title
 
 It goes without saying that Amazon considers products' titles to find the most relevant search results. Therefore, it makes a lot of sense to put keywords in your titles, and to put a lot of them. You've seen those excessively long Amazon listing titles with every keyword under the sun crammed into them. Now it's time to make your own!
 
@@ -50,25 +50,25 @@ The title takes up a total of 187 characters and reads like a nonsensical run-on
 
 Moral of the story: don't be afraid to make your title really long (but not too long). People will skim it, your search rankings will go up, and everyone will be happy. 
 
-##### Brand and Manufacturer Number
+#### Brand and Manufacturer Number
 
 It's as simple as this: put the brand of your product as the first thing in your title. This serves a dual purpose. It makes you eligible for search filters and it helps bring in customers who are looking for a specific brand.
 
 Some top listings also have the manufacturer number right after the brand. This especially helps if your product is in a niche where customers use the manufacturer number to search for products. 
 
-#### Feature List
+### Feature List
 
 This is where readability comes in. Your feature list should utilize keywords, while providing a good amount of information. Put all of your features in easy-to-read, concise bullet points. 
 
 This section requires a little more tact than the title, because if you shove lots of keywords into your feature list, customers *will* become confused and your conversion rate will suffer. You have to be a little sneakier with your keywords. Each bullet should describe a single aspect of your product, and it should only contain related keywords. 
 
-#### Description
+### Description
 
 Your description serves as a place to expand upon the concise bullets in your feature list. You have the most control over this section, so use it however you want. Make it readable, make it interesting, add lots of images, and sell your product. 
 
 What you *shouldn't* do with the description is regurgitate all of your keywords from your feature list a second time. On Amazon, *the same keyword appearing multiple times on your page does absolutely nothing.* Once you've listed the keyword once, you're good. All you have to do is make people want to buy your product.
 
-#### Images
+### Images
 
 With very few exceptions, you should always have at least one 1000x1000px (or bigger) image in your product listing. This is the minimum resolution to activate Amazon's zoom feature, and Amazon's search algorithm favors listings with zoom-able images. In some categories, your listing might even be suppressed if you don't have this an image this size. 
 
@@ -76,13 +76,13 @@ When it comes to images, quality is certainly favored over quantity. Many #1 lis
 
 **Remember:** quality over quantity.
 
-#### FBA
+### FBA
 
 If you're already an Amazon vendor, you probably know all about Fulfillment by Amazon, or FBA. Amazon does *not* directly consider fulfillment method in its ranking algorithm. That being said, there are a lot of related factors that Amazon *does* consider. These include order processing speed, reliability of shipping, in-stock rate and many more shipping-related metrics. Implementing FBA will help improve most of these factors.
 
 If you're already using FBA, great. A lot of extra SEO benefits apply to you. If you aren't using it, you likely have your reasons, but bear with me. It could help your SEO efforts out quite a bit.
 
-#### Conclusion
+### Conclusion
 
 If you haven't already, check out [part one](https://efficientera.com/blog/2015/08/part-one-amazon-seo-getting-started.html) of the series to get a sense of how Amazon SEO can help you.
 
