@@ -42,7 +42,7 @@ For starters, Amazon likes titles under 80 characters. They've found that listin
 
 If you're choosing to go over the 80 character limit because you think the extra keywords are worth it, there's an extra, precaution you must take: *Amazon has begun to unlist products with titles longer than 200 characters.* Being unlisted, or "suppressed," as Amazon calls it, is **definitely** not worth the extra keywords. 
 
-As an example of a keyword-stuffed title, take a look at the #1 bestseller and top result for the keyword "charger" on Amazon:
+As an example of a keyword-stuffed title, take a look at the #1 Best Seller and top result for the keyword "charger" on Amazon:
 
 ![Long Title!](https://s3-eu-west-1.amazonaws.com/efficientera.com/images/blog/2015/08/optimizing_seo_1.jpg)
 
