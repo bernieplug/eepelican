@@ -60,7 +60,7 @@ Some top listings also have the manufacturer number right after the brand. This 
 
 This is where readability comes in. Your feature list should utilize keywords, while providing a good amount of information. Put all of your features in easy-to-read, concise bullet points. 
 
-This section requires a little more tact than the title, because if you shove lots of keywords into your feature list, customers *will* become confused and your conversion rate will suffer. You have to be a little sneakier with your keywords. Each bullet should describe a single aspect of your product, using related keywords. 
+This section requires a little more tact than the title, because if you shove lots of keywords into your feature list, customers *will* become confused and your conversion rate will suffer. You have to be a little sneakier with your keywords. Each bullet should describe a single aspect of your product, and it should only contain related keywords. 
 
 #### Description
 
