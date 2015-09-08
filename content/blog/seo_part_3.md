@@ -4,7 +4,7 @@ Category: SEO
 Date: 2015-09-07 8:00
 Tags: Keywords, Amazon, Search
 Summary: The final part of our series is all about sales potential. How does Amazon know what will sell, and how can you use that information?
-Status: draft
+Status: published
 
 Your sales potential is very important to Amazon. They want to put the products that will sell the best in the top spot. But how do they measure your sales potential?
 
