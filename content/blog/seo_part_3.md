@@ -14,17 +14,17 @@ Keep reading for some tips in each of these areas, our best piece of advice rega
 
 ### Sales
 
-Sales have a very strong correlation with search rank. The more sales you have the higher you will be listed and the higher you are listed, the more sales you will get. It’s a classic case of chicken and egg. However, don’t rely too heavily on sales when explaining changes in search rank. There are a *lot* of factors that could explain increases or decreases in sales, so keep that in mind when using this metric. 
+Sales have a very strong correlation with search rank. The more sales you have the higher you will be listed and the higher you are listed, the more sales you will get. It’s a classic case of chicken and egg. However, don’t rely too heavily on sales to measure changes in search rank. There are a *lot* of factors that could explain increases or decreases in sales, so keep that in mind when using this metric. 
 
 ### Conversion Rate
 
 Conversion rate is the number of people who buy your product divided by the number of people who view your listing. What matters here is how appealing users find your product page. Having a clear feature list and description, quality images, and generally positive reviews will help. 
 
-You can calculate your conversion rate by doing some simple math. Just divide your orders by your page views. To find these numbers, log in to SellerCentral and go to “Reports” followed by “Business Reports: Detail Page Sales and Traffic (By ASIN)”. 
+You can calculate your conversion rate by doing some simple math. Just divide your orders by your page views and multiply by 100. To find these numbers, log in to SellerCentral and go to “Reports” followed by “Business Reports: Detail Page Sales and Traffic (By ASIN)”. 
 
 The average conversion rate is somewhere around 4% on Amazon, going up to around 8% on holidays. If you’re at or above that rate, you’re doing well. However, keep in mind that conversion rate can vary based on product category. Do some research into similar products and try to get a sense of what your rate should be.
 
-If you’re below a 3% conversion rate, you probably need to take a hard look at your product page. The [“Product Listing”](https://efficientera.com/blog/2015/09/part-two-amazon-seo-product-listing.html portion of this series can help you with this. 
+If you’re below a 3% conversion rate (or below whatever the average for your category is), you probably need to take a hard look at your product page. The [“Product Listing”](https://efficientera.com/blog/2015/09/part-two-amazon-seo-product-listing.html) portion of this series can help you with this. 
 
 ### Product Rating
 
