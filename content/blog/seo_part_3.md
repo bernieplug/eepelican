@@ -24,13 +24,13 @@ You can calculate your conversion rate by doing some simple math. Just divide yo
 
 The average conversion rate is somewhere around 4% on Amazon, going up to around 8% on holidays. If you’re at or above that rate, you’re doing well. However, keep in mind that conversion rate can vary based on product category. Do some research into similar products and try to get a sense of what your rate should be.
 
-If you’re below a 3% conversion rate (or below whatever the average for your category is), you probably need to take a hard look at your product page. The [“Product Listing”](https://efficientera.com/blog/2015/09/part-two-amazon-seo-product-listing.html) portion of this series can help you with this. 
+If you’re below a 3% conversion rate (or below whatever the average for your category is), you probably need to take a hard look at your product page. The [“Product Listing”](https://efficientera.com/blog/2015/08/part-two-amazon-seo-product-listing.html) portion of this series can help you with this. 
 
 ### Product Rating
 
 It goes without saying that product rating is a direct indicator of an item’s quality, so it would be a no-brainer for Amazon to include this metric in their algorithm. You’ll rarely see a product with an average rating lower than 4 stars in the first page of results. 
 
-If you’re at or around there, you’re in a good spot. If you’re below that metric, then maybe your listing needs a little TLC. There are a lot of reasons your rating might be suffering, so spend some time reading through your reviews to get to the root of the problem. Regardless of which group you fall into, it always pays to [keep an eye on your product reviews](/Start-Paying-Attention-to-your-Amazon-Product-Reviews.html).
+If you’re at or around there, you’re in a good spot. If you’re below that metric, then maybe your listing needs a little TLC. There are a lot of reasons your rating might be suffering, so spend some time reading through your reviews to get to the root of the problem. Regardless of which group you fall into, it always pays to [keep an eye on your product reviews](https://efficientera.com/blog/2015/08/start-paying-attention-to-your-amazon-reviews.html).
 
 ### Customer Service
 
@@ -38,7 +38,7 @@ Along with being a generally good practice, having a strong customer service pre
 
 Plus, there’s always the indirect bonus of attracting customers with your amazing customer service, increasing your conversion rate and, by extension, your ranking position!
 
-To learn more about how to address negative reviews, [go here.](/3-Steps-to-Changing-a-Negative-Product-Review.html)
+To learn more about how to address negative reviews, [go here.](https://efficientera.com/blog/2015/08/3-steps-to-changing-a-negative-amazon-review.html)
 
 ### Conclusion: Monitoring Your Progress
 
@@ -54,6 +54,6 @@ The first few sales are the hardest. Once Amazon recognizes that your product wi
 
 You could write a book about SEO and still not cover everything there is to know. With this series, we tried to provide a general overview of what you can do to get started and clear up some the questions about Amazon’s search algorithm.  
 
-If you missed them, here's [Part 1](https://efficientera.com/blog/2015/08/part-one-amazon-seo-getting-started.html) and [Part 2](https://efficientera.com/blog/2015/09/part-two-amazon-seo-product-listing.html) of this series. 
+If you missed them, here's [Part 1](https://efficientera.com/blog/2015/08/part-one-amazon-seo-getting-started.html) and [Part 2](https://efficientera.com/blog/2015/08/part-two-amazon-seo-product-listing.html) of this series. 
 
 Have any questions or suggestions? Leave your comments below! We love hearing from our users, readers, and fellow online retailers.
