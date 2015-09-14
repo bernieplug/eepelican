@@ -80,7 +80,8 @@ When it comes to images, quality is certainly favored over quantity. Many #1 lis
 
 If you're already an Amazon vendor, you probably know all about Fulfillment by Amazon, or FBA. Amazon does *not* directly consider fulfillment method in its ranking algorithm. That being said, there are a lot of related factors that Amazon *does* consider. These include order processing speed, reliability of shipping, in-stock rate and many more shipping-related metrics. Implementing FBA will help improve most of these factors.
 
-If you're already using FBA, great. A lot of extra SEO benefits apply to you. If you aren't using it, you likely have your reasons, but bear with me. It could help your SEO efforts out quite a bit.
+If you’re already using FBA, great. A lot of extra SEO benefits apply to you. If you aren’t using it, you likely have your reasons, but consider the benefits mentioned above. FBA could help your SEO efforts out quite a bit.
+
 
 ### Conclusion
 
