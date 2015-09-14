@@ -14,7 +14,7 @@ Keep reading for some tips in each of these areas, our best piece of advice rega
 
 ### Sales
 
-Sales have a very strong correlation with search rank. The more sales you have the higher you will be listed and the higher you are listed, the more sales you will get. It’s a classic case of chicken and egg. However, don’t rely too heavily on sales to measure changes in search rank. There are a *lot* of factors that could explain increases or decreases in sales, so keep that in mind when using this metric. 
+Sales have a very strong correlation with search rank. The more sales you, have the higher you will be listed, and the higher you are listed, the more sales you will get. It’s a classic case of chicken and egg. However, don’t rely too heavily on sales to measure changes in search rank. There are a *lot* of factors that could explain increases or decreases in sales, so keep that in mind when using this metric. 
 
 ### Conversion Rate
 
