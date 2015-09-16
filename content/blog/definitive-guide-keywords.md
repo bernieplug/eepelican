@@ -3,7 +3,7 @@ Author: Bruce O.
 Category: SEO
 Date: 2015-09-16 14:00
 Tags: Keywords, Amazon, Search
-Summary: This is a summary
+Summary: Our extensive guide on the most difficult part of Amazon SEO - keywords. Using Search Terms to their full potential, getting new keyword ideas, and more!
 Status: published
 
 Everyone knows that optimizing search terms is an important part in growing your business. However, it’s one thing to know something, and another to be able to *do* it. 
