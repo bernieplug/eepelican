@@ -106,7 +106,7 @@ Keyword research is a great way to expand your initial brainstorm. If you’re l
 
 Now that you and Gustavo have your juicy lists of keywords, it’s time to implement them on your Amazon product page. As I mentioned previously, there are four main places to put your keywords. Let’s go through them one by one, starting with the most obvious one.
 
-##### Search Terms
+**Search Terms**
 
 The first place you’ll want to put keywords is, understandably, the designated spots that Amazon gives you to put keywords. The most important thing about this section: even though each field is for one search “term,” you should **not** put only one word per field. You get 50 characters per field, and you should take advantage of all 50 of those characters.
 
@@ -122,7 +122,7 @@ In case you’re curious about what our good friend Gustavo came up with, here a
 
 ![Gustavo Search Terms.png](/images/blog/2015/09/Gustavo_Search_Terms.png)
 
-##### Title
+**Title**
 
 If you’ve ever stopped to read an Amazon product’s title, you’ll notice most of the time that it’s almost illegible, packed with excessive amounts of buzzwords that cover up what the product actually is. 
 
@@ -140,7 +140,7 @@ Listings for mittens don’t necessarily have the longest titles on Amazon, but 
 
 Note that you don’t necessarily have to fill your title with every keyword under the sun - Amazon likes shorter titles (under 50 characters is their soft recommendation). However, as long as you’re under 200 characters, you’re fine. Again, check out more details in the “Title” section of [our SEO post on the subject](https://efficientera.com/blog/2015/08/part-two-amazon-seo-product-listing.html).
 
-##### Features
+**Features**
 
 The nice, concise bullet points below the pricing are an excellent place to put extra keywords that would look too awkward in the title or simply didn’t fit. Amazon scans your entire product page for keywords, so anything in these bullet points will register.
 
@@ -154,7 +154,7 @@ Gustavo, ever the industrious one, did some research on his competitors to learn
 
 This tough competitor wrote a very detailed Features list, providing a lot of information in a relatively concise manner. They also placed quite a few strategic keywords, such as “hand wash,” “all purpose,”  “waterproof,” and all the materials used. The grammar might need a little work, but hey, nobody’s perfect. Gustavo made a note to spell-check his bullet points.
 
-##### Description
+**Description**
 
 The description is the section that you have the most control over, and it is a perfectly viable place to put some remaining keywords - Amazon scans it as well. However, we must stress again - **you do not need to repeat keywords** anywhere on your product page. 
 
