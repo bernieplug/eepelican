@@ -13,7 +13,7 @@ Most sellers have also had the experience of typing some of these carefully chos
 
 Sound familiar? That's because keywords are hard. 
 
-Choosing keywords is one thing, but finding out if they work is another. So, what are your options to determine the effectiveness of keyword-related changes to your listing? Go online every day, manually search all your keywords, record your position for each one, monitor if the change increased or decreased accordingly, take action. 
+[Choosing keywords](https://efficientera.com/blog/2015/09/the-definitive-guide-to-amazon-keywords.html) is one thing, but finding out if they work is another. So, what are your options to determine the effectiveness of keyword-related changes to your listing? Go online every day, manually search all your keywords, record your position for each one, monitor if the change increased or decreased accordingly, take action. 
 
 Yeah we didn't like the sound of that either. Here's a keyword you'll be excited to hear: automation.
 
@@ -47,4 +47,4 @@ The keyword tool is ready for you to start using today! If you're already a memb
 
 If you're looking for more information, check out our product page or send us an email at [support@efficientera.com](support@efficientera.com).
 
-Have your own way of testing keywords? Comment below and tell us if your keyword strategy! 
+Have your own way of testing keywords? Comment below and tell us if your keyword strategy!
