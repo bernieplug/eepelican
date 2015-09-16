@@ -50,8 +50,6 @@ Gustavo is also reading this article, because he knows Efficient Era’s blog is
 
 ![Gustavo Keyword Brainstorm](/images/blog/2015/09/Gustavo%20Keyword%20Brainstorm.png)
 
-
-
 Note that Gustavo doesn’t just stop at “gloves” and “mittens” or even at “winter gloves” or “warm mittens.” Gustavo thinks about any winter activity that could require warm handwear, any materials or features that customers might want, and any other minute variations or features of his products.
 
 Like Gustavo, try to think of specific circumstances and phrases that surround your product. We use this specificity to capture “**long tail keywords**,” which are an important concept in Amazon as well as SEO in general. 
@@ -74,8 +72,6 @@ These unique searches may only occur once every few days, as opposed to thousand
 
 ![Search Demand Curve Chart](/images/blog/2015/09/search-demand-chart-colors.gif)
 
-
-
 When Gustavo is building his keyword list, he shouldn’t just be thinking about life among the stars, ranking highly for vanity keywords. Neither should you. You and Gustavo should both focus on long tail keywords, the less competitive keywords that will send you higher quality traffic. 
 
 #### Step 2: Build
@@ -95,8 +91,6 @@ In order to access the Display Planner keyword suggestion tool, log into your Go
 If you don’t have a Google Adwords account, you can use [Google Trends](https://www.google.com/trends/). Search any keyword in the search bar at the top, then scroll down to the bottom right corner. You can see “related searches” there and get some good keyword ideas. Do this for multiple varied keywords and see what you can find, like Gustavo did for the keyword “skiing gloves.”
 
 ![Gustavo Related Searches](/images/blog/2015/09/Gustavo%20Related%20Searches.png)
-
-
 
 Keyword research is a great way to expand your initial brainstorm. If you’re lucky, you’ll be able to find some new categories or keyword directions you hadn’t thought of before and expand from there. After doing a bit of research, you should have a fairly substantial list of keyword ideas. 
 
@@ -136,7 +130,7 @@ Listings for mittens don’t necessarily have the longest titles on Amazon, but 
 
 ![Long Title Example](/images/blog/2015/09/Long%20Title%20Example.jpg)
 
-Note that you don’t necessarily have to fill your title with every keyword under the sun - Amazon likes shorter titles (under 50 characters is their soft recommendation). However, as long as you’re under 200 characters, you’re fine. Again, check out more details in the “Title” section of [our SEO post on the subject](https://efficientera.com/blog/2015/08/part-two-amazon-seo-product-listing.html)
+Note that you don’t necessarily have to fill your title with every keyword under the sun - Amazon likes shorter titles (under 50 characters is their soft recommendation). However, as long as you’re under 200 characters, you’re fine. Again, check out more details in the “Title” section of [our SEO post on the subject](https://efficientera.com/blog/2015/08/part-two-amazon-seo-product-listing.html).
 
 ##### Features
 
@@ -149,8 +143,6 @@ Another thing - **you don’t need to repeat keywords.** Unlike on Google, *ther
 Gustavo, ever the industrious one, did some research on his competitors to learn how to optimize his Features section. Here’s what he found.
 
 ![Features List Example](/images/blog/2015/09/Features%20Example.jpg)
-
-
 
 This tough competitor wrote a very detailed Features list, providing a lot of information in a relatively concise manner. They also placed quite a few strategic keywords, such as “hand wash,” “all purpose,”  “waterproof,” and all the materials used. The grammar might need a little work, but hey, nobody’s perfect. Gustavo made a note to spell-check his bullet points.
 
@@ -172,9 +164,7 @@ Here’s the problem - tracking keywords manually, although doable, is impractic
 
 The **Efficient Era Keyword Tool** is nearing the end of development, and we’ll update you as soon as it’s released. It tracks all keywords you choose, as well as automatically generated keywords, gives you your ranking for them, gives you new keyword suggestions, and much more. Once it is released, links and more information can be found in the update below.
 
-<!--- THE PART BELOW SHOULD BE UNCOMMENTED AND THE LINKS SHOULD BE ADDED ONCE THE KEYWORD TOOL IS RELEASED. ALSO, WHEN THE TOOL IS RELEASED, DELETE THIS COMMENT (IF YOU WANT). -->
-
-<!--- *Update*: **The Keyword Tool has been released!** [Read the release post here](KEYWORD RELEASE POST LINK) and [check out the product page here](KEYWORD PRODUCT PAGE LINK). If you haven’t registered for your Efficient Era free trial yet, [sign up now!](https://app.efficientera.com/register/?) -->
+<!-- *Update*: **The Keyword Tool has been released!** [Read the release post here](ADD KEYWORD RELEASE POST LINK) and [check out the product page here](ADD KEYWORD PRODUCT PAGE LINK). If you haven’t registered for your Efficient Era free trial yet, [sign up now!](https://app.efficientera.com/register/?) -->
 
 ### Conclusion: Making Changes
 
