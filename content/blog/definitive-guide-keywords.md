@@ -178,7 +178,4 @@ The **Efficient Era Keyword Tool** is nearing the end of development, and we’l
 
 Once you’re tracking your keyword standings, whether manually or eventually using our Keyword Tool, you have the power to take action and make the changes you need to. This is really the most important part of keyword optimization, because letting your keywords stagnate is the surest way to get left behind.
 
-Feedback loops make the world go ‘round (no pun intended), and keywords should be no stranger to them. By setting up a system of tracking keywords and making edits, you can test keyword changes out out, see what works and what doesn’t, and make the appropriate adjustments. Constantly change - make Mr. Churchill proud. 
-
-
-
+Feedback loops make the world go ‘round (no pun intended), and keywords should be no stranger to them. By setting up a system of tracking keywords and making edits, you can test keyword changes out out, see what works and what doesn’t, and make the appropriate adjustments. Constantly change - make Mr. Churchill proud.
