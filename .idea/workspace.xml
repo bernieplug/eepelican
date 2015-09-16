@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ca33569-3b9d-469d-9246-0d784efe71be" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/2015/09/search-demand-chart-colors.gif" afterPath="" />
+    <list default="true" id="3ca33569-3b9d-469d-9246-0d784efe71be" name="Default" comment="Added">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/content/images/blog/2015/09/Features Example.jpg" afterPath="$PROJECT_DIR$/content/images/blog/2015/09/Features_Example.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/content/images/blog/2015/09/Gustavo Keyword Brainstorm.png" afterPath="$PROJECT_DIR$/content/images/blog/2015/09/Gustavo_Keyword_Brainstorm.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/content/images/blog/2015/09/Gustavo Related Searches.png" afterPath="$PROJECT_DIR$/content/images/blog/2015/09/Gustavo_Related_Searches.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/content/images/blog/2015/09/Gustavo Search Terms.png" afterPath="$PROJECT_DIR$/content/images/blog/2015/09/Gustavo_Search_Terms.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/content/images/blog/2015/09/Long Title Example.jpg" afterPath="$PROJECT_DIR$/content/images/blog/2015/09/Long_Title_Example.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/blog/definitive-guide-keywords.md" afterPath="$PROJECT_DIR$/content/blog/definitive-guide-keywords.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="efficientera.com.iws" />
@@ -28,42 +33,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="seo_part_1.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="seo_part_1.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/blog/seo_part_1.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.5384614">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
           <provider editor-type-id="markdown-preview-editor">
             <state />
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="definitive-guide-keywords.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/blog/definitive-guide-keywords.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38391504">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.5423729">
+              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="markdown-preview-editor">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="seo_part_3.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/blog/seo_part_3.md">
-          <provider editor-type-id="markdown-preview-editor">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
               <folding />
             </state>
           </provider>
+          <provider editor-type-id="markdown-preview-editor">
+            <state />
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="seo_part_2.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/blog/seo_part_2.md">
-          <provider editor-type-id="markdown-preview-editor">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="markdown-preview-editor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -128,6 +146,7 @@
         <option value="$PROJECT_DIR$/content/blog/keyword_tool_launched.md" />
         <option value="$PROJECT_DIR$/content/blog/seo_part_2.md" />
         <option value="$PROJECT_DIR$/content/blog/seo_part_1.md" />
+        <option value="$PROJECT_DIR$/content/blog/definitive-guide-keywords.md" />
       </list>
     </option>
   </component>
@@ -139,9 +158,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="32" />
+    <option name="y" value="-22" />
     <option name="width" value="3840" />
-    <option name="height" value="2128" />
+    <option name="height" value="2182" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -166,7 +185,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -242,6 +261,36 @@
               <option name="myItemId" value="2015" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="09" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="efficientera.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="efficientera.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2015" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -263,7 +312,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -326,6 +375,11 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/content/images/blog/2015/09/Features Example.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/content/images/blog/2015/09/Gustavo Keyword Brainstorm.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/content/images/blog/2015/09/Gustavo Related Searches.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/content/images/blog/2015/09/Gustavo Search Terms.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/content/images/blog/2015/09/Long Title Example.jpg</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -743,20 +797,26 @@
       <option name="project" value="LOCAL" />
       <updated>1441763187546</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Revert bad image commit">
+      <created>1442345255598</created>
+      <option name="number" value="00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1442345255598</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="32" width="3840" height="2128" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="-22" width="3840" height="2182" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1819149" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1837766" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2601969" sideWeight="0.50887096" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931423" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25876728" sideWeight="0.49787235" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25929752" sideWeight="0.49787235" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25635594" sideWeight="0.49112904" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -801,7 +861,8 @@
     <MESSAGE value="Fixed missing dates on posts" />
     <MESSAGE value="Fixed link" />
     <MESSAGE value="Uncommented Part 2 and 3 update lines" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uncommented Part 2 and 3 update lines" />
+    <MESSAGE value="Revert bad image commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert bad image commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -810,13 +871,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/publishconf.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1079,117 +1133,127 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/blog/sign-up-steps.md">
-      <provider editor-type-id="markdown-preview-editor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4188164">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/private-label-selling.md">
       <provider editor-type-id="markdown-preview-editor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/private-label-selling.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27921093">
           <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/change_negative_review.md">
       <provider editor-type-id="markdown-preview-editor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/change_negative_review.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.05235205">
           <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
+      </provider>
+      <provider editor-type-id="markdown-preview-editor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/blog/registering-mws.md">
-      <provider editor-type-id="markdown-preview-editor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.05235205">
           <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/pay-attention-to-reviews.md">
       <provider editor-type-id="markdown-preview-editor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/pay-attention-to-reviews.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.05235205">
           <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/keyword_tool_launched.md">
       <provider editor-type-id="markdown-preview-editor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/keyword_tool_launched.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.034901366">
           <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/inaugural-post.md">
       <provider editor-type-id="markdown-preview-editor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/inaugural-post.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.034901366">
           <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/seo_part_3.md">
       <provider editor-type-id="markdown-preview-editor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/seo_part_3.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/seo_part_2.md">
       <provider editor-type-id="markdown-preview-editor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/seo_part_2.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/_template.md">
       <provider editor-type-id="markdown-preview-editor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/_template.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5060698">
           <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/seo_part_1.md">
       <provider editor-type-id="markdown-preview-editor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/seo_part_1.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38391504">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state vertical-scroll-proportion="-3.5384614">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="17" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="markdown-preview-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/definitive-guide-keywords.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.5423729">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="markdown-preview-editor">
+        <state />
       </provider>
     </entry>
   </component>

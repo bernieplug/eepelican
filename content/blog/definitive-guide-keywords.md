@@ -1,3 +1,11 @@
+Title: The Definitive Guide to Amazon Keywords
+Author: Bruce O.
+Category: SEO
+Date: 2015-09-16 14:00
+Tags: Keywords, Amazon, Search
+Summary: 
+Status: draft
+
 Everyone knows that optimizing search terms is an important part in growing your business. However, it’s one thing to know something, and another to be able to *do* it. 
 
 How much of a priority is this? What counts as a keyword in the first place? Where do I put keywords? How do I know which keywords to use? 
@@ -48,7 +56,7 @@ For the purpose of this article, we’ll invent an imaginary Amazon seller. His 
 
 Gustavo is also reading this article, because he knows Efficient Era’s blog is the most reliable place for Amazon selling advice on the internet. He begins the first step. 
 
-![Gustavo Keyword Brainstorm](/images/blog/2015/09/Gustavo%20Keyword%20Brainstorm.png)
+![Gustavo Keyword Brainstorm](/images/blog/2015/09/Gustavo_Keyword_Brainstorm.png)
 
 Note that Gustavo doesn’t just stop at “gloves” and “mittens” or even at “winter gloves” or “warm mittens.” Gustavo thinks about any winter activity that could require warm handwear, any materials or features that customers might want, and any other minute variations or features of his products.
 
@@ -90,7 +98,7 @@ In order to access the Display Planner keyword suggestion tool, log into your Go
 
 If you don’t have a Google Adwords account, you can use [Google Trends](https://www.google.com/trends/). Search any keyword in the search bar at the top, then scroll down to the bottom right corner. You can see “related searches” there and get some good keyword ideas. Do this for multiple varied keywords and see what you can find, like Gustavo did for the keyword “skiing gloves.”
 
-![Gustavo Related Searches](/images/blog/2015/09/Gustavo%20Related%20Searches.png)
+![Gustavo Related Searches](/images/blog/2015/09/Gustavo_Related_Searches.png)
 
 Keyword research is a great way to expand your initial brainstorm. If you’re lucky, you’ll be able to find some new categories or keyword directions you hadn’t thought of before and expand from there. After doing a bit of research, you should have a fairly substantial list of keyword ideas. 
 
@@ -112,7 +120,7 @@ To briefly summarize Moz’s guidelines:
 
 In case you’re curious about what our good friend Gustavo came up with, here are his search terms.
 
-![Gustavo Search Terms.png](/images/blog/2015/09/Gustavo%20Search%20Terms.png)
+![Gustavo Search Terms.png](/images/blog/2015/09/Gustavo_Search_Terms.png)
 
 ##### Title
 
@@ -128,7 +136,7 @@ We’ve addressed this subject in [part two of our series on Amazon SEO](https:/
 
 Listings for mittens don’t necessarily have the longest titles on Amazon, but Gustavo was browsing our SEO article linked above and thought he’d copy over this picture as an example of a keyword-stuffed, 182-character title for a portable charger. 
 
-![Long Title Example](/images/blog/2015/09/Long%20Title%20Example.jpg)
+![Long Title Example](/images/blog/2015/09/Long_Title_Example.jpg)
 
 Note that you don’t necessarily have to fill your title with every keyword under the sun - Amazon likes shorter titles (under 50 characters is their soft recommendation). However, as long as you’re under 200 characters, you’re fine. Again, check out more details in the “Title” section of [our SEO post on the subject](https://efficientera.com/blog/2015/08/part-two-amazon-seo-product-listing.html).
 
@@ -142,7 +150,7 @@ Another thing - **you don’t need to repeat keywords.** Unlike on Google, *ther
 
 Gustavo, ever the industrious one, did some research on his competitors to learn how to optimize his Features section. Here’s what he found.
 
-![Features List Example](/images/blog/2015/09/Features%20Example.jpg)
+![Features List Example](/images/blog/2015/09/Features_Example.jpg)
 
 This tough competitor wrote a very detailed Features list, providing a lot of information in a relatively concise manner. They also placed quite a few strategic keywords, such as “hand wash,” “all purpose,”  “waterproof,” and all the materials used. The grammar might need a little work, but hey, nobody’s perfect. Gustavo made a note to spell-check his bullet points.
 
