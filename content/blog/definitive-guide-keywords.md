@@ -12,7 +12,7 @@ Let’s start with a definition.
 
 The term “keyword” is something of a misnomer - don’t think that a key*word* has to be *only* one word. A “keyword” is really **a phrase that a user inputs into a search engine**. “Pants” is technically a keyword, but “cheapest size 34 faded jeans” is also just one keyword.
 
-Also, please note that although keyword optimization on Google and Amazon is similar, this post will center around optimizing your Amazon keywords. If you need advice on Google SEO, there are an enormous amount of other resources on the internet, such as [Moz](https://moz.com/beginners-guide-to-seo/keyword-research) and [Google AdWords](https://support.google.com/adwords/answer/2453981?hl=en).
+Also, please note that although keyword optimization on Google and Amazon is similar, this post will center around optimizing your Amazon keywords. If you need advice on Google SEO, there are many other resources available, such as [Moz](https://moz.com/beginners-guide-to-seo/keyword-research) and [Google AdWords](https://support.google.com/adwords/answer/2453981?hl=en).
 
 ### Why do keywords matter?
 
@@ -68,7 +68,7 @@ On the other hand, think about a customer who searched for “*grey size M water
 
 Those longer, 3+ word phrases are exactly what you’re looking to optimize for. They’re the “long tail” keywords. These keywords are significantly less competitive, making it easier to rank higher for them. They’re also much more likely to convert into sales, since they indicate a desire for a specific product. 
 
-These unique searches may only occur once every few days, as opposed to thousands of daily searches for “fat head” keywords (as those one-word keywords are also called). However, when summed up, long tail searches make up the majority of total search volume - around 70%. You can see this in the graph below, courtesy of [moz.com](https://moz.com/). In addition, since long tail keywords have a notably better conversion rate despite their rarity, the math works out in your favor for making sales. 
+These unique searches may only occur once every few days, as opposed to thousands of daily searches for “fat head” keywords (as those one-word vanity keywords are also called). However, when summed up, long tail searches make up the majority of total search volume - around 70%. You can see this in the graph below, courtesy of [moz.com](https://moz.com/). In addition, since long tail keywords have a notably better conversion rate despite their rarity, the math works out in your favor for making sales. 
 
 ![Search Demand Curve Chart](/images/blog/2015/09/search-demand-chart-colors.gif)
 
@@ -96,11 +96,11 @@ Keyword research is a great way to expand your initial brainstorm. If you’re l
 
 #### Step 3: Implement
 
-Now that you and Gustavo have your juicy lists of keywords, it’s time to implement them on your Amazon product page. As I mentioned previously, there are four main places to put your keywords. Let’s go through them one by one, starting with the most evident one.
+Now that you and Gustavo have your juicy lists of keywords, it’s time to implement them on your Amazon product page. As I mentioned previously, there are four main places to put your keywords. Let’s go through them one by one, starting with the most obvious one.
 
 ##### Search Terms
 
-The first place you’ll want to put keywords is, understandably, the designated spots that Amazon gives you to put keywords. The most important thing about this section: even though each field is for one search “term,” you should **not** put only one word per field. You get 50 characters per field, and you should push that limit to the absolute maximum. 
+The first place you’ll want to put keywords is, understandably, the designated spots that Amazon gives you to put keywords. The most important thing about this section: even though each field is for one search “term,” you should **not** put only one word per field. You get 50 characters per field, and you should take advantage of all 50 of those characters.
 
 The very knowledgeable people over at Moz.com have written a fantastic mini-guide on using these search term fields, so I recommend that you go [check that part of this excellent article out](https://moz.com/blog/amazon-seo-organic-search-ranking-factors#factors). Note that you will have to scroll down a little bit; the section in question is titled “Search terms.”
 
@@ -156,13 +156,13 @@ If you’ve already taken care of most of your keywords in the features list and
 
 Gustavo’s feeling pretty good about his keywords now. You might be too - after all, your advice came from us. In all seriousness, though, the work doesn’t stop there. At the risk of sounding dramatic, it’s only just begun. 
 
-To shoehorn in a cliché Winston Churchill quote, “to improve is to change; to be perfect is to change often.” You can’t be certain that your initial swing at keyword optimization will bring back the results you want, simply because keywords are hard and people use unexpected search terms. You’ll have to change at some point.
+To shoehorn in a cliché Winston Churchill quote, “to improve is to change; to be perfect is to change often.” You can’t be certain that your initial swing at keyword optimization will bring back the results you want, simply because keywords are hard and people often use unexpected search terms. You’ll have to change at some point.
 
 The next step, then, is to track the results that your keywords have gotten you. This is difficult to do manually, but fortunately, we have a better solution coming soon… For now, pick a few keywords you’d like to test out, search them, and find where your product ranks. You might have to go through a few pages, but don’t get disheartened! More than anything, it takes time to place well. Keywords aren’t a magic ranking cure-all.
 
 Here’s the problem - tracking keywords manually, although doable, is impractical and difficult, since Amazon doesn’t provide any built-in systems for keyword tracking. Thankfully, Efficient Era has developed a solution for this exact problem. 
 
-The **Efficient Era Keyword Tool** is nearing the end of development, and we’ll update you as soon as it’s released. It tracks all keywords you choose, as well as automatically generated keywords, gives you your ranking for them, gives you new keyword suggestions, and much more. Once it is released, links and more information can be found in the update below.
+The **Efficient Era Keyword Tool** is nearing the end of development, and we’ll update you as soon as it’s released. It tracks all keywords you choose, as well as automatically generated keywords, gives you your ranking for them, gives you new keyword suggestions, and much more. Once it is released, links and more information will be posted in an update below.
 
 <!-- *Update*: **The Keyword Tool has been released!** [Read the release post here](ADD KEYWORD RELEASE POST LINK) and [check out the product page here](ADD KEYWORD PRODUCT PAGE LINK). If you haven’t registered for your Efficient Era free trial yet, [sign up now!](https://app.efficientera.com/register/?) -->
 
