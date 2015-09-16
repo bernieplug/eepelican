@@ -44,7 +44,7 @@ If you're choosing to go over the 80 character limit because you think the extra
 
 As an example of a keyword-stuffed title, take a look at the #1 Best Seller and top result for the keyword "charger" on Amazon:
 
-![Long Title!](https://s3-eu-west-1.amazonaws.com/efficientera.com/images/blog/2015/08/optimizing_seo_1.jpg)
+![Long Title!](/images/blog/2015/08/optimizing_seo_1.jpg)
 
 The title takes up a total of 187 characters and reads like a nonsensical run-on sentence. Their ranking certainly shows that having a long, incomprehensible title doesn't detract from sales as long as it's full of strong keywords. 
 

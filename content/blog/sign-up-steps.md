@@ -10,8 +10,8 @@ Efficient Era has many services, so which ones are right for you? Well, to start
 
 Interested? Here’s a few tips to help you get started.
 
-1. Go to the [sign up page](https://app.efficientera.com/register/?) and create an account. If you have any trouble with this process, send us an email at [support@efficientera.com](mailto:support@efficientera.com). <br>![Sign up](https://s3-eu-west-1.amazonaws.com/efficientera.com/images/blog/2015/08/sign_up.png)
-2. Once you're logged in, the first thing you’ll want to do is enter your products. Under "Account Settings" click "Products" and follow the instructions. Just remember that for books, the ASIN is  the 10 digit ISBN.<br>![Sign up](https://s3-eu-west-1.amazonaws.com/efficientera.com/images/blog/2015/08/product.png)
+1. Go to the [sign up page](https://app.efficientera.com/register/?) and create an account. If you have any trouble with this process, send us an email at [support@efficientera.com](mailto:support@efficientera.com). <br>![Sign up](/images/blog/2015/08/sign_up.png)
+2. Once you're logged in, the first thing you’ll want to do is enter your products. Under "Account Settings" click "Products" and follow the instructions. Just remember that for books, the ASIN is  the 10 digit ISBN.<br>![Sign up](/images/blog/2015/08/product.png)
 3. Go back to Services & Settings and click "Product Review Notifications." On this page you should enable the service.
 4. After the service is enabled, you can customize the tool for your needs. I’ll walk you through the fields one by one.
 	* **Review notification email:** Enter the email address that you want to recieve all reviews at.
@@ -20,7 +20,7 @@ Interested? Here’s a few tips to help you get started.
 	* **Tracked products:** Check off which products you would like to monitor.
 	* **Keep track of reviewer:** Skip this field. It doesn't apply to most authors. If you're managing your own listing and want to know more, send us an [email](mailto:support@efficientera.com).
 
-![Sign up](https://s3-eu-west-1.amazonaws.com/efficientera.com/images/blog/2015/08/review.png)
+![Sign up](/images/blog/2015/08/review.png)
 5. Once you've completed these steps, all you have to do is hit submit and you’re done.
 
 Ready to start? [Sign up today!](https://app.efficientera.com/register/? "Sign up")
