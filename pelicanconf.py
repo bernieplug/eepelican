@@ -18,6 +18,8 @@ DEFAULT_LANG = u'en'
 
 DIRECT_TEMPLATES = ['categories', 'index', 'archives', 'authors', 'tags', 'search']
 
+GOOGLE_ANALYTICS = 'UA-73097851-1'
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -52,7 +54,8 @@ ARTICLE_PATHS = ['blog']
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{slug}.html'
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{slug}.html'
 INDEX_SAVE_AS = 'blog/index.html'
-TEMPLATE_PAGES = {'templates/index.html': 'index.html'}
+TEMPLATE_PAGES = {'templates/index.html': 'index.html',
+                  'templates/google96a16df7dbeb77e9.html': 'google96a16df7dbeb77e9.html'}
 
 # Theme
 THEME = "themes/bootstrap3"
