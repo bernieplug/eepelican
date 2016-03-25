@@ -5,4 +5,4 @@ We are committed to providing a better customer experience, which means we do no
 
 To submit a support ticket email us at [support@efficientera.com](mailto:support@efficientera.com).
 
-We are a Bellevue, WA based company operating on Pacific Standard Time (GMT-8), and aim to offer quick replies during business hours Monday-Friday. On weekends and holidays we do our best to respond to all requests within 24 hours.
+We are a Redmond, WA based company operating on Pacific Standard Time (GMT-8) and aim to offer quick replies during business hours Monday - Friday.  On weekends and holidays, we do our best to respond to all requests within 24 hours. 
