@@ -1,4 +1,4 @@
 *.pyc
 output/
 cache/
-.idea/workspace.xml
+.idea/*

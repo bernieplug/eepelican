@@ -2,6 +2,8 @@ Title: On Building a Space Elevator to the Moon
 Date: 2025-07-30 04:20PM
 Author: Jack Wayland
 Category: Space Exploration
+Image: space.png
+Summary: A discussion on SPACE!
 Tags: Space, Space Elevator, Moon Base
 Status: draft
 
