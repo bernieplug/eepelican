@@ -13,9 +13,9 @@ Each one may take several back and forth emails or calls to solve.  And while th
 
 Our clients had the same problem. Around 8% of orders in Europe were triggering customer service tickets for VAT invoices, adding up to 30 or more hours per month and wiping out a significant percentage of the company’s net profit in Europe for low-cost single-unit orders (the most common type).
 
-So we created a web tool for customers to request VAT invoices directly without having to contact customer service. It gathers the needed data for the invoice from the customer and from Amazon, generates the VAT invoice PDF they need, and automatically mails it to the customer within seconds. We enable sending a link to this tool as part of an email sent automatically which each order ships.
+So we created a web tool for customers to request VAT invoices directly without having to contact customer service. It gathers the needed data for the invoice from the customer and from Amazon, generates the VAT invoice PDF they need, and automatically mails it to the customer within seconds. We enable sending a link to this tool as part of an email sent automatically when each order ships.
 
-Customers are happy they get their invoice right away, without having to plead with a support team for a response.  We’ve gotten rid of a per-order cost,  allowing sellers to scale European sales more effectively.
+Customers are happy to get their invoice right away, without having to plead with a support team for a response.  We’ve gotten rid of a per-order cost,  allowing sellers to scale European sales more effectively.
 
 We’re excited to be able to make this same tool available to you.  The customer facing side is visible at:
 [http://vat.efficientera.com/](http://vat.efficientera.com/)
