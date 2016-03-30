@@ -1,6 +1,6 @@
 Title: Automating your VAT Invoices for Amazon EU
 Date: 2016-03-28 04:30PM
-Author: Bernie Thompson
+Author: Bernie T.
 Category: Efficient Era
 Image: tax.png
 Summary: Still spending hours creating VAT invoices by hand? Look no further, we can help.
