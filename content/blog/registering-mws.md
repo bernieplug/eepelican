@@ -28,7 +28,5 @@ Navigate to the Efficient Era “Account Settings” page, and under the “Cred
 
 * The Seller ID and Marketplace ID should be the same as when you registered the first time - registering again does not affect these in any way.
 
-
-
-To allow Efficient Era access for Europe, you need to go to [Amazon.co.uk](https://sellercentral.amazon.com/gp/mws/registration/register.html?%2AVersion%2A=1&%2Aentries%2A=0&signInPageDisplayed=1 "MWS") and follow the same instructions as above, but use the following Develeoper Account Number:
+To allow Efficient Era access for Amazon Europe, you need to go to [Amazon.co.uk](https://sellercentral.amazon.com/gp/mws/registration/register.html?%2AVersion%2A=1&%2Aentries%2A=0&signInPageDisplayed=1 "MWS") and follow the same instructions as above, but use the following Develeoper Account Number:
 * The Developer Account Number is **0585-4477-0074**. See the image below.
