@@ -12,7 +12,7 @@ In order to allow Efficient Era access, you need to go to Amazon’s site and re
 
 * Registering a second time under this new setting will not change any existing credentials if you’ve already registered for MWS. 
 * The Developer’s Name is **Efficient Era**. 
-* The Developer Account Number is **3262-1247-7045**. See the image below.
+* The Developer Account Number is **2546-9853-2013**. See the image below.
 
 [![MWS Step 1](/images/blog/2015/08/registering_amazon_mws_1.jpg "MWS Step 1")](https://sellercentral.amazon.com/gp/mws/registration/register.html?%2AVersion%2A=1&%2Aentries%2A=0&signInPageDisplayed=1)
 
