@@ -63,11 +63,12 @@ def reserve():
     serve()
 
 
-def preview():
+def publish():
     """Build production version of site"""
+    clean()
     local('pelican -s publishconf.py')
 
 
 def s3_upload():
-    rebuild()
+    publish()
     local('python C:\Python27\Scripts\s3cmd.py sync output/ --acl-public --delete-removed --guess-mime-type s3://%s/' % S3BUCKET)
