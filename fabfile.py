@@ -15,18 +15,11 @@ DEPLOY_PATH = env.deploy_path
 production = 'root@localhost:22'
 dest_path = '/var/www'
 
-# Rackspace Cloud Files configuration settings
-env.cloudfiles_username = 'my_rackspace_username'
-env.cloudfiles_api_key = 'my_rackspace_api_key'
-env.cloudfiles_container = 'my_cloudfiles_container'
-
-# Github Pages configuration
-env.github_pages_branch = "gh-pages"
-
 # Port for `serve`
 PORT = 8000
 
 S3BUCKET = 'efficientera.com'
+
 
 def clean():
     """Remove generated files"""
@@ -34,18 +27,22 @@ def clean():
         shutil.rmtree(DEPLOY_PATH)
         os.makedirs(DEPLOY_PATH)
 
+
 def build():
     """Build local version of site"""
     local('pelican -s pelicanconf.py')
+
 
 def rebuild():
     """`clean` then `build`"""
     clean()
     build()
 
+
 def regenerate():
     """Automatically regenerate site upon file modification"""
     local('pelican -r -s pelicanconf.py')
+
 
 def serve():
     """Serve site at http://localhost:8000/"""
@@ -59,42 +56,18 @@ def serve():
     sys.stderr.write('Serving on port {0} ...\n'.format(PORT))
     server.serve_forever()
 
+
 def reserve():
     """`build`, then `serve`"""
     build()
     serve()
 
+
 def preview():
     """Build production version of site"""
     local('pelican -s publishconf.py')
 
-def cf_upload():
-    """Publish to Rackspace Cloud Files"""
-    rebuild()
-    with lcd(DEPLOY_PATH):
-        local('swift -v -A https://auth.api.rackspacecloud.com/v1.0 '
-              '-U {cloudfiles_username} '
-              '-K {cloudfiles_api_key} '
-              'upload -c {cloudfiles_container} .'.format(**env))
-
-@hosts(production)
-def publish():
-    """Publish to production via rsync"""
-    local('pelican -s publishconf.py')
-    project.rsync_project(
-        remote_dir=dest_path,
-        exclude=".DS_Store",
-        local_dir=DEPLOY_PATH.rstrip('/') + '/',
-        delete=True,
-        extra_opts='-c',
-    )
-
-def gh_pages():
-    """Publish to GitHub Pages"""
-    rebuild()
-    local("ghp-import -b {github_pages_branch} {deploy_path}".format(**env))
-    local("git push origin {github_pages_branch}".format(**env))
 
 def s3_upload():
-    build()
-    local('python C:\Python27\Scripts\s3cmd.py sync output/ --acl-public --guess-mime-type s3://%s/' % S3BUCKET)
+    rebuild()
+    local('python C:\Python27\Scripts\s3cmd.py sync output/ --acl-public --delete-removed --guess-mime-type s3://%s/' % S3BUCKET)
