@@ -26,6 +26,8 @@ env.github_pages_branch = "gh-pages"
 # Port for `serve`
 PORT = 8000
 
+S3BUCKET = 'efficientera.com'
+
 def clean():
     """Remove generated files"""
     if os.path.isdir(DEPLOY_PATH):
@@ -92,3 +94,7 @@ def gh_pages():
     rebuild()
     local("ghp-import -b {github_pages_branch} {deploy_path}".format(**env))
     local("git push origin {github_pages_branch}".format(**env))
+
+def s3_upload():
+    build()
+    local('python C:\Python27\Scripts\s3cmd.py sync output/ --acl-public --guess-mime-type s3://%s/' % S3BUCKET)
