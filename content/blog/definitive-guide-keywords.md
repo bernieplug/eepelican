@@ -2,6 +2,7 @@ Title: The Definitive Guide to Amazon Keywords
 Author: Bruce O.
 Category: SEO
 Date: 2015-09-16 14:00
+Image: keywords.jpg
 Tags: Keywords, Amazon, Search
 Summary: Our extensive guide on the most difficult part of Amazon SEO - keywords. Using Search Terms to their full potential, getting new keyword ideas, and more!
 Status: published

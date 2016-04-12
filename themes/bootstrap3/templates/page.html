@@ -59,7 +59,7 @@
         {% if page.image %}
         <div class="row">
             <div class="col-md-6">
-                <div class="entry-content well well-lg">
+                <div class="entry-content {% if not page.no_well %}well well-lg{% endif %}">
                     {{ page.content }}
                 </div>
                 {% if page.comments == 'enabled' %}
@@ -72,7 +72,7 @@
 
         </div>
         {% else %}
-        <div class="entry-content well well-lg">
+        <div class="entry-content {% if not page.no_well %}well well-lg{% endif %}">
             {{ page.content }}
             {% if page.comments == 'enabled' %}
                 {% include 'includes/comments.html' %}
