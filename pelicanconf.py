@@ -32,8 +32,9 @@ AUTHOR_FEED_RSS = None
 
 # Menu
 MENUITEMS_RIGHT = (('Blog', '/blog/'),
-                   ('Support', '/support/'),
-                   ('About', '/about/'))
+                   ('About', '/about/'),
+                   # ('Pricing', '/pricing/'),
+                   ('Support', '/support/'))
 
 # Post Settings
 DEFAULT_PAGINATION = 8
