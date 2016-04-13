@@ -278,6 +278,26 @@ figure.floatcenter, .align-center {
     }
 }
 
-.feature-panel {
-    height: 300px
+@media (min-width: 768px) {
+    .feature-panel {
+        height: 270px;
+    }
+}
+
+@media (min-width: 992px) {
+    .feature-panel {
+        height: 360px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .feature-panel {
+        height: 300px;
+    }
+}
+
+@media (min-width: 992px) {
+    article {
+        height: 400px;
+    }
 }
