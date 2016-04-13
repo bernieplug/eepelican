@@ -297,7 +297,14 @@ figure.floatcenter, .align-center {
 }
 
 @media (min-width: 992px) {
-    article {
+    .article-list-item {
         height: 400px;
     }
 }
+
+.btn-rss{color:#fff;background-color:#f4731c;border-color:rgba(0,0,0,0.2)}.btn-rss:focus,.btn-rss.focus{color:#fff;background-color:#d35b0a;border-color:rgba(0,0,0,0.2)}
+.btn-rss:hover{color:#fff;background-color:#d35b0a;border-color:rgba(0,0,0,0.2)}
+.btn-rss:active,.btn-rss.active,.open>.dropdown-toggle.btn-rss{color:#fff;background-color:#d35b0a;border-color:rgba(0,0,0,0.2)}.btn-rss:active:hover,.btn-rss.active:hover,.open>.dropdown-toggle.btn-rss:hover,.btn-rss:active:focus,.btn-rss.active:focus,.open>.dropdown-toggle.btn-rss:focus,.btn-rss:active.focus,.btn-rss.active.focus,.open>.dropdown-toggle.btn-rss.focus{color:#fff;background-color:#b14c09;border-color:rgba(0,0,0,0.2)}
+.btn-rss:active,.btn-rss.active,.open>.dropdown-toggle.btn-rss{background-image:none}
+.btn-rss.disabled,.btn-rss[disabled],fieldset[disabled] .btn-rss,.btn-rss.disabled:hover,.btn-rss[disabled]:hover,fieldset[disabled] .btn-rss:hover,.btn-rss.disabled:focus,.btn-rss[disabled]:focus,fieldset[disabled] .btn-rss:focus,.btn-rss.disabled.focus,.btn-rss[disabled].focus,fieldset[disabled] .btn-rss.focus,.btn-rss.disabled:active,.btn-rss[disabled]:active,fieldset[disabled] .btn-rss:active,.btn-rss.disabled.active,.btn-rss[disabled].active,fieldset[disabled] .btn-rss.active{background-color:#f4731c;border-color:rgba(0,0,0,0.2)}
+.btn-rss .badge{color:#f4731c;background-color:#fff}

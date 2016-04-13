@@ -3,7 +3,7 @@
     {% if articles %}
         {% for article in (articles_page.object_list if articles_page else articles) %}
         <div class="col-md-6">
-            <article>
+            <article class="article-list-item">
                 <div class="panel panel-info">
                     <a href="{{ SITEURL }}/{{ article.url }}">
                         {% if article.image %}
