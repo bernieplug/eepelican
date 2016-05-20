@@ -279,19 +279,19 @@ figure.floatcenter, .align-center {
 }
 
 @media (min-width: 768px) {
-    .feature-panel {
+    .pricing-panel {
         height: 270px;
     }
 }
 
 @media (min-width: 992px) {
-    .feature-panel {
+    .pricing-panel {
         height: 360px;
     }
 }
 
 @media (min-width: 1200px) {
-    .feature-panel {
+    .pricing-panel {
         height: 300px;
     }
 }
@@ -300,6 +300,17 @@ figure.floatcenter, .align-center {
     .article-list-item {
         height: 400px;
     }
+}
+
+@media (min-width: 992px) {
+    .feature-panel {
+        height: 200px;
+    }
+}
+
+.vcenter {
+    display: flex;
+    align-items: center;
 }
 
 .btn-rss{color:#fff;background-color:#f4731c;border-color:rgba(0,0,0,0.2)}.btn-rss:focus,.btn-rss.focus{color:#fff;background-color:#d35b0a;border-color:rgba(0,0,0,0.2)}
