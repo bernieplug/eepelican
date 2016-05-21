@@ -302,7 +302,13 @@ figure.floatcenter, .align-center {
     }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 768px) {
+    .feature-panel {
+        height: 210px;
+    }
+}
+
+@media (min-width: 1200px) {
     .feature-panel {
         height: 200px;
     }
