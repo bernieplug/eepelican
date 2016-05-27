@@ -17,7 +17,7 @@
             {% else %}
             {% set copy_date = '' %}
             {% endif %}
-            <div class="col-xs-9">&copy; {{ copy_date }} {{ AUTHOR }}
+            <div class="col-xs-12 col-sm-6">&copy; {{ copy_date }} {{ AUTHOR }}
                 &middot; Powered by <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>
                 {%- if CC_LICENSE or CC_LICENSE_DERIVATIVES or CC_LICENSE_COMMERCIAL %}
                 {% from 'includes/cc-license.html' import cc_license_mark %}
@@ -27,7 +27,7 @@
                 {% endif %}
 
             </div>
-            <div class="col-xs-3 text-right">
+            <div class="col-xs-12 col-sm-6 text-right-sm">
                 Follow us on
                 <a class="btn btn-sm btn-social-icon btn-facebook" target="_blank" href="https://www.facebook.com/efficientera">
                     <span class="fa fa-facebook"></span>
