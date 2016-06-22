@@ -14,3 +14,4 @@ six==1.10.0
 Unidecode==0.4.19
 wheel==0.24.0
 s3cmd==1.6.1
+Fabric==1.11.1
