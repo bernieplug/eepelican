@@ -1,3 +1,12 @@
+Title: Buyer-Reviewer Matching with Efficient Era
+Author: Bruce O.
+Category: Feedback Loop
+Date: 2016-06-21 14:00
+Image: buyer-reviewer.jpg
+Tags: Amazon, Feedback, Reviews
+Summary: With Efficient Era's advanced buyer-reviewer matching software, you'll never struggle to contact a reviewer again.
+Status: published
+
 We all know [how important reviews are](https://efficientera.com/blog/2015/08/start-paying-attention-to-your-amazon-reviews.html). They can make or break your Amazon career, especially as a [private label seller](https://efficientera.com/blog/2015/08/5-reasons-you-should-be-a-private-label.html). One too many negative reviews can send a product to the dustbin of low sales and search ranking, while enough positive reviews can drive your rank and your sales to the very top of your category. 
 	
 Knowing this, it can be frustrating when a customer leaves a negative review that describes a problem you can easily fix. Maybe something went wrong with the shipping, or they received a product with an uncommon defect that isn’t representative of your product as a whole. Even more frustrating is the fact that Amazon reviewers often post reviews under an alias, so it can be difficult to find and contact the buyer associated with a negative review. 
