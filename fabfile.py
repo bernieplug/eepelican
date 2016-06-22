@@ -16,7 +16,7 @@ production = 'root@localhost:22'
 dest_path = '/var/www'
 
 # Port for `serve`
-PORT = 8000
+PORT = 8080
 
 S3BUCKET = 'efficientera.com'
 
