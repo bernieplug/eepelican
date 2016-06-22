@@ -71,4 +71,4 @@ def publish():
 
 def s3_upload():
     publish()
-    local('python C:\Python27\Scripts\s3cmd.py sync output/ --acl-public --delete-removed --guess-mime-type s3://%s/' % S3BUCKET)
+    local('python C:\Python27\Scripts\s3cmd sync output/ --acl-public --delete-removed --guess-mime-type s3://%s/' % S3BUCKET)
