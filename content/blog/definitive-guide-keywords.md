@@ -4,7 +4,7 @@ Category: SEO
 Date: 2015-09-16 14:00
 Image: keywords.jpg
 Tags: Keywords, Amazon, Search
-Summary: Our extensive guide on the most difficult part of Amazon SEO - keywords. Using Search Terms to their full potential, getting new keyword ideas, and more!
+Summary: Our extensive guide on the most difficult part of Amazon SEO - keywords. Using Search Terms to their full potential, getting new keyword ideas, and more! *(Updated)*
 Status: published
 
 Everyone knows that optimizing search terms is an important part in growing your business. However, it’s one thing to know something, and another to be able to *do* it. 
@@ -63,7 +63,7 @@ Note that Gustavo doesn’t just stop at “gloves” and “mittens” or even 
 
 Like Gustavo, try to think of specific circumstances and phrases that surround your product. We use this specificity to capture “**long tail keywords**,” which are an important concept in Amazon as well as SEO in general. 
 
-##### Long Tail Keywords
+**Long Tail Keywords**
 
 Since long tail keywords are so important in SEO, let’s talk about them more in-depth.
 
@@ -179,4 +179,12 @@ The **Efficient Era Keyword Tool** is nearing the end of development, and we’l
 
 Once you’re tracking your keyword standings, whether manually or eventually using our Keyword Tool, you have the power to take action and make the changes you need to. This is really the most important part of keyword optimization, because letting your keywords stagnate is the surest way to get left behind.
 
-Feedback loops make the world go ‘round (no pun intended), and keywords should be no stranger to them. By setting up a system of tracking keywords and making edits, you can test keyword changes out out, see what works and what doesn’t, and make the appropriate adjustments. Constantly change - make Mr. Churchill proud.
+Feedback loops make the world go ‘round (no pun intended), and keywords should be no stranger to them. By setting up a system of tracking keywords and making edits, you can test keyword changes out out, see what works and what doesn’t, and make the appropriate adjustments. Constantly change - make Churchill proud.
+
+####*Update!*
+
+Since the time of this post, Amazon has updated their back-end search terms field to increase the character limit from 250 (5 rows of 50 characters) to **1000 characters!**
+
+This should give you more breathing room to add the keywords you want, but don't go overboard. If you add keywords which aren't closely related to your product, your click-through and conversion rates may decrease. If you were searching for an ice cream maker on Amazon and a result came up for Gustavo's Winter Gloves, you probably wouldn't click on it either!
+
+Have fun with these new limits! As long as you don't overreach, the possibilities are endless.
