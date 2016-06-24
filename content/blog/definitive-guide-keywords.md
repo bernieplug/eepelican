@@ -181,10 +181,8 @@ Once you’re tracking your keyword standings, whether manually or eventually us
 
 Feedback loops make the world go ‘round (no pun intended), and keywords should be no stranger to them. By setting up a system of tracking keywords and making edits, you can test keyword changes out out, see what works and what doesn’t, and make the appropriate adjustments. Constantly change - make Churchill proud.
 
-####*Update!*
+####*-Update 6/23/16-*
 
-Since the time of this post, Amazon has updated their back-end search terms field to increase the character limit from 50 characters per row to **1000 characters per row!**
+You may have heard whispers (or shouts) of Amazon increasing the character limit of search terms from 250 (5 rows of 50 characters) to 1000 characters. 
 
-This should give you more breathing room to add the keywords you want, but *don't go overboard*. If you add keywords which aren't closely related to your product, your click-through and conversion rates may decrease. If you were searching for an ice cream maker on Amazon and a result came up for Gustavo's Winter Gloves, you probably wouldn't click on it either!
-
-Have fun with these new limits! As long as you don't overreach, the possibilities are endless.
+Although this appeared to be true for a few products at first, it is the consensus that this is no longer the case for the vast majority of categories. Efficient Era recommends that you continue to work within 250 characters despite this confusion.
