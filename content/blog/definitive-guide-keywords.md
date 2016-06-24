@@ -183,8 +183,8 @@ Feedback loops make the world go ‘round (no pun intended), and keywords should
 
 ####*Update!*
 
-Since the time of this post, Amazon has updated their back-end search terms field to increase the character limit from 250 (5 rows of 50 characters) to **1000 characters!**
+Since the time of this post, Amazon has updated their back-end search terms field to increase the character limit from 50 characters per row to **1000 characters per row!**
 
-This should give you more breathing room to add the keywords you want, but don't go overboard. If you add keywords which aren't closely related to your product, your click-through and conversion rates may decrease. If you were searching for an ice cream maker on Amazon and a result came up for Gustavo's Winter Gloves, you probably wouldn't click on it either!
+This should give you more breathing room to add the keywords you want, but *don't go overboard*. If you add keywords which aren't closely related to your product, your click-through and conversion rates may decrease. If you were searching for an ice cream maker on Amazon and a result came up for Gustavo's Winter Gloves, you probably wouldn't click on it either!
 
 Have fun with these new limits! As long as you don't overreach, the possibilities are endless.
