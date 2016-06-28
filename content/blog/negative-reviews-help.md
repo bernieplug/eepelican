@@ -1,10 +1,10 @@
-Title: How Negative Reviews Can Help Your Product Listing
+Title: How Negative Reviews Can Help Your Product Listings
 Author: Bruce O.
 Category: Feedback Loop
 Date: 2016-06-29 14:00
-Image: feedback-bubble.jpg
-Tags: 
-Summary: 
+Image: thumbs-down.jpg
+Tags: Feedback Loop, Negative Feedback, Amazon 
+Summary: As with anything in life, you need to take the bad with the good. Reviews are no exception - read about how negative reviews are actually important for your business here.
 Status: published
 
 As an Amazon seller, it might be a pipe dream of yours to have nothing but positive reviews across all your products. Even under that “See all reviews” link, the customer might scroll for hours and never find a word against your product. It would mean that your product is phenomenal, your service is excellent, you’re an incredibly consistent merchant, and all your customers love you and would buy from you again. Right?
@@ -41,7 +41,7 @@ At this point, you’ve backed out of the product page quicker than a student wh
 
 ### The Good News
 
-Customers care about negative reviews. Sure, they often look for them in order to find a reason *not* to buy your product. But consider this - doesn’t that mean they’ve basically already decided on buying your product? 
+Customers care about negative reviews. Sure, they often look for them in order to find a reason *not* to buy your product. But consider this - doesn't that mean that up to this point, they've only found reasons *to* buy?
 
 If they weren’t already about to click ‘Add to Cart,’ why would they be going to the effort of scrolling through your reviews in search of a negative one? They’ve basically decided that your product is exactly what they need, and are just looking for any complete deal-breakers before they purchase. Even if they do find a negative review, they might think “I can live with that” and still complete the purchase. 
 
@@ -51,7 +51,7 @@ A 2011 study by Reevoo found that that sheer positive star ratings **did not** a
 
 As much as marketing teams would love for a product page to be covered exclusively with positive reviews, a brand with a few negative reviews is much more trustworthy as a whole. Customers understand that things can go wrong, that products can occasionally malfunction, and that disgruntled people exist. A couple bad reviews will not hurt your capacity to attract new customers.
 
-Of course, too many bad reviews is just as bad as too few. If you continuously receive bad reviews which reveal persistent problems with your products, you need to take a step back and take a good, hard look at your products, your service, and your business. This article is only trying to bust the myth that an all-positive review set is the ideal.
+Of course, too many bad reviews is just as bad as too few. If you continuously receive bad reviews which reveal persistent issues with your products, you need to take a step back and take a good, hard look at your products, your service, and/or your business. This article is only trying to bust the myth that an all-positive review set is the ideal.
 
 In general, stick to your standard gameplan of accumulating positive reviews through excellent quality, consistent responsiveness, and reliable customer service. Just remember that the occasional negative review can be a comfort to an almost-convinced buyer. 
 
@@ -63,12 +63,14 @@ Know what’s way better than a negative review? A resolved negative review.
 
 First: It’s much more realistic than the standard gushy 5-star review. Everyone loves a story with a happy ending. This is a review that is much less likely to be fake - unless the black hat reviewers got very creative, I suppose. 
 
-Second: It shows the excellence of your customer service. The importance of this cannot be overstated. Customer service is a huge factor in influencing a buyer’s decision, but such a direct testimonial of quality service is very rare on Amazon. Often, providing consistent customer service only helps to retain existing customers, but when it’s advertised in a direct and trustworthy fashion such as an edited review, it can help bring on huge numbers of new customers as well.
+Second: It shows the excellence of your customer service. The importance of this cannot be overstated. Customer service is a huge factor in influencing a buyer’s decision, but such a direct testimonial of quality service is very rare on Amazon. Often, providing consistent customer service only helps to retain existing customers, but when it’s advertised in a direct and trustworthy fashion such as an edited review, it can help bring in huge numbers of new customers as well.
 
-Of course, getting a resolved review on your product page involves a bit of luck. Not every negative reviewer will edit their review after receiving customer service, and you won’t be able to fix every customer’s issues to their complete satisfaction. To overuse Wayne Gretzky’s only famous quote, however - you miss 100% of the shots you don’t take.
+Of course, getting a resolved review on your product page involves a bit of luck. Not every negative reviewer will edit their review after you assist them, and you won’t be able to fix every customer’s issues to their complete satisfaction. Plus, at the end of the day, some people are just angry. To overuse Wayne Gretzky’s only famous quote, however - you miss 100% of the shots you don’t take.
 
 ### Conclusion
 
 Overall, just remember not to freak out too much about a few negative reviews. Every Amazon seller has them. They’re a sign of an honest business, and something that customers value when they’re looking for a balanced opinion on your product. If you can resolve the issue and the customer edits their review, that’s ideal; if not, that’s okay too. 
+
+Despite the slight sarcasm, our team at Efficient Era really does believe in the importance of reviews. We believe so much that we developed [feedback automation systems](https://efficientera.com/pages/feedback/) to help you stay on top of your Amazon reviews. [Sign up for a free trial now!](https://app.efficientera.com/register/?)
 
 If you need more specific actionable advice about responding with negative reviews, [check out our article on the subject](https://efficientera.com/blog/2015/08/3-steps-to-changing-a-negative-amazon-review.html). If you have any other questions or comments, post them below!
