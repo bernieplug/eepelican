@@ -16,7 +16,7 @@ TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
 
-DIRECT_TEMPLATES = ['categories', 'index', 'archives', 'authors', 'tags', 'search']
+DIRECT_TEMPLATES = ['categories', 'index', 'archives', 'authors', 'tags', 'search', 'sitemap']
 
 GOOGLE_ANALYTICS = 'UA-73097851-1'
 
@@ -57,6 +57,7 @@ ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{slug}.html'
 INDEX_SAVE_AS = 'blog/index.html'
 TEMPLATE_PAGES = {'templates/index.html': 'index.html',
                   'templates/google96a16df7dbeb77e9.html': 'google96a16df7dbeb77e9.html'}
+SITEMAP_SAVE_AS = 'sitemap.xml'
 
 # Theme
 THEME = "themes/bootstrap3"
