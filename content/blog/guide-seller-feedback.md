@@ -3,7 +3,7 @@ Author: Bruce O.
 Category: Feedback Loop
 Date: 2016-06-27 14:00
 Image: feedback-bubble.jpg
-Tags: International, Amazon, FBA
+Tags: Feedback Loop, Amazon, Seller Feedback
 Summary: Seller feedback: what is it actually doing for you, and how can you use it to your advantage? Read about it here.
 Status: published
 
