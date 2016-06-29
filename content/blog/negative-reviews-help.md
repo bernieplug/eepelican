@@ -19,6 +19,8 @@ Unfortunately, word about reviews has gotten around the Amazon Seller network. I
 
 The result: the seedy underbelly of the Amazon market known as black-hat review services. Financial compensation for reviews, automated software blasting hundreds of procedurally generated reviews onto product pages, attacking competitors' products with nonstop negative reviews… You name it, someone does it. Obviously, every one of these is a direct violation of Amazon’s Terms of Service, and we at Efficient Era do not endorse any of these methods.
 
+The result: the seedy underbelly of the Amazon market known as black-hat review services. Financial compensation for reviews, automated software blasting hundreds of procedurally generated reviews onto product pages, attacking competitor’s products with nonstop negative reviews… You name it, someone does it. Obviously, every one of these is a direct violation of Amazon’s Terms of Service, and we at Efficient Era do not endorse any of these methods.
+
 Fake or dishonest reviews have been a problem on Amazon for a long time. However, [Amazon is working harder to crack down on them](http://fortune.com/2016/04/26/amazon-more-fake-review-lawsuits/), and customers are catching on as well. 
 
 ### Crushed Dreams?
