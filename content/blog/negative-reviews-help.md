@@ -17,7 +17,7 @@ It would be nice if Amazon’s review system worked exactly the way Amazon inten
 
 Unfortunately, word about reviews has gotten around the Amazon Seller network. In terms of making sales, they are hugely important, [absolutely critical](https://efficientera.com/blog/2015/08/start-paying-attention-to-your-amazon-reviews.html), completely indispensable, incredibly valuable… pick your adverb-adjective combo, it’s out there. Some of the more dishonest folks of the world have caught on to this obsession with reviews and set out to develop tools which give new sellers a little under-the-table “boost” in their review count.
 
-The result: the seedy underbelly of the Amazon market known as black-hat review services. Financial compensation for reviews, automated software blasting hundreds of procedurally generated reviews onto product pages, attacking competitor’s products with nonstop negative reviews… You name it, it’s out there. Obviously, every one of these is a direct violation of Amazon’s terms of service, and we at Efficient Era do not endorse any of these methods.
+The result: the seedy underbelly of the Amazon market known as black-hat review services. Financial compensation for reviews, automated software blasting hundreds of procedurally generated reviews onto product pages, attacking competitors' products with nonstop negative reviews… You name it, someone does it. Obviously, every one of these is a direct violation of Amazon’s Terms of Service, and we at Efficient Era do not endorse any of these methods.
 
 Fake or dishonest reviews have been a problem on Amazon for a long time. However, [Amazon is working harder to crack down on them](http://fortune.com/2016/04/26/amazon-more-fake-review-lawsuits/), and customers are catching on as well. 
 
@@ -27,7 +27,7 @@ Let’s return to your pipe dream from the beginning.
 
 Since this is a fantasy, we can give you the benefit of the doubt and assume that every positive review you’ve received was legitimate. For each review, a unique customer bought your product, received it, and decided of their own volition to write a beaming recommendation.
 
-Even if this were the case, consider a customer’s perspective. Let’s say you’ve clicked on the product page of something you’re interested in, and you can’t find a single negative review. All across the board, as far back as the product has been released, there are only positive reviews. Is your first thought: “This product looks perfect! I’ll buy it right away!”
+Even if this were the case, consider the customer’s perspective. Let’s say you're browsing Amazon looking to buy, and you’ve just clicked on the product page of something you’re interested in. You look through it and you can’t find a single negative review. All across the board, as far back as the product has been released, there are only positive reviews. Is your first thought: “This product looks perfect! I’ll buy it right away!”
 
 It’s more likely that you’d have about five different alarm bells going off in your head. 
 
