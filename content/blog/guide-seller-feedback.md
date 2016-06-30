@@ -33,7 +33,7 @@ Worry not - we’ve got specific tips for dealing with negative feedback and lev
 
 Treat every negative review as a learning opportunity. In the grand scheme of things, one negative review doesn’t matter much - the vast majority of customers will only see your overall seller rating, and very few will take the time to scroll through comments individually. 
 
-However, it can mean a lot to you. They provided you with valuable information about inconsistencies or problems in your business. Use this opportunity to examine and improve your order intake system, inventory management, fulfillment process, or whatever else might have gone wrong. The ultimate goal is to prevent this problem from inconveniencing future customers, and maybe even giving you an efficiency edge over your competitors. 
+However, it can mean a lot to you. They provided you with valuable information about inconsistencies or problems in your business. Use this opportunity to examine and improve your order intake system, inventory management, fulfillment process, or whatever else might have gone wrong. The ultimate goal is to prevent this problem from inconveniencing future customers, and maybe even give you an efficiency edge over your competitors. 
 
 #### 2. Prevent a Negative Product Review
 
