@@ -1,23 +1,21 @@
 Title: Removing Inappropriate Seller Feedback
 Author: Bruce O.
 Category: Feedback Loop
-Date: 2016-07-04 11:00
+Date: 2016-07-05 11:00
 Image: blackboard-trash-can.jpg
 Tags: Feedback Loop, Amazon, Seller Feedback
 Summary: Frustrated at random, unfair, or otherwise inappropriate negative seller feedback that's bringing down your rating? You don't have to be. Learn how to fix it here.
 Status: published
 
-Just a quick post today, as a sort of companion to our previous [guide to Amazon seller feedback](https://efficientera.com/blog/2016/06/a-guide-to-seller-feedback.html). 
+We’ve already talked about responding to negative seller feedback in [our seller feedback guide](https://efficientera.com/blog/2016/06/a-guide-to-seller-feedback.html), as well as [how to approach negative product reviews](https://efficientera.com/blog/2015/08/3-steps-to-changing-a-negative-amazon-review.html). At the end of the day, however, it seems like you always have to take the hit from a negative review. You can leave a gracious response, but that review will stay a thorn in your side and bring down your average.
 
-We’ve talked about how to respond to negative seller feedback in [the aforementioned seller feedback guide](https://efficientera.com/blog/2016/06/a-guide-to-seller-feedback.html), as well as [how to approach negative product reviews](https://efficientera.com/blog/2015/08/3-steps-to-changing-a-negative-amazon-review.html). However, it often seems that at the end of the day, you just have to take the hit from the negative review and deal with the consequences. 
+Negative feedback rate is arguably the most important metric of seller feedback. The magic number is **5%** - if less than 5% of your feedback is negative or neutral, you’re doing well; any more than that, and things begin to turn sour. 
 
-Negative feedback rate is arguably the most important metric of seller feedback. The magic number is 5% - if less than 5% of your feedback is negative or neutral, you’re doing well; any more than 5%, and things begin to turn sour. 
+If you’re over this 5% threshold, Amazon recommends that you “review your business practices and adjust to the demands of your customers.” What they don’t mention, however, are the repercussions for remaining above five percent. [Our guide](https://efficientera.com/blog/2016/06/a-guide-to-seller-feedback.html) already mentioned that Amazon takes your feedback rating into consideration when calculating your search rankings, but a high negative feedback rate can also put you at risk for account suspensions. 
 
-If you’re over 5% negative feedback rate, Amazon recommends that you “review your business practices and adjust to the demands of your customers.” What they don’t mention, however, are the repercussions for remaining above this threshold. [Our guide](https://efficientera.com/blog/2016/06/a-guide-to-seller-feedback.html) already mentioned that Amazon takes your feedback rating into consideration when calculating your search rankings, but a high negative feedback rate can also put you at risk for account suspensions. 
+If a customer encounters a problem with their order at any point and asks Amazon to step in, your seller rating will come under scrutiny. If it’s too low, Amazon may suspend your account while they investigate the issue - a catastrophic blow. A higher seller rating will protect you from these suspensions - yet another reason to strive for it.
 
-If a customer encounters a problem with their order at any point and contacts Amazon, they will look at your seller rating. If it’s too low, they may suspend your account while they investigate the problem, which would devastate any Amazon business. A higher seller rating will protect you from these suspensions - yet another reason to strive for it.
-
-Evidently, negative seller feedback can be very damaging to your Amazon business, especially as it builds up. However, we offer most of our feedback-based advice on the assumption that the negative reviews will stick around - that’s how Amazon usually intends feedback to work. This can get very frustrating if the feedback is completely unfair - things like “*I didn’t like the color*” or “*this book was so boring I feel asleep*,” which have nothing to do with your performance as a seller.
+Evidently, a buildup of negative seller feedback can seriously damage your Amazon business. However, we offer most of our feedback-based advice on the assumption that the negative reviews will stick around - that’s how Amazon usually intends feedback to work. This can get frustrating if the feedback is completely unfair - things like “*I didn’t like the color*” or “*this book was so boring I feel asleep*,” which have nothing to do with your performance as a seller.
 
 Fortunately, seller feedback is one area where you have more leverage than you might think.
 
