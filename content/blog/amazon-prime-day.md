@@ -7,6 +7,8 @@ Tags: Amazon, Amazon Prime, News
 Summary: Prime Day 2016 is on July 12th. Is your business prepared?
 Status: published
 
+*Image source: Amazon.com*
+
 Amazon celebrated their 20th anniversary last year with the first annual Amazon Prime day. With an Amazon Prime membership in hand, customers were invited to partake in thousands of special deals on July 15th. Amazon, being one of the world’s largest online marketplaces, gathered a record-breaking 86 million visits from mobile and desktop browsers on Prime Day. In terms of sheer visits, [Prime Day was a runaway success](http://www.experian.com/blogs/marketing-forward/2015/07/17/amazon-prime-day-huge-success), beating Cyber Monday’s traffic by 51.5 percent and Black Friday’s traffic by 77.2 percent. In terms of sales, Prime Day was also no slouch, leaving Black Friday’s record at the time in the dust with 398 orders per second.
 
 ![Amazon's traffic over the months leading up to Prime Day.](/images/blog/2016/06/amazon-prime-day-daily-traffic-chart-hitwise.png)
@@ -42,4 +44,3 @@ Amazon Prime Day is set to yet again be one of the largest spending holidays in 
 If Prime Day ends up being another huge success and the issues from last year are resolved, we could see a tradition of annual Amazon-sponsored Prime Days in the years to come. One step a time though - first, make sure you’re prepared for this year's extravaganza so that you can reap the benefits.
 
 Have any questions, additions, or comments? Let us know below!
-
