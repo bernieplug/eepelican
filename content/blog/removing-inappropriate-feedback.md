@@ -4,7 +4,7 @@ Category: Feedback Loop
 Date: 2016-07-05 11:00
 Image: remove-seller-feedback.jpg
 Tags: Feedback Loop, Amazon, Seller Feedback
-Summary: Frustrated at random, unfair, or otherwise inappropriate negative seller feedback that's bringing down your rating? You don't have to be. Learn how to fix it here.
+Summary: Are you receiving unfair seller feedback? There's an easy fix - learn about it here.
 Status: published
 
 We’ve already talked about responding to negative seller feedback in [our seller feedback guide](https://efficientera.com/blog/2016/06/a-guide-to-seller-feedback.html), as well as [how to approach negative product reviews](https://efficientera.com/blog/2015/08/3-steps-to-changing-a-negative-amazon-review.html). At the end of the day, however, it seems like you always have to take the hit from a negative review. You can leave a gracious response, but that review will stay a thorn in your side and bring down your average.

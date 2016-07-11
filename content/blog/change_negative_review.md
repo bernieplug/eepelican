@@ -3,7 +3,7 @@ Author: Bruce O., Daniel R.
 Category: Feedback loop
 Date: 2015-08-25 8:00
 Tags: Customer Service, Amazon, Feedback
-Image: positive_review.png
+Image: positive_review.jpg
 Summary: Negative reviews are an inevitable part of selling online. Learn strategies for dealing with them and watch your product rating and customer satisfaction soar.
 Status: published
 
