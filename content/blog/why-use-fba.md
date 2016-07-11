@@ -2,12 +2,12 @@ Title: Why You Should Be Using Fulfillment by Amazon (FBA)
 Author: Bruce O.
 Category: General
 Date: 2016-07-07 14:00
-Image: fba-article.png
+Image: fba-article.jpg
 Tags: Amazon, FBA, Shipping
 Summary: We're big fans of Amazon's FBA program, which makes the entire fulfillment process a breeze. Here's what you're missing out on if you're still fulfilling orders yourself.
 Status: published
 
-Fulfillment by Amazon, or FBA, is the best friend of many private label Amazon sellers. Maybe you’ve heard of it, maybe you haven’t. Either way, if you aren’t already using FBA, switching can have a huge effect on your exposure, sales, workload, and revenue.
+Fulfillment by Amazon, or FBA, is the best friend of many private label Amazon sellers. Maybe you’ve heard of it, maybe you haven’t. Either way, if you aren’t already using FBA, switching can have a huge effect on your exposure, sales, workload, and revenue.  
 
 However, like all business decisions, you should take some time to consider whether FBA is the right choice for you and your Amazon business. We think it's great, but FBA isn't right for everyone.
 
@@ -49,7 +49,7 @@ Overall, you’ll see more conversions from Prime customers who want to take adv
 
 Ever seller knows that the job doesn't end when the item is delivered. Amazon knows this too, and they’re on top of it. The FBA service includes all handling of returns and refunds, as well as any other customer queries or issues. Amazon has a 24/7 customer support team that will answer any questions or attempt to resolve problems that customers have relating to the shipping process. 
 
-Amazon taking responsibility for customers’ shipping experience extends into the realm of seller feedback. As explained in our [post about removing inappropriate seller feedback](https://efficientera.com/blog/2016/07/removing-inappropriate-seller-feedback.html), Amazon will strike and take responsibility for any review relating entirely to fulfillment of an FBA product. 
+Amazon taking responsibility for customers’ shipping experience extends into the realm of seller feedback. As explained in our [post about removing inappropriate seller feedback](https://efficientera.com/blog/2016/07/how-to-remove-inappropriate-seller-feedback.html), Amazon will strike and take responsibility for any review relating entirely to fulfillment of an FBA product. 
 
 Of course, just because Amazon is handling customer support for shipping, doesn’t mean you get a free pass for all customer support. Product support and product reviews are still completely up to you - in fact, we strongly recommend that you [stay on top of product support](https://efficientera.com/blog/2015/08/3-steps-to-changing-a-negative-amazon-review.html) to grow your business and create repeat customers.
 

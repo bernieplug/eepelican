@@ -2,7 +2,7 @@ Title: What You Should Know About Amazon's Updated UPC Policy
 Author: Chris S.
 Category: News
 Date: 2016-07-08 15:00
-Image: amazon-upc-policy.png
+Image: amazon-upc-policy.jpg
 Tags: Amazon, News
 Summary: Amazon recently changed their policy on UPCs. Will your business be affected by the stricter regulations? Find out here. 
 Status: published

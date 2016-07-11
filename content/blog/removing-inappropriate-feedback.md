@@ -2,7 +2,7 @@ Title: How to Remove Inappropriate Seller Feedback
 Author: Bruce O.
 Category: Feedback Loop
 Date: 2016-07-05 11:00
-Image: remove-seller-feedback.png
+Image: remove-seller-feedback.jpg
 Tags: Feedback Loop, Amazon, Seller Feedback
 Summary: Frustrated at random, unfair, or otherwise inappropriate negative seller feedback that's bringing down your rating? You don't have to be. Learn how to fix it here.
 Status: published
