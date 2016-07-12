@@ -49,7 +49,7 @@ Overall, you’ll see more conversions from Prime customers who want to take adv
 
 Ever seller knows that the job doesn't end when the item is delivered. Amazon knows this too, and they’re on top of it. The FBA service includes all handling of returns and refunds, as well as any other customer queries or issues. Amazon has a 24/7 customer support team that will answer any questions or attempt to resolve problems that customers have relating to the shipping process. 
 
-Amazon taking responsibility for customers’ shipping experience extends into the realm of seller feedback. As explained in our [post about removing inappropriate seller feedback](https://efficientera.com/blog/2016/07/how-to-remove-inappropriate-seller-feedback.html), Amazon will strike and take responsibility for any review relating entirely to fulfillment of an FBA product. 
+Amazon taking responsibility for customers’ shipping experience extends into the realm of seller feedback. As explained in our [post about removing inappropriate seller feedback](https://efficientera.com/blog/2016/07/removing-inappropriate-seller-feedback.html), Amazon will strike and take responsibility for any review relating entirely to fulfillment of an FBA product. 
 
 Of course, just because Amazon is handling customer support for shipping, doesn’t mean you get a free pass for all customer support. Product support and product reviews are still completely up to you - in fact, we strongly recommend that you [stay on top of product support](https://efficientera.com/blog/2015/08/3-steps-to-changing-a-negative-amazon-review.html) to grow your business and create repeat customers.
 
