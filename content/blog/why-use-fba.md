@@ -39,7 +39,11 @@ Some extra bonuses:
 
 #### 2) Amazon Prime Benefits
 
-One of the many reasons that Amazon continues to dominate the e-commerce world is because of their Amazon Prime service. The number of Prime users is constantly increasing, and Prime users are also more active and buy more than non-Prime users. Although it offers a lot of features, many Prime users only stay subscribed for its signature feature - free two-day shipping.
+One of the many reasons that Amazon continues to dominate the e-commerce world is because of their Amazon Prime service. The number of Prime users is constantly increasing, and Prime users are also more active and buy more than non-Prime users. 
+
+Case in point - Prime users spend an average of $1,200 annually, compared to $700 from non-Prime users, according to estimates from Consumer Intelligence Research Partners. 
+
+Although it offers a lot of features, many Prime users only stay subscribed for its signature feature - free two-day shipping.
 
 Using FBA is the only way that a third-party Amazon seller can be eligible for Prime two-day shipping. That alone provides a huge boost to your service - customers want their two-day free shipping, and will actively seek out products that provide it. They may even be willing to pay a premium over a competitor because of the money and time they'll save on shipping.
 
