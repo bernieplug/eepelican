@@ -49,7 +49,7 @@ Your privacy and the confidentiality of your personal and business data is very 
 
 * Unless otherwise specified, it is assumed that this data is confidential to you, will not be visible to potential competitors or other users of the site, and will be deleted upon termination of your account (as permitted by law).
 
-* For data which is aggregated from all users of the site to provide greater insight to all users ("aggregated data" such as keyword data), we will provide information up-front on the particular report and data types that are “aggregated data”, how we handle aggregated data, and how this aggregated data can be used by you.
+* We collect personally non-identifiable data via Google Analytics Advertising features as well as website visitor information for Facebook Advertising. These use cookies to collect aggregated data from all users of the site. We do this to help us gain greater insights about our website traffic and thereby provide a better user experience. ("Aggregated data" can include but is not limited to data such as search queries, keyword data, geographic data etc. for the purpose of demographic and other analysis).
 
 * We will only retain non-aggregated information only as long as necessary for the fulfillment of services to you and your account on the Efficient Era website.
 
