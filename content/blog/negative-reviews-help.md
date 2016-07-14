@@ -2,7 +2,7 @@ Title: How Negative Reviews Can Help Your Product Listings
 Author: Bruce O.
 Category: Feedback Loop
 Date: 2016-06-29 14:00
-Image: thumbs-down.jpg
+Image: negative-reviews-help.jpg
 Tags: Feedback Loop, Negative Feedback, Amazon 
 Summary: As with anything in life, you need to take the bad with the good. Reviews are no exception - read about how negative reviews are actually important for your business here.
 Status: published

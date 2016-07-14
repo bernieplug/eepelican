@@ -2,7 +2,7 @@ Title: Automating your VAT Invoices for Amazon EU
 Date: 2016-03-28 04:30PM
 Author: Bernie T.
 Category: Efficient Era
-Image: tax.png
+Image: automating-vat.jpg
 Summary: Still spending hours creating VAT invoices by hand? Look no further, we can help.
 Tags: vat, vat invoice, tax, taxes, invoice
 Status: published
@@ -20,10 +20,9 @@ Customers are happy to get their invoice right away, without having to plead wit
 We’re excited to be able to make this same tool available to you.  The customer facing side is visible at:
 [http://vat.efficientera.com/](http://vat.efficientera.com/)
 
-And you can read more about how to sign up and use the tool from the sellers’ perspective at:
-[https://efficientera.com/pages/accounting/vat-tool.html](https://efficientera.com/pages/accounting/vat-tool.html)
+And you can read more about how to sign up and use the tool from the sellers’ perspective at [this page](https://efficientera.com/pages/accounting/vat-tool.html).
 
 We hope this tool can help you deal with the burdens of European VAT invoicing more efficiently.  If you have any questions or requests at all, please feel free to comment below or email us at
 [support@efficientera.com](mailto:support@efficientera.com)
 
-This VAT invoice tool is part of Efficient Era’s larger set of power tools for power sellers on Amazon, so please do check out everything else we have to offer when you sign up.  Thank you!
+This VAT invoice tool is part of Efficient Era’s larger set of power tools for power sellers on Amazon, so please do check out everything else we have to offer when you sign up. Thank you!
