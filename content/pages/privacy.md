@@ -5,9 +5,9 @@ Your privacy and the confidentiality of your personal and business data is very 
 
 Unless otherwise specified, it is assumed that this data is confidential to you, will not be visible to potential competitors or other users of the site, and will be deleted upon termination of your account (as permitted by law).
 
-We collect personally non-identifiable data via Google Analytics Advertising Features that use cookies to collect aggregated data from all users of the site. We do this to help us gain greater insights about our website traffic and thereby provide a better user experience. ("Aggregated data" can include but is not limited to data such as search queries, keyword data, geographic data etc. for the purpose of demographic and other analysis).
+We collect personally non-identifiable data via Google Analytics Advertising features as well as website visitor information for Facebook Advertising. These use cookies to collect aggregated data from all users of the site. We do this to help us gain greater insights about our website traffic and thereby provide a better user experience. ("Aggregated data" can include but is not limited to data such as search queries, keyword data, geographic data etc. for the purpose of demographic and other analysis).
 
-If you would like to disable cookies there are programs and settings that can enable you to visit our site anonymously. You can also opt out of Google's Advertising data collection by clicking [here](https://tools.google.com/dlpage/gaoptout/).
+If you would like to disable cookies there are programs and settings that can enable you to visit our site anonymously. You can also opt out of Google's Advertising data collection by clicking [here](https://tools.google.com/dlpage/gaoptout/). If you would like to opt out of Facebook Ads targeting, please refer to this [link](https://www.facebook.com/help/568137493302217).
 
 We will only retain non-aggregated information only as long as necessary for the fulfillment of services to you and your account on the Efficient Era website.
 
