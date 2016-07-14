@@ -23,13 +23,17 @@ Thankfully, going global is much easier than it appears at first glance, especia
 
 ### 1. FBA Makes Shipping Effortless
 
-If you’re a private label seller on Amazon, you almost definitely know about FBA (fulfilled by Amazon), and you most likely use it too. As useful as FBA is locally, it’s even better for international sales. Before FBA, the number one difficulty of international expansion was the cost of shipping. Now, thanks to FBA, you only have to ship your inventory to one fulfillment center per market, local or international, and Amazon handles the rest. If you’re outsourcing your manufacturing anyway, it’s a very similar process to local sales. 
+If you’re a private label seller on Amazon, you almost definitely know about FBA (fulfilled by Amazon), and you most likely use it too. [If not, here's why you should](https://efficientera.com/blog/2016/07/why-you-should-be-using-fulfillment-by-amazon-fba.html). As useful as FBA is locally, it’s even better for international sales. Before FBA, the number one difficulty of international expansion was the cost of shipping. Now, thanks to FBA, you only have to ship your inventory to one fulfillment center per market, local or international, and Amazon handles the rest. If you’re outsourcing your manufacturing anyway, it’s a very similar process to local sales. 
 
 A specific benefit of selling in the EU markets - the UK, Germany, France, Spain, and Italy - is that you only need to ship to **one** fulfillment center in any of these markets, and that fulfillment center will ship inventory to the other four markets! All you have to do is relist your items in each of the other markets you want to sell in, and the fulfillment center in the first country will fulfill orders in all other EU markets.
 
+---
+
 ####*-Update 6/27/16-*
 
-As you've probably heard, the UK has voted to leave the EU! In terms of Amazon selling, there's not too much to worry about here, since the exit won't take effect for about another two years. However, pay attention to what trade deals arise - you might have to deal with import fees if you continue to ship to a fulfillment center in the UK and sell to other EU members. 
+As you've probably heard, the UK has voted to leave the EU! In terms of Amazon selling, there's not too much to worry about here, since the exit won't take effect for about another two years (if it happens at all). However, pay attention to what trade deals arise - you might have to deal with import fees if you continue to ship to a fulfillment center in the UK and sell to other EU members.
+
+--- 
 
 ### 2. International Markets are Small, but Fast-Growing
 
