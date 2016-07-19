@@ -42,3 +42,5 @@ possible under applicable law and the remaining provisions will continue in full
 ### **9. Governing Law**
 
 Any claim relating to Efficient Era's web site shall be governed by the laws of the State of Washington and the city of Redmond, WA without regard to its conflict of law provisions.
+
+Last Modified on July 19, 2016 
