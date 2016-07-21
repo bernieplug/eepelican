@@ -1,6 +1,6 @@
 Title: Why You Should Be Using Fulfillment by Amazon (FBA)
 Author: Bruce O.
-Category: General
+Category: Inventory
 Date: 2016-07-07 14:00
 Image: fba-article.jpg
 Tags: Amazon, FBA, Shipping
