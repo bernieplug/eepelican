@@ -56,7 +56,7 @@ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{slug}.html'
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{slug}.html'
 INDEX_SAVE_AS = 'blog/indexold.html'
 TEMPLATE_PAGES = {
-    'templates/indexold.html': 'indexold.html',
+
     'templates/google96a16df7dbeb77e9.html': 'google96a16df7dbeb77e9.html',
     'templates/test_lead_page.html': 'test_lead_page.html',
     'templates/index.html': 'index.html',
