@@ -60,7 +60,6 @@ TEMPLATE_PAGES = {
     'templates/google96a16df7dbeb77e9.html': 'google96a16df7dbeb77e9.html',
     'templates/test_lead_page.html': 'test_lead_page.html',
     'templates/sample1.html': 'sample1.html',
-    'templates/sample2.html': 'sample2.html',
 }
 SITEMAP_SAVE_AS = 'sitemap.xml'
 
