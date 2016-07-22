@@ -54,12 +54,12 @@ STATIC_PATHS = ['blog', 'images', 'pages']
 ARTICLE_PATHS = ['blog']
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{slug}.html'
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{slug}.html'
-INDEX_SAVE_AS = 'blog/index.html'
+INDEX_SAVE_AS = 'blog/indexold.html'
 TEMPLATE_PAGES = {
-    'templates/index.html': 'index.html',
+    'templates/indexold.html': 'indexold.html',
     'templates/google96a16df7dbeb77e9.html': 'google96a16df7dbeb77e9.html',
     'templates/test_lead_page.html': 'test_lead_page.html',
-    'templates/sample1.html': 'sample1.html',
+    'templates/index.html': 'index.html',
 }
 SITEMAP_SAVE_AS = 'sitemap.xml'
 
