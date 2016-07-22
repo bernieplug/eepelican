@@ -54,7 +54,7 @@ STATIC_PATHS = ['blog', 'images', 'pages']
 ARTICLE_PATHS = ['blog']
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{slug}.html'
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{slug}.html'
-INDEX_SAVE_AS = 'blog/indexold.html'
+INDEX_SAVE_AS = 'blog/index.html'
 TEMPLATE_PAGES = {
 
     'templates/google96a16df7dbeb77e9.html': 'google96a16df7dbeb77e9.html',
