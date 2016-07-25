@@ -22,6 +22,25 @@
 </section>
 
 
+{% if 'tipue_search' in PLUGINS %}
+<section>
+    <form class="" action="{{ SEARCH_URL | default('/search.html') }}">
+        <div class="form-group">
+            <div class="input-group">
+            <div class="input-group-addon"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></div>
+                <input type="search" class="form-control" placeholder="Search" name="q" id="tipue_search_input" required>
+            </div>
+        </div>
+    </form>
+</section>
+{% endif %}
+
+{% if DISPLAY_TAGS_ON_SIDEBAR is not defined %}
+{% set DISPLAY_TAGS_ON_SIDEBAR = True %}
+{% endif %}
+
+
+
 {% if DISPLAY_RECENT_POSTS_ON_SIDEBAR %}
 {% if RECENT_POST_COUNT is not defined %}
 {% set RECENT_POST_COUNT = 5 %}
@@ -44,22 +63,7 @@
 
 
 
-{% if 'tipue_search' in PLUGINS %}
-<section>
-    <form class="" action="{{ SEARCH_URL | default('/search.html') }}">
-        <div class="form-group">
-            <div class="input-group">
-            <div class="input-group-addon"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></div>
-                <input type="search" class="form-control" placeholder="Search" name="q" id="tipue_search_input" required>
-            </div>
-        </div>
-    </form>
-</section>
-{% endif %}
 
-{% if DISPLAY_TAGS_ON_SIDEBAR is not defined %}
-{% set DISPLAY_TAGS_ON_SIDEBAR = True %}
-{% endif %}
 
 {% if SOCIAL %}
 <section class="well well-sm">
