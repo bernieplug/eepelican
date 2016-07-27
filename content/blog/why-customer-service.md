@@ -21,19 +21,19 @@ Much of this thinking comes from traditional commerce theory, where sales were a
 
 In a physical storefront that offers a variety of products, a customer’s choice often comes down to two similar items from different companies. When trying to make their decision, they really don’t have much information to sway them. They have the copy on the box, which usually isn’t different enough to justify one purchase over another in this situation. They have feature lists, which could rule out one product as not meeting the customer’s needs, but often don't. 
 
-Finally, they have price - and all other things being equal, this is the factor that will decide everything.
+Finally, they have price—and all other things being equal, this is the factor that will decide everything.
 
-Let’s say you run one of the companies that the customer is deciding between. You’ve taken it upon yourself to strive for excellence in customer service - you offer 24/7 phone support, lightning-fast email responses, and an extremely generous return/refund program. Other customers have had great experiences and have become loyal customers. The downside is, understandably, you’ve had to raise your prices a bit to keep this level of support up. 
+Let’s say you run one of the companies that the customer is deciding between. You’ve taken it upon yourself to strive for excellence in customer service—you offer 24/7 phone support, lightning-fast email responses, and an extremely generous return/refund program. Other customers have had great experiences and have become loyal customers. The downside is, understandably, you’ve had to raise your prices a bit to keep this level of support up. 
 
 In a brick-and-mortar store, *none of this information is communicated to the customer*. All they see is your higher price, and they choose your competitor. 
 
-If that’s the case, you’ll likely get more sales by focusing on lowering your price and cutting unnecessary expenses to make lower margins go further. But again - these strategies are only for traditional sales.
+If that’s the case, you’ll likely get more sales by focusing on lowering your price and cutting unnecessary expenses to make lower margins go further. But again—these strategies are only for traditional sales.
 
 ### The Amazon Difference
 
 The Amazon marketplace is revolutionary compared to traditional marketplaces for a number of reasons. Chief among them: *their overwhelming focus on customer feedback and reviews*. 
 
-This love of feedback means that customer service excellence is no longer relegated to a post-purchase discovery - it can become a sales point in and of itself. Customer reviews mean that providing fantastic customer service on Amazon is directly rewarding. Aside from the previous effect of creating loyal customers, the positive reviews your customer service generates will attract new customers, boost rankings, and drive more overall sales. 
+This love of feedback means that customer service excellence is no longer relegated to a post-purchase discovery—it can become a sales point in and of itself. Customer reviews mean that providing fantastic customer service on Amazon is directly rewarding. Aside from the previous effect of creating loyal customers, the positive reviews your customer service generates will attract new customers, boost rankings, and drive more overall sales. 
 
 Finally, the premium price you ask for in exchange for this customer service experience can be  justified. A 2011 customer service impact report by Oracle found that **86% of customers are willing to pay more for a better customer service experience**. 
 
@@ -55,7 +55,7 @@ In general, however, our advice for customer service comes down to two things:
 
 ### Being Responsive
 
-Speed is a huge part of customer service. It doesn’t matter if you give the most thorough and helpful answer the customer’s ever received - if it’s sent out two weeks after they left a complaint, you’ve already failed.
+Speed is a huge part of customer service. It doesn’t matter if you give the most thorough and helpful answer the customer’s ever received—if it’s sent out two weeks after they left a complaint, you’ve already failed.
 
 A big part of getting customers to recognize that you care about them is responding quickly. Even if the customer is initially outraged, a quick response will likely calm them down a bit as they realize they’re being heard. 
 
@@ -90,7 +90,7 @@ Some more numbers:
 The takeaways:
 
 * Generosity helps get customers that stick around, saving you on costs of acquiring new customers.
-* It's worth it to solve problems - sending one replacement is much easier than wrangling a dozen new positive reviews. 
+* It's worth it to solve problems—sending one replacement is much easier than wrangling a dozen new positive reviews. 
 
 ### Conclusion
 

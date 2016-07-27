@@ -41,7 +41,7 @@ At this point, you’ve backed out of the product page quicker than a student wh
 
 ### The Good News
 
-Customers care about negative reviews. Sure, they often look for them in order to find a reason *not* to buy your product. But consider this - doesn't that mean that up to this point, they've only found reasons *to* buy?
+Customers care about negative reviews. Sure, they often look for them in order to find a reason *not* to buy your product. But consider this—doesn't that mean that up to this point, they've only found reasons *to* buy?
 
 If they weren’t already about to click ‘Add to Cart,’ why would they be going to the effort of scrolling through your reviews in search of a negative one? They’ve basically decided that your product is exactly what they need, and are just looking for any complete deal-breakers before they purchase. Even if they do find a negative review, they might think “I can live with that” and still complete the purchase. 
 
@@ -55,17 +55,17 @@ Of course, too many bad reviews is just as bad as too few. If you continuously r
 
 In general, stick to your standard gameplan of accumulating positive reviews through excellent quality, consistent responsiveness, and reliable customer service. Just remember that the occasional negative review can be a comfort to an almost-convinced buyer. 
 
-### One Last Thing - Resolving Reviews
+### One Last Thing: Resolving Reviews
 
 Know what’s way better than a negative review? A resolved negative review.
 
 [There are plenty of examples](http://damniwish.com/how-a-2-star-amazon-review-makes-thousands-of-sales/) of customers who were displeased, received excellent customer service, and edited their review to indicate their satisfaction with the customer service along with the product. This type of review is *hugely* valuable to your product listing for a couple of reasons.
 
-First: It’s much more realistic than the standard gushy 5-star review. Everyone loves a story with a happy ending. This is a review that is much less likely to be fake - unless the black hat reviewers got very creative, I suppose. 
+First: It’s much more realistic than the standard gushy 5-star review. Everyone loves a story with a happy ending. This is a review that is much less likely to be fake—unless the black hat reviewers got very creative, I suppose. 
 
 Second: It shows the excellence of your customer service. The importance of this cannot be overstated. Customer service is a huge factor in influencing a buyer’s decision, but such a direct testimonial of quality service is very rare on Amazon. Often, providing consistent customer service only helps to retain existing customers, but when it’s advertised in a direct and trustworthy fashion such as an edited review, it can help bring in huge numbers of new customers as well.
 
-Of course, getting a resolved review on your product page involves a bit of luck. Not every negative reviewer will edit their review after you assist them, and you won’t be able to fix every customer’s issues to their complete satisfaction. Plus, at the end of the day, some people are just angry. To overuse Wayne Gretzky’s only famous quote, however - you miss 100% of the shots you don’t take.
+Of course, getting a resolved review on your product page involves a bit of luck. Not every negative reviewer will edit their review after you assist them, and you won’t be able to fix every customer’s issues to their complete satisfaction. Plus, at the end of the day, some people are just angry. To overuse Wayne Gretzky’s most repeated quote, however—you miss 100% of the shots you don’t take.
 
 ### Conclusion
 

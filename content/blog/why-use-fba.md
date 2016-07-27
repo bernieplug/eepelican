@@ -13,7 +13,7 @@ However, like all business decisions, you should take some time to consider whet
 
 ### What is Fulfillment By Amazon?
 
-Fulfillment by Amazon, abbreviated as FBA, is a service provided to sellers which lets Amazon take over the fulfillment process for your products. If you’re not using FBA, the other fulfillment option is Fulfillment by Merchant (FBM), in which you are entirely responsible for storing, shipping, and processing returns of your own products. FBA takes this entire process out of your hands. Amazon's capable fulfillment network will process your orders from start to finish - all you have to do is ship them your inventory.
+Fulfillment by Amazon, abbreviated as FBA, is a service provided to sellers which lets Amazon take over the fulfillment process for your products. If you’re not using FBA, the other fulfillment option is Fulfillment by Merchant (FBM), in which you are entirely responsible for storing, shipping, and processing returns of your own products. FBA takes this entire process out of your hands. Amazon's capable fulfillment network will process your orders from start to finish—all you have to do is ship them your inventory.
 
 Here’s Amazon’s infographic on how FBA works.
 
@@ -26,7 +26,7 @@ Now, let's take a look at some of the benefits FBA has to offer.
 
 #### 1) Shipping is Hard!
 
-It’s hard to overstate the significance of reducing your workload. Forget about efficiency or optimization for a second - fulfilling everything yourself is just *a lot of work*. Constantly packaging products, managing order intake, addressing problems if anything goes wrong - it’s stressful, not to mention a serious time sink.
+It’s hard to overstate the significance of reducing your workload. Forget about efficiency or optimization for a second—fulfilling everything yourself is just *a lot of work*. Constantly packaging products, managing order intake, addressing problems if anything goes wrong—it’s stressful, not to mention a serious time sink.
 
 Thankfully, Amazon is pretty good at shipping. They’ve been doing it for a while.
 
@@ -41,11 +41,11 @@ Some extra bonuses:
 
 One of the many reasons that Amazon continues to dominate the e-commerce world is because of their Amazon Prime service. The number of Prime users is constantly increasing, and Prime users are also more active and buy more than non-Prime users. 
 
-Case in point - Prime users spend an average of $1,200 annually, compared to $700 from non-Prime users, according to estimates from Consumer Intelligence Research Partners. 
+Case in point—Prime users spend an average of $1,200 annually, compared to $700 from non-Prime users, according to estimates from Consumer Intelligence Research Partners. 
 
-Although it offers a lot of features, many Prime users only stay subscribed for its signature feature - free two-day shipping.
+Although it offers a lot of features, many Prime users only stay subscribed for its signature feature—free two-day shipping.
 
-Using FBA is the only way that a third-party Amazon seller can be eligible for Prime two-day shipping. That alone provides a huge boost to your service - customers want their two-day free shipping, and will actively seek out products that provide it. They may even be willing to pay a premium over a competitor because of the money and time they'll save on shipping.
+Using FBA is the only way that a third-party Amazon seller can be eligible for Prime two-day shipping. That alone provides a huge boost to your service—customers want their two-day free shipping, and will actively seek out products that provide it. They may even be willing to pay a premium over a competitor because of the money and time they'll save on shipping.
 
 Overall, you’ll see more conversions from Prime customers who want to take advantage of their subscription. You’ll also be able to offset the FBA fees (more on this later) by increasing your price over non-FBA competitors. 
 
@@ -55,11 +55,11 @@ Ever seller knows that the job doesn't end when the item is delivered. Amazon kn
 
 Amazon taking responsibility for customers’ shipping experience extends into the realm of seller feedback. As explained in our [post about removing inappropriate seller feedback](https://efficientera.com/blog/2016/07/removing-inappropriate-seller-feedback.html), Amazon will strike and take responsibility for any review relating entirely to fulfillment of an FBA product. 
 
-Of course, just because Amazon is handling customer support for shipping, doesn’t mean you get a free pass for all customer support. Product support and product reviews are still completely up to you - in fact, we strongly recommend that you [stay on top of product support](https://efficientera.com/blog/2015/08/3-steps-to-changing-a-negative-amazon-review.html) to grow your business and create repeat customers.
+Of course, just because Amazon is handling customer support for shipping, doesn’t mean you get a free pass for all customer support. Product support and product reviews are still completely up to you—in fact, we strongly recommend that you [stay on top of product support](https://efficientera.com/blog/2015/08/3-steps-to-changing-a-negative-amazon-review.html) to grow your business and create repeat customers.
 
 #### 4) Sales!
 
-As something of a combination between all of the above factors - with Fulfillment by Amazon, you’ll be making more sales. A 2013 study conducted by Amazon found that almost three quarters of FBA sellers (73%) saw **over 20% increases in sales**. 
+As something of a combination between all of the above factors—with Fulfillment by Amazon, you’ll be making more sales. A 2013 study conducted by Amazon found that almost three quarters of FBA sellers (73%) saw **over 20% increases in sales**. 
 
 **An Extra Bonus:** If you want to [expand your Amazon business internationally](https://efficientera.com/blog/2016/06/3-reasons-why-you-should-go-global-on-amazon.html), FBA is a great way to make international shipping much easier. If you ship your inventory to just one EU fulfillment center, that center will fulfill orders in all other EU markets! 
 
@@ -69,7 +69,7 @@ Although we think that FBA is great (could you tell?), you shouldn’t rush into
 
 ### Costs and Considerations
 
-There’s no such thing as a free lunch - with FBA comes inevitable fees. 
+There’s no such thing as a free lunch—with FBA comes inevitable fees. 
 
 As a basic fee, *Amazon takes a percentage of all your FBA items’ profits*. However, [Amazon also charges](https://services.amazon.com/fulfillment-by-amazon/pricing.htm) for things like:  
 

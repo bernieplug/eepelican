@@ -35,7 +35,7 @@ Even if your product won’t be part of the lightning deals sponsored by Amazon,
 
 In addition to a competitive price, you can always offer something more to bring customers over the fence to your products. It is Prime Day, after all. Consider rewarding early buyers with extra deals like free or reduced shipping and/or discounts on your products. 
 
-To really spread awareness for these deals, take full advantage of social media. Let your followers know that you’ll have deals available during Prime Day with a few social media giveaways. Hopefully, you’re gaining followers - ideally, you’re gaining customers.
+To really spread awareness for these deals, take full advantage of social media. Let your followers know that you’ll have deals available during Prime Day with a few social media giveaways. Hopefully, you’re gaining followers—ideally, you’re gaining customers.
 
 ### Conclusion
 

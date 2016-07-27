@@ -10,7 +10,7 @@ The MWS Authorization Token and Seller ID are an important part of what Efficien
 
 ### Giving Efficient Era Developer Access to your Seller Central Account
 
-1. Go to your Seller Central account and click [“Register for MWS”](https://developer.amazonservices.com/gp/mws/registration/register.html).  
+1. Go to [Amazon's MWS page](https://developer.amazonservices.com/) and click [**Sign up for MWS**](https://developer.amazonservices.com/gp/mws/registration/register.html).  
 
 2. Select the option **“I want to give a developer access to my Amazon seller account with MWS.”**
 

@@ -13,11 +13,11 @@ But you’ve always been ambitious. You’ve definitely thought about how to gro
 
 Well, to start, one way a business can grow is by focusing on one or two of their most popular products, allowing you to attract more and more customers through narrow but profitable channels. Obviously, this only works if you already have a very popular item. 
 
-In reality, not all of us are lucky enough to be blessed with one super-hot item. Alternatively, you could go wide - offer more products. Lay a bigger net, so to speak, and hope that a breadth of different customers comes your way. This can be an effective strategy because you do have some leverage as an existing seller. However, the competitiveness of the US market always makes it difficult to get new products going, especially in categories different from your original approach. 
+In reality, not all of us are lucky enough to be blessed with one super-hot item. Alternatively, you could go wide—offer more products. Lay a bigger net, so to speak, and hope that a breadth of different customers comes your way. This can be an effective strategy because you do have some leverage as an existing seller. However, the competitiveness of the US market always makes it difficult to get new products going, especially in categories different from your original approach. 
 
 Here’s the third option, which everyone saw coming: going global.
 
-Expanding into global markets is an extremely powerful growth option that many local Amazon merchants don’t consider at first. It makes sense to think locally when you’re first starting out your Amazon business - just getting your foot in the door of one market is enough work. You may have also thought about it once you had achieved a more comfortable standing in the marketplace, but thought it too daunting a task. 
+Expanding into global markets is an extremely powerful growth option that many local Amazon merchants don’t consider at first. It makes sense to think locally when you’re first starting out your Amazon business—just getting your foot in the door of one market is enough work. You may have also thought about it once you had achieved a more comfortable standing in the marketplace, but thought it too daunting a task. 
 
 Thankfully, going global is much easier than it appears at first glance, especially on Amazon. If you’re looking for an interesting and high-potential way to grow your business, you should definitely give global diversification a look. Here’s why.
 
@@ -25,13 +25,13 @@ Thankfully, going global is much easier than it appears at first glance, especia
 
 If you’re a private label seller on Amazon, you almost definitely know about FBA (fulfilled by Amazon), and you most likely use it too. [If not, here's why you should](https://efficientera.com/blog/2016/07/why-you-should-be-using-fulfillment-by-amazon-fba.html). As useful as FBA is locally, it’s even better for international sales. Before FBA, the number one difficulty of international expansion was the cost of shipping. Now, thanks to FBA, you only have to ship your inventory to one fulfillment center per market, local or international, and Amazon handles the rest. If you’re outsourcing your manufacturing anyway, it’s a very similar process to local sales. 
 
-A specific benefit of selling in the EU markets - the UK, Germany, France, Spain, and Italy - is that you only need to ship to **one** fulfillment center in any of these markets, and that fulfillment center will ship inventory to the other four markets! All you have to do is relist your items in each of the other markets you want to sell in, and the fulfillment center in the first country will fulfill orders in all other EU markets.
+A specific benefit of selling in the EU markets—the UK, Germany, France, Spain, and Italy—is that you only need to ship to **one** fulfillment center in any of these markets, and that fulfillment center will ship inventory to the other four markets! All you have to do is relist your items in each of the other markets you want to sell in, and the fulfillment center in the first country will fulfill orders in all other EU markets.
 
 ---
 
 ####*-Update 6/27/16-*
 
-As you've probably heard, the UK has voted to leave the EU! In terms of Amazon selling, there's not too much to worry about here, since the exit won't take effect for about another two years (if it happens at all). However, pay attention to what trade deals arise - you might have to deal with import fees if you continue to ship to a fulfillment center in the UK and sell to other EU members.
+As you've probably heard, the UK has voted to leave the EU! In terms of Amazon selling, there's not too much to worry about here, since the exit won't take effect for about another two years (if it happens at all). However, pay attention to what trade deals arise—you might have to deal with import fees if you continue to ship to a fulfillment center in the UK and sell to other EU members.
 
 --- 
 
@@ -39,11 +39,11 @@ As you've probably heard, the UK has voted to leave the EU! In terms of Amazon s
 
 As you undoubtedly know, the US Amazon market is cutthroat and difficult to get started in. If that’s where you started your career as an Amazon merchant, you’ve had to overcome some major challenges. This is mostly because it’s so large, and there are bound to be people who had the same ideas as you, only earlier. 
 
-Fortunately, many of the international markets are significantly smaller than the US. In 2015, 56% of Amazon’s net revenue came from North America (including Canada), and the remaining 44% was split between *all* other international markets, including the UK, France, Germany, Italy, Spain, and Japan. However, the markets are growing quickly - Amazon’s international net revenue doubled between 2012 and 2015.
+Fortunately, many of the international markets are significantly smaller than the US. In 2015, 56% of Amazon’s net revenue came from North America (including Canada), and the remaining 44% was split between *all* other international markets, including the UK, France, Germany, Italy, Spain, and Japan. However, the markets are growing quickly—Amazon’s international net revenue doubled between 2012 and 2015.
 
-The smaller size means it’s significantly easier to get started in these markets, as there’s simply less competition. Additionally, the fast growth means that these geographies have the potential to become more and more profitable once you get your footing. Don’t get too comfortable, however - these markets have been growing for a while now, so the competition isn’t nonexistent any more.
+The smaller size means it’s significantly easier to get started in these markets, as there’s simply less competition. Additionally, the fast growth means that these geographies have the potential to become more and more profitable once you get your footing. Don’t get too comfortable, however—these markets have been growing for a while now, so the competition isn’t nonexistent any more.
 
-Nevertheless, a great example of the accessibility of international Amazon markets is the review count you need to make a splash. We’ve found that in order to start making sales in Amazon US, your products need to have anywhere from 30-100 reviews. In contrast, you’ll start seeing sales in international markets with as few as 5-10 reviews on your products. 
+Nevertheless, a great example of the accessibility of international Amazon markets is the review count you need to make a splash. We’ve found that in order to start making sales in Amazon US, your products need to have anywhere from 30–100 reviews. In contrast, you’ll start seeing sales in international markets with as few as 5–10 reviews on your products. 
 
 ### 3 - Efficient Era Offers Tools to Help!
 

@@ -37,7 +37,7 @@ As you settle down at your desk with your morning coffee and check your Amazon P
 
 This isn’t a rare occurrence for Amazon resellers. It’s an everyday reality. Reselling on Amazon is a constant battle to keep your razor-thin margins safe from the dozens of other resellers nibbling like piranhas at your coveted buy-box spot. 
 
-Keeping the buybox is so crucial that many resellers spend thousands of dollars a month on repricing software that lets them duck and weave under competitor prices. As more and more sellers start to use this service though, a race to the bottom starts. Prices and profits hit rock bottom, and the herd of resellers migrates to greener pastures. 
+Keeping the buy box is so crucial that many resellers spend thousands of dollars a month on repricing software that lets them duck and weave under competitor prices. As more and more sellers start to use this service though, a race to the bottom starts. Prices and profits hit rock bottom, and the herd of resellers migrates to greener pastures. 
 
 What if you could have the buy box every time, for every product? No more morning eye-twitches, no more nibbling piranhas. For the veterans of Amazon reselling, this prospect seems like a fantasy. 
 
@@ -129,7 +129,7 @@ The only reputation Amazon resellers can establish is through their seller feedb
 Private label sellers must also pay attention to seller feedback, mostly in relation to Amazon’s search ranking algorithm (blog post coming soon!). Thus, maintaining high feedback ratings is 
 critical to success both as a reseller and as a branded seller. (another blog post coming soon!)
 
-Besides this one statistic, however, resellers never have the opportunity to really build a lasting brand. Nobody remembers that they bought a Nike shoe or a used book from Lots O’ Stuff Inc. .  At best, your relationship with the customer ends once their package arrives. Any repeat sales are pure chance in the massive ocean of the Amazon Marketplace. 
+Besides this one statistic, however, resellers never have the opportunity to really build a lasting brand. Nobody remembers that they bought a Nike shoe or a used book from Lots O’ Stuff Inc. At best, your relationship with the customer ends once their package arrives. Any repeat sales are pure chance in the massive ocean of the Amazon Marketplace. 
 
 The sad reality is that if your resale company disappeared tomorrow, not one customer would notice. A fallen tree in an abandoned forest of resellers reaching to steal the precious sunshine of customer sales from each other.
 

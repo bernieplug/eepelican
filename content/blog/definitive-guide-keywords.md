@@ -11,7 +11,7 @@ Everyone knows that optimizing search terms is an important part in growing your
 
 How much of a priority is this? What counts as a keyword in the first place? Where do I put keywords? How do I know which keywords to use? 
 
-These are all questions you might be asking yourself, and to start with an answer right off the bat - it’s a very high priority. On the Internet in general, but especially on Amazon, if your product doesn’t show up on the results for a related search, you’re not making sales. It’s as simple as that. Keywords get you that discoverability.
+These are all questions you might be asking yourself, and to start with an answer right off the bat—it’s a very high priority. On the Internet in general, but especially on Amazon, if your product doesn’t show up on the results for a related search, you’re not making sales. It’s as simple as that. Keywords get you that discoverability.
 
 You probably know this and a little more if you’ve read our three-part series on Amazon SEO. If not, you can find [part 1](https://efficientera.com/blog/2015/08/part-one-amazon-seo-getting-started.html), [part 2](https://efficientera.com/blog/2015/08/part-two-amazon-seo-product-listing.html), and [part 3](https://efficientera.com/blog/2015/09/part-three-amazon-seo-sales-potential.html) here. 
 
@@ -19,7 +19,7 @@ SEO is a complicated subject with a lot of aspects to consider and tweak. Howeve
 
 Let’s start with a definition.
 
-The term “keyword” is something of a misnomer - don’t think that a key*word* has to be *only* one word. A “keyword” is really **a phrase that a user inputs into a search engine**. “Pants” is technically a keyword, but “cheapest size 34 faded jeans” is also just one keyword.
+The term “keyword” is something of a misnomer—don’t think that a key*word* has to be *only* one word. A “keyword” is really **a phrase that a user inputs into a search engine**. “Pants” is technically a keyword, but “cheapest size 34 faded jeans” is also just one keyword.
 
 Also, please note that although keyword optimization on Google and Amazon is similar, this post will center around optimizing your Amazon keywords. If you need advice on Google SEO, there are many other resources available, such as [Moz](https://moz.com/beginners-guide-to-seo/keyword-research) and [Google AdWords](https://support.google.com/adwords/answer/2453981?hl=en).
 
@@ -35,7 +35,7 @@ You might be wondering how exactly to “use” keywords, or where you actually 
 
 The first place is your product listing itself. As you may know from [part 2 of our SEO series](https://efficientera.com/blog/2015/08/part-two-amazon-seo-product-listing.html), you can put keywords in your title, your feature list, and your description. Amazon’s search engine will look through the whole listing, find these keywords, and use them to decide what searches relate to your product the best. 
 
-The second place is a designated keyword section that Amazon gives you when you’re creating your product listing. The section is called ”*search terms*.” Amazon will use anything you put in these fields to point relevant searches in your direction. You get five fields that accept 50 characters each, so you should use them to their maximum potential. More detail on this later - it’s not as simple as you might think. 
+The second place is a designated keyword section that Amazon gives you when you’re creating your product listing. The section is called ”*search terms*.” Amazon will use anything you put in these fields to point relevant searches in your direction. You get five fields that accept 50 characters each, so you should use them to their maximum potential. More detail on this later—it’s not as simple as you might think. 
 
 ### How do I pick keywords?
 
@@ -77,7 +77,7 @@ On the other hand, think about a customer who searched for “*grey size M water
 
 Those longer, 3+ word phrases are exactly what you’re looking to optimize for. They’re the “long tail” keywords. These keywords are significantly less competitive, making it easier to rank higher for them. They’re also much more likely to convert into sales, since they indicate a desire for a specific product. 
 
-These unique searches may only occur once every few days, as opposed to thousands of daily searches for “fat head” keywords (as those one-word vanity keywords are also called). However, when summed up, long tail searches make up the majority of total search volume - around 70%. You can see this in the graph below, courtesy of [moz.com](https://moz.com/). In addition, since long tail keywords have a notably better conversion rate despite their rarity, the math works out in your favor for making sales. 
+These unique searches may only occur once every few days, as opposed to thousands of daily searches for “fat head” keywords (as those one-word vanity keywords are also called). However, when summed up, long tail searches make up the majority of total search volume—around 70%. You can see this in the graph below, courtesy of [moz.com](https://moz.com/). In addition, since long tail keywords have a notably better conversion rate despite their rarity, the math works out in your favor for making sales. 
 
 ![Search Demand Curve Chart](/images/blog/2015/09/search-demand-chart-colors.gif)
 
@@ -91,9 +91,9 @@ Even though brainstorming about your own ideas for keywords can get you pretty f
 
 I’m talking, of course, about Google.
 
-I know I said that this article is about Amazon keyword optimization, but Google does have a bit of experience in the keyword department. They have an enormous amount of collected data about searches - most importantly, about related keywords.
+I know I said that this article is about Amazon keyword optimization, but Google does have a bit of experience in the keyword department. They have an enormous amount of collected data about searches—most importantly, about related keywords.
 
-If you have a [Google Adwords](https://www.google.com/adwords/) account, you can access one of their most useful features for free - Display Planner. 
+If you have a [Google Adwords](https://www.google.com/adwords/) account, you can access one of their most useful features for free—Display Planner. 
 
 In order to access the Display Planner keyword suggestion tool, log into your Google Adwords account. Under the “*Tools*” tab, click “*Display Planner*.” Once there, click the “*Individual Targeting Ideas*” tab, followed by the “*Keywords*” sub-tab. Now, type in any keyword you like and the tool will return related keywords. 
 
@@ -147,7 +147,7 @@ The nice, concise bullet points below the pricing are an excellent place to put 
 
 However, be careful. Unlike the search terms and the title, the primary purpose of Features is *not* to be stuffed full of keywords. You want your primary focus in this section to be providing specifications or details about the product in a concise, readable manner. Your secondary goal is to weave in a few keywords here and there, but don’t go overboard.
 
-Another thing - **you don’t need to repeat keywords.** Unlike on Google, *there is no benefit to having a keyword appear multiple times on your product listing.* If it appears once, you’ll be able to rank for it, but extra instances do nothing. 
+Another thing—**you don’t need to repeat keywords.** Unlike on Google, *there is no benefit to having a keyword appear multiple times on your product listing.* If it appears once, you’ll be able to rank for it, but extra instances do nothing. 
 
 Gustavo, ever the industrious one, did some research on his competitors to learn how to optimize his Features section. Here’s what he found.
 
@@ -157,19 +157,19 @@ This tough competitor wrote a very detailed Features list, providing a lot of in
 
 **Description**
 
-The description is the section that you have the most control over, and it is a perfectly viable place to put some remaining keywords - Amazon scans it as well. However, we must stress again - **you do not need to repeat keywords** anywhere on your product page. 
+The description is the section that you have the most control over, and it is a perfectly viable place to put some remaining keywords—Amazon scans it as well. However, we must stress again—**you do not need to repeat keywords** anywhere on your product page. 
 
 If you’ve already taken care of most of your keywords in the features list and title, focus more on making your description inviting and marketing your product rather than stuffing it full of keywords to the point of illegibility. In terms of keyword optimization, the description is more of a place to weave in an extra keyword or two that you couldn’t fit anywhere else.
 
 #### Step 4: Watch
 
-Gustavo’s feeling pretty good about his keywords now. You might be too - after all, your advice came from us. In all seriousness, though, the work doesn’t stop there. At the risk of sounding dramatic, it’s only just begun. 
+Gustavo’s feeling pretty good about his keywords now. You might be too—after all, your advice came from us. In all seriousness, though, the work doesn’t stop there. At the risk of sounding dramatic, it’s only just begun. 
 
 To shoehorn in a cliché Winston Churchill quote, “to improve is to change; to be perfect is to change often.” You can’t be certain that your initial swing at keyword optimization will bring back the results you want, simply because keywords are hard and people often use unexpected search terms. You’ll have to change at some point.
 
 The next step, then, is to track the results that your keywords have gotten you. This is difficult to do manually, but fortunately, we have a better solution coming soon… For now, pick a few keywords you’d like to test out, search them, and find where your product ranks. You might have to go through a few pages, but don’t get disheartened! More than anything, it takes time to place well. Keywords aren’t a magic ranking cure-all.
 
-Here’s the problem - tracking keywords manually, although doable, is impractical and difficult, since Amazon doesn’t provide any built-in systems for keyword tracking. Thankfully, Efficient Era has developed a solution for this exact problem. 
+Here’s the problem—tracking keywords manually, although doable, is impractical and difficult, since Amazon doesn’t provide any built-in systems for keyword tracking. Thankfully, Efficient Era has developed a solution for this exact problem. 
 
 The **Efficient Era Keyword Tool** is nearing the end of development, and we’ll update you as soon as it’s released. It tracks all keywords you choose, as well as automatically generated keywords, gives you your ranking for them, gives you new keyword suggestions, and much more. Once it is released, links and more information will be posted in an update below.
 
@@ -179,7 +179,7 @@ The **Efficient Era Keyword Tool** is nearing the end of development, and we’l
 
 Once you’re tracking your keyword standings, whether manually or eventually using our Keyword Tool, you have the power to take action and make the changes you need to. This is really the most important part of keyword optimization, because letting your keywords stagnate is the surest way to get left behind.
 
-Feedback loops make the world go ‘round (no pun intended), and keywords should be no stranger to them. By setting up a system of tracking keywords and making edits, you can test keyword changes out out, see what works and what doesn’t, and make the appropriate adjustments. Constantly change - make Churchill proud.
+Feedback loops make the world go ‘round (no pun intended), and keywords should be no stranger to them. By setting up a system of tracking keywords and making edits, you can test keyword changes out out, see what works and what doesn’t, and make the appropriate adjustments. Constantly change—make Churchill proud.
 
 ####*-Update 6/23/16-*
 

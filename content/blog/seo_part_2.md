@@ -17,7 +17,7 @@ Because of this, it's important to accurately represent what your product is and
 
 This includes filling in as much information as possible. The more information about things like color and brand, the more likely it is that your product will show up when users begin filtering their results. Plus, Amazon might put you on a suppressed listing if you're missing key pieces of information. Be thorough! 
 
-However, just accurately representing your product isn't enough - you need to make good use of keywords to have the best chance of ranking highly. 
+However, just accurately representing your product isn't enough—you need to make good use of keywords to have the best chance of ranking highly. 
 
 ### Keywords
 
@@ -25,7 +25,7 @@ Keywords are one of the most powerful SEO tools on Amazon because you have a lot
 
 You'll need to be very cognizant of what keywords could bring people to your product. Think about what niches your product fills. Target your keywords at those, and be creative. 
 
-Keep in mind - keywords are hard. Sellers often have an idea about what people *should* search to find their products, but more often than not this is different than what keywords people *are* actually using. 
+Keep in mind—keywords are hard. Sellers often have an idea about what people *should* search to find their products, but more often than not this is different than what keywords people *are* actually using. 
 
 Finding the right keywords is a process. It involves research, tools and even some trial and error testing. Looking for more tips on picking keywords? Check out [our post dedicated to keyword strategy](https://efficientera.com/blog/2015/09/the-definitive-guide-to-amazon-keywords.html).
 

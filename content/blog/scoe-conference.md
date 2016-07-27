@@ -31,6 +31,6 @@ Bernie Thompson, founder of Efficient Era, will be speaking on diversifying and 
 
 ### Conclusion
 
-Whether you’re an online retail rookie or you’ve been selling your whole life, the SCOE conference is the place to be. New ideas and the future of ecommerce will be discussed at length by merchants just like you. Consider [reading more about the conference](http://scoe.biz/) or buying a ticket for next year - the information you receive will be well worth the cost. 
+Whether you’re an online retail rookie or you’ve been selling your whole life, the SCOE conference is the place to be. New ideas and the future of ecommerce will be discussed at length by merchants just like you. Consider [reading more about the conference](http://scoe.biz/) or buying a ticket for next year—the information you receive will be well worth the cost. 
 
 Have any questions or comments? Feel free to post them below!
