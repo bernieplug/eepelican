@@ -1,5 +1,6 @@
-Title: Registering your Amazon Account with MWS
+Title: How to Get Your MWS Authorization Token and Seller ID
 Author: Bruce O.
+Slug: registering-your-amazon-account-with-mws
 Category: How-to
 Date: 2015-08-25 8:00
 Tags: Customer Service, Amazon, Getting Started

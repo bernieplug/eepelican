@@ -27,13 +27,9 @@ If you’re a private label seller on Amazon, you almost definitely know about F
 
 A specific benefit of selling in the EU markets—the UK, Germany, France, Spain, and Italy—is that you only need to ship to **one** fulfillment center in any of these markets, and that fulfillment center will ship inventory to the other four markets! All you have to do is relist your items in each of the other markets you want to sell in, and the fulfillment center in the first country will fulfill orders in all other EU markets.
 
----
-
-####*-Update 6/27/16-*
+####*—Update 6/27/16—*
 
 As you've probably heard, the UK has voted to leave the EU! In terms of Amazon selling, there's not too much to worry about here, since the exit won't take effect for about another two years (if it happens at all). However, pay attention to what trade deals arise—you might have to deal with import fees if you continue to ship to a fulfillment center in the UK and sell to other EU members.
-
---- 
 
 ### 2 - International Markets are Small, but Fast-Growing
 

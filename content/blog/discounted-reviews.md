@@ -1,4 +1,4 @@
-Title: Amazon's Discounted Review Change - What It Means
+Title: Amazon's Discounted Review Change – What It Means
 Author: Bruce O.
 Category: News
 Date: 2016-07-26 13:00
