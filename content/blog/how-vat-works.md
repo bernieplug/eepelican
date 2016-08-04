@@ -4,7 +4,7 @@ Category: International
 Date: 2016-08-01 13:00
 Image: how-vat-works.jpg
 Tags: Amazon, News, Feedback
-Summary: VAT is one of the biggest obstacles for would-be global sellers, but it shouldn't stop you. Find out what you need to know about EU taxes and start selling internationally — it's not as hard as you'd think!
+Summary: VAT is one of the biggest obstacles for would-be global sellers, but it shouldn't stop you. Find out what you need to know about EU taxes and start selling internationally.
 Status: published
 
 If you’ve ever considered expanding your Amazon business to sell in Europe, you may have come across those three big, scary letters: VAT. 
@@ -36,7 +36,7 @@ This might still be confusing, so let’s look at an example.
 Our subject for this example is going to be the greatest music album ever to grace the Earth — the completely imaginary LP I just made up called *Too Many Squirrels* by Anthony White and the Inconvenient Doorstops.
 
 ![The Greatest Album Ever Made](/images/blog/2016/08/too-many-squirrels.jpg)  
-*I don't know why I made this.* 
+*(I don't know why I made this.)* 
 
 First, let’s look at the supply chain in an imaginary US state with a sales tax of 20%. 
 
