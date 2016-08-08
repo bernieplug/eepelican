@@ -13,7 +13,7 @@ Here are our four quick tips for staying on top of Amazon inventory management.
 
 *Note: This article assumes that you use FBA for most or all of your products.*
 
-### 1 - Don’t Rely on Amazon 
+### 1. Don’t Rely on Amazon 
 
 Amazon does give you a certain number of tools to manage your inventory—they provide an inventory summary on your dashboard and send you some low-stock alerts. 
 
@@ -36,7 +36,7 @@ You should always plan for the worst-case scenario. For Asian manufacturing, thi
 
 At the end of all this, disregarding emergencies, you should be sitting comfortably when the Amazon low stock alerts come in, knowing that your order placed months ago is coming in soon.
 
-### 2 - Give Every Product Individual Attention
+### 2. Give Every Product Individual Attention
 
 One size does not fit all when it comes to inventory management.
 
@@ -52,7 +52,7 @@ Have a feeling that one of your products is going to be a hit? A surprise spike 
 
 Obviously, the risk can backfire if you overestimate your product or the stars don’t align in some other way. You can end up with way too much inventory and have to deal with cleaning it up, either through discounts, bundles, or giveaways. Use your best judgment and make sure you fully believe in your product before putting the PO behind it. However, if your Amazon business is stuck in a rut, taking that one big risk might be what makes the difference.
 
-### 3 - Monitor Promotions Carefully
+### 3. Monitor Promotions Carefully
 
 Promotions are an excellent way to generate reviews, rankings, and attention to your product listings, and we highly recommend them as a way to grow your Amazon business. However, you need to approach them with a touch of caution, especially in terms of your inventory. 
 
@@ -70,7 +70,7 @@ Additionally, if you really need to pull the emergency brake on a promotion (Ama
 
 If you use this method, be sure to take down references to the promotion, or at least phrase your promotion as “good until X date *or while promotional materials last”* to avoid complaints about the sudden end of the promotion when there appears to be stock left.
 
-### 4 - When in Doubt, Keep Extra
+### 4. When in Doubt, Keep Extra
 
 There is something to be said for the efficiency of a just-in-time inventory management system, and stagnant inventory can rack up huge costs that aren’t giving you any return.
 

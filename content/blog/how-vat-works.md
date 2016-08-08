@@ -3,7 +3,7 @@ Author: Bruce O.
 Category: International
 Date: 2016-08-01 13:00
 Image: how-vat-works.jpg
-Tags: Amazon, News, Feedback
+Tags: Amazon, VAT, Europe
 Summary: VAT is one of the biggest obstacles for would-be global sellers, but it shouldn't stop you. Find out what you need to know about EU taxes and start selling internationally.
 Status: published
 
@@ -71,7 +71,7 @@ To register for VAT, [complete this form through the HMRC site][VATForm].
 
 Once your business is VAT-registered in the UK, *you are required to collect **UK VAT** on every sale you make to EU customers, regardless of their location*. This is true until you exceed certain sales thresholds — more on this under the *Distance Selling Rules* section.
 
-The VAT rate for the UK is currently **20%**, but you should always keep an eye on this rate just in case it changes.
+The VAT rate for the UK is currently **20%**, but you should always keep an eye on this rate just in case it changes. <a href="http://ec.europa.eu/taxation_customs/resources/documents/taxation/vat/how_vat_works/rates/vat_rates_en.pdf" target="_blank">To see all current EU VAT rates, click here</a>.
 
 **You are required to submit a VAT Return** to HM Revenue & Customs (HMRC) **every 3 months**. This return should include your total sales and purchases and the amount of VAT you owe. However, if you made any wholesale purchases from other VAT-registered companies, you had to pay VAT on those purchases — *and you’re allowed to reclaim it*. On the return, you should also include the amount of VAT you can reclaim (all input tax you paid on purchases) and what your VAT refund from HMRC is. 
 
@@ -150,3 +150,5 @@ Ultimately, if you want to know every minute detail of international taxes, you�
 If you need additional help — and you likely will at some point, seeing as this topic is so huge — there are plenty of outside resources available. The best place to start for UK VAT questions is [HMRC’s website](https://www.gov.uk/vat-businesses).
 
 If you have any other questions or comments for us, however, please let us know below!
+
+<font color="B0B0B0">*Tags: Amazon, VAT, MwSt TVA, IVA, Mehrwertsteuer, Taxe sur la Valeur Ajoutée, Impuesto al Valor Agregado, Imposta sul Valore Aggiunto*</font>

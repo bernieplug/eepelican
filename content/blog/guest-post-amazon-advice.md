@@ -7,7 +7,7 @@ Tags: Amazon, Account Suspension, Advice
 Summary: Today, we're featuring a post by the amazing Leah McHugh, an e-commerce consultant for ecommercechris.com. She's here to teach you which Amazon advice you just can't trust!
 Status: published
 
-*This post is by Leah McHugh, an e-commerce consultant for <a href="http://ecommercechris.com/efficientera/">ecommercechris.com.</a> For Amazon sellers, having their merchant account suspended means losing time and money trying to get back in business. Learn how to navigate policy and communicate with Amazon the right way, at the <a href="https://ecommercechris.clickfunnels.com/register"> Frustration-Free Amazon workshop</a> live at SCOE Seattle, August 25-28th.*
+*This post is by Leah McHugh, an e-commerce consultant for <a href="http://ecommercechris.com/efficientera/" target="_blank">ecommercechris.com.</a> For Amazon sellers, having their merchant account suspended means losing time and money trying to get back in business. Learn how to navigate policy and communicate with Amazon the right way, at the <a href="https://ecommercechris.clickfunnels.com/register" target="_blank"> Frustration-Free Amazon workshop</a> live at SCOE Seattle, August 25-28th.*
 
 Policy isn’t sexy. I get it.
 
@@ -49,9 +49,11 @@ Consistently we see people saying that THEY are still doing business in a way th
 
 Amazon can’t get rid of everyone, right?  
 I don’t mean to sound like your mother but if everyone jumped off a bridge, would you?  
-EVERYONE was abusing the review system. EVERYONE was buying resold UPCs. EVERYONE was doing retail arbitrage and dropshipping. Grey hat/ black hat practices are not grandfathered in.
+EVERYONE was abusing the review system. EVERYONE was buying resold UPCs. EVERYONE was doing retail arbitrage and dropshipping. Grey hat/black hat practices are not grandfathered in.
 
 Sure, Amazon will start with the worst offenders and make an example of them. That doesn’t mean they’ll stop there. Make your account compliant now and save yourself a headache later. Your business will run much more smoothly.
 
-*This post, <a href="http://ecommercechris.com/5-kinds-of-amazon-advice-you-should-ignore/">5 Kinds Of Amazon Advice You Should Ignore</a>, originally appeared on [ecommercechris.com](http://ecommercechris.com/).*
+*This post, <a href="http://ecommercechris.com/5-kinds-of-amazon-advice-you-should-ignore/" target="_blank">5 Kinds Of Amazon Advice You Should Ignore</a>, originally appeared on <a href="http://ecommercechris.com/" target="_blank">ecommercechris.com</a>.*
+
+***If you want more content like this, ecommercechris.com is offering a free online masterclass on communicating with Amazon! Check it out here: <a href="https://ecommercechris.clickfunnels.com/webinar-signup" target="_blank">Webinar: How To Write To Amazon So They Actually Read It</a>***
 

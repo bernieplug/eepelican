@@ -20,7 +20,7 @@ Customers are happy to get their invoice right away, without having to plead wit
 We’re excited to be able to make this same tool available to you.  The customer facing side is visible at:
 [http://vat.efficientera.com/](http://vat.efficientera.com/)
 
-And you can read more about how to sign up and use the tool from the sellers’ perspective at [this page](https://efficientera.com/pages/accounting/vat-tool.html).
+And you can read more about how to sign up and use the tool from the sellers’ perspective at [this page](https://efficientera.com/pages/accounting/).
 
 We hope this tool can help you deal with the burdens of European VAT invoicing more efficiently.  If you have any questions or requests at all, please feel free to comment below or email us at
 [support@efficientera.com](mailto:support@efficientera.com)
