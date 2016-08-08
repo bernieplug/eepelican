@@ -21,7 +21,7 @@ Expanding into global markets is an extremely powerful growth option that many l
 
 Thankfully, going global is much easier than it appears at first glance, especially on Amazon. If you’re looking for an interesting and high-potential way to grow your business, you should definitely give global diversification a look. Here’s why.
 
-### 1 - FBA Makes Shipping Effortless
+### 1. FBA Makes Shipping Effortless
 
 If you’re a private label seller on Amazon, you almost definitely know about FBA (fulfilled by Amazon), and you most likely use it too. [If not, here's why you should](https://efficientera.com/blog/2016/07/why-you-should-be-using-fulfillment-by-amazon-fba.html). As useful as FBA is locally, it’s even better for international sales. Before FBA, the number one difficulty of international expansion was the cost of shipping. Now, thanks to FBA, you only have to ship your inventory to one fulfillment center per market, local or international, and Amazon handles the rest. If you’re outsourcing your manufacturing anyway, it’s a very similar process to local sales. 
 
@@ -31,7 +31,7 @@ A specific benefit of selling in the EU markets—the UK, Germany, France, Spain
 
 As you've probably heard, the UK has voted to leave the EU! In terms of Amazon selling, there's not too much to worry about here, since the exit won't take effect for about another two years (if it happens at all). However, pay attention to what trade deals arise—you might have to deal with import fees if you continue to ship to a fulfillment center in the UK and sell to other EU members.
 
-### 2 - International Markets are Small, but Fast-Growing
+### 2. International Markets are Small, but Fast-Growing
 
 As you undoubtedly know, the US Amazon market is cutthroat and difficult to get started in. If that’s where you started your career as an Amazon merchant, you’ve had to overcome some major challenges. This is mostly because it’s so large, and there are bound to be people who had the same ideas as you, only earlier. 
 
@@ -41,7 +41,7 @@ The smaller size means it’s significantly easier to get started in these marke
 
 Nevertheless, a great example of the accessibility of international Amazon markets is the review count you need to make a splash. We’ve found that in order to start making sales in Amazon US, your products need to have anywhere from 30–100 reviews. In contrast, you’ll start seeing sales in international markets with as few as 5–10 reviews on your products. 
 
-### 3 - Efficient Era Offers Tools to Help!
+### 3. Efficient Era Offers Tools to Help!
 
 For the most part, selling internationally on Amazon is very similar to private-label FBA selling in the United States. You’ll still go through all the normal steps, like contacting suppliers, creating high-quality listings, and shipping to fulfillment centers. However, the devil is in the details, and there are a few little things that can trip you up in your path to global expansion.
 
