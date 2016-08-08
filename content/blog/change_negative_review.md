@@ -9,7 +9,7 @@ Status: published
 
 As you check your Amazon product pages to make sure everything is shipshape, you scroll down to the reviews section of your best selling product.
 
-First, you smile knowingly as you see the glowing reviews that users have marked most helpful. You know [how important product reviews are to your e-commerce brand’s reputation](https://efficientera.com/blog/2015/08/start-paying-attention-to-your-amazon-reviews.html). Just to be sure, you check on the newest reviews as well.
+First, you smile knowingly as you see the glowing reviews that users have marked most helpful. You know [how important product reviews are to your e-commerce brand’s reputation](https://efficientera.com/blog/2015/08/start-paying-attention-to-your-amazon-reviews.html){:target="_blank"}. Just to be sure, you check on the newest reviews as well.
 
 Oh no.
 
@@ -27,11 +27,11 @@ With three steps,  you can turn a 1 star review into a positive review. Not only
 
 Acting quickly is critical when addressing customer complaints. If that angry customer review was left a month ago, you’re toast. By this point, the customer has moved on and slipped through your fingers. That review will be an immortal monument to your inattentiveness.
 
-[A study by Dimensional Research and sponsored by Zendesk](http://www.zendesk.com/resources/customer-service-and-lifetime-customer-value) indicates that quick resolution to a problem is the #1 factor in making a customer service interaction “good”. Likewise, slow response is one of the top reasons that made customer service bad.
+[A study by Dimensional Research and sponsored by Zendesk](http://www.zendesk.com/resources/customer-service-and-lifetime-customer-value){:target="_blank"} indicates that quick resolution to a problem is the #1 factor in making a customer service interaction “good”. Likewise, slow response is one of the top reasons that made customer service bad.
 
 If you respond quickly, the customer will notice. No matter how angry they might be with your product, a response from the seller can only be a positive in their eyes. You’ve got their attention, which is always the hardest step.
 
-Responding to negative reviews quickly requires both awareness of product reviews as they come in and the ability to reach out to them in private. [Fortunately, Efficient Era has just to thing to help with quick responses!](https://efficientera.com/pages/feedback/review-notifications.html)
+Responding to negative reviews quickly requires both awareness of product reviews as they come in and the ability to reach out to them in private. [Fortunately, Efficient Era has just to thing to help with quick responses!](https://efficientera.com/pages/feedback/review-notifications.html){:target="_blank"}
 
 ### 2. Be Courteous
 
@@ -53,7 +53,7 @@ Courtesy does not stop at using soft words instead of hurling insults. True cour
 
 In order for the bad review to turn into a good review, you need to solve the customer’s problem. Tempting as it may be from a speed standpoint, this doesn’t always mean offering a refund or return as soon as possible.
 
-Speed in initial contact with the customer is critical. [That being said, don’t get too hung up on speed once the conversation has started.](http://www.helpscout.net/blog/speed-kills/) While you should make initial contact as quickly as you can, take the time to carefully solve their problem. Make them feel like you care, not like you’re trying to sloppily throw together a solution as quickly as you can.    
+Speed in initial contact with the customer is critical. [That being said, don’t get too hung up on speed once the conversation has started.](http://www.helpscout.net/blog/speed-kills/){:target="_blank"} While you should make initial contact as quickly as you can, take the time to carefully solve their problem. Make them feel like you care, not like you’re trying to sloppily throw together a solution as quickly as you can.    
 
 A customer who leaves a bad review has lost faith in your company. In order to restore faith, you need to show meticulous attention to detail. Read the review carefully and ensure you understand their problem. Then, engage the reviewer and ask for more details where necessary.
 

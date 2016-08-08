@@ -7,7 +7,7 @@ Tags: International, Amazon, FBA
 Summary: Expanding to global markets on Amazon is often overlooked, but it's a great way to grow your business. Here's a few reasons why you should give it a try.
 Status: published
 
-Let’s say you’ve already found your footing in the Amazon marketplace as a [private label seller](https://efficientera.com/blog/2015/08/5-reasons-you-should-be-a-private-label.html). You probably have a good number of products with a solid number of reviews on each of them, and you’ve got decent search ranking and monthly sales.
+Let’s say you’ve already found your footing in the Amazon marketplace as a [private label seller](https://efficientera.com/blog/2015/08/5-reasons-you-should-be-a-private-label.html){:target="_blank"}. You probably have a good number of products with a solid number of reviews on each of them, and you’ve got decent search ranking and monthly sales.
 
 But you’ve always been ambitious. You’ve definitely thought about how to grow your business. What are the options available to you?
 
@@ -23,7 +23,7 @@ Thankfully, going global is much easier than it appears at first glance, especia
 
 ### 1. FBA Makes Shipping Effortless
 
-If you’re a private label seller on Amazon, you almost definitely know about FBA (fulfilled by Amazon), and you most likely use it too. [If not, here's why you should](https://efficientera.com/blog/2016/07/why-you-should-be-using-fulfillment-by-amazon-fba.html). As useful as FBA is locally, it’s even better for international sales. Before FBA, the number one difficulty of international expansion was the cost of shipping. Now, thanks to FBA, you only have to ship your inventory to one fulfillment center per market, local or international, and Amazon handles the rest. If you’re outsourcing your manufacturing anyway, it’s a very similar process to local sales. 
+If you’re a private label seller on Amazon, you almost definitely know about FBA (fulfilled by Amazon), and you most likely use it too. [If not, here's why you should](https://efficientera.com/blog/2016/07/why-you-should-be-using-fulfillment-by-amazon-fba.html){:target="_blank"}. As useful as FBA is locally, it’s even better for international sales. Before FBA, the number one difficulty of international expansion was the cost of shipping. Now, thanks to FBA, you only have to ship your inventory to one fulfillment center per market, local or international, and Amazon handles the rest. If you’re outsourcing your manufacturing anyway, it’s a very similar process to local sales. 
 
 A specific benefit of selling in the EU markets—the UK, Germany, France, Spain, and Italy—is that you only need to ship to **one** fulfillment center in any of these markets, and that fulfillment center will ship inventory to the other four markets! All you have to do is relist your items in each of the other markets you want to sell in, and the fulfillment center in the first country will fulfill orders in all other EU markets.
 
@@ -47,7 +47,7 @@ For the most part, selling internationally on Amazon is very similar to private-
 
 One such little thing: VAT invoices. These are a necessity for a number of European purchases, and sending them manually costs dozens of man-hours as invoice requests begin to pile up. 
 
-Fortunately, Efficient Era has tools to help!  [Our VAT tool](https://app.efficientera.com/en/vat/tool/) completely automates VAT invoice delivery, so you can focus on more important things. [You can read more about the VAT tool here](https://efficientera.com/blog/2016/03/automating-your-vat-invoices-for-amazon-eu.html), but we also offer many other tools to help international Amazon sellers. From customizable post-order emails across geographies to market-specific feedback systems, Efficient Era has what you need to expand your Amazon business internationally. [Start your free trial today!](https://app.efficientera.com/register/?)
+Fortunately, Efficient Era has tools to help!  [Our VAT tool](https://app.efficientera.com/en/vat/tool/){:target="_blank"} completely automates VAT invoice delivery, so you can focus on more important things. [You can read more about the VAT tool here](https://efficientera.com/blog/2016/03/automating-your-vat-invoices-for-amazon-eu.html){:target="_blank"}, and [you can read about how VAT works in the first place here](https://efficientera.com/blog/2016/08/how-vat-works-a-guide-to-eu-taxes.html){:target="_blank"}, but we also offer many other tools to help international Amazon sellers. From customizable post-order emails across geographies to market-specific feedback systems, Efficient Era has what you need to expand your Amazon business internationally. [Start your free trial today!](https://app.efficientera.com/register/?){:target="_blank"}
 
 
 ### Conclusions

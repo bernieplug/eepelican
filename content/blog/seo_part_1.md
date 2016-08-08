@@ -37,4 +37,4 @@ The different pieces of A9 can be broken into two major categories: product list
 
 Can't wait until next week? Leave your comments below! We love hearing from our users, readers, and fellow online retailers.
 
-*Update:* [Part 2](https://efficientera.com/blog/2015/08/part-two-amazon-seo-product-listing.html) and [Part 3](https://efficientera.com/blog/2015/09/part-three-amazon-seo-sales-potential.html) are here! Find out how to create a product listing that is sure to rank highly.
+*Update:* [Part 2](https://efficientera.com/blog/2015/08/part-two-amazon-seo-product-listing.html){:target="_blank"} and [Part 3](https://efficientera.com/blog/2015/09/part-three-amazon-seo-sales-potential.html){:target="_blank"} are here! Find out how to create a product listing that is sure to rank highly.

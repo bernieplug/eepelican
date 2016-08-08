@@ -17,7 +17,7 @@ Let’s start with some background.
 
 #### The Original Idea 
 
-Try going to [amazon.com][] right now, typing any keywords into the search bar, and clicking on a random product that pops up.
+Try going to [amazon.com][]{:target="_blank"} right now, typing any keywords into the search bar, and clicking on a random product that pops up.
 
 [amazon.com]: http://www.amazon.com/ 
 

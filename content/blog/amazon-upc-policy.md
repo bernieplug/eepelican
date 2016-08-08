@@ -7,7 +7,7 @@ Tags: Amazon, News
 Summary: Amazon recently changed their policy on UPCs. Will your business be affected by the stricter regulations? Find out here. 
 Status: published
 
-Earlier this year, Amazon rolled out a new plan to crack down on invalid UPC codes that have been cluttering  the marketplace and creating confusion for buyers. Their new requirements state that the only valid Universal Product Codes (UPCs) are those supplied by [GS1](https://www.gs1uk.org/), the global authority for issuing Global Trade Item Numbers (GTINs, the numbers behind the bar code).
+Earlier this year, Amazon rolled out a new plan to crack down on invalid UPC codes that have been cluttering  the marketplace and creating confusion for buyers. Their new requirements state that the only valid Universal Product Codes (UPCs) are those supplied by [GS1](https://www.gs1uk.org/){:target="_blank"}, the global authority for issuing Global Trade Item Numbers (GTINs, the numbers behind the bar code).
 
 Previously, Amazon would only identify different products through their UPCs. This allowed some sellers to buy false UPCs from eBay and other online stores—for much cheaper than a GS1 UPC—and relist an identical product with a different UPC. Currently, Amazon is stocked with millions of duplicate products in which someone administered their own barcode onto an existing product. 
 
@@ -29,7 +29,7 @@ After product identification, the GTINs are turned into barcodes that are machin
 
 ### So What?
 
-Receiving UPCs from outside sources? While probably legal at the time, using a UPC code that isn’t registered with your specific company could now lead to temporary or permanent expulsion from selling on Amazon. If you are using UPCs from a third party, make sure they are valid with the help of [GS1’s Global Electronic Party Information Registry](http://gepir.gs1.org/v32/xx/default.aspx?Lang=en-US/). 
+Receiving UPCs from outside sources? While probably legal at the time, using a UPC code that isn’t registered with your specific company could now lead to temporary or permanent expulsion from selling on Amazon. If you are using UPCs from a third party, make sure they are valid with the help of [GS1’s Global Electronic Party Information Registry](http://gepir.gs1.org/v32/xx/default.aspx?Lang=en-US/){:target="_blank"}. 
 
 If for some reason your GTINs aren’t associated with your company on the database, either your GTINs are invalid or there is a bug in the system. Either way, get it fixed. If following the rules and obtaining valid UPCs means you avoid the fatal blow of account suspension, it’s absolutely worth it.
 

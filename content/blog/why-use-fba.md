@@ -18,7 +18,7 @@ Fulfillment by Amazon, abbreviated as FBA, is a service provided to sellers whic
 Here’s Amazon’s infographic on how FBA works.
 
 ![Amazon FBA Graphic](/images/blog/2016/07/amazon-fba-graphic.jpg)  
-*Source: [amazon.com](http://www.amazon.com/gp/help/customer/display.html?nodeId=200229160)*
+*Source: [amazon.com](http://www.amazon.com/gp/help/customer/display.html?nodeId=200229160){:target="_blank"}*
 
 Now, let's take a look at some of the benefits FBA has to offer.
 
@@ -53,15 +53,15 @@ Overall, you’ll see more conversions from Prime customers who want to take adv
 
 Ever seller knows that the job doesn't end when the item is delivered. Amazon knows this too, and they’re on top of it. The FBA service includes all handling of returns and refunds, as well as any other customer queries or issues. Amazon has a 24/7 customer support team that will answer any questions or attempt to resolve problems that customers have relating to the shipping process. 
 
-Amazon taking responsibility for customers’ shipping experience extends into the realm of seller feedback. As explained in our [post about removing inappropriate seller feedback](https://efficientera.com/blog/2016/07/removing-inappropriate-seller-feedback.html), Amazon will strike and take responsibility for any review relating entirely to fulfillment of an FBA product. 
+Amazon taking responsibility for customers’ shipping experience extends into the realm of seller feedback. As explained in our [post about removing inappropriate seller feedback](https://efficientera.com/blog/2016/07/removing-inappropriate-seller-feedback.html){:target="_blank"}, Amazon will strike and take responsibility for any review relating entirely to fulfillment of an FBA product. 
 
-Of course, just because Amazon is handling customer support for shipping, doesn’t mean you get a free pass for all customer support. Product support and product reviews are still completely up to you—in fact, we strongly recommend that you [stay on top of product support](https://efficientera.com/blog/2015/08/3-steps-to-changing-a-negative-amazon-review.html) to grow your business and create repeat customers.
+Of course, just because Amazon is handling customer support for shipping, doesn’t mean you get a free pass for all customer support. Product support and product reviews are still completely up to you—in fact, we strongly recommend that you [stay on top of product support](https://efficientera.com/blog/2015/08/3-steps-to-changing-a-negative-amazon-review.html){:target="_blank"} to grow your business and create repeat customers.
 
 #### 4) Sales!
 
 As something of a combination between all of the above factors—with Fulfillment by Amazon, you’ll be making more sales. A 2013 study conducted by Amazon found that almost three quarters of FBA sellers (73%) saw **over 20% increases in sales**. 
 
-**An Extra Bonus:** If you want to [expand your Amazon business internationally](https://efficientera.com/blog/2016/06/3-reasons-why-you-should-go-global-on-amazon.html), FBA is a great way to make international shipping much easier. If you ship your inventory to just one EU fulfillment center, that center will fulfill orders in all other EU markets! 
+**An Extra Bonus:** If you want to [expand your Amazon business internationally](https://efficientera.com/blog/2016/06/3-reasons-why-you-should-go-global-on-amazon.html){:target="_blank"}, FBA is a great way to make international shipping much easier. If you ship your inventory to just one EU fulfillment center, that center will fulfill orders in all other EU markets! 
 
 ---
 
@@ -71,14 +71,14 @@ Although we think that FBA is great (could you tell?), you shouldn’t rush into
 
 There’s no such thing as a free lunch—with FBA comes inevitable fees. 
 
-As a basic fee, *Amazon takes a percentage of all your FBA items’ profits*. However, [Amazon also charges](https://services.amazon.com/fulfillment-by-amazon/pricing.htm) for things like:  
+As a basic fee, *Amazon takes a percentage of all your FBA items’ profits*. However, [Amazon also charges](https://services.amazon.com/fulfillment-by-amazon/pricing.htm){:target="_blank"} for things like:  
 
 * Order handling
 * Pick and pack
 * Weight handling
 * Storage (in cubic feet)
 
-These fees mean that you’ll have to take a careful look at your margins and see if using FBA would still make you more profitable. To do this, you can use Amazon's very helpful [FBA revenue calculator](https://sellercentral.amazon.com/fba/profitabilitycalculator/index?lang=en_US). Give it a go and see if FBA is right for you. 
+These fees mean that you’ll have to take a careful look at your margins and see if using FBA would still make you more profitable. To do this, you can use Amazon's very helpful [FBA revenue calculator](https://sellercentral.amazon.com/fba/profitabilitycalculator/index?lang=en_US){:target="_blank"}. Give it a go and see if FBA is right for you. 
 
 Because Amazon will be taking a cut of your margins, each item sold will bring in less revenue than it normally would. However, you’ll be saving money and generating more income in a number of different ways:
 

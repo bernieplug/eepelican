@@ -17,7 +17,7 @@ If your business is stuck in a rut or you’re looking for new ideas to expand y
 *Address*: 22406 Pacific Highway South, Des Moines, WA, 98198
 * **When**: 8/25/16 - 8/28/16
 
-Later this summer, Efficient Era is attending the **Sellers’ Conference for Online Entrepreneurs** (SCOE) in beautiful Seattle, Washington. Ecommerce sellers from across the nation will file into the Four Points by Sheraton hotel the weekend of August 25th through the 28th. For more information on specific speakers and the agenda, [click here](http://scoe.biz/scoe-2016/scoe-2016-agenda/).
+Later this summer, Efficient Era is attending the **Sellers’ Conference for Online Entrepreneurs** (SCOE) in beautiful Seattle, Washington. Ecommerce sellers from across the nation will file into the Four Points by Sheraton hotel the weekend of August 25th through the 28th. For more information on specific speakers and the agenda, [click here](http://scoe.biz/scoe-2016/scoe-2016-agenda/){:target="_blank"}.
 
 ### Experience
 
@@ -31,6 +31,6 @@ Bernie Thompson, founder of Efficient Era, will be speaking on diversifying and 
 
 ### Conclusion
 
-Whether you’re an online retail rookie or you’ve been selling your whole life, the SCOE conference is the place to be. New ideas and the future of ecommerce will be discussed at length by merchants just like you. Consider [reading more about the conference](http://scoe.biz/) or buying a ticket for next year—the information you receive will be well worth the cost. 
+Whether you’re an online retail rookie or you’ve been selling your whole life, the SCOE conference is the place to be. New ideas and the future of ecommerce will be discussed at length by merchants just like you. Consider [reading more about the conference](http://scoe.biz/){:target="_blank"} or buying a ticket for next year—the information you receive will be well worth the cost. 
 
 Have any questions or comments? Feel free to post them below!

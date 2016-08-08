@@ -25,7 +25,7 @@ That is, except for one interesting exception.
 
 Amazon makes a specific allowance for one type of non-organic review directly in their terms of service—the famed “discounted review.” Specifically, the passage states: *”You may not provide compensation for a review **other than a free or discount copy of the product**.”* Amid all the restrictions, asking someone for a review in exchange for a discounted product is perfectly okay!
 
-Understandably, there are restrictions on this method as well. You must ask the reviewer for an unbiased review—soliciting positive reviews is not allowed. Additionally, if you’re unhappy with a solicited review, you’re not allowed to get a refund for the discounted product, nor are you allowed to ask the reviewer to remove a negative review. You’re definitely not allowed to pay reviewers for reviews in any way other than the discounted product. [The list goes on] [ProhibitedLink].
+Understandably, there are restrictions on this method as well. You must ask the reviewer for an unbiased review—soliciting positive reviews is not allowed. Additionally, if you’re unhappy with a solicited review, you’re not allowed to get a refund for the discounted product, nor are you allowed to ask the reviewer to remove a negative review. You’re definitely not allowed to pay reviewers for reviews in any way other than the discounted product. [The list goes on][ProhibitedLink]{:target="_blank"}.
 
 [ProhibitedLink]: https://www.amazon.com/gp/help/customer/display.html?nodeId=200414320
 
@@ -43,7 +43,7 @@ An email correspondence with the Amazon Communities team from November of last y
 
 
  ![Amazon Email](/images/blog/2016/07/discounted-review-email.jpg)  
-*Source: [ruhamama.com][ImgSource]*
+*Source: [ruhamama.com][ImgSource]{:target="_blank"}*
 [ImgSource]: http://www.ruhamama.com/amazon-removing-verified-purchase-badge-on-review-items/
 
 To paraphrase, it seems like Amazon made this change because they want the ‘Verified Purchase’ badge to reflect “purchasing experiences that are available to most Amazon customers.” To us, it seems equally likely that they wanted to dial back their allowance of discounted reviews, because they either mistrust the unbiased nature of these reviews or they want to push their system more in the favor of organic reviews. 

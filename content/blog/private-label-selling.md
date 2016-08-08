@@ -137,7 +137,7 @@ The sad reality is that if your resale company disappeared tomorrow, not one cus
 
 Branded sales are a whole different ballgame. If you’ve done things right, the sudden disappearance of your company should prompt “sky-is-falling” despair among your niche of loyal customers. Even the cool-headed folk at Amazon HQ will note your disappearance with some dismay.
 
-Amazon product reviews play a large role in developing such a strong reputation. You’ll find [our in-depth post on them](https://efficientera.com/blog/2015/08/start-paying-attention-to-your-amazon-reviews.html) valuable if you’re a branded seller or are planning on becoming one.
+Amazon product reviews play a large role in developing such a strong reputation. You’ll find [our in-depth post on them](https://efficientera.com/blog/2015/08/start-paying-attention-to-your-amazon-reviews.html){:target="_blank"} valuable if you’re a branded seller or are planning on becoming one.
 
 Broadly speaking, private label selling on Amazon means building a long lasting reputation and brand. Every product you sell has your name and logo on it. Every customer interaction you have, good and bad, is associated with your name. Every product review speaks not only to your product, but to your company at large.
 
@@ -151,6 +151,6 @@ Before you know it, competitors will be glaring at you with envy as you sit atop
 
 So what are you waiting for? Go Private label!
 
-Of course, it’s not that simple. You can’t just call up a manufacturer and start selling private label - there are quite a few steps to getting started. We’re working on a detailed guide to help you get started. For now, [check out this article to learn about the first step of private label selling: product procurement.](http://www.sellbrite.com/blog/essential-guide-to-product-procurement/)
+Of course, it’s not that simple. You can’t just call up a manufacturer and start selling private label - there are quite a few steps to getting started. We’re working on a detailed guide to help you get started. For now, [check out this article to learn about the first step of private label selling: product procurement.](http://www.sellbrite.com/blog/essential-guide-to-product-procurement/){:target="_blank"}
 
 Thoughts, criticisms, or topic requests? We love to hear from our readers and Amazon sellers. Leave your comments below!

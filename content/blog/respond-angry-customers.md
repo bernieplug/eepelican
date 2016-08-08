@@ -7,7 +7,7 @@ Tags: Amazon, Feedback, Reviews
 Summary: Angry customers are everyone's worst nightmare when it comes to customer service. While we can't make them enjoyable, we can offer a few tips for dealing with them.
 Status: published
 
-You may know that [we’re big on Amazon customer service][CustServLink] here at Efficient Era. It’s a great way to increase conversions, create loyal customers, prevent/change negative reviews… we do nothing but sing its praises. However, customer service, as effective as it can be, comes with a dark side — the dreaded angry customer.
+You may know that [we’re big on Amazon customer service][CustServLink]{:target="_blank"} here at Efficient Era. It’s a great way to increase conversions, create loyal customers, prevent/change negative reviews… we do nothing but sing its praises. However, customer service, as effective as it can be, comes with a dark side — the dreaded angry customer.
 
 [CustServLink]: https://efficientera.com/blog/2016/07/why-customer-service-matters-on-amazon.html
 

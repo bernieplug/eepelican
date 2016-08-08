@@ -15,11 +15,11 @@ Not quite.
 
 It would be nice if Amazon’s review system worked exactly the way Amazon intended. That is, all reviews were completely unbiased reports on product experience and quality from verified customers made in order to help other customers decide if this product is right for them. 
 
-Unfortunately, word about reviews has gotten around the Amazon Seller network. In terms of making sales, they are hugely important, [absolutely critical](https://efficientera.com/blog/2015/08/start-paying-attention-to-your-amazon-reviews.html), completely indispensable, incredibly valuable… pick your adverb-adjective combo, it’s out there. Some of the more dishonest folks of the world have caught on to this obsession with reviews and set out to develop tools which give new sellers a little under-the-table “boost” in their review count.
+Unfortunately, word about reviews has gotten around the Amazon Seller network. In terms of making sales, they are [hugely important](https://efficientera.com/blog/2016/07/why-customer-service-matters-on-amazon.html){:target="_blank"}, [absolutely critical](https://efficientera.com/blog/2015/08/start-paying-attention-to-your-amazon-reviews.html){:target="_blank"}, completely indispensable, incredibly valuable… pick your adverb-adjective combo, it’s out there. Some of the more dishonest folks of the world have caught on to this obsession with reviews and set out to develop tools which give new sellers a little under-the-table “boost” in their review count.
 
 The result: the seedy underbelly of the Amazon market known as black-hat review services. Financial compensation for reviews, automated software blasting hundreds of procedurally generated reviews onto product pages, attacking competitors' products with nonstop negative reviews… You name it, someone does it. Obviously, every one of these is a direct violation of Amazon’s Terms of Service, and we at Efficient Era do not endorse any of these methods.
 
-Fake or dishonest reviews have been a problem on Amazon for a long time. However, [Amazon is working harder to crack down on them](http://fortune.com/2016/04/26/amazon-more-fake-review-lawsuits/), and customers are catching on as well. 
+Fake or dishonest reviews have been a problem on Amazon for a long time. However, [Amazon is working harder to crack down on them](http://fortune.com/2016/04/26/amazon-more-fake-review-lawsuits/){:target="_blank"}, and customers are catching on as well. 
 
 ### Crushed Dreams?
 
@@ -59,7 +59,7 @@ In general, stick to your standard gameplan of accumulating positive reviews thr
 
 Know what’s way better than a negative review? A resolved negative review.
 
-[There are plenty of examples](http://damniwish.com/how-a-2-star-amazon-review-makes-thousands-of-sales/) of customers who were displeased, received excellent customer service, and edited their review to indicate their satisfaction with the customer service along with the product. This type of review is *hugely* valuable to your product listing for a couple of reasons.
+[There are plenty of examples](http://damniwish.com/how-a-2-star-amazon-review-makes-thousands-of-sales/){:target="_blank"} of customers who were displeased, received excellent customer service, and edited their review to indicate their satisfaction with the customer service along with the product. This type of review is *hugely* valuable to your product listing for a couple of reasons.
 
 First: It’s much more realistic than the standard gushy 5-star review. Everyone loves a story with a happy ending. This is a review that is much less likely to be fake—unless the black hat reviewers got very creative, I suppose. 
 
@@ -71,6 +71,6 @@ Of course, getting a resolved review on your product page involves a bit of luck
 
 Overall, just remember not to freak out too much about a few negative reviews. Every Amazon seller has them. They’re a sign of an honest business, and something that customers value when they’re looking for a balanced opinion on your product. If you can resolve the issue and the customer edits their review, that’s ideal; if not, that’s okay too. 
 
-Despite the slight sarcasm, our team at Efficient Era really does believe in the importance of reviews. We believe so much that we developed [feedback automation systems](https://efficientera.com/pages/feedback/) to help you stay on top of your Amazon reviews. [Sign up for a free trial now!](https://app.efficientera.com/register/?)
+Despite the slight sarcasm, our team at Efficient Era really does believe in the importance of reviews. We believe so much that we developed [feedback automation systems](https://efficientera.com/pages/feedback/){:target="_blank"} to help you stay on top of your Amazon reviews. [Sign up for a free trial now!](https://app.efficientera.com/register/?){:target="_blank"}
 
-If you need more specific actionable advice about responding with negative reviews, [check out our article on the subject](https://efficientera.com/blog/2015/08/3-steps-to-changing-a-negative-amazon-review.html). If you have any other questions or comments, post them below!
+If you need more specific actionable advice about responding with negative reviews, [check out our article on the subject](https://efficientera.com/blog/2015/08/3-steps-to-changing-a-negative-amazon-review.html){:target="_blank"}. If you have any other questions or comments, post them below!

@@ -13,7 +13,7 @@ How much of a priority is this? What counts as a keyword in the first place? Whe
 
 These are all questions you might be asking yourself, and to start with an answer right off the bat—it’s a very high priority. On the Internet in general, but especially on Amazon, if your product doesn’t show up on the results for a related search, you’re not making sales. It’s as simple as that. Keywords get you that discoverability.
 
-You probably know this and a little more if you’ve read our three-part series on Amazon SEO. If not, you can find [part 1](https://efficientera.com/blog/2015/08/part-one-amazon-seo-getting-started.html), [part 2](https://efficientera.com/blog/2015/08/part-two-amazon-seo-product-listing.html), and [part 3](https://efficientera.com/blog/2015/09/part-three-amazon-seo-sales-potential.html) here. 
+You probably know this and a little more if you’ve read our three-part series on Amazon SEO. If not, you can find [part 1](https://efficientera.com/blog/2015/08/part-one-amazon-seo-getting-started.html){:target="_blank"}, [part 2](https://efficientera.com/blog/2015/08/part-two-amazon-seo-product-listing.html){:target="_blank"}, and [part 3](https://efficientera.com/blog/2015/09/part-three-amazon-seo-sales-potential.html){:target="_blank"} here. 
 
 SEO is a complicated subject with a lot of aspects to consider and tweak. However, we’ve dedicated this post entirely to keywords. Why? Because they’re arguably the most difficult part of SEO. 
 
@@ -21,7 +21,7 @@ Let’s start with a definition.
 
 The term “keyword” is something of a misnomer—don’t think that a key*word* has to be *only* one word. A “keyword” is really **a phrase that a user inputs into a search engine**. “Pants” is technically a keyword, but “cheapest size 34 faded jeans” is also just one keyword.
 
-Also, please note that although keyword optimization on Google and Amazon is similar, this post will center around optimizing your Amazon keywords. If you need advice on Google SEO, there are many other resources available, such as [Moz](https://moz.com/beginners-guide-to-seo/keyword-research) and [Google AdWords](https://support.google.com/adwords/answer/2453981?hl=en).
+Also, please note that although keyword optimization on Google and Amazon is similar, this post will center around optimizing your Amazon keywords. If you need advice on Google SEO, there are many other resources available, such as [Moz](https://moz.com/beginners-guide-to-seo/keyword-research){:target="_blank"} and [Google AdWords](https://support.google.com/adwords/answer/2453981?hl=en){:target="_blank"}.
 
 ### Why do keywords matter?
 
@@ -33,7 +33,7 @@ You can probably guess why keywords are so important. If a customer can’t find
 
 You might be wondering how exactly to “use” keywords, or where you actually type them out when making an Amazon product page. There are two places to put keywords, which we’ll go over in more detail in the *Step 3: Implement* section. 
 
-The first place is your product listing itself. As you may know from [part 2 of our SEO series](https://efficientera.com/blog/2015/08/part-two-amazon-seo-product-listing.html), you can put keywords in your title, your feature list, and your description. Amazon’s search engine will look through the whole listing, find these keywords, and use them to decide what searches relate to your product the best. 
+The first place is your product listing itself. As you may know from [part 2 of our SEO series](https://efficientera.com/blog/2015/08/part-two-amazon-seo-product-listing.html){:target="_blank"}, you can put keywords in your title, your feature list, and your description. Amazon’s search engine will look through the whole listing, find these keywords, and use them to decide what searches relate to your product the best. 
 
 The second place is a designated keyword section that Amazon gives you when you’re creating your product listing. The section is called ”*search terms*.” Amazon will use anything you put in these fields to point relevant searches in your direction. You get five fields that accept 50 characters each, so you should use them to their maximum potential. More detail on this later—it’s not as simple as you might think. 
 
@@ -69,7 +69,7 @@ Since long tail keywords are so important in SEO, let’s talk about them more i
 
 A lot of people go into Amazon hoping to eventually rank as the first result for some very general one-word keyword. For example, Gustavo might have come in wanting to rank #1 for both the searches “gloves” and “mittens.” Although this ranking would bring a lot of traffic, this goal isn’t advisable for two reasons.
 
-First (obvious) reason: it’s very difficult. Very experienced professional labels with millions of sales are usually the ones that rank first for these “vanity keywords,” and since [Amazon’s search algorithm prioritizes products that it knows will sell well](https://efficientera.com/blog/2015/08/part-one-amazon-seo-getting-started.html), it’s almost impossible to place highly for these competitive keywords early on. 
+First (obvious) reason: it’s very difficult. Very experienced professional labels with millions of sales are usually the ones that rank first for these “vanity keywords,” and since [Amazon’s search algorithm prioritizes products that it knows will sell well](https://efficientera.com/blog/2015/08/part-one-amazon-seo-getting-started.html){:target="_blank"}, it’s almost impossible to place highly for these competitive keywords early on. 
 
 Second reason: have you ever searched for just “*gloves*” on Amazon and immediately bought the first result without a second thought? When a customer is using broad keywords, more often than not, they’re browsing. Looking through the first few results, comparing colors and designs… *not* ready to buy yet. 
 
@@ -77,7 +77,7 @@ On the other hand, think about a customer who searched for “*grey size M water
 
 Those longer, 3+ word phrases are exactly what you’re looking to optimize for. They’re the “long tail” keywords. These keywords are significantly less competitive, making it easier to rank higher for them. They’re also much more likely to convert into sales, since they indicate a desire for a specific product. 
 
-These unique searches may only occur once every few days, as opposed to thousands of daily searches for “fat head” keywords (as those one-word vanity keywords are also called). However, when summed up, long tail searches make up the majority of total search volume—around 70%. You can see this in the graph below, courtesy of [moz.com](https://moz.com/). In addition, since long tail keywords have a notably better conversion rate despite their rarity, the math works out in your favor for making sales. 
+These unique searches may only occur once every few days, as opposed to thousands of daily searches for “fat head” keywords (as those one-word vanity keywords are also called). However, when summed up, long tail searches make up the majority of total search volume—around 70%. You can see this in the graph below, courtesy of [moz.com](https://moz.com/){:target="_blank"}. In addition, since long tail keywords have a notably better conversion rate despite their rarity, the math works out in your favor for making sales. 
 
 ![Search Demand Curve Chart](/images/blog/2015/09/search-demand-chart-colors.gif)
 
@@ -93,11 +93,11 @@ I’m talking, of course, about Google.
 
 I know I said that this article is about Amazon keyword optimization, but Google does have a bit of experience in the keyword department. They have an enormous amount of collected data about searches—most importantly, about related keywords.
 
-If you have a [Google Adwords](https://www.google.com/adwords/) account, you can access one of their most useful features for free—Display Planner. 
+If you have a [Google Adwords](https://www.google.com/adwords/){:target="_blank"} account, you can access one of their most useful features for free—Display Planner. 
 
 In order to access the Display Planner keyword suggestion tool, log into your Google Adwords account. Under the “*Tools*” tab, click “*Display Planner*.” Once there, click the “*Individual Targeting Ideas*” tab, followed by the “*Keywords*” sub-tab. Now, type in any keyword you like and the tool will return related keywords. 
 
-If you don’t have a Google Adwords account, you can use [Google Trends](https://www.google.com/trends/). Search any keyword in the search bar at the top, then scroll down to the bottom right corner. You can see “related searches” there and get some good keyword ideas. Do this for multiple varied keywords and see what you can find, like Gustavo did for the keyword “skiing gloves.”
+If you don’t have a Google Adwords account, you can use [Google Trends](https://www.google.com/trends/){:target="_blank"}. Search any keyword in the search bar at the top, then scroll down to the bottom right corner. You can see “related searches” there and get some good keyword ideas. Do this for multiple varied keywords and see what you can find, like Gustavo did for the keyword “skiing gloves.”
 
 ![Gustavo Related Searches](/images/blog/2015/09/Gustavo_Related_Searches.png)
 
@@ -111,7 +111,7 @@ Now that you and Gustavo have your juicy lists of keywords, it’s time to imple
 
 The first place you’ll want to put keywords is, understandably, the designated spots that Amazon gives you to put keywords. The most important thing about this section: even though each field is for one search “term,” you should **not** put only one word per field. You get 50 characters per field, and you should take advantage of all 50 of those characters.
 
-The very knowledgeable people over at Moz.com have written a fantastic mini-guide on using these search term fields, so I recommend that you go [check that part of this excellent article out](https://moz.com/blog/amazon-seo-organic-search-ranking-factors#factors). Note that you will have to scroll down a little bit; the section in question is titled “Search terms.”
+The very knowledgeable people over at Moz.com have written a fantastic mini-guide on using these search term fields, so I recommend that you go [check that part of this excellent article out](https://moz.com/blog/amazon-seo-organic-search-ranking-factors#factors){:target="_blank"}. Note that you will have to scroll down a little bit; the section in question is titled “Search terms.”
 
 To briefly summarize Moz’s guidelines:
 
@@ -133,13 +133,13 @@ One of the priorities of Google SEO is to make your titles readable and inviting
 
 Amazon, naturally, scans titles of products to determine if they are relevant to searches. The more keywords in your title, the more searches your product will rank for. It’s not exactly as simple as that, but taking advantage of keywords in your title is an important part of Amazon search optimization as a whole.
 
-We’ve addressed this subject in [part two of our series on Amazon SEO](https://efficientera.com/blog/2015/08/part-two-amazon-seo-product-listing.html), under the “Title” section. Now that you have your keywords, you can put this into action, and so can Gustavo. 
+We’ve addressed this subject in [part two of our series on Amazon SEO](https://efficientera.com/blog/2015/08/part-two-amazon-seo-product-listing.html){:target="_blank"}, under the “Title” section. Now that you have your keywords, you can put this into action, and so can Gustavo. 
 
 Listings for mittens don’t necessarily have the longest titles on Amazon, but Gustavo was browsing our SEO article linked above and thought he’d copy over this picture as an example of a keyword-stuffed, 182-character title for a portable charger. 
 
 ![Long Title Example](/images/blog/2015/09/Long_Title_Example.jpg)
 
-Note that you don’t necessarily have to fill your title with every keyword under the sun - Amazon likes shorter titles (under 50 characters is their soft recommendation). However, as long as you’re under 200 characters, you’re fine. Again, check out more details in the “Title” section of [our SEO post on the subject](https://efficientera.com/blog/2015/08/part-two-amazon-seo-product-listing.html).
+Note that you don’t necessarily have to fill your title with every keyword under the sun - Amazon likes shorter titles (under 50 characters is their soft recommendation). However, as long as you’re under 200 characters, you’re fine. Again, check out more details in the “Title” section of [our SEO post on the subject](https://efficientera.com/blog/2015/08/part-two-amazon-seo-product-listing.html){:target="_blank"}.
 
 **Features**
 

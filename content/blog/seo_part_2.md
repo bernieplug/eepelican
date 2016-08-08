@@ -27,7 +27,7 @@ You'll need to be very cognizant of what keywords could bring people to your pro
 
 Keep in mind—keywords are hard. Sellers often have an idea about what people *should* search to find their products, but more often than not this is different than what keywords people *are* actually using. 
 
-Finding the right keywords is a process. It involves research, tools and even some trial and error testing. Looking for more tips on picking keywords? Check out [our post dedicated to keyword strategy](https://efficientera.com/blog/2015/09/the-definitive-guide-to-amazon-keywords.html).
+Finding the right keywords is a process. It involves research, tools and even some trial and error testing. Looking for more tips on picking keywords? Check out [our post dedicated to keyword strategy](https://efficientera.com/blog/2015/09/the-definitive-guide-to-amazon-keywords.html){:target="_blank"}.
 
 Your ultimate goal is to cover as much ground as possible without being too general. Thankfully, they can be used throughout your listing: the title, the specifications, the description. Keep reading to learn how!
 
@@ -81,13 +81,13 @@ When it comes to images, quality is certainly favored over quantity. Many #1 lis
 
 If you're already an Amazon vendor, you probably know all about Fulfillment by Amazon, or FBA. Amazon does *not* directly consider fulfillment method in its ranking algorithm. That being said, there are a lot of related factors that Amazon *does* consider. These include order processing speed, reliability of shipping, in-stock rate and many more shipping-related metrics. Implementing FBA will help improve most of these factors.
 
-If you’re already using FBA, great. A lot of extra SEO benefits apply to you. If you aren’t using it, you likely have your reasons, but [you should consider it](https://efficientera.com/blog/2016/07/why-you-should-be-using-fulfillment-by-amazon-fba.html). FBA could help your SEO efforts, as well as your business in general, quite a bit.
+If you’re already using FBA, great. A lot of extra SEO benefits apply to you. If you aren’t using it, you likely have your reasons, but [you should consider it](https://efficientera.com/blog/2016/07/why-you-should-be-using-fulfillment-by-amazon-fba.html){:target="_blank"}. FBA could help your SEO efforts, as well as your business in general, quite a bit.
 
 
 ### Conclusion
 
-If you haven't already, check out [part one](https://efficientera.com/blog/2015/08/part-one-amazon-seo-getting-started.html) of the series to get a sense of how Amazon SEO can help you.
+If you haven't already, check out [part one](https://efficientera.com/blog/2015/08/part-one-amazon-seo-getting-started.html){:target="_blank"} of the series to get a sense of how Amazon SEO can help you.
 
 Have any questions or suggestions? Leave your comments below! We love hearing from our users, readers, and fellow online retailers. 
 
-*Update:* [Part 3](https://efficientera.com/blog/2015/09/part-three-amazon-seo-sales-potential.html) is here! Find out how to create a product listing that is sure to rank highly.
+*Update:* [Part 3](https://efficientera.com/blog/2015/09/part-three-amazon-seo-sales-potential.html){:target="_blank"} is here! Find out how to create a product listing that is sure to rank highly.

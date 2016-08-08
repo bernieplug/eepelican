@@ -7,7 +7,7 @@ Tags: Amazon, Feedback, Reviews
 Summary: A high-level look at the importance of customer service on Amazon, plus some actionable steps to take to improve your own customer service. Read about them here.
 Status: published
 
-We’re big fans of customer service and feedback loops here at Efficient Era, so we’ve talked at length about them [in various other posts](https://efficientera.com/category/feedback-loop.html). However, sometimes it’s good to take a step back and ask yourself what all the fuss is about. 
+We’re big fans of customer service and feedback loops here at Efficient Era, so we’ve talked at length about them [in various other posts](https://efficientera.com/category/feedback-loop.html){:target="_blank"}. However, sometimes it’s good to take a step back and ask yourself what all the fuss is about. 
 
 Why does customer service matter so much on Amazon?
 
@@ -43,11 +43,11 @@ Evidently, it’s one thing to say “I should have better customer service” a
 
 If you're interested in some additional reading, we have a number of resources on customer service, especially concerning reviews and feedback:
 
-* [3 Steps to Changing a Negative Review](https://efficientera.com/blog/2015/08/3-steps-to-changing-a-negative-amazon-review.html)
-* [Efficient Era’s Buyer-Reviewer Matching Software](https://efficientera.com/blog/2016/06/buyer-reviewer-matching-with-efficient-era.html)
-* [A Guide to Seller Feedback](https://efficientera.com/blog/2016/06/a-guide-to-seller-feedback.html)
-* [How Negative Reviews Can Help Your Product Listings](https://efficientera.com/blog/2016/06/how-negative-reviews-can-help-your-product-listings.html)
-* [How To Remove Inappropriate Seller Feedback](https://efficientera.com/blog/2016/07/removing-inappropriate-seller-feedback.html) 
+* [3 Steps to Changing a Negative Review](https://efficientera.com/blog/2015/08/3-steps-to-changing-a-negative-amazon-review.html){:target="_blank"}
+* [Efficient Era’s Buyer-Reviewer Matching Software](https://efficientera.com/blog/2016/06/buyer-reviewer-matching-with-efficient-era.html){:target="_blank"}
+* [A Guide to Seller Feedback](https://efficientera.com/blog/2016/06/a-guide-to-seller-feedback.html){:target="_blank"}
+* [How Negative Reviews Can Help Your Product Listings](https://efficientera.com/blog/2016/06/how-negative-reviews-can-help-your-product-listings.html){:target="_blank"}
+* [How To Remove Inappropriate Seller Feedback](https://efficientera.com/blog/2016/07/removing-inappropriate-seller-feedback.html){:target="_blank"}
 
 In general, however, our advice for customer service comes down to two things: 
 

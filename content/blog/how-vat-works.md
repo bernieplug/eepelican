@@ -66,7 +66,7 @@ Hopefully, this helped you understand how VAT works at a basic level. Now, let�
 
 If you’re a US seller shipping inventory to the UK, knowing when to register to VAT is very simple: **you must register for VAT as soon as your goods arrive in the UK.** Storing inventory in a European country creates a taxable supply which triggers an immediate need to register for VAT — since you are not a resident of the country, there is no sales threshold before having to register.
 
-To register for VAT, [complete this form through the HMRC site][VATForm].
+To register for VAT, [complete this form through the HMRC site][VATForm]{:target="_blank"}.
 [VATForm]: https://online.hmrc.gov.uk/registration/newbusiness/business-allowed
 
 Once your business is VAT-registered in the UK, *you are required to collect **UK VAT** on every sale you make to EU customers, regardless of their location*. This is true until you exceed certain sales thresholds — more on this under the *Distance Selling Rules* section.
@@ -98,8 +98,8 @@ Your EORI number is your unique identifier as an importer, and it’s used to id
 
 An EORI number can, however, be tied to your VAT number — if you’re already VAT-registered and you register for an EORI number in the UK, your number will simply be the letters “GB” followed by your 9-digit VAT number and suffixed with “000”.
 
-If you’re already VAT-registered, you can apply for an EORI number [here][RegdEORI].  
-If you’re not VAT-registered, you can still apply for an EORI number [here][NonRegdEORI] (but we don't recommend it — see below).
+If you’re already VAT-registered, you can apply for an EORI number [here][RegdEORI]{:target="_blank"}.  
+If you’re not VAT-registered, you can still apply for an EORI number [here][NonRegdEORI]{:target="_blank"} (but we don't recommend it — see below).
 
 [RegdEORI]: https://online.hmrc.gov.uk/shortforms/form/EORIVAT?dept-name=&sub-dept-name=&location=43&origin=http://www.hmrc.gov.uk
 [NonRegdEORI]: https://online.hmrc.gov.uk/shortforms/form/EORINonVATImport?dept-name=&sub-dept-name=&location=43&origin=http://www.hmrc.gov.uk
@@ -137,7 +137,7 @@ Because VAT is collected in stages and businesses who paid input tax are eligibl
 
 This means that if you make any sales to a VAT-registered customer, be it a business or an individual planning to resell your product, that customer may request a **VAT invoice**.
 
-Providing these invoices is not complicated, but it can be time-consuming, especially as you receive more and more requests. Check out [our post on automating your VAT invoices](https://efficientera.com/blog/2016/03/automating-your-vat-invoices-for-amazon-eu.html) if the time cost of sending invoices manually is creating a problem for you.
+Providing these invoices is not complicated, but it can be time-consuming, especially as you receive more and more requests. Check out [our post on automating your VAT invoices](https://efficientera.com/blog/2016/03/automating-your-vat-invoices-for-amazon-eu.html){:target="_blank"} if the time cost of sending invoices manually is creating a problem for you.
 
 ### Conclusion
 
@@ -147,8 +147,8 @@ However, sellers shouldn’t refuse to expand internationally just because they 
 
 Ultimately, if you want to know every minute detail of international taxes, you’ll need to hire a tax advisor. However, that shouldn’t be necessary for your initial expedition into overseas selling.
 
-If you need additional help — and you likely will at some point, seeing as this topic is so huge — there are plenty of outside resources available. The best place to start for UK VAT questions is [HMRC’s website](https://www.gov.uk/vat-businesses).
+If you need additional help — and you likely will at some point, seeing as this topic is so huge — there are plenty of outside resources available. The best place to start for UK VAT questions is [HMRC’s website](https://www.gov.uk/vat-businesses){:target="_blank"}.
 
 If you have any other questions or comments for us, however, please let us know below!
 
-<font color="B0B0B0">*Tags: Amazon, VAT, MwSt TVA, IVA, Mehrwertsteuer, Taxe sur la Valeur Ajoutée, Impuesto al Valor Agregado, Imposta sul Valore Aggiunto*</font>
+<font color="B0B0B0">*Tags: Amazon, VAT, MwSt, TVA, IVA, Mehrwertsteuer, Taxe sur la Valeur Ajoutée, Impuesto al Valor Agregado, Imposta sul Valore Aggiunto*</font>

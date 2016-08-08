@@ -22,9 +22,9 @@ Remember to follow the three top rules for solicited reviews:
 
 3. You must be clear with the reviewer that you welcome positive or negative feedback, and their product review must disclose that a free or discounted product was given in exchange for a fair and honest review.
 
-Read more at in [Amazon’s Customer Review Guidelines](http://www.amazon.com/gp/help/customer/display.html/ref=amb_link_47889982_1?ie=UTF8&nodeId=201602680&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-1&pf_rd_r=03KFK9R11EDEN6FYT045&pf_rd_t=7001&pf_rd_p=2338627022&pf_rd_i=customer-reviews-guidelines).
+Read more at in [Amazon’s Customer Review Guidelines](http://www.amazon.com/gp/help/customer/display.html/ref=amb_link_47889982_1?ie=UTF8&nodeId=201602680&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-1&pf_rd_r=03KFK9R11EDEN6FYT045&pf_rd_t=7001&pf_rd_p=2338627022&pf_rd_i=customer-reviews-guidelines){:target="_blank"}.
 
 Lastly, don’t forget to say thank you for the review. Saying thank you can lead to a multitude of positive results. This person will become a repeat client and in addition to a good review, their word of mouth recommendation will also be huge.  
 
-To see how Efficient Era’s tools can help encourage reviews, visit: [https://efficientera.com/pages/feedback/review-notifications.html](https://efficientera.com/pages/feedback/review-notifications.html)
+To see how Efficient Era’s tools can help encourage reviews, visit: [https://efficientera.com/pages/feedback/review-notifications.html](https://efficientera.com/pages/feedback/review-notifications.html){:target="_blank"}
 

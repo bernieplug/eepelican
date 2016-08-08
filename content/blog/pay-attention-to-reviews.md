@@ -43,11 +43,11 @@ The easiest way to generate positive reviews is to sell a high quality product. 
 
 The answer is simple: customer service.
 
-As a seller, you must be willing to get in the trenches and [reach out to every customer with a negative review.](https://efficientera.com/blog/2015/08/3-steps-to-changing-a-negative-amazon-review.html) Every legitimate concern with your product needs to be addressed courteously and rapidly. Otherwise, there’s a danger of other angry buyers voting the review “helpful”--so much so that it can show up on the first page of your product reviews!
+As a seller, you must be willing to get in the trenches and [reach out to every customer with a negative review.](https://efficientera.com/blog/2015/08/3-steps-to-changing-a-negative-amazon-review.html){:target="_blank"} Every legitimate concern with your product needs to be addressed courteously and rapidly. Otherwise, there’s a danger of other angry buyers voting the review “helpful”--so much so that it can show up on the first page of your product reviews!
 
 With dedication to customer reviews, your brand will build a reputation as a champion for the customers. A negative product review can be edited and changed to a positive review, with a note explaining how helpful customer service was, and how impressed they are with your company. 
 
-In fact, one of our customers’ top-selling products has this type of edited review marked as the #1 most helpful by users! Shocking as it sounds, [a two star review can drive huge sales to your product.](http://www.damniwish.com/how-a-2-star-amazon-review-makes-thousands-of-sales/)
+In fact, one of our customers’ top-selling products has this type of edited review marked as the #1 most helpful by users! Shocking as it sounds, [a two star review can drive huge sales to your product.](http://www.damniwish.com/how-a-2-star-amazon-review-makes-thousands-of-sales/){:target="_blank"}
 
 ### Conclusions
 
@@ -59,6 +59,6 @@ It can sometimes seem you have no control over your product reviews, but there a
 
 Ultimately, Amazon product reviews are a reflection of your company, both for consumers and for yourself. You should be just as alarmed as customers are if your product reviews aren’t stellar. Building a positive brand image is critical to success for private label selling.
 
-If you need some help staying on top of product reviews, Efficient Era has you covered. [Learn about our Product Review Notification service here!](https://efficientera.com/pages/feedback/review-notifications.html)
+If you need some help staying on top of product reviews, Efficient Era has you covered. [Learn about our Product Review Notification service here!](https://efficientera.com/pages/feedback/review-notifications.html){:target="_blank"}
 
 Thoughts, criticisms, or topic requests? We love to hear from our readers and Amazon sellers. Leave your comments below!

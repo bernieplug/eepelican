@@ -6,11 +6,11 @@ Tags: Customer Service, Amazon, Getting Started
 Summary: Authors are a unique group of sellers on Amazon. Here is a guide, developed specifically for authors, to walk through the sign up process.
 Status: published
 
-Efficient Era has many services, so which ones are right for you? Well, to start, the [review notification tool](https://efficientera.com/pages/feedback/review-notifications.html). This feature will alert you any time someone leaves a review for your product. No more checking your listings every day in the hopes of a positive review. Instead, you’ll get an email automatically to let you know.
+Efficient Era has many services, so which ones are right for you? Well, to start, the [review notification tool](https://efficientera.com/pages/feedback/review-notifications.html){:target="_blank"}. This feature will alert you any time someone leaves a review for your product. No more checking your listings every day in the hopes of a positive review. Instead, you’ll get an email automatically to let you know.
 
 Interested? Here’s a few tips to help you get started.
 
-1. Go to the [sign up page](https://app.efficientera.com/register/?) and create an account. If you have any trouble with this process, send us an email at [support@efficientera.com](mailto:support@efficientera.com). <br>![Sign up](/images/blog/2015/08/sign_up.png)
+1. Go to the [sign up page](https://app.efficientera.com/register/?){:target="_blank"} and create an account. If you have any trouble with this process, send us an email at [support@efficientera.com](mailto:support@efficientera.com). <br>![Sign up](/images/blog/2015/08/sign_up.png)
 2. Once you're logged in, the first thing you’ll want to do is enter your products. Under "Account Settings" click "Products" and follow the instructions. Just remember that for books, the ASIN is  the 10 digit ISBN.<br>![Sign up](/images/blog/2015/08/product.png)
 3. Go back to Services & Settings and click "Product Review Notifications." On this page you should enable the service.
 4. After the service is enabled, you can customize the tool for your needs. I’ll walk you through the fields one by one.
@@ -23,7 +23,7 @@ Interested? Here’s a few tips to help you get started.
 ![Sign up](/images/blog/2015/08/review.png)
 5. Once you've completed these steps, all you have to do is hit submit and you’re done.
 
-Ready to start? [Sign up today!](https://app.efficientera.com/register/? "Sign up")
+Ready to start? [Sign up today!](https://app.efficientera.com/register/? "Sign up"){:target="_blank"}
 
 **Note:** It will take up to a day for your reviews to start coming in. Don't be alarmed if you aren't getting emails immediately! 
 

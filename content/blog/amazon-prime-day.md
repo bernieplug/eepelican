@@ -9,7 +9,7 @@ Status: published
 
 *Image source: Amazon.com*
 
-Amazon celebrated their 20th anniversary last year with the first annual Amazon Prime day. With an Amazon Prime membership in hand, customers were invited to partake in thousands of special deals on July 15th. Amazon, being one of the world’s largest online marketplaces, gathered a record-breaking 86 million visits from mobile and desktop browsers on Prime Day. In terms of sheer visits, [Prime Day was a runaway success](http://www.experian.com/blogs/marketing-forward/2015/07/17/amazon-prime-day-huge-success), beating Cyber Monday’s traffic by 51.5 percent and Black Friday’s traffic by 77.2 percent. In terms of sales, Prime Day was also no slouch, leaving Black Friday’s record at the time in the dust with 398 orders per second.
+Amazon celebrated their 20th anniversary last year with the first annual Amazon Prime day. With an Amazon Prime membership in hand, customers were invited to partake in thousands of special deals on July 15th. Amazon, being one of the world’s largest online marketplaces, gathered a record-breaking 86 million visits from mobile and desktop browsers on Prime Day. In terms of sheer visits, [Prime Day was a runaway success](http://www.experian.com/blogs/marketing-forward/2015/07/17/amazon-prime-day-huge-success){:target="_blank"}, beating Cyber Monday’s traffic by 51.5 percent and Black Friday’s traffic by 77.2 percent. In terms of sales, Prime Day was also no slouch, leaving Black Friday’s record at the time in the dust with 398 orders per second.
 
 ![Amazon's traffic over the months leading up to Prime Day.](/images/blog/2016/06/amazon-prime-day-daily-traffic-chart-hitwise.png)
 

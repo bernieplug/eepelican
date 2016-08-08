@@ -11,7 +11,7 @@ The MWS Authorization Token and Seller ID are an important part of what Efficien
 
 ### Giving Efficient Era Developer Access to your Seller Central Account
 
-1. Go to [Amazon's MWS page](https://developer.amazonservices.com/) and click [**Sign up for MWS**](https://developer.amazonservices.com/gp/mws/registration/register.html).  
+1. Go to [Amazon's MWS page](https://developer.amazonservices.com/){:target="_blank"} and click [**Sign up for MWS**](https://developer.amazonservices.com/gp/mws/registration/register.html){:target="_blank"}.  
 
 2. Select the option **“I want to give a developer access to my Amazon seller account with MWS.”**
 
@@ -30,18 +30,17 @@ Europe (amazon.co.uk/.fr/.de/.it/.es): **0585-4477-0074**
 1. The next page you see should have the information you need to connect Efficient Era to your Seller Central account, as below.
 ![MWS Information Page](/images/blog/2015/08/registering_amazon_mws_2.jpg)
 
-2. If you haven’t already, navigate to the [Amazon Marketplace Credentials page][SettingsLink] of Efficient Era by clicking [this link][SettingsLink], or by clicking on the settings icon in the top right of the Efficient Era homepage, clicking on **Account Settings**, then clicking on the **Amazon Marketplace Credentials** tab.
+2. If you haven’t already, navigate to the Amazon Marketplace Credentials page of Efficient Era by clicking [this link][SettingsLink]{:target="_blank"}, or by clicking on the settings icon in the top right of the Efficient Era homepage, clicking on **Account Settings**, then scrolling down to the **Amazon Marketplace Web Service Credentials** tab, the third one from the top.
 
-[SettingsLink]: https://app.efficientera.com/settings/credentials/com/
+[SettingsLink]: https://app.efficientera.com/settings/#/dash
 
-3. Copy the **MWS Auth Token** number and paste it under the **MWS Authorization Token** field.
+3. Click the **Edit** button on the right for the correct marketplace — Amazon.com if you're a US-based seller, or Amazon.co.uk if you're a UK-based seller.
 
 4. Copy the **Seller ID** number and paste it under the **Seller ID** field.
 
-5. Make sure your page looks like the image below.
-![MWS Information Page](/images/blog/2015/08/registering_amazon_mws_3.jpg)
+5. Copy the **MWS Auth Token** number and paste it under the **MWS Authorization Token** field.
 
-6. Hit Submit, **and you’re done!**
+6. Hit **Submit**, and you’re done!
 
 
 
