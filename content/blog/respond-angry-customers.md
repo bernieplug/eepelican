@@ -115,3 +115,5 @@ Angry customers are something of a wild card. Much of the time, there’s an opp
 You should do the best that you can. You’ll be surprised how much anger will fade away if you handle the situation gently. At the same time, you shouldn’t kick yourself if you can’t completely resolve or satisfy every furious customer that comes knocking at your door. Be nice, try hard — but stay sane.
 
 Have any questions, comments, or additions? Leave them below!
+
+***Still having problems with negative reviews? Learn our best strategies for preventing them before they even happen. Download our 6-step guide: [How to Prevent Negative Reviews on Amazon](https://efficientera.leadpages.co/freebie-negative-reviews/){:target="_blank"}.***
