@@ -1,4 +1,4 @@
-Title: How VAT Works – A Guide to EU Taxes
+Title: How VAT Works: A Guide to EU Taxes
 Author: Bruce O.
 Category: International
 Date: 2016-08-01 13:00
