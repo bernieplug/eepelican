@@ -5,6 +5,7 @@ Category: Feedback Loop
 Image: post-order.jpg
 Summary: If you're sending post order emails, make sure you know the rules.
 Tags: feedback loops, feedback, post order emails
+Status: draft
 
 Contacting your customers after their purchase is a great way to make sure they have
 everything they may need and to gain some feedback before receiving your product. Amazon
