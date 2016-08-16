@@ -137,7 +137,7 @@ Because VAT is collected in stages and businesses who paid input tax are eligibl
 
 This means that if you make any sales to a VAT-registered customer, be it a business or an individual planning to resell your product, that customer may request a **VAT invoice**.
 
-Providing these invoices is not complicated, but it can be time-consuming, especially as you receive more and more requests. Check out [our post on automating your VAT invoices](https://efficientera.com/blog/2016/03/automating-your-vat-invoices-for-amazon-eu.html){:target="_blank"} if the time cost of sending invoices manually is creating a problem for you.
+Providing these invoices is not complicated, but it can be time-consuming, especially as you receive more and more requests. Check out [our post on automating your VAT invoices](https://efficientera.com/blog/2016/03/automating-your-vat-invoices-for-amazon-eu.html){:target="_blank"} if the time cost of sending invoices manually is creating a problem for you. If you want to know the best way to send VAT invoices to your customers, [check out this post](https://efficientera.com/blog/2016/08/how-to-personalize-amazon-with-post-order-emails.html){:target="_blank"}.
 
 ### Conclusion
 

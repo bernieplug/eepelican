@@ -2,7 +2,7 @@ Title: Buyer-Reviewer Matching with Efficient Era
 Author: Bruce O.
 Category: Feedback Loop
 Date: 2016-06-21 14:00
-Image: buyer-reviewer.jpg
+Image: buyer-reviewer-matching.jpg
 Tags: Amazon, Feedback, Reviews
 Summary: With Efficient Era's advanced buyer-reviewer matching software, you'll never struggle to contact a reviewer again.
 Status: published
