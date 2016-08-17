@@ -31,7 +31,7 @@ Acting quickly is critical when addressing customer complaints. If that angry cu
 
 If you respond quickly, the customer will notice. No matter how angry they might be with your product, a response from the seller can only be a positive in their eyes. You’ve got their attention, which is always the hardest step.
 
-Responding to negative reviews quickly requires both awareness of product reviews as they come in and the ability to reach out to them in private. [Fortunately, Efficient Era has just to thing to help with quick responses!](https://efficientera.com/pages/feedback/review-notifications.html){:target="_blank"}
+Responding to negative reviews quickly requires both awareness of product reviews as they come in and the ability to reach out to them in private. [Fortunately, Efficient Era has just to thing to help with quick responses!](https://efficientera.com/pages/feedback/){:target="_blank"}
 
 ### 2. Be Courteous
 
