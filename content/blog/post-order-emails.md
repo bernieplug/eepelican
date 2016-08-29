@@ -1,11 +1,25 @@
 Title: How to Personalize Amazon With Post-Order Emails
 Author: Bruce O.
 Category: Feedback Loop
-Date: 2016-08-12 16:00
+Date: 2016-08-29 13:00
 Image: post-order-emails.jpg
 Tags: Amazon, Post-Order, Feedback
-Summary: Why should conversations with buyers end after they make the purchase? Learn about all the powers of post-order emails here.
+Summary: Why should conversations with buyers end after they make the purchase? Learn about all the powers of post-order emails here. <font color="FF751A">***Updated!***</font>
 Status: published
+
+### *Update!*
+
+Efficient Era just launched a brand new, completely overhauled Post-Order Email tool! It offers:
+
+* Multi-product email campaigns with HTML support
+* Email triggers on Confirmed, Shipped or Delivered status, with customizable delays for precise timing
+* Themes and text placeholders to easily create content for dozens of campaigns, while still providing product-specific information.
+
+To try it out now, [sign up for our 60-day free trial here](https://app.efficientera.com/register/?){target="_blank"}!
+
+For a detailed guide on creating your first email campaign, [click here](efficientera.com/postorder-guide/).
+
+---
 
 Post-order emails. As the name suggests, they’re emails that you send after a customer places an order. Shocking, I know. Post-order emails are a fairly standard practice in ecommerce — after all, you need to let the customer know that their order was received, tell them when it’s shipped, give them a tracking number… On Amazon specifically, however, post-order emails work a bit differently from the seller's perspective. That’s because Amazon already sends out order notifications at every stage of shipping. What’s left for sellers to do?
 

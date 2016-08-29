@@ -53,7 +53,7 @@ As a source of initial keyword data, automatic campaigns are hugely valuable. Ho
 
 * While automatic campaigns tell you what keywords Amazon associates with your listing, manual campaigns give you the ability to *teach Amazon other keywords you match with.* This allows for an extra feedback loop of optimization based on keywords you know are successful.
 
-* You can still discover long-tail keywords using manual campaigns: target customer searches from you manual campaign’s broad- and phrase-match searches, just as you would for an automatic campaign. 
+* You can still discover long-tail keywords using manual campaigns: target customer searches from your manual campaign’s broad- and phrase-match searches, just as you would for an automatic campaign. 
  
 * What’s more, automatic campaigns will not show you the actual keywords matched with customers searches. Manual campaigns show you both the customer search *and* the keyword that matched with it.
 
