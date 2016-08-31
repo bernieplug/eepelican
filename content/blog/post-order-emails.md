@@ -1,13 +1,13 @@
 Title: How to Personalize Amazon With Post-Order Emails
 Author: Bruce O.
 Category: Feedback Loop
-Date: 2016-08-29 13:00
+Date: 2016-08-12 13:00
 Image: post-order-emails.jpg
 Tags: Amazon, Post-Order, Feedback
 Summary: Why should conversations with buyers end after they make the purchase? Learn about all the powers of post-order emails here. <font color="FF751A">***Updated!***</font>
 Status: published
 
-### *Update!*
+### <font color="FF751A">Update!</font>
 
 Efficient Era just launched a brand new, completely overhauled Post-Order Email tool! It offers:
 
@@ -15,9 +15,9 @@ Efficient Era just launched a brand new, completely overhauled Post-Order Email 
 * Email triggers on Confirmed, Shipped or Delivered status, with customizable delays for precise timing
 * Themes and text placeholders to easily create content for dozens of campaigns, while still providing product-specific information.
 
-To try it out now, [sign up for our 60-day free trial here](https://app.efficientera.com/register/?){target="_blank"}!
+To try it out now, [sign up for our 60-day free trial here](https://app.efficientera.com/register/?){:target="_blank"}!
 
-For a detailed guide on creating your first email campaign, [click here](efficientera.com/postorder-guide/).
+For a detailed guide on creating your first email campaign, [click here](https://efficientera.com/postorder-guide/){:target="_blank"}.
 
 ---
 
