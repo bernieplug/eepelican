@@ -108,4 +108,4 @@ Any questions or comments? Do you think brand gating is good or bad for Amazon a
 
 <a href="https://efficientera.com/blog/2016/08/how-to-stay-compliant-when-soliciting-reviews.html" target="_blank">![Compliant Reviews Image](/images/blog/related/compliant-reviews_small.jpg)</a>
 <a href="https://efficientera.com/blog/2016/08/what-you-should-do-about-amazonbasics.html" target="_blank">![Amazon Basics Image](/images/blog/related/amazon-basics-general_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/07/the-lowdown-on-super-urls.html" target="_blank">![Super URLs Image](/images/blog/2016/08/super-urls_small.jpg)</a>
+<a href="https://efficientera.com/blog/2016/07/the-lowdown-on-super-urls.html" target="_blank">![Super URLs Image](/images/blog/related/super-urls_small.jpg)</a>

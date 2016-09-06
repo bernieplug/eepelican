@@ -110,9 +110,9 @@ Bid+ is a relatively new addition to the roster of Amazon tools available for Sp
 
 When you turn on Bid+ for a campaign, it will automatically increase your bids by up to 50% for each keyword match in an effort to beat the next highest bid.
 
-As an example. Let’s say a keyword you bid $0.50 on matches a shopper’s search. Bid+ finds that the highest bid is $0.65, so it increases your bid to $0.66 in order to win that bid. However, let’s say the highest bid was $0.80. Bid+ won’t increase your bid by more than 50%, which would be $0.75, so it wouldn’t change your bid at all.
+As an example. Let’s say a keyword you bid $0.50 on matches a shopper’s search. Bid+ finds that the highest bid is $0.65, so it increases your bid to $0.66 in order to win that bid. However, let’s say instead that the highest bid was $0.80. Bid+ won’t increase your bid by more than 50%, which would be $0.75 — in this case, it wouldn’t change your bid at all.
 
-Bid+ only works for manual campaigns, another great reason to switch your campaigns to manual if you weren’t already convinced.
+Bid+ only works for manual campaigns, which is, if you weren't already convinced, another great reason to switch your campaigns to manual.
 
 Amazon says that Bid+ gives a better chance for your Sponsored Products to rank for searches, but in our practice, **Bid+ is absolutely necessary to get to the top of page 1, even if there are no other Bid+ bids**. Basically, if you want your Sponsored Products to rank at the top of lists, you *need* to be using Bid+. 
 
@@ -125,3 +125,11 @@ Sponsored Products, as with many things on Amazon, are a hugely complicated topi
 However, with these tips applied to your Sponsored Products strategy, you should be in a very good position to get the most out of your Amazon marketing.
 
 Have any questions, comments, or additions? Post them below as always!
+
+---
+
+#### *If you liked this article, take a look at some of our others!*
+
+<a href="https://efficientera.com/blog/2016/08/how-to-respond-to-angry-customers-in-6-steps.html" target="_blank">![Angry Customers Image](/images/blog/related/respond-angry-customers_small.jpg)</a>
+<a href="https://efficientera.com/blog/2016/07/the-lowdown-on-super-urls.html" target="_blank">![Super URLs Image](/images/blog/related/super-urls_small.jpg)</a>
+<a href="https://efficientera.com/blog/2016/08/how-to-personalize-amazon-with-post-order-emails.html" target="_blank">![Post-Order Image](/images/blog/related/post-order-emails_small.jpg)</a>

@@ -107,7 +107,9 @@ Have any questions, comments, or additions? As always, leave them below!
 
 #### *If you liked this article, take a look at some of our others!*
 
-<a href="https://efficientera.com/blog/2016/07/the-lowdown-on-super-urls.html" target="_blank">![Super URLs Image](/images/blog/2016/08/super-urls_small.jpg)</a> <a href="https://efficientera.com/blog/2016/08/how-to-personalize-amazon-with-post-order-emails.html" target="_blank">![Post-Order Image](/images/blog/2016/08/post-order-emails_small.jpg)</a> <a href="https://efficientera.com/blog/2016/07/why-customer-service-matters-on-amazon.html" target="_blank">![Customer Service Image](/images/blog/2016/08/why-customer-service_small.jpg)</a>
+<a href="https://efficientera.com/blog/2016/07/the-lowdown-on-super-urls.html" target="_blank">![Super URLs Image](/images/blog/related/super-urls_small.jpg)</a>
+<a href="https://efficientera.com/blog/2016/08/how-to-personalize-amazon-with-post-order-emails.html" target="_blank">![Post-Order Image](/images/blog/related/post-order-emails_small.jpg)</a>
+<a href="https://efficientera.com/blog/2016/07/why-customer-service-matters-on-amazon.html" target="_blank">![Customer Service Image](/images/blog/related/why-customer-service_small.jpg)</a>
 
 
 
