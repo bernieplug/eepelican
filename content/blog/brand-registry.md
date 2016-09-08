@@ -88,6 +88,6 @@ Have any questions or additions? As always, leave your comments below!
 
 #### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
 
-<a href="https://efficientera.com/blog/2016/09/amazon-brand-gating.html" target="_blank">![Brand Gating Image](/images/blog/related/brand-gating_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/3-tips-for-optimizing-your-amazon-sponsored-products.html" target="_blank">![Sponsored Products Image](/images/blog/related/sponsored-products_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/07/the-lowdown-on-super-urls.html" target="_blank">![Super URLs Image](/images/blog/related/super-urls_small.jpg)</a>
+<a href="https://efficientera.com/blog/2016/09/amazon-brand-gating.html">![Brand Gating Image](/images/blog/related/brand-gating_small.jpg)</a>
+<a href="https://efficientera.com/blog/2016/08/3-tips-for-optimizing-your-amazon-sponsored-products.html">![Sponsored Products Image](/images/blog/related/sponsored-products_small.jpg)</a>
+<a href="https://efficientera.com/blog/2016/07/the-lowdown-on-super-urls.html">![Super URLs Image](/images/blog/related/super-urls_small.jpg)</a>
