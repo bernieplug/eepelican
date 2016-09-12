@@ -90,6 +90,14 @@ However, your business is your business. If Amazon believes they have fixed the 
 
 Have any questions or comments? Let us know below!
 
+---
+
+#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
+
+<a href="https://efficientera.com/blog/2016/09/compilation-policy-changes.html">![Policy Compilation Image](/images/blog/related/policy-compilation_small.jpg)</a>
+<a href="https://efficientera.com/blog/2016/07/amazons-discounted-review-change-what-it-means.html">![Review Change Image](/images/blog/related/discounted-reviews_small.jpg)</a>
+<a href="https://efficientera.com/blog/2016/08/how-vat-works-a-guide-to-eu-taxes.html">![VAT Image](/images/blog/related/how-vat-works_small.jpg)</a>
+
 
 
 

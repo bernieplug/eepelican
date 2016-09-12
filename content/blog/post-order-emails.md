@@ -117,4 +117,12 @@ To sum it up in one sentence: post-order emails are a fantastic tool for persona
 
 Have any other questions, comments, or additions? Leave them below!
 
+---
+
+#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
+
+<a href="https://efficientera.com/blog/2016/08/3-tips-for-optimizing-your-amazon-sponsored-products.html">![Sponsored Products Image](/images/blog/related/sponsored-products_small.jpg)</a>
+<a href="https://efficientera.com/blog/2016/08/how-to-stay-compliant-when-soliciting-reviews.html">![Compliant Reviews Image](/images/blog/related/compliant-reviews_small.jpg)</a>
+<a href="https://efficientera.com/blog/2016/08/how-to-respond-to-angry-customers-in-6-steps.html">![Angry Customers Image](/images/blog/related/respond-angry-customers_small.jpg)</a>
+
 
