@@ -5,7 +5,7 @@ Date: 2016-09-09 13:00
 Image: policy-compilation.jpg
 Slug: compilation-policy-changes
 Tags: Amazon, Amazon Policy, News
-Summary: Amazon is changing their policy every which way these days, and it can be difficult to find every change they've made. That's why we made this handy compilation!
+Summary: Amazon is changing their policy every which way these days, and it can be difficult to track down every change they've made. That's why we made this handy compilation!
 Status: published
 
 Anyone who's sold on Amazon knows that the company's apparent lack of enforcement can get frustrating. Amazon suspends sellers every day for violating their Terms of Service, but it seemed like honest sellers would always run into competitors breaking the rules and going unpunished. There were always sellers paying for reviews, relying exclusively on discounted reviews from shady review trading sites, creating armies of secondary accounts just to post reviews… you name it.

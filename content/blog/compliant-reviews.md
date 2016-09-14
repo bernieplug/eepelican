@@ -97,5 +97,5 @@ Since this is such a tricky subject, it's especially understandable that you mig
 #### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
 
 <a href="https://efficientera.com/blog/2016/07/amazons-discounted-review-change-what-it-means.html">![Review Change Image](/images/blog/related/discounted-reviews_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/5-kinds-of-amazon-advice-you-should-ignore.html">![Ignore Advice Image](/images/blog/related/amazon-advice-guest-image_small.jpg)</a>
+<a href="https://efficientera.com/blog/2016/09/compilation-policy-changes.html">![Policy Compilation Image](/images/blog/related/policy-compilation_small.jpg)</a>
 <a href="https://efficientera.com/blog/2016/07/the-lowdown-on-super-urls.html">![Super URLs Image](/images/blog/related/super-urls_small.jpg)</a>
