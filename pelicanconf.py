@@ -56,10 +56,10 @@ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{slug}.html'
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{slug}.html'
 INDEX_SAVE_AS = 'blog/index.html'
 TEMPLATE_PAGES = {
-
     'templates/google96a16df7dbeb77e9.html': 'google96a16df7dbeb77e9.html',
     'templates/test_lead_page.html': 'test_lead_page.html',
     'templates/index.html': 'index.html',
+    'templates/atlassian-domain-verification.html': 'atlassian-domain-verification.html',
 }
 SITEMAP_SAVE_AS = 'sitemap.xml'
 
