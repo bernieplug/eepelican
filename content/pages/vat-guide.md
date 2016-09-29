@@ -1,5 +1,5 @@
 Title: VAT Tool Guide: Automating Invoices
-save_as: vat-guide/index.html
+save_as: guide-vat/index.html
 
 We’ve just revamped our VAT Invoice Tool, and we wanted to walk you through all the new features and show you how the tool works now!
 

@@ -5,7 +5,7 @@ Date: 2016-09-09 13:00
 Image: policy-compilation.jpg
 Slug: compilation-policy-changes
 Tags: Amazon, Amazon Policy, News
-Summary: Amazon is changing their policy every which way these days, and it can be difficult to track down every change they've made. That's why we made this handy compilation!
+Summary: Amazon is changing their policy every which way these days, and it can be difficult to track down every change they've made. That's why we made this handy compilation! <font color="FF751A">Updated 9/23/16.</font>
 Status: published
 
 Anyone who's sold on Amazon knows that the company's apparent lack of enforcement can get frustrating. Amazon suspends sellers every day for violating their Terms of Service, but it seemed like honest sellers would always run into competitors breaking the rules and going unpunished. There were always sellers paying for reviews, relying exclusively on discounted reviews from shady review trading sites, creating armies of secondary accounts just to post reviews… you name it.
@@ -50,7 +50,7 @@ Expect this post to be updated as more changes appear. Let’s begin!
 	* [The Great Amazon Purge subreddit](https://www.reddit.com/r/thegreatamazonpurge){:target="_blank"}
 	* [TechCrunch article about seller lawsuit](https://techcrunch.com/2016/06/01/amazon-sues-sellers-for-buying-fake-reviews/){:target="_blank"} 
 
-### 3. Spending Minimum for Reviews
+### 3. Spending Minimum for Reviews <font color="FF751A">(UPDATED)</font>
 
 * **Date:** Early August 2016
 
@@ -71,6 +71,8 @@ Expect this post to be updated as more changes appear. Let’s begin!
 	First, this phrase could mean that the full price of the item is not taken into account — if an item is normally priced above $5.00, but it’s purchased at a discount for less than $5.00, it would not fulfill the minimum by itself. 
 
 	Second, the more pessimistic reading: *no* promotional purchases count *at all* towards the threshold. This would mean that even if an account purchased a $100.00 item at a 70% discount, bringing their price down to $30.00 (still well above the minimum), they would *not* be eligible to leave a review without spending $5.00 on another, non-discounted purchase. No one knows for sure which of these readings is correct, if any.
+
+* <font color="FF751A">**UPDATE:**</font> As of September 23rd, **Amazon has raised the minimum requirement to leave a review from $5.00 to $50.00.**
 
 * **Read More Here:** 
 	* [SellerLabs post about review policy change](https://www.sellerlabs.com/blog/amazon-shopper-review-policy-update-august-2-2016/){:target="_blank"}
