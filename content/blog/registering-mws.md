@@ -12,7 +12,6 @@ We are very serious about your privacy and your data is safe with us. Here are t
 
 ### Part 1: Grant Efficient Era Developer Access to your MWS Account
 
-
 There are two pieces of information that you will need from this MWS Account Authorization step: 1) MWS Authorization Token and 2) Seller ID. Here’s a step-by-step guide on how to get them. 
 
 1. Go to [Amazon's MWS page for North America](https://developer.amazonservices.com/){:target="_blank"} and click [**Sign up for MWS**](https://developer.amazonservices.com/gp/mws/registration/register.html){:target="_blank"}.  
