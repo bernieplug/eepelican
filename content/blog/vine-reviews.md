@@ -21,7 +21,7 @@ Amazon Vine was launched in 2007, and it’s basically Amazon’s internal sourc
 
 Basically, Amazon directly invites reviewers who have a high percentage of ‘Helpful’ votes to become ‘Vine Voices.’ It’s important to note that this direct invite is the *only* way to join Vine as a reviewer.
 
-Vine Voices, once they’re admitted, can select free or discounted products from a list provided by Amazon. In return, they most post a review, either positive or negative, within 30 days of receiving the product. Those reviews, once posted, have a ‘Vine Voice’ badge visible to anyone. 
+Vine Voices, once they’re admitted, can select free or discounted products from a list provided by Amazon. In return, they must post a review, either positive or negative, within 30 days of receiving the product. Those reviews, once posted, have a ‘Vine Voice’ badge visible to anyone. 
 
 ![Vine Review Header Example](/images/blog/2016/10/vine-review.png)
 
