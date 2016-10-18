@@ -37,7 +37,7 @@ Next, set your default emails and VAT registration. To do this, click <font colo
 * Add your VAT support email: if customers have any questions about the VAT invoices, they will be directed to this email, which will be displayed on the invoice generation page.
 
 * Add your default VAT registration, which is usually the country where your goods are warehoused if you’re using Amazon FBA.  
-	* If a customer makes a purchase from an EU country in which you are not registered, and the customer themselves is not VAT registered, VAT will be invoiced under the rate of this default VAT registration.
+	* If a customer makes a purchase from an EU country in which you are not registered, and the customer themselves is not VAT registered, VAT will be invoiced under this default VAT registration number and its value will be zero.
 
 #### Email Templates
 
