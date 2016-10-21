@@ -13,6 +13,14 @@ The webinar will take place on **Tuesday, October 25th** at **10:00 am PST.** Si
 
 <a href=https://efficientera.leadpages.co/webinar3/>![Efficient Era Webinar](/images/blog/2016/10/webinar-header.jpg)</a>
 
+### Who Is Bernie Thompson?
+
+Bernie is a veteran Amazon seller, who has built a multi-million dollar business that has grown its sales on Amazon every year since 2009. 
+
+His company's products are sold globally across 9 Amazon marketplaces to over 150 countries worldwide. Located in Redmond, Washington, very close to Amazon's headquarters, his company has been a special participant in several of Amazon's beta rollouts and was also one of the first 5 to be certified in Amazon's Brand Registry program. 
+
+Bernie is also the founder of Efficient Era, a software company that offers powerful tools to Amazon sellers - the very tools he uses on a daily basis to grow his multi-million dollar business on Amazon. In this webinar he will show you how his company has been using winning strategies that do not go against Amazon's policies and how he achieved success without gaming the system.
+
 ### What Will Be Covered?
 
 In this 60-minute webinar, Bernie will talk about 4 winning strategies that have helped him deal with the cold-start problem, stay compliant with Amazon's Terms of Service and grow into a multi-million dollar global business selling products in over 150 countries, primarily using Fulfilment by Amazon. 
