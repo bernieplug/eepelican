@@ -12,6 +12,7 @@ We are very serious about your privacy and your data is safe with us. Here are t
 
 ### Part 1: Grant Efficient Era Developer Access to your MWS Account
 
+
 There are two pieces of information that you will need from this MWS Account Authorization step: 1) MWS Authorization Token and 2) Seller ID. Here’s a step-by-step guide on how to get them. 
 
 1. Go to [Amazon's MWS page for North America](https://developer.amazonservices.com/){:target="_blank"} and click [**Sign up for MWS**](https://developer.amazonservices.com/gp/mws/registration/register.html){:target="_blank"}.  
@@ -57,7 +58,7 @@ Next, navigate to your Seller Central account and give the correct access permis
 3. Click **Add a New Seller Central User**.
 4. Under the email field, enter **services@efficientera.com**.
 5. Click **Send Invitation**.
-6. A little while after the invitation is sent, you should receive an email from services@efficientera.com containing a confirmation code.
+6. Once the invitation is sent, you should receive an email from services@efficientera.com containing a confirmation code. This process could take from 24-48 hours.
 7. Return to the User Permissions page. You should now see **services@efficientera.com** as a pending user with a confirmation code displayed.
 8. Verify that the code in the email you received is the same as the one displayed on the User Permissions page, then click **Confirm**.
 9. In the Efficient Era user, click **Add User Permissions**. 
