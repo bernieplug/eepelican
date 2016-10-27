@@ -1,7 +1,7 @@
 Title: Order Automation Tool Guide: Creating Your First Email Campaign
-save_as: postorder-guide/index.html
+save_as: followup-guide/index.html
 
-Efficient Era just launched a powerful new Order Automation tool with a ton of new features. We’re really excited about it, so we wanted to put together a guide to lead you through the steps to creating your first post-order email!
+Efficient Era just launched a powerful new Order Automation tool with a ton of new features. We’re really excited about it, so we wanted to put together a guide to lead you through the steps to creating your first follow-up email!
 
 ***Note: In order to use the Order Automation tool, you’ll need to provide Efficient Era with your MWS credentials. [Click here](https://efficientera.com/blog/2015/08/registering-your-amazon-account-with-mws.html){target="_blank"} to learn how.*** 
 
@@ -11,9 +11,9 @@ The first thing you’ll notice as you head to the Efficient Era dashboard is a 
 
 ![Order Automation Panel](/images/pages/postorder-panel.png)
 
-This window will show you how many post-order emails you’re sending per day over various time scales.
+This window will show you how many follow-up emails you’re sending per day over various time scales.
 
-Now, if you click on <font color="FF751A">**Order Automation Settings**</font> in the top right of that window, or click on <font color="FF751A">**Order Automation**</font> in the top navigation bar, you’ll find the main Order Automation tool. This is where you can start creating your post-order emails.
+Now, if you click on <font color="FF751A">**Order Automation Settings**</font> in the top right of that window, or click on <font color="FF751A">**Order Automation**</font> in the top navigation bar, you’ll find the main Order Automation tool. This is where you can start creating your follow-up emails.
 
 ### How the Tool Works
 
@@ -21,7 +21,7 @@ You’ll notice the two main tabs in the tool are Email Campaigns and Email Them
 
 #### Email Campaigns
 
-Email campaigns are the bread and butter of our tool — they’re the things that actually send out post-order emails. 
+Email campaigns are the bread and butter of our tool — they’re the things that actually send out follow-up emails. 
 
 You can add any number of products to a campaign, and any product can belong to as many campaigns as you want. At the end of the day, however, if a product belongs to a campaign, and someone orders that product, the campaign will send that customer an email based on the rules you set.
 
@@ -31,7 +31,7 @@ An email theme is a sort of “shell” that can be applied to any campaign, pur
 
 Themes are great for company-wide messages that you want to include in a large number of your campaigns. They can include product-specific information if you use our text placeholders (more on that later), but they’re also a great place for a company message or logo. 
 
-Now, let’s go over how to set up a campaign and start sending post-order emails! In order to do that, we’ll need to start by creating a theme.
+Now, let’s go over how to set up a campaign and start sending follow-up emails! In order to do that, we’ll need to start by creating a theme.
 
 ### 1) Creating a Theme
 
