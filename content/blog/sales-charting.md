@@ -1,7 +1,7 @@
 Title: Efficient Era Sales Charting: Data that Does More
 Category: Efficient Era
 Date: 2016-10-31 12:00
-Image: sales-charting.jpg
+Image: sales-chart.jpg
 Tags: Efficient Era, Sales Charting, Reports
 Slug: sales-charting
 Summary: Charting is important, but you don't just want data for data's sake. Your data should be easy to read, and it should be actionable. We made Efficient Era sales charting to fit that bill!
