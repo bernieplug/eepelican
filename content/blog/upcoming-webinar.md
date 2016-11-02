@@ -13,6 +13,10 @@ The webinar will take place on **Tuesday, October 25th** at **10:00 am PST.** Si
 
 <a href=https://efficientera.leadpages.co/webinar3/>![Efficient Era Webinar](/images/blog/2016/10/webinar-header.jpg)</a>
 
+### Update: Webinar Recording
+
+If you missed the webinar and want to check out the recording, have no fear! [Just click on this link](https://www.youtube.com/watch?v=NgAfNnGZfHI) to watch the whole thing.
+
 ### Who Is Bernie Thompson?
 
 Bernie is a veteran Amazon seller, who has built a multi-million dollar business that has grown its sales on Amazon every year since 2009. 
