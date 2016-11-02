@@ -1,4 +1,4 @@
-Title: Upcoming Webinar with Bernie Thompson
+Title: Webinar with Bernie Thompson
 Category: News
 Date: 2016-10-19 12:00
 Image: upcoming-webinar.png
@@ -7,15 +7,17 @@ Slug: upcoming-webinar
 Summary: If you are a marketplace seller who is interested to learn how to survive Amazon's policy changes without risking a violation of their ToS OR gaming the system, this webinar is for you!
 Status: published
 
+### <font color="FF751A">Update: Webinar Replay</font>
+
+If you missed the webinar and want to check out the recording, have no fear! [Just click on this link](https://www.youtube.com/watch?v=NgAfNnGZfHI) to watch the whole thing.
+
+---
+
 Exciting news! Efficient Era is hosting a webinar with Bernie Thompson, veteran Amazon seller, about navigating the post-incentivized-review-ban marketplace. He’ll show you his company’s strategies that have driven huge success *without* having to game the system.
 
 The webinar will take place on **Tuesday, October 25th** at **10:00 am PST.** Sign up now by clicking on [this link](https://efficientera.leadpages.co/webinar3/) or clicking on the image below.
 
 <a href=https://efficientera.leadpages.co/webinar3/>![Efficient Era Webinar](/images/blog/2016/10/webinar-header.jpg)</a>
-
-### Update: Webinar Recording
-
-If you missed the webinar and want to check out the recording, have no fear! [Just click on this link](https://www.youtube.com/watch?v=NgAfNnGZfHI) to watch the whole thing.
 
 ### Who Is Bernie Thompson?
 
