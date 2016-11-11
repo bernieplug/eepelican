@@ -1,4 +1,5 @@
 Title: Efficient Era Sales Charting: Data that Does More
+Author: Bruce O.
 Category: Efficient Era
 Date: 2016-10-31 12:00
 Image: sales-chart.jpg

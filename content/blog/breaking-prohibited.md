@@ -1,4 +1,5 @@
 Title: Amazon Prohibits Discounted Reviews
+Author: Bruce O.
 Category: News
 Date: 2016-10-04 11:00
 Image: breaking-prohibited.jpg

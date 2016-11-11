@@ -1,4 +1,5 @@
 Title: Amazon Vine and the Future of Incentivized Reviews
+Author: Bruce O.
 Category: Reviews
 Date: 2016-10-07 15:00
 Image: vine-reviews.jpg

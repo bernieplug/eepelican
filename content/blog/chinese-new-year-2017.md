@@ -1,4 +1,5 @@
 Title: Chinese New Year 2017: What You Should Know
+Author: Bruce O.
 Category: News
 Date: 2016-11-08 12:00
 Image: chinese-new-year-2017.jpg

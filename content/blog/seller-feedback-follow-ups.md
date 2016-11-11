@@ -1,4 +1,5 @@
 Title: Getting the Most Out of Seller Feedback With Follow-Ups
+Author: Bruce O.
 Category: Feedback Loop
 Date: 2016-10-21 12:00
 Image: seller-feedback-follow-ups.jpg

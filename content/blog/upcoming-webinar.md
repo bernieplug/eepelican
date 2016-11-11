@@ -1,4 +1,5 @@
 Title: Webinar with Bernie Thompson
+Author: Bruce O.
 Category: News
 Date: 2016-10-19 12:00
 Image: upcoming-webinar.png
