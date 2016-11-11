@@ -51,23 +51,41 @@ For Europe (amazon.co.uk/.fr/.de/.it/.es) please use: **0585-4477-0074**
 
 ### Part 3: Integrate Efficient Era services in Seller Central 
 
-Next, navigate to your Seller Central account and give the correct access permissions to Efficient Era. Here are the steps:
+Next, you need to will need to provide the correct access permissions to Efficient Era. Here are the steps:
 
-1. Log in to your Amazon Seller Central account.
-2. Click on **Settings** in the top right corner, then click on **User Permissions**.
-3. Click **Add a New Seller Central User**.
-4. Under the email field, enter **services@efficientera.com**.
-5. Click **Send Invitation**.
-6. Once the invitation is sent, you should receive an email from services@efficientera.com containing a confirmation code. This process could take from 24-48 hours.
-7. Return to the User Permissions page. You should now see **services@efficientera.com** as a pending user with a confirmation code displayed.
-8. Verify that the code in the email you received is the same as the one displayed on the User Permissions page, then click **Confirm**.
-9. In the Efficient Era user, click **Add User Permissions**. 
-10. By default, all permissions should be set to None. There are three permissions that you need to change. Make sure you do this step carefully following the red arrows in the images below.
-11. Under the Orders section, set **Manage Orders** to View & Edit, as shown below.
+1. Navigate to the your Efficient Era dashboard and locate the settings gear icon in the top right corner to access the **Account Settings**. Scroll down to the **Seller Central Integration** sub-section and expand it.
+
+2. You will be able to located 2 unique emails (one for .com and one for the .co.uk marketplace.) These end in **@services-mail.efficientera.com**. Copy the email address as appropriate.
+![Settings](/images/blog/2015/08/SettingsPanel2.png)
+
+3. Log in to your Amazon Seller Central account.
+
+4. Click on **Settings** in the top right corner, then click on **User Permissions**.
+
+5. Click **Add a New Seller Central User**.
+
+6. Send an invitation to the mail address that you copied in step 2 above. 
+
+7. Once the invitation is sent, you should receive an email from services@efficientera.com within a few minutes containing a confirmation code. 
+
+8. Return to the User Permissions page in Seller Central. You should now see the pending user email with a confirmation code displayed.
+
+9. Verify that the code in the email you received is the same as the one displayed on the User Permissions page, then click **Confirm**.
+
+10. In the Efficient Era user, click **Add User Permissions**. 
+
+11. By default, all permissions should be set to None. There are three permissions that you need to change. Make sure you do this step carefully following the red arrows in the images below.
+
+12. Under the Orders section, set **Manage Orders** to View & Edit, as shown below.
+
 ![Settings](/images/blog/2015/08/SellerCentral_1.png)
-12. Under the Reports section, set **Feedback** to View & Edit and set **Fulfillment Reports** to View, as below.
+
+13. Under the Reports section, set **Feedback** to View & Edit and set **Fulfillment Reports** to View, as below.
+
 ![Settings](/images/blog/2015/08/SellerCentral_2.png)
-13. Once you’ve confirmed that every setting matches the images above, click **Continue**.
-14. You’re done!
+
+14. Once you’ve confirmed that every setting matches the images above, click **Continue**.
+
+15. Congratulations! You’re done!
 
 
