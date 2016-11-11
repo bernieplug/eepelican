@@ -55,7 +55,7 @@ Next, you need to will need to provide the correct access permissions to Efficie
 
 1. Navigate to the your Efficient Era dashboard and locate the settings gear icon in the top right corner to access the **Account Settings**. Scroll down to the **Seller Central Integration** sub-section and expand it.
 
-2. You will be able to located 2 unique emails (one for .com and one for the .co.uk marketplace.) These end in **@services-mail.efficientera.com**. Copy the email address as appropriate.
+2. You will be able to locate 2 unique emails (one for .com and one for the .co.uk marketplace.) These end in **@services-mail.efficientera.com**. Copy the email address as appropriate.
 ![Settings](/images/blog/2015/08/SettingsPanel2.png)
 
 3. Log in to your Amazon Seller Central account.
