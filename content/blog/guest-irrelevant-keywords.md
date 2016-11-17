@@ -3,12 +3,14 @@ Author: Karon Thackston
 Category: SEO
 Date: 2016-11-11 13:00
 Image: irrelevant-keywords.jpg
-Tags: Amazon, SEO, Keywords, 
+Tags: Guest Post, SEO, Keywords
 Slug: irrelevant-keywords
 Summary: We're excited to present this guest post from Karon Thackston, President of [Marketing Words](http://www.marketingwords.com/)!
 Status: published
 
-*Karon Thackston is President of [Marketing Words](http://www.marketingwords.com/), a full-service copywriting & content agency that helps businesses convert better, rank higher and sell more. Since 1999, her company has contributed to the search engine and sales success of organizations including Gorton's Seafood, American Boating Association, Entertainment.com and hundreds of Amazon sellers, large and small. Karon is author of the popular ebook [“Amazon Advantage: Product Listing Strategies to Boost Your Sales”](http://www.marketingwords.com/products/amazon-description-book/).*
+***The following is a guest post by Karon Thackston.** Karon Thackston is President of [Marketing Words](http://www.marketingwords.com/), a full-service copywriting & content agency that helps businesses convert better, rank higher and sell more. Since 1999, her company has contributed to the search engine and sales success of organizations including Gorton's Seafood, American Boating Association, Entertainment.com and hundreds of Amazon sellers, large and small. Karon is author of the popular ebook [“Amazon Advantage: Product Listing Strategies to Boost Your Sales”](http://www.marketingwords.com/products/amazon-description-book/).* 
+
+*You can read the original post [by clicking here](http://www.marketingwords.com/blog/irrelevant-keywords-crash-amazon-conversion-rate/).*
 
 ---
 
