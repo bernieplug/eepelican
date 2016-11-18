@@ -1,8 +1,18 @@
 Title: Support
 save_as: support/index.html
 
-We are committed to providing a better customer experience, which means we do not offer phone support as this would ensure a typical phone support experience with long hold times, low paid staff, and metrics to get you off the phone as soon as possible. We avoid doing that to our customers.
+Thanks for reaching Customer Support at Efficient Era!  
+
+We are a Redmond, WA based company operating on Pacific Standard Time (GMT-8) and aim to offer quick replies during business hours Monday - Friday. 
 
 If you would like to contact us or if you need to submit a support ticket, please email us at [support@efficientera.com](mailto:support@efficientera.com).
 
-We are a Redmond, WA based company operating on Pacific Standard Time (GMT-8) and aim to offer quick replies during business hours Monday - Friday.  On weekends and holidays, we do our best to respond to all requests within 24 hours. 
+To get more Amazon industry news and insights, check out our [blog](https://efficientera.com/blog).
+
+If you are a current user and would like to access our on-boarding materials, please click [here](https://efficientera.com/pages/startup/).
+
+<div style="text-align:center" markdown="1">
+
+![We're here to help!](/images/pages/help.png) 
+
+</div>
