@@ -13,6 +13,6 @@ If you are a current user and would like to access our on-boarding materials, pl
 
 <div style="text-align:center" markdown="1">
 
-![We're here to help!](/images/pages/help.png) 
+![We're here to help!](/images/pages/helpicon.png) 
 
 </div>
