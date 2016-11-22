@@ -10,7 +10,7 @@ Status: published
 
 ![Bernie Thompson Portrait](/images/blog/2016/11/bernie-thompson-portrait.png)
 
-*Bernie Thompson is the founder of Plugable Technologies, which was started a few miles from the house where Jeff Bezos started Amazon. In 2016, he released Plugable's in-house software to help automate selling on Amazon, and made it available to all sellers. See <http://efficientera.com/> for details on all the available tools.*
+*Bernie Thompson is the founder of Efficient Era, and has been a successful Amazon FBA seller since 2009. Efficient Era makes automation tools for Amazon sellers, helping their businesses more smoothly and efficiently.*
 
 ---
 
