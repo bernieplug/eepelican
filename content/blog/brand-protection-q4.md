@@ -10,9 +10,11 @@ Status: published
 
 *This is a guest post by Suzi Hixon, of [The Private Label Lawyer](https://www.theprivatelabellawyer.com/).*
 
+*Suzi has practiced intellectual property law for just over 13 years. While she's handled the trademark portfolio of a Fortune 100 company, she especially loves helping entrepreneurs and small businesses protect and enforce their brands, on and off the Amazon platform. When Suzi isn't helping clients navigate Amazon, you can find her reading, hiking, spending time with her precious (and precocious) niece and nephews, or taking care of her menagerie of furry (and feathered) friends on the family farm.* 
+
 ---
 
-*It’s the most wonderful time... of the year...!*
+### *It’s the most wonderful time... of the year...!*
 
 Or so they say, if you aren’t an Amazon private labeler fighting counterfeiters this holiday season.
 
