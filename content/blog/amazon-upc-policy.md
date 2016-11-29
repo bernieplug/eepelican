@@ -21,8 +21,6 @@ Aside from reducing the number of fake products on the market, the updated GS1 p
 
 In the age of the Internet of Things, people are searching for more efficient ways to identify a product without spelling out every letter and description of the item. What we have now is a swarm of unique barcodes that identifies everything from the seller’s company to a product’s color variation. 
 
-![Barcode Example](/images/blog/2016/07/barcode-example.png)
-
 The wider classification of product identification from the Global Standard 1 (GS1) is GTINs (Global Trade Item Numbers). Amazon’s UPCs are one of the more narrow identifiers, much like EANs (European Article Numbers) and JANs (Japanese Article Numbers). 
 
 After product identification, the GTINs are turned into barcodes that are machine-readable. Barcodes consist of a series of numbers and patterns of parallel lines of varying width to identify the specific product. UPC’s may look like a random assortment of numbers, but there is a method to the madness. Of the 12 possible digits, the first 6-10 are a company prefix to identify the product and seller. For this reason, all UPC’s have to be ran through the GS1 network. 
