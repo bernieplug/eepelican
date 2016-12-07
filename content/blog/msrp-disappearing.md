@@ -75,6 +75,6 @@ At the end of this article we are still contemplating theories. The mystery of t
 
 #### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
 
-<a href="https://efficientera.com/blog/2016/08/how-to-stay-compliant-when-soliciting-reviews.html">![Compliant Reviews Image](/images/blog/related/compliant-reviews_small.jpg)</a>
+<a href="https://efficientera.com/blog/2016/08/how-to-personalize-amazon-with-post-order-emails.html">![Post-Order Image](/images/blog/related/post-order-emails_small.jpg)</a>
 <a href="https://efficientera.com/blog/2016/08/what-you-should-do-about-amazonbasics.html">![Amazon Basics Image](/images/blog/related/amazon-basics-general_small.jpg)</a>
 <a href="https://efficientera.com/blog/2016/07/the-lowdown-on-super-urls.html">![Super URLs Image](/images/blog/related/super-urls_small.jpg)</a>
