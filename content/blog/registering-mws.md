@@ -70,6 +70,8 @@ Next, you need to will need to provide the correct access permissions to Efficie
 
 8. Return to the User Permissions page in Seller Central. You should now see the pending user email with a confirmation code displayed.
 
+    ![Settings](/images/blog/2015/08/scintegration.png)
+
 9. Verify that the code in the email you received is the same as the one displayed on the User Permissions page, then click **Confirm**.
 
 10. In the Efficient Era user, click **Add User Permissions**. 
