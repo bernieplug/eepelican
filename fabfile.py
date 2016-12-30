@@ -72,3 +72,9 @@ def publish():
 def s3_upload():
     publish()
     local('python C:\Python27\Scripts\s3cmd sync output/ --acl-public --delete-removed --guess-mime-type s3://%s/' % S3BUCKET)
+    # Changed to accomodate Mac path:
+
+
+def mac_upload():
+        publish()
+        local('python /usr/local/bin/s3cmd sync output/ --acl-public --delete-removed --guess-mime-type s3://efficientera.com/')
