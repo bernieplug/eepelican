@@ -5,7 +5,7 @@ Date: 2016-12-30 11:00
 Image: flywheels.png
 Tags: Amazon Private-Label, Sales
 Slug: flywheels-and-feedback-loops
-Summary: If you've been selling on a Amazon for a while, you've experienced the "Flywheel Effect", the delicate balance of sales velocity and success, that could either turn vicious or virtuous, depending on the smallest of action or inaction on your part.
+Summary: If you've been selling on a Amazon for a while, you've experienced the "Flywheel Effect", the delicate balance of sales velocity and success, that could either turn vicious or virtuous, depending on any action or inaction on your part.
 
 
 It's that time of the year when we look back, take stock and plan ahead. It's that time of the year when we make resolutions
@@ -22,7 +22,7 @@ with a game-plan to jump-start the new year.
 Here is a sneak peek into what to expect from this book.
 
 ### What is the Flywheel Effect in the Amazon World?
-If you've been selling on a Amazon for a while, you probably have first hand experience of the "Flywheel Effect", the delicate cycle of sales velocity and success, that could either turn vicious or virtuous, depending on the smallest of action or inaction on your part.
+If you've been selling on a Amazon for a while, you probably have first hand experience with the "Flywheel Effect", the delicate cycle of sales velocity and success, that could either turn vicious or virtuous, depending on the smallest action or inaction on your part.
 Just like the laws of physics, a product in motion tends to stay in motion, and a product at rest tends to stay at rest.
 
 Success on Amazon requires fast responses to customers and Amazon itself. It requires
