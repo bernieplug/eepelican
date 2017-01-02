@@ -47,7 +47,7 @@ Any small mistake can turn into a slippery slope.
 When you move from a number two or number three position into the top spot, the sales increase is
 typically not linear but exponential. Unfortunately, the reverse is also true.
 So what is the trick to striving for a higher spot or to stay in your top spot?
-The answer lies in harnessing the power of positive feedback loops and mitigating the negative
+The answer lies in harnessing the power of positive feedback loop and mitigating the negative
 feedback loop in the right ways. The book talks extensively about strategies to
 harness these loops to your advantage.
 
