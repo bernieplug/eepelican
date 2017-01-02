@@ -66,7 +66,7 @@ Next, you need to will need to provide the correct access permissions to Efficie
 
 6. Send an invitation to the mail address that you copied in step 2 above. 
 
-7. Once the invitation is sent, you should receive an email from services@efficientera.com within a few minutes containing a confirmation code. 
+7. Once the invitation is sent, you should receive an email from services@efficientera.com within containing a confirmation code. This step could sometimes take upto 48 hours.
 
 8. Return to the User Permissions page in Seller Central. You should now see the pending user email with a confirmation code displayed.
 
