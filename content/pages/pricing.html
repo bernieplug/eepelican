@@ -98,8 +98,9 @@
 
             </div>
 
-</div>
+    <!--Calculator#-->
 
+</div>
 <div class="well well-lg">
     <h3 style="text-align: left">Examples</h3>
         <p>Here are some examples to help you visualize what your monthly charge might look like.
@@ -148,7 +149,40 @@
             </div>
     </div>
 
+<div>
+    <h4 style="...">Calculate Your Monthly Charge</h4>
+        <div class="row">
+            <div class="col-sm-6 col-md-4">
+                <div class="thumbnail">
+                    <div class="caption">
+                        <h4 style="text-align: left">Enter Number of ASINs:</h4>
+                        <input type="text" name="asins" id="asins"/>
 
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <div class="thumbnail">
+                    <div class="caption">
+                        <h4 style="text-align: left"> Enter Orders per Month:</h4>
+            			<input type="text" name="orders" id="orders"/>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4">
+                <div class="thumbnail">
+                    <div class="caption">
+                       <h4 id="result" style="text-align: left"> Your Monthly Charge:</h4>
+                        <input type="button" value="Calculate" OnClick="calc()"/>  <input type="button" value="Reset" OnClick="clearit()"/>
+            			<!--<p id="result"></p>-->
+
+                    </div>
+                </div>
+            </div>
+</div>
+
+</div>
             <p>If you would like further clarification on our pricing above, please don't hesitate to <a href="mailto:support@efficientera.com">contact us</a>.</p>
 
 </div>
@@ -222,5 +256,22 @@
 
 
     </div>
+
+<script>
+function calc() {
+		var asins = document.getElementById("asins").value;
+		var orders = document.getElementById("orders").value;
+		var temp = asins * 0.08 + orders * 0.01
+		document.getElementById("result").innerHTML = "Your Monthly Charge: $" + temp;
+	}
+
+function clearit() {
+		document.getElementById("asins").value = "";
+		document.getElementById("orders").value = "";
+		document.getElementById("result").innerHTML = "<-- Input Your Values";
+
+	}
+</script>
+
 </body>
 </html>
