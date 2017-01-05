@@ -262,6 +262,9 @@ function calc() {
 		var asins = document.getElementById("asins").value;
 		var orders = document.getElementById("orders").value;
 		var temp = asins * 0.08 + orders * 0.01
+        if (temp < 10){
+		    temp = 10;
+        }
 		document.getElementById("result").innerHTML = "Your Monthly Charge: $" + temp;
 	}
 
