@@ -56,7 +56,7 @@ Next, you need to will need to provide the correct access permissions to Efficie
 1. Navigate to the your Efficient Era dashboard and locate the settings gear icon in the top right corner to access the **Account Settings**. Scroll down to the **Seller Central Integration** sub-section and expand it.
 
 2. You will be able to locate 2 unique emails (one for .com and one for the .co.uk marketplace.) These end in **@services-mail.efficientera.com**. Copy the email address as appropriate.
-![Settings](/images/blog/2015/08/SettingsPanel2.png)
+![Seller Central Settings](/images/blog/2015/08/SettingsPanel2.png)
 
 3. Log in to your Amazon Seller Central account.
 
@@ -64,13 +64,15 @@ Next, you need to will need to provide the correct access permissions to Efficie
 
 5. Click **Add a New Seller Central User**.
 
-6. Send an invitation to the mail address that you copied in step 2 above. 
+6. Send an invitation to the mail address that you copied in step 2 above.
+![Seller Central Invite](/images/blog/2015/08/scinvite.png)
+
 
 7. Once the invitation is sent, you should receive an email from services@efficientera.com containing a confirmation code.
 
 8. Return to the User Permissions page in Seller Central. You should now see the pending user email with a confirmation code displayed. This step could sometimes take up to 48 hours.
 
-    ![Settings](/images/blog/2015/08/scintegration.png)
+    ![Seller Central Settings](/images/blog/2015/08/scintegration.png)
 
 9. Verify that the code in the email you received is the same as the one displayed on the User Permissions page, then click **Confirm**.
 
@@ -80,11 +82,11 @@ Next, you need to will need to provide the correct access permissions to Efficie
 
 12. Under the Orders section, set **Manage Orders** to View & Edit, as shown below.
 
-![Settings](/images/blog/2015/08/SellerCentral_1.png)
+![Seller Central Settings](/images/blog/2015/08/SellerCentral_1.png)
 
 13. Under the Reports section, set **Feedback** to View & Edit and set **Fulfillment Reports** to View, as below.
 
-![Settings](/images/blog/2015/08/SellerCentral_2.png)
+![Seller Central Settings](/images/blog/2015/08/SellerCentral_2.png)
 
 14. Once you’ve confirmed that every setting matches the images above, click **Continue**.
 
