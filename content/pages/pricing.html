@@ -261,7 +261,8 @@
 function calc() {
 		var asins = document.getElementById("asins").value;
 		var orders = document.getElementById("orders").value;
-		var temp = asins * 0.08 + orders * 0.01
+		var temp = asins * 0.08 + orders * 0.01;
+        temp = temp.toFixed(2);
         if (temp < 10){
 		    temp = 10;
         }
