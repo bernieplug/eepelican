@@ -4,7 +4,7 @@ Category: International
 Date: 2017-01-20 12:00
 Image: uk-vat-fraud.jpg
 Tags: Amazon, VAT, Europe
-Summary: Laws introduced in March 2016 promise to do something about the VAT fraud problem in the UK. Will they be effective?
+Summary: Laws introduced by the British government in March 2016 promise to do something about the VAT fraud rampant in online marketplaces in the UK. Will they be effective?
 Status: published
 
 VAT: It’s complicated.
