@@ -7,10 +7,10 @@ Tags: Customer Service, Amazon, Getting Started
 Summary: Efficient Era accesses your Amazon Seller account by using Marketplace Web Services. In order to connect the services, here’s what you need to do.
 Status: published
 
-In order to use Efficient Era's services, you will need to provide us developer access to your Amazon Marketplace Web Services (MWS) accounts for each geography. 
+In order to use Efficient Era's services, you will need to provide us access to your Amazon Marketplace Web Services (MWS) accounts for each geography.
 We are very serious about your privacy and your data is safe with us. Here are three parts to the complete integration process. 
 
-### Part 1: Grant Efficient Era Developer Access to your MWS Account
+### Part 1: Grant Efficient Era Application Access to your MWS Account
 
 
 There are two pieces of information that you will need from this MWS Account Authorization step: 1) MWS Authorization Token and 2) Seller ID. Here’s a step-by-step guide on how to get them. 
