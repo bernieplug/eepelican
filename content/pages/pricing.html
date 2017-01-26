@@ -14,12 +14,12 @@
                 plans for individual tools. You are free to pick the ones that are most appropriate to your requirements.
                 Here is our current set of tools. You can access their full functionality for free under our 60-day trial period:
                 <ul class="fa-ul">
-                    <li class=""><i class="fa-li fa fa-check-square"></i>Buyer-Reviewer Matching</li>
-                    <li class=""><i class="fa-li fa fa-check-square"></i>Product Review Notifications</li>
-                    <li class=""><i class="fa-li fa fa-check-square"></i>Seller Feedback Notifications</li>
-                    <li class=""><i class="fa-li fa fa-check-square"></i>Email Automation</li>
-                    <li class=""><i class="fa-li fa fa-check-square"></i>Sales Charts with Event Annotations</li>
-                    <li class=""><i class="fa-li fa fa-check-square"></i>VAT Invoice Automation</li>
+                    <li class=""><i class="fa-li fa fa-check-square"></i><a href="feedback.html" target="_blank">Buyer-Reviewer Matching</a></li>
+                    <li class=""><i class="fa-li fa fa-check-square"></i><a href="feedback.html" target="_blank">Product Review Notifications</a></li>
+                    <li class=""><i class="fa-li fa fa-check-square"></i><a href="seller-feedback.html" target="_blank">Seller Feedback Notifications</a></li>
+                    <li class=""><i class="fa-li fa fa-check-square"></i><a href="postorder.html" target="_blank">Email Automation</a></li>
+                    <li class=""><i class="fa-li fa fa-check-square"></i><a href="salescharts.html" target="_blank">Sales Charts with Event Annotations</a></li>
+                    <li class=""><i class="fa-li fa fa-check-square"></i><a href="accounting.html" target="_blank">VAT Invoice Automation</a></li>
                     <li class=""><i class="fa-li fa fa-check-square"></i>Bulk Order Notification</li>
                 </ul>
     Learn more about the functionality of our tools at <a href="https://efficientera.com" target="_blank" style="color: darkorange">the Efficient Era home page.</a>
@@ -27,7 +27,7 @@
 
 <div class="well well-lg">
 <h3>Pricing Model</h3>
-    <p>Our monthly pricing is calculated as the sum of two components:</p>
+    <p>Our monthly pricing is calculated as the sum of two components as shown below. But if your monthly charge adds up to less than $1, we will waive it off.</p>
     <div class="row">
 
             <div class="col-sm-6 col-md-4">
@@ -96,9 +96,9 @@
                     </div>
                     <div class="caption">
                         <p >1) 25 ASINs * 0.08 = $2/month</p>
-                        <p >2) 700 Orders * 0.01 = $7 --> $10/month **</p>
-                        <p style="font-weight: bold"> Total = $10/month</p>
-                        <p> ** Our minimum monthly charge for all users is $10.</p>
+                        <p >2) 100 Orders * 0.01 = $1/month</p>
+                        <p style="font-weight: bold"> Total = $3/month</p>
+
                     </div>
                 </div>
             </div>
@@ -111,7 +111,7 @@
                         <p >1) 150 ASINs * 0.08 = $12/month</p>
                         <p >2) 30000 Orders * 0.01 = $300/month</p>
                         <p style="font-weight: bold"> Total = $312/month</p>
-                        <p>&nbsp;</p>
+
                     </div>
                 </div>
             </div>
@@ -124,7 +124,7 @@
                         <p >1) 5000 ASINs * 0.08 = $400/month</p>
                         <p >2) 50000 Orders * 0.01 = $500/month</p>
                         <p style="font-weight: bold"> Total = $900/month</p>
-                        <p>&nbsp;</p>
+
                     </div>
                 </div>
             </div>
@@ -138,7 +138,6 @@
                     <div class="caption">
                         <h4 style="text-align: left">Enter Number of ASINs:</h4>
                         <input type="text" name="asins" id="asins"/>
-
                     </div>
                 </div>
             </div>
@@ -147,7 +146,6 @@
                     <div class="caption">
                         <h4 style="text-align: left"> Enter Orders per Month:</h4>
             			<input type="text" name="orders" id="orders"/>
-
                     </div>
                 </div>
             </div>
@@ -156,15 +154,15 @@
                     <div class="caption">
                        <h4 id="result" style="text-align: left"> Your Monthly Charge:</h4>
                         <input type="button" value="Calculate" OnClick="calc()"/>  <input type="button" value="Reset" OnClick="clearit()"/>
-            			<!--<p id="result"></p>-->
-
                     </div>
                 </div>
             </div>
+
 </div>
 
 </div>
-            <p>If you would like further clarification on our pricing above, please don't hesitate to <a href="mailto:support@efficientera.com">contact us</a>.</p>
+            <p>*If your total is less than $1, we will not charge you. If you would like further clarification
+                  on our pricing above, please don't hesitate to <a href="mailto:support@efficientera.com">contact us</a>.</p>
 
 </div>
 
@@ -191,25 +189,24 @@
             happen automatically and you will be sent an invoice each month based on your usage.</p>
 
         <h4>Q: How often will I be billed?</h4>
-        <p>You will be billed on the 1st of every month. If your 60-day trial ends in the middle of a month,
-            we will combine the first month's payment with the following month.</p>
+        <p>You will be billed once every month. We will send you an invoice.</p>
+<!--            If your 60-day trial ends in the middle of a month,#}
+          we will combine the first month's payment with the following month.</p> -->
 
         <h4>Q: Do I need to provide you with credit card details during the free trial?</h4>
         <p>
             No, you will never need to provide us any credit card information during or after your trial period.
-            We will require you to complete your setup of Amazon Payments before your trial period is about to end.
-            Don't worry, we will notify you when the time comes.
+            We will require you to complete your setup of Amazon Payments when we send you the first notice of payment.
         </p>
 
-        <h4>Q: What is Amazon Payments? Can I use Paypal or a Credit Card instead?</h4>
+        <h4>Q: What is Amazon Payments? Can I use Paypal or a credit card instead?</h4>
         <p>At this point, the only form of payment we accept is via Amazon Payments. It is a trusted service for both shoppers
             and merchants and you can read up more about it <a href="https://payments.amazon.com/shopper" target="_blank" style="color: darkorange">here</a>.
         </p>
 
         <h4>Q: How do you handle account cancellations?</h4>
         <p>Once you cancel your order we will remove your account from our system.
-            You will need to disable permissions for Efficient Era from Seller Central.
-            Your last monthly bill be charged to you on the 1st of the following month.
+            You will need to manually disable permissions for Efficient Era from your Seller Central account.
         </p>
 
         <h4>Q: Can I trust Efficient Era with access to my seller account?</h4>
@@ -222,7 +219,7 @@
             Please let us know your preference.</p>
 
         <h4>Q: Q. Is there a way to reduce my monthly bill if I only use some of your products?</h4>
-        <p>Although most of our popular features such as buyer-reviewer matching or seller feedback require order processing and manipulation, if your only purpose in using our service is to get review notifications and daily review digests, you could chose to use the review feature alone at the bare minimum charge, that is based on your number of products. The simple pricing calculation in this case is to multiply your ASINs by $0.08 to arrive at your monthly charge, or $10, whichever is higher. (e.g. 200 ASINs x $0.08 = $16/month). Note that this is the only feature that does not require MWS or Seller Central access by our software (so make sure to disable them for Efficient Era). All of our other tools do require order processing, for which we incur infrastructural costs whether you use them or not, and you will get charged for your monthly orders at the rate of $0.01 per order.</p>
+        <p>Although most of our popular features such as buyer-reviewer matching or seller feedback require order processing and manipulation, if your only purpose in using our service is to get review notifications and daily review digests, you could chose to use the review feature alone at the bare minimum charge, that is based on your number of products. The simple pricing calculation in this case is to multiply your ASINs by $0.08 to arrive at your monthly charge. (e.g. 200 ASINs x $0.08 = $16/month). Note that this is the only feature that does not require MWS or Seller Central access by our software (so make sure to disable them for Efficient Era). All of our other tools do require order processing, for which we incur infrastructural charges whether you use them or not, and you will get charges for your monthly orders at the rate of $0.01 per order.</p>
 
 
         <h4>Q. I don't use all your tools. Do you offer them individually?</h4>
@@ -235,7 +232,7 @@
             <img class="img img-responsive" src="/images/pages/positiveloop.jpg" align="center" alt="Positive Feedback Loops">
             </div>
             <div class="col-lg-6">
-            <img class="img img-responsive" src="/images/pages/negativeloop.jpg" align="center" alt="Negative Feedback Loops">
+            <img class="img img-responsive" src="/images/pages/negativeloop.jpg" align="center" alt="Positive Feedback Loops">
             </div>
             </div>
         </div>
@@ -269,8 +266,8 @@ function calc() {
 		var orders = document.getElementById("orders").value;
 		var temp = asins * 0.08 + orders * 0.01;
         temp = temp.toFixed(2);
-        if (temp < 10){
-		    temp = 10;
+        if (temp < 1){
+		    temp = 0;
         }
 		document.getElementById("result").innerHTML = "Your Monthly Charge: $" + temp;
 	}
