@@ -80,12 +80,13 @@ Next, you need to will need to provide the correct access permissions to Efficie
 
 10. In the Efficient Era user, click **Add User Permissions**. 
 
-11. By default, all permissions should be set to None. There are two permissions that you need to change. Make sure you do this step carefully following the arrows in the images below.
+11. By default, all permissions should be set to None. There are three permissions that you need to change if you would like to use the complete functionality of all of our tools. Make sure you do this step carefully following the arrows in the images below.
+
 
 12. Under the Orders section, set **Manage Orders** to View, as shown below.
  ![Seller Central Settings](/images/blog/2015/08/SellerCentral_1.png)
 
-13. Under the Reports section, set **Feedback** to View, as below.
+13. Under the Reports section, set **Feedback** to View, and **Business Reports, Sales Summary** to View & Edit as shown below.
 ![Seller Central Settings](/images/blog/2015/08/SellerCentral_2.png)
 
 14. Once you’ve confirmed that every setting matches the images above, click **Continue**.
