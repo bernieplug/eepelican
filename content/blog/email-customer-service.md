@@ -1,8 +1,8 @@
-Title: Our Philosophy on Email Automation
+Title: Email Automation: Review Generation or Customer Service?
 Author: Bruce O.
 Category: Reviews
 Date: 2017-02-08 12:00
-Image: philosophy-automation.jpg
+Image: email-customer-service.jpg
 Tags: Customer Service, Reviews, Automation
 Summary: Email automation: a tool for generating reviews, or part of something larger? Read about our stance on that question.
 Status: published
