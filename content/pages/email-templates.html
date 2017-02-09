@@ -1,0 +1,88 @@
+<html>
+<head>
+    <title>Email Automation Sample</title>
+    <meta name="save_as" content="pages/email-templates/index.html" />
+    <meta name="no_well" content="true" />
+</head>
+
+
+<body>
+<div class="row vcenter">
+    <div class="col-md-8">
+        <div>
+        <p>
+            Here is a sample email sent automatically each time a purchase is made for a
+            product named PC-Glass. There are 2 main parts to how the email is composed: Theme and the Campaign.
+            Further, there are three specific fields that you need to enter text into:</p>
+            <ul class="fa-ul">
+                <li class=""><i class="fa-li fa fa-check-square"></i>Title : The subject line</li>
+                <li class=""><i class="fa-li fa fa-check-square"></i>Email Body : The main body of the email</li>
+                <li class=""><i class="fa-li fa fa-check-square"></i>Theme : The footer that goes on every email that uses this theme</li>
+            </ul>
+        <p>
+        <img src="/images/pages/sturdycases.png" width = "90%" class="img-thumbnail" alt="Email Template">
+        </p>
+        </div>
+
+        <h3>Building your Email</h3>
+        <p>Here is how you would actually build a mail like the one above using placeholder text. All the text that is enclosed in square
+        brackets is a "placeholder". This will be replaced by the actual text at the point when the email is actually sent out.
+        You can use this template as a starting point and change the text as appropriate. More placeholders can be found on the text formatting toolbar.</p>
+        <div class="page-header">
+            <h4>Title (Locate in Email Campaigns)</h4>
+        </div>
+        <p>Your Purchase of <span style="color: #ff0000">[ProductTitle]</span>, Phone Case</p>
+
+
+        <div class="page-header">
+            <h4>Email Body (Locate in Email Campaigns)</h4>
+        </div>
+        <p>Thank you for purchasing the SturdyCases <span style="color: #ff0000">[ProductTitle]</span>​ Phone Case! FAQs can be found on the product page at:</p>
+
+        <p>http://www.yoursitedomain.com/yourproductxyzabz123</p>
+
+        <p>Before your <span style="color: #ff0000">[ProductTitle]</span> Phone Case arrives, take a quick look at the product page to get answers to many of the common questions
+            that come up for this type of screen protector. Please note that in order to attach to place the screen correctly, we have enclosed
+            as special cleaning tool that should be used prior to affixing the screen.
+        </p>
+        <div class="page-header">
+            <h4>Theme Body (Locate in Email Themes)</h4>
+        </div>
+        <p><span style="color: #ff0000">[email_body]</span></p>
+            <p>Any questions or problems? We're on your side and happy to help.
+            Save this email and reply anytime to reach our knowledgeable online support team.
+            If we ever ask, the model you have is the PC-Class and your order id was <span style="color: #ff0000">[OrderId]</span>.
+            Once you've had a chance to try the product it'd be wonderful if you could share your experiences
+            with other customers. Customer reviews have a big impact on a small business like ours,
+            and we deeply appreciate your time to let people know how you've put the product to use.
+            Just visit:</p>
+            <p>https://www.amazon.<span style="color: #ff0000">[AmazonMarket]</span>/review/create-review?asin=<span style="color: #ff0000">[asin]</span></p>
+
+
+        <p>Thanks again for joining the community of SturdyCases users!</p>
+        <p>Thom Bender</p>
+        <p>Founder, SturdyCases</p>
+
+      <div class="page-header">
+        <h4>A Note About Placeholder Text</h4>
+    </div>
+        <p>The following placeholder text will be replaced by the actual values at the point when the email is being sent.</p>
+        <p><span style="color: #ff0000">[Name]</span>: The customer's name.</p>
+        <p><span style="color: #ff0000">[OrderId]</span>: The customer's Order ID number, in the format 123-4567890-1234567.</p>
+        <p><span style="color: #ff0000">[SellerSKU]</span>: The SKU of the product, as listed on Amazon or Efficient Era.</p>
+        <p><span style="color: #ff0000">[ProductTitle]</span>: The title of the product, as listed on Amazon.</p>
+        <p><span style="color: #ff0000">[ASIN]</span>: The product's ASIN, in the format B00ABCDEFG.</p>
+        <p><span style="color: #ff0000">[QuantityShipped]</span>: The quantity of products shipped within this order in numerical form.</p>
+        <p><span style="color: #ff0000">[AmazonMarket]</span>: The marketplace that the order occurred on, in the format com/ca/co.uk/co.jp/de/fr (with no period in front).</p>
+        <p><span style="color: #ff0000">[AmazonEmail]</span>: Your Buyer-Seller Messaging email, in the format abc12defg34hi56@marketplace.amazon.com.</p>
+        <p><span style="color: #ff0000">[email_body]</span>: This is a special placeholder, only available under Email Themes, that displays the text of the Email Body
+            field of a campaign that you apply this theme to.</p>
+        Important note about <span style="color: #ff0000">[email_body]</span>: You can position this field anywhere in the Theme Body and it will get replaced by the text of the
+        Email Body of the campaign that you apply this theme to. If this code is not present, the Campaign's Email Body text will NOT be displayed.
+    </div>
+</div>
+
+
+
+</body>
+</html>
