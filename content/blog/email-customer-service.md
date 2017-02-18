@@ -41,6 +41,8 @@ Of course, this focus on customer service doesn’t preclude leaving a review li
 
 So, why all this focus on customer service with email automation?
 
+   >"The purpose of Amazon email automation tools should be customer service before review generation." <a href="https://ctt.ec/_7caa"><img width="10%" src="http://clicktotweet.com/img/tweet-graphic-4.png" alt="Tweet: "The purpose of Amazon email automation tools should be customer service before review generation." via @EfficientEra" /></a>
+
 ### Building Long-Term Relationships
 
 The different stances on email automation — as a customer service opportunity, or as a review generation tool — tie into a bigger issue of how you view your relationship with customers. Do you see your customers as one-offs, that you want to extract as much benefit from as possible in the short time you’re holding their attention? Or do you see your customers as opportunities for relationships, deserving of a bigger up-front investment to reap greater yields in the long term?
