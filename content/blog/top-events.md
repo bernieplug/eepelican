@@ -1,10 +1,10 @@
-Title: Top 10 Trade Shows for Amazon Sellers
+Title: Top 10 Events for Amazon Sellers
 Author: Bruce O.
 Category: Private Label
 Date: 2017-02-24 13:00
-Image: top-trade-shows.jpg
+Image: top-events.jpg
 Tags: Ecommerce, Shows, Networking
-Summary: Conferences, shows, fairs — ecommerce has a lot of them, and we've compiled a list of some of the best coming up this year!
+Summary: Conferences, shows, fairs — ecommerce has a lot of events, and we've compiled a list of some of the best ones coming up this year!
 Status: published
 
 If you’re looking to take your Amazon selling to the next level, there are a number of paths you can take. One path, of course, is to keep reading the Efficient Era blog for all the latest industry tips and tricks. For some of you, though, that might not be enough. (Don’t worry, I’m not upset, I understand…) One of the best ways to take your business to next level is to learn from the best of the best. Thankfully, there just so happens to be a number of events each year where the best of the best gather in the same place… I’m talking, of course, about ecommerce shows!
