@@ -79,7 +79,6 @@ If you want to know more about crafting the perfect follow-up emails, we have a 
 
 ---
 
-
 <!--Added this section from Leadboxes-->
 <a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
 
