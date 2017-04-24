@@ -1,7 +1,7 @@
 Title: Interview with Karen Ellenberger of Agile Merchant
 Author: Bruce O.
-Category: News
-Date: 2017-04-18 13:00
+Category: Interview
+Date: 2017-04-24 13:00
 Image: ellenberger-interview.jpg
 Tags: Amazon, Interview, Services
 Summary: Read our interview with Karen Ellenberger, Amazon expert and founder of Agile Merchant!
