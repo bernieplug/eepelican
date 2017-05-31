@@ -6,7 +6,7 @@ Image: buy-box-lockouts.jpg
 Slug: buy-box-price-lockouts
 Tags: Amazon, Private Label, Buy Box
 Summary: We've noticed a concerning new aspect of the Amazon buy box: historical price lockouts. Read more about it here.
-Status: published
+Status: draft
 
 We all know that getting the buy box is one of the most important things when selling on Amazon. Customers are significantly less likely to click “view other offers” than they are to just buy the product by clicking the buy box. According to [Feedvisor](https://feedvisor.com/){:target="_blank"}, 82% of Amazon sales come from the buy box, and that percentage increases sharply for mobile sales. 
  
