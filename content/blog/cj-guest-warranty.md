@@ -9,9 +9,9 @@ Status: published
 
 *We’re pleased to present this guest post from [Amazon Sellers Lawyer](http://www.amazonsellerslawyer.com/)!*
 
-![ASL Cover Photo](/images/blog/2017/05/asl-cover-photo.png)
+<a href="http://www.amazonsellerslawyer.com/">![ASL Cover Photo](/images/blog/2017/05/asl-cover-photo.png)</a>
 
-*Amazon Sellers Lawyer is a team comprised of unique individuals with extensive knowledge and backgrounds. They are dedicated to defending the rights of e-commerce entrepreneurs and sellers across all platforms. Founded in 1994 by CJ Rosenbaum, the firm is now emerging as an industry leader as evidenced by its receipt of the Bitbond Best E-commerce Site of 2017 award. Whether a seller is facing an Intellectual Property issue, their funds are being held, or they simply need assistance with a suspension and reinstatement, the team at Amazon Sellers Lawyer has the knowledge and experience to serve sellers day and night, all around the World.*
+<em><font color="darkgray">Amazon Sellers Lawyer is a team comprised of unique individuals with extensive knowledge and backgrounds. They are dedicated to defending the rights of e-commerce entrepreneurs and sellers across all platforms. Founded in 1994 by CJ Rosenbaum, the firm is now emerging as an industry leader as evidenced by its receipt of the Bitbond Best E-commerce Site of 2017 award. Whether a seller is facing an Intellectual Property issue, their funds are being held, or they simply need assistance with a suspension and reinstatement, the team at Amazon Sellers Lawyer has the knowledge and experience to serve sellers day and night, all around the World.</em></font>
 
 ---
 
