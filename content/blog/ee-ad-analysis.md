@@ -16,15 +16,15 @@ In light of this new Efficient Era tool, we thought we’d put together a post s
  
 ### Sales and Spending
  
-![Sales and Spending Graph](/images/blog/2017/06/sales-spending.png)
+![Sales and Spending Graph](/images/blog/2017/06/sales-and-spending.png)
  
 On the highest level, without selecting a specific product, this first graph shows you how much you are selling and spending with your ad campaigns compared to your organic sales. This graph is a great first stop if you want a quick view of your overall performance. 
  
 Furthermore, visualizing your ad data over time lets you identify any fluctuations that you might have missed otherwise. For example, did you see a slight dip in overall sales or a small increase in spend? You can dig into your individual campaigns and find the ASIN that caused the shift. Now, you can target that ASIN for campaign adjustments.
  
-### Conversion to Session Percentage
+### Conversions
  
-![Conversion Session Percentage Graph](/images/blog/2017/06/conversion-session-percentage.png)
+![Conversion Session Percentage Graph](/images/blog/2017/06/conversions.png)
  
 This chart lets you track the conversion rate of your sponsored ads, compared with the conversion rate of organic sessions (session percentage). In both cases, conversion rate is the percentage of clicks (on your ad or on your product) that become sales.
  
@@ -36,7 +36,7 @@ Overall, the goal with these metrics is somewhat cyclical: you want to show Amaz
  
 In terms of ratios to aim for, you want to have your ads converting at or close to your organic session percentage. If your ad conversion rate is lower than your organic session rate, that almost certainly means you have some irrelevant keywords that you need to fix. Dig further and filter out keywords with poor conversion rates. If your session percentage is low, you likely need to work on your products’ Search Terms to get increase conversions. If both your conversion rates are low, it likely points to a problem with your product page.
  
-### Total and Advertised SKU Impressions to Sales
+### Impressions to Sales
  
 ![Impressions to Sales Graph](/images/blog/2017/06/impressions-sales.png)
  
@@ -46,7 +46,7 @@ This graph combines your CTR (click-through rate) and conversion rate to answer 
  
 ![ACoS Graph](/images/blog/2017/06/acos.png)
  
-ACoS, short for Advertising Cost of Sales, is your measure of campaign profitability. ACoS basically measures what of percentage of a product’s final price you spent on advertising. If you spend $6 on advertising, and it resulted in a single sale of $30, your ACoS would be (5 / 30) = 20%. As a general rule, the lower the ACoS, the more efficient you’re being with your advertising spend.
+ACoS, short for Advertising Cost of Sales, is your measure of campaign profitability. ACoS basically measures what of percentage of a product’s final price you spent on advertising. If you spend $6 on advertising, and it resulted in a single sale of $30, your ACoS would be (6 / 30) = 20%. As a general rule, the lower the ACoS, the more efficient you’re being with your advertising spend.
  
 You should always have a target for ACoS based on your sales margin for each product. On products with higher margins, you may be able to bid more competitively than others. Additionally, if you’re just trying to generate as many organic sales as possible for a certain product, and don’t care as much about maintaining profitability, you could choose to break even on ACoS for a while. 
  
@@ -56,9 +56,9 @@ While general overviews can be helpful for other metrics, when it comes to ACoS,
  
 As an example, let’s say you’re advertising a blue sock. The overall ACoS is good, but you notice that the Same SKU ACoS is abnormally high. You search through the campaign, and find that you mistakenly added a search term for “red sock” that is getting sales. The solution would be to pause that bid for the blue sock campaign, and make sure you have that search term included in your red sock campaign.
  
-### Ad Sales to Total Sales Percentage
+### Sales from Advertising
  
-![Ad to Total Percentage Graph](/images/blog/2017/06/ad-total-percentage.png)
+![Ad to Total Percentage Graph](/images/blog/2017/06/sales-from-advertising.png)
  
 This graph shows you the percentage of your total sales that resulted from advertising. This is one of the most important metrics that Amazon does not include in seller central, and you should always have a defined Total Sales Percentage target depending on the maturity of your campaigns.
  
