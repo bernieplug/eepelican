@@ -106,3 +106,14 @@ So, if you’ve had your selling rights revoked or your listings suspended, ther
  
 Bottom line, your motto should be: safety above all.
 Think safe, work safe, be safe!
+
+---
+
+<!--Added this section from Leadboxes-->
+<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
+
+#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
+
+<a href="https://efficientera.com/blog/2016/08/5-kinds-of-amazon-advice-you-should-ignore.html">![Ignore Advice Image](/images/blog/related/amazon-advice-guest-image_small.jpg)</a>
+<a href="https://efficientera.com/blog/2016/08/what-you-should-do-about-amazonbasics.html">![Amazon Basics Image](/images/blog/related/amazon-basics-general_small.jpg)</a>
+<a href="https://efficientera.com/blog/2016/07/the-lowdown-on-super-urls.html">![Super URLs Image](/images/blog/related/super-urls_small.jpg)</a>
