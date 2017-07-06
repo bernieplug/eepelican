@@ -1,5 +1,5 @@
 Title: Warning: Amazon is Overwriting Listings
-Category: News
+Category: Listing Hijackers
 Date: 2016-09-14 11:00
 Image: overwrite-listings.jpg
 Tags: Amazon, Private Label, Listings

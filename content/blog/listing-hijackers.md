@@ -1,9 +1,9 @@
 Title: How to Deal with Listing Hijackers
 Author: Bruce O.
-Category: Private Label
+Category: Listing Hijackers
 Date: 2016-09-30 11:00
 Image: listing-hijackers.jpg
-Tags: Amazon, Private Label, Support
+Tags: Listing Hijackers, Private Label, Counterfeit
 Slug: listing-hijackers
 Summary: Listing hijackers — counterfeiters who latch onto private label businesses and sell their fraudulent goods while the legitimate seller suffers. Find out what you can do to stop them.
 Status: published
