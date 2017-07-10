@@ -106,9 +106,9 @@ That way, you will always be in the perfect position to offer your customers the
 
 <h3><font color="gray"><em>About the Author</em></font></h3>
 
-*Crucial Vacuum Founder Chad Rubin grew his e-commerce business to an 8-figure business in 7 years. He is a Top 250 Amazon Seller, and co-founded [Skubana](http://skubana.com/) as an all-in-one ERP system and operations platform designed for high volume sellers to run and automate their business. It integrates with most e-commerce marketplaces, 3PLs, and warehouses, provides profitability and multi-channel inventory management, and compiles all of your marketplaces on a single convenient dashboard. Learn more at [info@skubana.com](info@skubana.com) or sign up for a [14-day trial](https://app.skubana.com/signup).*
+*<font color="gray">Crucial Vacuum and Skubana Founder Chad Rubin grew his e-commerce business to an 8-figure business in 7 years. He is a Top 250 Amazon Seller, and co-founded [Skubana](http://skubana.com/) as an all-in-one ERP system and operations platform designed for high volume sellers to run and automate their business. It integrates with most e-commerce marketplaces, 3PLs, and warehouses, provides profitability and multi-channel inventory management, and compiles all of your marketplaces on a single convenient dashboard. Learn more at [info@skubana.com](mailto:info@skubana.com) or [sign up here](https://app.skubana.com/signup).</font>*
 
-*Follow Chad on Twitter [@ecommrenegade](https://twitter.com/ecommrenegade) or connect with him on LinkedIn at [linkedin.com/in/ecommercerenegade](https://www.linkedin.com/in/ecommercerenegade).*
+*<font color="gray">Follow Chad on Twitter [@ecommrenegade](https://twitter.com/ecommrenegade) or connect with him on LinkedIn at [linkedin.com/in/ecommercerenegade](https://www.linkedin.com/in/ecommercerenegade).</font>*
 
 ---
 
