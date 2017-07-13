@@ -33,7 +33,7 @@ Amazon has been using lean management for years now, but recently, their use of 
 
 Amazon customer service agents are empowered to send out andon cord warnings whenever they perceive an excess of customer service calls regarding defects with a certain product. The owner of that product gets notified that unless they address the defects with their product, they risk being suspended from FBA, meaning they can only continue to sell the product if they switch to FBM (Fulfilled by Merchant).
 
-Usually, the andon cord warning is, as it indicates, a warning, but it usually signals that an FBA suspension is not far off — usually a couple of days away. 
+Usually, the andon cord warning is, as it indicates, a warning, but it usually signals that an FBA suspension is not far off — especially after the andon cord has been pulled more than once for that product. 
 
 #### Statistics vs. Andon Cords for Suspensions
 
