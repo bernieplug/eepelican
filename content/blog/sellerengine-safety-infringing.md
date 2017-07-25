@@ -1,6 +1,6 @@
 Title: Amazon Suspension Series: Selling Safety-Infringing Items
 Author: Gabriela Brozba
-Category: Suspension
+Category: Suspensions
 Date: 2017-06-26 11:00
 Image: sellerengine-safety-infringing.jpg
 Tags: Amazon, Warranty, Guest Post
