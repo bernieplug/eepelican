@@ -45,7 +45,7 @@ The Orders List gives you the ability to set a minimum Item Count to filter on. 
 
 ![Large Orders Filtered](/images/blog/2017/07/large-orders-filter.png)
 
-You can also track which customers have placed the largest orders, and reach out to them to arrange special deals and cement their status as a loyal customer. Exporting with this filter active will only export the filtered data, allowing you to explore subsets of data offline with your spreadsheet software of choice. 
+Additionally, exporting with this filter active will only export the filtered data, allowing you to explore subsets of data offline with your spreadsheet software of choice. 
 
 ### 4) Search for Patterns in Reviews
  
