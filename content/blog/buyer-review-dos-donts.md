@@ -9,9 +9,11 @@ Status: published
 
 [Buyer-Review Matching](https://efficientera.com/pages/feedback/) is one of Efficient Era’s most valuable features. It opens up the possibilities for customer service on Amazon in a way unlike any other tool.
 
-If you don’t know how it works yet, it’s pretty simple. On your Efficient Era dashboard, you can go to the Product Reviews section and click the dropdown for a review. You should see an orange button that says “Orders,” which, when clicked, will display any order numbers associated with the customer that left that review. From that order number, you can message the customer through Amazon’s Buyer-Seller Messaging service.
+If you don’t know how it works yet, it’s pretty simple. On your Efficient Era dashboard, go to **Product Reviews > Review List**. When you look at any individual review, the column on the far right should display the order number. From that order number, you can go to the Order Details page on Seller Central and message the customer through Amazon’s Buyer-Seller Messaging service.
 
 ![Order Number Image](/images/blog/2017/05/buyer-review-example.png)
+
+*Note that reviews will not display an order number in three cases: if the review is not a Verified Review, if the reviewer bought the product from another seller, or if the review was left before you signed up for Efficient Era.*
 
 Obviously, this feature is very powerful, and you can do a lot for your business by leveraging Buyer-Review Matching correctly. At the same time, with that power comes a certain possibility of misuse. In this post, we’ll go over all the great things that you can do with Buyer-Review Matching, as well as some of the things that you definitely should not do. 
 
