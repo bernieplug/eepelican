@@ -1,19 +1,26 @@
-Title: Order Automation Tool Guide: Creating Your First Email Campaign
+Title: Using the Email Automation Tool
 save_as: followup-guide/index.html
 
-Efficient Era just launched a powerful new Order Automation tool with a ton of new features. We’re really excited about it, so we wanted to put together a guide to lead you through the steps to creating your first follow-up email!
+With Efficient Era's Email Automation you can:
 
-***Note: In order to use the Order Automation tool, you’ll need to provide Efficient Era with your MWS credentials. [Click here](https://efficientera.com/blog/2015/08/registering-your-amazon-account-with-mws.html){target="_blank"} to learn how.*** 
+1. Monitor email open rates
+2. Create Email Campaigns
+3. Design Email Themes
+4. Set up Bulk Order Notifications
+5. Attach documents
+6. Add marketplace Emails to a blacklist
+7. Set a reply-to email
+8. Attach automated VAT Invoices (EU only)
 
 ### The Dashboard
 
-The first thing you’ll notice as you head to the Efficient Era dashboard is a brand-new Order Automation panel!
+The first thing you’ll notice as you head to the Efficient Era dashboard is the Email Automation at a glance tile.
 
 ![Order Automation Panel](/images/pages/postorder-panel.png)
 
-This window will show you how many follow-up emails you’re sending per day over various time scales.
+This tile shows you the number of emails sent (orange) per day over various time ranges, as well the number of that were emails opened (cyan).
 
-Now, if you click on <font color="FF751A">**Order Automation Settings**</font> in the top right of that window, or click on <font color="FF751A">**Order Automation**</font> in the top navigation bar, you’ll find the main Order Automation tool. This is where you can start creating your follow-up emails.
+Now, if you click on <font color="FF751A">**See More**</font> in the top right of that window, or click on <font color="FF751A">**Email Automation**</font> in the top navigation bar, you’ll reach the Email Automation tool. This is where you can start creating your follow-up emails.
 
 ### How the Tool Works
 
@@ -27,9 +34,9 @@ You can add any number of products to a campaign, and any product can belong to 
 
 #### Email Themes
 
-An email theme is a sort of “shell” that can be applied to any campaign, purely for formatting and content purposes. 
+An email theme is a sort of “wrapper” that can be applied to any campaign, purely for formatting and sharing common bits of content across campaigns.
 
-Themes are great for company-wide messages that you want to include in a large number of your campaigns. They can include product-specific information if you use our text placeholders (more on that later), but they’re also a great place for a company message or logo. 
+Themes are great for generic messages that you want to include in a large number of your campaigns. These are a great placeholders for a company message or logo.
 
 Now, let’s go over how to set up a campaign and start sending follow-up emails! In order to do that, we’ll need to start by creating a theme.
 
