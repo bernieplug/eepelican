@@ -47,11 +47,11 @@ Now, let’s go over how to set up a campaign and start sending follow-up emails
 2. Give your theme a name — this is just for identification purposes.
 
 3. Add the contents of your theme! Your theme can be mostly text, but basic HTML tags and inline CSS are also supported, so you can customize it to your liking. You can also upload images — include your company logo, if you like.  
-	1. You’ll also see a list of text placeholders at the top. These will automatically be replaced with the indicated customer- or product-specific information when the email is sent out. Use them to reference specific pieces of information, all from the comfort of a generalized theme.  
+	1. Along the edit bar at the top, you'll see this icon: ![Placeholder Icon](/images/pages/placeholder-icon.png). This contains all of our **Placeholders**. These are codes which will automatically be replaced with the indicated customer- or product-specific information when the email is sent out. Use them to reference specific pieces of information, all from the comfort of a generalized theme. You can also use our **Predefined Links** ![Predefined Links Icon](/images/pages/predefined-links-icon.png) to automatically create common links, such as a request to leave a review.
 	
-	2. Example: *“Thanks for your purchase, $Name! We hope you enjoy your $ProductTitle. If we ever ask, your product’s model is $SellerSKU and your order number is $OrderId.”*  
+	2. Example: *“Thanks for your purchase, [Name]! We hope you enjoy your [ProductTitle]. If we ever ask, your product’s model is [SellerSKU] and your order number is [OrderId].”*  
 
-4. **IMPORTANT:** You’ll see that the theme already includes the placeholder $email_body. This is a placeholder for the body text of any campaign that uses this theme. **Do not delete this placeholder, or the campaign message will not be displayed in the email.**
+4. **IMPORTANT:** You’ll see that the theme already includes the placeholder `$email_body`. This is a placeholder for the body text of any campaign that uses this theme. **Do not delete this placeholder, or the campaign message will not be displayed in the email.**
 
 5. Hit <font color="FF751A">**Submit**</font>, and your theme is created! Now, whenever you create a campaign, you can select this theme, and the theme’s content will be displayed around that campaign’s message.
 
