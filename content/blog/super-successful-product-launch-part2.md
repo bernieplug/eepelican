@@ -4,9 +4,9 @@ Category: Product Launch
 Date: 2017-10-04 09:00
 Image: product-launch-2.png
 Tags: Amazon, Product Launch, FBA
-Summary: A product launch on Amazon require your best effort. This important step is when the flywheels can either start to move in your favor or your product could sink to the bottom of a very deep ocean.
+Summary: A product launch on Amazon requires your best effort. This important step is when the flywheels can either start to move in your favor or your product could sink to the bottom of a very deep ocean.
 
-A product launch on Amazon require your best effort. This important step is when the flywheels can either start to move in your favor or your product could sink to the bottom of a very deep ocean. When launching a new product on Amazon, your list of things to do seems to get longer and longer. Now that you have finished your extensive product research, you want to make sure the release of your product is equally successful, but where do you start?
+A product launch on Amazon requires your best effort. This important step is when the flywheels can either start to move in your favor or your product could sink to the bottom of a very deep ocean. When launching a new product on Amazon, your list of things to do seems to get longer and longer. Now that you have finished your extensive product research, you want to make sure the release of your product is equally successful, but where do you start?
 
 Getting your product to the top of the search results is going to be the best way to ensure your product is noticed, considering this is where 90% of sales are made. Your main goal at this point is sales velocity. You want to get your volume of sales higher than your competitor so you can rank higher in the search results.
 
@@ -31,9 +31,7 @@ Once you do, AMS will let you set your own targeting, bid, campaign budget and d
 
 There is a common known formula to help you calculate your sales velocity. Many think the quantity of leads generated is the number to focus on, while others know that quantity doesn’t always mean quality. To get your sales velocity, you will want to take your number of leads times your conversion rate (as a percent) multiplied by your average deal size. You will take this number and divide it by the average number of days to close the sale. Your equation will look something like this:
 
-Number of leads x conversion rate (%) x average deal size
-
-Average number of days to close
+(Number of leads x conversion rate (%) x average deal size) / Average number of days to close
 
 By affecting any of these factors you can increase your conversion rates by three times, you just have to know where to look. We suggest taking a look at which leads turned into a sale and look for similar traits in other leads. Find out what was their demographic and what turned them into a sale. You also want to take a look at who browsed your website, retarget them and send them back through your funnel. This will be a strategic way you can boost your sales velocity past your competitor while keeping it budget friendly.
 
