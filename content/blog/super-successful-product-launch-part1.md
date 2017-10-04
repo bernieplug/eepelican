@@ -37,7 +37,7 @@ You’ll want to keep an eye on your click-through rate and your conversion rate
 
 ### There's more!
 
-We'll be covering part 2 tomorrow. Keep an eye on this spot.
+Continue on to part 2 <a href="https://efficientera.com/blog/2017/10/part-2-ten-steps-to-a-super-successful-product-launch.html">here</a>.
 
 <a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
 
