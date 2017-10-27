@@ -4,7 +4,7 @@ Category: Product Launch
 Date: 2017-10-14 09:00
 Image: product-launch-3.png
 Tags: Amazon, Product Launch, FBA
-Summary: A product launch on Amazon requires your best effort. This important step is when the flywheels can either start to move in your favor or your product could sink to the bottom of a very deep ocean.
+Summary: Getting your product to the top of the search results is going to be the best way to ensure your product is noticed, considering this is where 90% of sales are made. Your main goal at this point is sales velocity.
 
 A product launch on Amazon requires your best effort. This important step is when the flywheels can either start to move in your favor or your product could sink to the bottom of a very deep ocean. When launching a new product on Amazon, your list of things to do seems to get longer and longer. Now that you have finished your extensive product research, you want to make sure the release of your product is equally successful, but where do you start?
 
