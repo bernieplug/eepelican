@@ -3,7 +3,7 @@ Author: Ritu J. & Elyse S.
 Category: Social Media
 Date: 2017-11-06 09:00
 Image: graphics-sites.png
-Tags: PPC, Social Media, Amazon
+Tags: Social Media, Amazon
 Summary: With all of the intense competition in marketing, your social media campaigns need to look as professional as possible. If you're not the most artistically inclined individual we have ideas for you.
 
 If you are selling on Amazon, you realize the importance of trying to drive traffic to your e-commerce store, as well as, to your Amazon listing. In a <a href="https://efficientera.com/blog/2017/10/why-you-should-use-social-media-for-your-amazon-business.html", target=_blank>previous article</a>, we mentioned that advertising on social media could help to build your email list, monetize your brand, build your business for the long term, allow you to promote to existing fan bases, and educate your audience. Most importantly, it can help boost your conversion rates.
