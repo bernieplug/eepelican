@@ -36,7 +36,10 @@ PicMonkey
 
 PicMonkey is another full control photo editor. If you want more access to the outcome of your art, then this platform is very similar to BeFunky, in that way. They offer textures, borders, and typefaces, but if you want the whole enchilada of editing, you’ll want to make sure you upgrade to the premium. They also offer shortcuts for facebook covers and tutorials to get started.
 
-Most of these systems have a free trial or are completely free for their basic editing package. All in all, you are going to find something that will best meet your social media graphic needs with at least one of these easy-to-use platforms.
+###Conclusion
+
+Most of these platforms have a free trial or are completely free for their basic editing package. Whether it’s just to add text to a graphic, or create a Facebook Ad from scratch, you are going to find something that will best meet your social media graphic needs. Take your time to look around at each platform and get a sense of which will work best for you. You will be exceedingly happy with the results!
+
 
 
 <a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
