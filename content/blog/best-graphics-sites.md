@@ -32,7 +32,7 @@ Opposite of BeFunky, is Recite. This is a complete plug and play app where you c
 
 This app is fantastic for making your own infographics, which can be time-consuming to make and very frustrating. Similar to Canva, Piktochart offers over 600 infographic templates that will best suit your information. This system also lets you drag and drop different fonts, images, and text boxes to make your data more appealing and easily digested, all the while making it quick and easy for you to create and post.
 
-PicMonkey
+###PicMonkey
 
 PicMonkey is another full control photo editor. If you want more access to the outcome of your art, then this platform is very similar to BeFunky, in that way. They offer textures, borders, and typefaces, but if you want the whole enchilada of editing, you’ll want to make sure you upgrade to the premium. They also offer shortcuts for facebook covers and tutorials to get started.
 
