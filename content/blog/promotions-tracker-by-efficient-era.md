@@ -6,7 +6,7 @@ Image: promotion-tracker.png
 Tags: Social Media, Product Launch, Promotions
 Summary: Want to measure the effectiveness of your promotions on Amazon and don't know how to? Well now, there is way!
 
-Running a promotion with Discount codes is a great way to launch a new product on Amazon, drive traffic to it and boost your sales. (Read our 3-part series on <a href="https://efficientera.com/blog/2017/10/part-1-ten-steps-to-a-super-successful-product-launch.html" target="_blank"> Super Successful Product Launches</a>.) While Amazon makes it fairly straight forward for you to set up a promotion for your product in Seller Central, what it does not do, is to match promotions to the orders that resulted from them. Critical information you would think right, but at the end of a promotion, you are still left stuck with the million dollar question: “Was that promotion effective?”
+Running a promotion with discount codes is a great way to launch a new product on Amazon and boost your sales. (read our 3-part series on <a href="https://efficientera.com/blog/2017/10/part-1-ten-steps-to-a-super-successful-product-launch.html" target="_blank"> Super Successful Product Launches</a>.) While Amazon makes it fairly straight forward for you to set up a promotion for your product in Seller Central, what it does not do, is to match promotions to the orders that resulted from them. Critical information you would think right, but at the end of a promotion, you are still left stuck with the million dollar question: “Was that promotion effective?”
 
 ###The Problem with Promotions on Amazon
 
@@ -25,7 +25,7 @@ Say, for instance, you offered a promotion using the Social Media Promo Code. Yo
 The issue becomes even stickier when you are handling multiple products. Offering separate Promotion Codes for each one requires a high level of attention to detail, and if you want to measure your ROI during that period, there is no way. Even if there was a smart way for you get customers to inform you when they claimed your code, you will still need to monitor that data and sift through pages and pages worth of excel sheets. It can seem like a huge task to sort through relevant information like how many times your promotion was claimed or how much additional revenue was brought in during a specific time frame.
 
 
-###Now You Can Track Promotions : Introducing Promotions Tracker
+###Now You Can Track Promotions .. Introducing Promotions Tracker!
 While there’s no way to track your promotions through Seller Central, Efficient Era has just added a brand new solution that doesn’t involve the mind-numbing sifting of data. This is important to those of us who don’t exactly call our selves data gurus, but still want to have a decent idea of how much revenue is generated from our promotions.
 
 By using Efficient Era’s Promotions Tracker, you can effectively monitor how many times your discount codes were used, including the exact orders that were generated from each of your promotions. We compile all of your data into easily readable tables, searchable in a variety of ways so you can know exactly how promotions performed. Ok, we just got goosebumps at the thought of measurable promotions, what a concept!
@@ -39,7 +39,7 @@ One of the best practices of doing this kind of testing is to be categorical abo
 
 ###How It Works.
 
-When you create a Product Promotion via Seller Central, orders that are processed through this promo code are tracked and reported back to the Promotion Tracker, which then allows you to sort and filter through products and promo codes; letting you know how effective each promotion was.
+When you create a Product Promotion via Seller Central, orders that are processed through this promo code are tracked and reported back to the Promotions Tracker, which then allows you to sort and filter through products and promo codes; letting you know how effective each promotion was.
 
 The value this tool can offer your Amazon FBA could be immeasurable. If you can track where your promo is getting the most conversions, you can focus on this specific area to become the most profitable. Maybe your promo had amazing results on Pinterest where you had put forth the least amount of effort, as opposed to Facebook, where your promo results were only just above average and had focused your marketing strategy.
 
@@ -49,9 +49,14 @@ Either way, being able to track your promotions is going to allow you to stop wa
 
 Chances are you are centering your brand around a certain niche market. When you can track your promotions and see where it is best received, it is going to help you fine-tune your marketing, and may even give you a better understanding of your audience.
 
-###How Do You Get Access to the Promotion Tracker?
+###How Do You Get Access to the Promotions Tracker?
 
-Is it obvious now that you need one of these! The best place to get your hands on our Promotion Tracker is by <a href ="https://app.efficientera.com/signup/" target="_blank">signing up for 60-Day free Efficient Era trial</a>. A one-stop-shop for a growing collection of tools, an Efficient Era subscription will not only help you maximize your promotions but also gain access to the Data Warehouse, a giant repository of all your Amazon data. Some of the repositories under our Data Warehouse include Reviews and Review Changes, Listing Changes, Orders Returns made with return reason, Seller Feedback and a lot of searchable data, all in one central location. Keep an eye out for our next article detailing the benefits of Efficient Era’s Data Warehouse.
+It is obvious now that you need one of these! The best place to get your hands on our Promotions Tracker
+is by <a href ="https://app.efficientera.com/signup/" target="_blank">signing up for Efficient Era's 60-Day free
+trial</a>. A one-stop-shop for a growing collection of tools, an Efficient Era subscription
+will not only help you maximize your promotions but also gain access to the Data Warehouse,
+a giant repository of all your Amazon data. Some of the repositories under our Data Warehouse
+include Reviews and Review Changes, Listing Changes, Orders Returns made with return reason, Seller Feedback and a lot of searchable data, all in one central location. Keep an eye out for our next article detailing the benefits of Efficient Era’s Data Warehouse.
 
 
 
