@@ -50,12 +50,15 @@ Some of the creative ways you can optimize this service is to target coupons to 
 ###Will this new feature wipe out Coupon Services?
 We don't think so. Running promotions through Social media will still be an important way of driving sales. We believe that techniques for list building and audience building outside of the Amazon eco-system will be far more valuable for sellers in terms of getting repeat customers and owning their customer base, instead of losing this ability completely to Amazon. As we all know, sellers will constantly be pushed by Amazon to offer lower prices and get thinner and thinner margins. And then, there is always the danger of being suspended.
 
-Also, like all new Amazon initiatives for driving more sales, it might be better to approach this new service with a level of healthy scepticism. It won't be surprising if after reaching a certain early adoption momentum, it becomes the "new normal" and lose its charm.
+If you are running promotions outside of Amazon, we encourage you to check out Efficient Era's new <a href = "https://efficientera.com/blog/2017/11/finally-a-way-to-track-your-amazon-promotions.html" targe="_blank">"Promotions Tracker" </a> tool that helps you keep track of orders that resulted from each promotion and measure the effectiveness of your campaigns. While this is such a critical feature, Amazon does not provide these numbers.
 
 
 ###In Conclusion
+Like all new Amazon initiatives for driving more sales, it might be better to approach this new service with a level of healthy scepticism. It won't be surprising if after reaching a certain early adoption momentum, it becomes the "new normal" and lose its charm.
 
-So what can you expect with the new coupon feature regarding your return on investment? The more results keep coming back from other sellers, the more we have an idea of how well these coupons are doing, but so far, it seems as if the coupons have a pretty high CTR. This may also be because of the ‘newness’ of these coupons. We would be interested in the results of doing a split test between your PPC campaign, and the new coupons feature to see which would drive more traffic and conversions. It is also worth mentioning that not all products being sold on Amazon are going to be eligible for the coupon feature. While this is a drawback for some, most are seeing some excellent results. Happy Couponing!
+So, what can you expect with the new coupon feature regarding your return on investment? The more results keep coming back from other sellers, the more we have an idea of how well these coupons are doing, but so far, it seems as if the coupons have a pretty high CTR. This may also be because of the ‘newness’ of these coupons. It is also worth mentioning that not all products being sold on Amazon are going to be eligible for the coupon feature. While this is a drawback for some, most are seeing some excellent results.
+
+Happy Couponing!
 
 
 <a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
