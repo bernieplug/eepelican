@@ -1,5 +1,8 @@
 {% extends "base.html" %}
 {% set HIDE_SIDEBAR = true %}
+{% if page.tool_page %}
+{% set BOOTSTRAP_FLUID = true %}
+{% endif %}
 
 {% block title %}{{ page.title }} - {{ SITENAME }}{% endblock %}
 {% block html_lang %}{{ page.lang }}{% endblock %}
