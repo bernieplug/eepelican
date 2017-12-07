@@ -15,171 +15,135 @@
             <h4><small>Efficient Era's scalable pricing model is based on your usage of our services, calculated monthly at:</small></h4>
         </div>
         <div class="col-lg-10 col-lg-offset-1">
-                <div class="text-center">
-                    <h2 style="font-size: 350%;">$0.01<small>/order</small> + $0.08<small>/ASIN</small></h2>
-                </div>
-                <div class="well well-lg" style="border: none; padding: 0; background-color: transparent;">
-                    <div class="row" style="border: none">
-                        <div class="col-xs-12 col-lg-3 col-md-12" style="padding: 7px;">
-                            <div class="well well-lg text-center" style="background-color: rgb(157, 157, 157); padding: 2px">
-                                <div style="padding: 10px; color: white; font-size: 24px; margin: 10px;">Taking Off</div>
-                                <hr style="width: 80%; margin-top: 15px; margin-bottom: 15px;">
-                                <div style="color: white;"><span style="font-size: 350%;">$1.40</span></div>
-                                <div style="padding: 10px; background-color: white; margin: 25px; border-radius:3px;">
-                                    <p class="text-left" style="padding-left: 7px; padding-right: 7px; padding-top: 7px;">Say, your business is taking off and your monthly numbers look like this:</p>
-                                    <ul class="fa-ul text-left">
-                                        <li><i class="fa-li fa fa-check-square" style="color: #ff751a; text-space: 2px"></i>100 orders</li>
-                                        <li><i class="fa-li fa fa-check-square" style="color: #ff751a"></i>5 ASINs</li>
-                                    </ul>
-                                    <div style="padding: 1px; margin: 5px;">
-                                        <button type="submit" class="btn btn-info" style="background-color: #ff751a; border-color: #ff751a; white-space: normal;">No brainer! Start my 30-Day Trial</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-lg-3 col-md-12" style="padding: 7px;">
-                            <div class="well well-lg text-center" style="background-color: rgb(157, 157, 157); padding: 2px">
-                                <div style="padding: 10px; color: white; font-size: 24px; margin: 10px;">Growing</div>
-                                <hr style="width: 80%; margin-top: 15px; margin-bottom: 15px;">
-                                <div style="color: white;"><span style="font-size: 350%;">$10.80</span></div>
-                                <div style="padding: 10px; background-color: white; margin: 25px; border-radius:3px;">
-                                    <p class="text-left" style="padding-left: 7px; padding-right: 7px; padding-top: 7px;">Your business is growing and you made quite a few sales this month:</p>
-                                    <ul class="fa-ul text-left">
-                                        <li><i class="fa-li fa fa-check-square" style="color: #ff751a; text-space: 2px"></i>1,000 orders</li>
-                                        <li><i class="fa-li fa fa-check-square" style="color: #ff751a"></i>10 ASINs</li>
-                                    </ul>
-                                    <div style="padding: 1px; margin: 5px;">
-                                        <button type="submit" class="btn btn-info" style="background-color: #ff751a; border-color: #ff751a; white-space: normal;">That's it? Start my 30-Day Trial</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-lg-3 col-md-12" style="padding: 7px;">
-                            <div class="well well-lg text-center" style="background-color: rgb(157, 157, 157); padding: 2px">
-                                <div style="padding: 10px; color: white; font-size: 24px; margin: 10px;">Soaring</div>
-                                <hr style="width: 80%; margin-top: 15px; margin-bottom: 15px;">
-                                <div style="color: white;"><span style="font-size: 350%;">$108</span></div>
-                                <div style="padding: 10px; background-color: white; margin: 25px; border-radius:3px;">
-                                    <p class="text-left" style="padding-left: 7px; padding-right: 7px; padding-top: 7px;">You have many products and have a bunch of sales this month:</p>
-                                    <ul class="fa-ul text-left">
-                                        <li><i class="fa-li fa fa-check-square" style="color: #ff751a; text-space: 2px"></i>10,000 orders</li>
-                                        <li><i class="fa-li fa fa-check-square" style="color: #ff751a"></i>100 ASINs</li>
-                                    </ul>
-                                    <div style="padding: 1px; margin: 5px;">
-                                        <button type="submit" class="btn btn-info" style="background-color: #ff751a; border-color: #ff751a; white-space: normal;">Awesome! Start my 30-Day Trial</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-lg-3 col-md-12" style="padding: 7px;">
-                            <div class="well well-lg text-center" style="background-color: rgb(56, 56, 56); padding: 2px">
-                                <div style="padding: 10px; color: white; font-size: 24px; margin: 10px;">Pricing Calculator</div>
-                                <hr style="width: 80%; margin-top: 15px; margin-bottom: 15px;">
-                                <div style="color: white;"><span style="font-size: 350%;" id="demo">$0</span></div>
-                                <div style="padding: 10px; background-color: white; margin: 25px; border-radius:3px;">
-                                    <p class="text-left" style="padding-left: 7px; padding-right: 7px; padding-top: 7px;">Try calculating your monthly charge. Enter monthly orders and ASINs:</p>
-                                    <form class="form-inline" style="margin: 3px;">
-                                        <label for="orders" class="col-form-label" style="width: 45px;">Orders</label>
-                                        <input class="form-control" type="number" placeholder="Orders" value="0" id="orders" onchange="calc();" oninput="calc();" style="width: 100px;">
-                                    </form>
-                                    <form class="form-inline" style="margin: 3px;">
-                                        <label for="asins" class="col-form-label" style="width: 45px;">ASINs</label>
-                                        <input class="form-control" type="number" placeholder="ASINs" value="0" id="asins" onchange="calc();" oninput="calc();" style="width: 100px;">
-                                    </form>
-                                    <div style="padding: 1px; margin: 5px;">
-                                        <button type="submit" class="btn btn-info" style="background-color: #1e898f; border-color: #1e898f; white-space: normal;">Start my 30-Day Trial Now</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!--
-                        old pricing column
-                        <div class="col-xs-12 col-lg-3 col-md-12 " style="padding: 2px;" >
-                            <div class="well well-lg text-center" style="background-color: white; border-color: black; padding: 1px">
-
-                               <h4 style="background-color: salmon  ; padding: 10px; color: white">
-                                EXAMPLE 1
-                                </h4>
-                                <p class="text-left" style="padding-left: 7px; padding-right: 7px">Say, your business is taking off and your monthly numbers look like this:</p>
+            <div class="text-center">
+                <h2 style="font-size: 350%;">$0.01<small>/order</small> + $0.08<small>/ASIN</small></h2>
+            </div>
+            <div class="well well-lg" style="border: none; padding: 0; background-color: transparent;">
+                <div class="row" style="border: none">
+                    <div class="col-xs-12 col-lg-3 col-md-12" style="padding: 7px;">
+                        <div class="well well-lg text-center" style="background-color: rgb(157, 157, 157); padding: 2px">
+                            <div style="padding: 10px; color: white; font-size: 24px; margin: 10px;">Taking Off</div>
+                            <hr style="width: 80%; margin-top: 15px; margin-bottom: 15px;">
+                            <div style="color: white;"><span style="font-size: 350%;">$1.40</span></div>
+                            <div style="padding: 10px; background-color: white; margin: 25px; border-radius:3px;">
+                                <p class="text-left" style="padding-left: 7px; padding-right: 7px; padding-top: 7px;">Say, your business is taking off and your monthly numbers look like this:</p>
                                 <ul class="fa-ul text-left">
-                                    <li class=""><i class="fa-li fa fa-check-square" style="color: salmon; text-space: 2px"></i>100 orders</li>
-                                    <li class=""><i class="fa-li fa fa-check-square" style="color: salmon"></i>5 ASINs</li>
+                                    <li><i class="fa-li fa fa-check-square" style="color: #ff751a; text-space: 2px"></i>100 orders</li>
+                                    <li><i class="fa-li fa fa-check-square" style="color: #ff751a"></i>5 ASINs</li>
                                 </ul>
-                                <p style="color:dimgray" class="text-center">You pay:</p>
-                                    <h1>$1.4</h1>
-                                <br/>
-                                <br/>
-                                <button type="submit" class="btn btn-info" style="background-color: salmon; border-color: salmon">No brainer! Start my 30-Day Trial</button>
-                                <br/>
-                                <br/>
+                                <div style="padding: 1px; margin: 5px;">
+                                    <button type="submit" class="btn btn-info" style="background-color: #ff751a; border-color: #ff751a; white-space: normal;">No brainer! Start my 30-Day Trial</button>
+                                </div>
                             </div>
-                        </div> -->
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-lg-3 col-md-12" style="padding: 7px;">
+                        <div class="well well-lg text-center" style="background-color: rgb(157, 157, 157); padding: 2px">
+                            <div style="padding: 10px; color: white; font-size: 24px; margin: 10px;">Growing</div>
+                            <hr style="width: 80%; margin-top: 15px; margin-bottom: 15px;">
+                            <div style="color: white;"><span style="font-size: 350%;">$10.80</span></div>
+                            <div style="padding: 10px; background-color: white; margin: 25px; border-radius:3px;">
+                                <p class="text-left" style="padding-left: 7px; padding-right: 7px; padding-top: 7px;">Your business is growing and you made quite a few sales this month:</p>
+                                <ul class="fa-ul text-left">
+                                    <li><i class="fa-li fa fa-check-square" style="color: #ff751a; text-space: 2px"></i>1,000 orders</li>
+                                    <li><i class="fa-li fa fa-check-square" style="color: #ff751a"></i>10 ASINs</li>
+                                </ul>
+                                <div style="padding: 1px; margin: 5px;">
+                                    <button type="submit" class="btn btn-info" style="background-color: #ff751a; border-color: #ff751a; white-space: normal;">That's it? Start my 30-Day Trial</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-lg-3 col-md-12" style="padding: 7px;">
+                        <div class="well well-lg text-center" style="background-color: rgb(157, 157, 157); padding: 2px">
+                            <div style="padding: 10px; color: white; font-size: 24px; margin: 10px;">Soaring</div>
+                            <hr style="width: 80%; margin-top: 15px; margin-bottom: 15px;">
+                            <div style="color: white;"><span style="font-size: 350%;">$108</span></div>
+                            <div style="padding: 10px; background-color: white; margin: 25px; border-radius:3px;">
+                                <p class="text-left" style="padding-left: 7px; padding-right: 7px; padding-top: 7px;">You have many products and have a bunch of sales this month:</p>
+                                <ul class="fa-ul text-left">
+                                    <li><i class="fa-li fa fa-check-square" style="color: #ff751a; text-space: 2px"></i>10,000 orders</li>
+                                    <li><i class="fa-li fa fa-check-square" style="color: #ff751a"></i>100 ASINs</li>
+                                </ul>
+                                <div style="padding: 1px; margin: 5px;">
+                                    <button type="submit" class="btn btn-info" style="background-color: #ff751a; border-color: #ff751a; white-space: normal;">Awesome! Start my 30-Day Trial</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-lg-3 col-md-12" style="padding: 7px;">
+                        <div class="well well-lg text-center" style="background-color: rgb(56, 56, 56); padding: 2px">
+                            <div style="padding: 10px; color: white; font-size: 24px; margin: 10px;">Pricing Calculator</div>
+                            <hr style="width: 80%; margin-top: 15px; margin-bottom: 15px;">
+                            <div style="color: white;"><span style="font-size: 350%;" id="demo">$0</span></div>
+                            <div style="padding: 10px; background-color: white; margin: 25px; border-radius:3px;">
+                                <p class="text-left" style="padding-left: 7px; padding-right: 7px; padding-top: 7px;">Try calculating your monthly charge. Enter monthly orders and ASINs:</p>
+                                <form class="form-inline" style="margin: 3px;">
+                                    <label for="orders" class="col-form-label" style="width: 45px;">Orders</label>
+                                    <input class="form-control" type="number" placeholder="Orders" value="0" id="orders" onchange="calc();" oninput="calc();" style="width: 100px;">
+                                </form>
+                                <form class="form-inline" style="margin: 3px;">
+                                    <label for="asins" class="col-form-label" style="width: 45px;">ASINs</label>
+                                    <input class="form-control" type="number" placeholder="ASINs" value="0" id="asins" onchange="calc();" oninput="calc();" style="width: 100px;">
+                                </form>
+                                <div style="padding: 1px; margin: 5px;">
+                                    <button type="submit" class="btn btn-info" style="background-color: #1e898f; border-color: #1e898f; white-space: normal;">Start my 30-Day Trial Now</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
-
-</div>
-
-
-
-
-</div>
-
-
     <!-- What's in the bundle-->
-            <div class="row" style="background-color: #eee9e9">
-                <h3 class="text-center">Why Scalable Pricing Is Better</h3>
-                <p class="col-lg-10 col-lg-offset-1" style="padding: 0px">You're probably using a lot of tools from a lot of providers. Most providers
-                    offer tiered pricing models. For 1000 orders a month on 5 ASINs, your Email Automation software could cost
-                    around $40/month.
-                    Throw in a Review Monitoring and ID matching tool at $40 a month. And if you want to get Hijack Alerts, you are likely to be
-                    paying another $40 a month.
-                    Do the math, that's $120 right there! These numbers add up pretty quickly. If you just used these three tools from
-                    Efficient Era, you would only be paying a little over $10. See the comparison? That's:</p>
-                    <h1 class="col-lg-2 col-lg-offset-5 text-center" style="padding: 0px">$120 vs. $10</h1>
-                    <p></p>
-                    <p class="col-lg-10 col-lg-offset-1" style="padding: 0px">
-                    Tiered pricing models almost always turn out to be more expensive for sellers and we have been staying away from it.
-                    With Efficient Era, you pay no base monthly fee and get access to our entire collection of Alerts, Analytics and Automation Tools
-                        for one awesome price.
-                    </p>
-                <div class="col-lg-8 col-lg-offset-2">
-
-                    <div class="col-lg-4">
-                        <h4>Alerts</h4>
-                    <ul class="fa-ul">
-                        <li class=""><i class="fa-li fa fa-check-square" style="color: salmon"></i>Review and Feedback Alerts</li>
-                        <li class=""><i class="fa-li fa fa-check-square" style="color: salmon"></i>Buy Box Monitor</li>
-                        <li class=""><i class="fa-li fa fa-check-square" style="color: salmon"></i>Hijack Alerts</li>
-                        <li class=""><i class="fa-li fa fa-check-square" style="color: salmon"></i>Question and Returns Alerts</li>
-                    </ul>
-                    </div>
-
-                    <div class="col-lg-4">
-                        <h4>Analytics</h4>
-                    <ul class="fa-ul">
-                        <li class=""><i class="fa-li fa fa-check-square" style="color: salmon"></i>Data Warehouse</li>
-                        <li class=""><i class="fa-li fa fa-check-square" style="color: salmon"></i>Performance Charts</li>
-                        <li class=""><i class="fa-li fa fa-check-square" style="color: salmon"></i>Inventory Health Analyzer</li>
-                        <li class=""><i class="fa-li fa fa-check-square" style="color: salmon"></i>Ad Analyzer</li>
-                    </ul>
-                    </div>
-
-                    <div class="col-lg-4">
-                        <h4>Automation</h4>
-                    <ul class="fa-ul">
-                        <li class=""><i class="fa-li fa fa-check-square" style="color: salmon"></i>Review Matcher</li>
-                        <li class=""><i class="fa-li fa fa-check-square" style="color: salmon"></i>Email Automator</li>
-                        <li class=""><i class="fa-li fa fa-check-square" style="color: salmon"></i>Seller Feedback Automation</li>
-                        <li class=""><i class="fa-li fa fa-check-square" style="color: salmon"></i>VAT Invoice Automator</li>
-                    </ul>
-                    </div>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-
-                    </div>
+    <div class="row" style="background-color:rgb(210, 210, 210);">
+        <h3 class="text-center">Why Scalable Pricing Is Better</h3>
+        <div class="col-lg-8 col-lg-offset-2">
+            <p>
+                You're probably using a lot of tools from a lot of providers. Most providers
+                offer tiered pricing models. For 1000 orders a month on 5 ASINs, your Email Automation software could cost
+                around $40/month. Throw in a Review Monitoring and ID matching tool at $40/month. And if you want to
+                get Hijack Alerts, you are likely to be paying another $40/month. Do the math, that's $120 right there!
+                These numbers add up pretty quickly.
+            </p>
+            <h1 class="text-center">$120 vs. $10</h1>
+            <p>
+                Scalable pricing models almost always turn out to be less expensive for sellers and we want to do what's
+                best for you! With Efficient Era, you pay no base monthly fee and get access to our entire collection
+                of Alerts, Analytics and Automation Tools for one awesome price.
+            </p>
+        </div>
+        <div class="col-lg-6 col-lg-offset-3">
+            <div class="col-lg-4">
+                <h4>Alerts</h4>
+                <ul class="fa-ul">
+                    <li class=""><i class="fa-li fa fa-check-square" style="color: rgb(255, 117, 26);"></i>Review and Feedback Alerts</li>
+                    <li class=""><i class="fa-li fa fa-check-square" style="color: rgb(255, 117, 26);"></i>Buy Box Monitor</li>
+                    <li class=""><i class="fa-li fa fa-check-square" style="color: rgb(255, 117, 26);"></i>Hijack Alerts</li>
+                    <li class=""><i class="fa-li fa fa-check-square" style="color: rgb(255, 117, 26);"></i>Question and Returns Alerts</li>
+                </ul>
             </div>
+            <div class="col-lg-4">
+                <h4>Analytics</h4>
+                <ul class="fa-ul">
+                    <li class=""><i class="fa-li fa fa-check-square" style="color: rgb(255, 117, 26);"></i>Data Warehouse</li>
+                    <li class=""><i class="fa-li fa fa-check-square" style="color: rgb(255, 117, 26);"></i>Performance Charts</li>
+                    <li class=""><i class="fa-li fa fa-check-square" style="color: rgb(255, 117, 26);"></i>Inventory Health Analyzer</li>
+                    <li class=""><i class="fa-li fa fa-check-square" style="color: rgb(255, 117, 26);"></i>Ad Analyzer</li>
+                </ul>
+            </div>
+            <div class="col-lg-4">
+                <h4>Automation</h4>
+                <ul class="fa-ul">
+                    <li class=""><i class="fa-li fa fa-check-square" style="color: rgb(255, 117, 26);"></i>Review Matcher</li>
+                    <li class=""><i class="fa-li fa fa-check-square" style="color: rgb(255, 117, 26);"></i>Email Automator</li>
+                    <li class=""><i class="fa-li fa fa-check-square" style="color: rgb(255, 117, 26);"></i>Seller Feedback Automation</li>
+                    <li class=""><i class="fa-li fa fa-check-square" style="color: rgb(255, 117, 26);"></i>VAT Invoice Automator</li>
+                </ul>
+            </div>
+        </div>
+    </div>
 
     <!-- Compare us-->
 <!--
@@ -190,217 +154,231 @@
             </div>
 -->
 
-
+    <!--FAQ-->
     <div class="row" style="background-color: white; border: none">
         <div class="col-lg-8 col-lg-offset-2">
-            <div class="well well-lg" style="background-color: white; border-color: white">
             <h3 class="text-center" style="padding-bottom: 5px;">Frequently Asked Questions</h3>
-    <p></p>
-
-                <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#q0"><strong>+</strong> </button> <span style="font-size: larger">If I only want to monitor a few of my ASINs, how will you charge me?</span>
-                  <div id=q0" class="collapse">
-                     You are welcome to monitor only a few ASINs. Simply switch off the ones you don't want us to watch for you.
-                      This will not give you too much of a saving cost wise, because the primary part of your monthly charge comes from orders.
-                      Since at the time of order processing we do not know which ASINs the orders were placed for, we need to charge
-                      for every we process.
-                  </div>
-    <p></p>
-                <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#q10"><strong>+</strong> </button> <span style="font-size: larger">I don't use all your tools. Do you offer them individually?</span>
-                  <div id=q10" class="collapse">
-                    The short answer is no, we don't offer our tools individually. But in order to answer that question fully, we would like to take a step back and share some of the philosophy behind the design of our tools and how they work in an integrated and holistic way.
-                    <br></br>
-                      We believe that for buyers to become raving fans and repeat customers, their questions, concerns and complaints, however trivial, need to be addressed quickly and at every step of the purchase cycle, which starts with them clicking on a listing and continues on to after-care and support, even after the product was delivered. Being proactive at every step of their journey helps buyers have a positive experience with you as a brand, and this leads to them leaving good reviews in a natural, non-coercive sort of way.
-                    <br></br>
-                      We're committed to creating tools and alerts for every step of the cycle, to help you mitigate negative reviews and encourage positive reviews. The cycles we talk of can be summarized into the diagrams below that we refer to as Feedback Loops (you can learn more about this philosophy <a href="http://buff.ly/2icRajk" target="_blank" style="color: darkorange">here</a>). Although our tools do not yet cover all aspects of these feedback loops completely, we are striving to make this our ultimate goal. This is the reason why we offer our entire suite as a single unit, and at a single price point. We understand that it may not be feasible for you to adopt all of our tools because of feature preferences, but you are free to use only the ones that make sense to you.
-                    <div class="well well-lg">
-                        <div class="row">
-                            <div class="col-lg-6">
-                                <img class="img img-responsive" src="/images/pages/positiveloop.jpg" align="center" alt="Positive Feedback Loops">
-                            </div>
-                            <div class="col-lg-6">
-                                <img class="img img-responsive" src="/images/pages/negativeloop.jpg" align="center" alt="Positive Feedback Loops">
+            <div class="panel-group" id="accordion">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#q1">
+                                <span>If I only want to monitor a few of my ASINs, how will you charge me?</span>
+                            </a>
+                        </h4>
+                        <div id="q1" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <p>
+                                    You are welcome to monitor only a few ASINs. Simply switch off the ones you don't
+                                    want us to watch for you. This will not give you too much of a saving cost wise, because the
+                                    primary part of your monthly charge comes from orders. Since at the time of order
+                                    processing we do not know which ASINs the orders were placed for, we need to charge
+                                    for every we process.
+                                </p>
                             </div>
                         </div>
                     </div>
-                  </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#q2">
+                                <span>I don't use all your tools. Do you offer them individually?</span>
+                            </a>
+                        </h4>
+                        <div id="q2" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <p>
+                                    The short answer is no, we don't offer our tools individually. But in order to
+                                    answer that question fully, we would like to take a step back and share some of
+                                    the philosophy behind the design of our tools and how they work in an integrated
+                                    and holistic way.
+                                </p>
+                                <p>
+                                    We believe that for buyers to become raving fans and repeat customers, their
+                                    questions, concerns and complaints, however trivial, need to be addressed quickly
+                                    and at every step of the purchase cycle, which starts with them clicking on a
+                                    listing and continues on to after-care and support, even after the product was
+                                    delivered. Being proactive at every step of their journey helps buyers have a
+                                    positive experience with you as a brand, and this leads to them leaving good
+                                    reviews in a natural, non-coercive sort of way.
+                                </p>
+                                <p>
+                                    We're committed to creating tools and alerts for every step of the cycle,
+                                    to help you mitigate negative reviews and encourage positive reviews. The cycles
+                                    we talk of can be summarized into the diagrams below that we refer to as Feedback
+                                    Loops (you can learn more about this philosophy
+                                    <a href="http://buff.ly/2icRajk" target="_blank" style="color: darkorange">here</a>).
+                                    Although our tools do not yet cover all aspects of these feedback loops completely,
+                                    we are striving to make this our ultimate goal. This is the reason why we offer our
+                                    entire suite as a single unit, and at a single price point. We understand that it
+                                    may not be feasible for you to adopt all of our tools because of feature preferences,
+                                    but you are free to use only the ones that make sense to you.
+                                </p>
+                                <div class="well well-lg">
+                                    <div class="row">
+                                        <div class="col-lg-6">
+                                            <img class="img img-responsive" src="/images/pages/positiveloop.jpg" align="center" alt="Positive Feedback Loops">
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <img class="img img-responsive" src="/images/pages/negativeloop.jpg" align="center" alt="Positive Feedback Loops">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#q3">
+                                <span>Who is the intended audience of Efficient Era Tools?</span>
+                            </a>
+                        </h4>
+                        <div id="q3" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <p>
+                                    Our software is targeted primarily towards Private Label Sellers using Fulfilment
+                                    By Amazon (FBA) services. We offer a broad range of tools for timely alerts,
+                                    actionable analytics and process automation.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#q4">
+                                <span>How will I be charged? And how often?</span>
+                            </a>
+                        </h4>
+                        <div id="q4" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <p>
+                                    You will be required to set up Amazon Payments (one time setting). Once your account
+                                    has been authorized, billing will happen automatically once every month. When your
+                                    payment is due, we will send you an invoice with your usage and charge up to that
+                                    point.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#q5">
+                                <span>Do I need to provide you with credit card information to sign up?</span>
+                            </a>
+                        </h4>
+                        <div id="q5" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <p>
+                                    No, you will never need to provide us any credit card information during or after
+                                    your trial period. We will require you to complete your setup of Amazon
+                                    Payments when we send you the first notice of payment.
 
-    <p></p>
-
-                <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#q1"><strong>+</strong> </button> <span style="font-size: larger">Who is the intended audience of Efficient Era Tools?</span>
-                  <div id=q1" class="collapse">
-                     Our software is targeted primarily towards Private Label Sellers using Fulfilment By Amazon (FBA) services.
-                     We offer a broad range of tools for timely alerts, actionable analytics and process automation.
-                  </div>
-    <p></p>
-                <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#q2"><strong>+</strong> </button> <span style="font-size: larger">How will I be charged? And how often?</span>
-                  <div id=q2" class="collapse">
-                    You will be required to set up Amazon Payments (one time setting). Once your account has been authorized, billing will happen automatically once every month.
-                    When your payment is due, we will send you an invoice with your usage and charge up to that point.
-
-                  </div>
-    <p></p>
-                <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#q4"><strong>+</strong> </button> <span style="font-size: larger">Do I need to provide you with credit card information to sign up?</span>
-                  <div id=q4" class="collapse">
-                    No, you will never need to provide us any credit card information during or after your trial period. We will require you to complete your setup of Amazon Payments when we send you the first notice of payment.
-
-                  </div>
-    <p></p>
-                <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#q5"><strong>+</strong> </button> <span style="font-size: larger">What is Amazon Payments? Can I use Paypal or a credit card instead?</span>
-                  <div id=q5" class="collapse">
-                    At this point, the only form of payment we accept is via Amazon Payments. It is a trusted service for both shoppers and merchants and you can read up more about it <a href="https://pay.amazon.com/us/shopper" target="_blank" style="color: darkorange">here</a>.
-
-                  </div>
-    <p></p>
-                <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#q6"><strong>+</strong> </button> <span style="font-size: larger">How do you handle account cancellations?</span>
-                  <div id=q6" class="collapse">
-                    Once you cancel your order we will remove your account from our system. You will need to manually disable permissions for Efficient Era from your Seller Central account.
-
-                  </div>
-    <p></p>
-                <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#q7"><strong>+</strong> </button> <span style="font-size: larger">Can I trust Efficient Era with access to my seller account?</span>
-                  <div id=q7" class="collapse">
-                    We, at Efficient Era take security very seriously. All passwords are encrypted using PBKDF2 algorithm with a SHA256 hash. Your Amazon credentials are encrypted with AES-GCM 256-bit encryption. Also, we use two-factor authentication to log into servers and services. All servers have firewalls, and we apply security updates regularly.
-
-                  </div>
-    <!--<p></p>
-                <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#q8"><strong>+</strong> </button> <span style="font-size: larger">Is there a way to reduce my monthly bill if I only use some of your tools?</span>
-                  <div id=q8" class="collapse">
-                    Although most of our popular features such as buyer-reviewer matching or seller feedback
-                      require order processing and manipulation,
-                      if your only purpose in using our service is to get review notifications and daily review digests,
-                      you could chose to use the review feature alone at the bare minimum charge, that is based on your
-                      number of products. The simple pricing calculation in this case is to multiply your products by $0.08
-                      to arrive at your monthly charge. (e.g. 200 products x $0.08 = $16/month). Note that this is the only
-                      feature that does not require MWS or Seller Central access by our software (so make sure to disable
-                      them for Efficient Era). All of our other tools do require order processing, for which we incur
-                      infrastructural charges whether you use them or not, and you will get charges for your monthly orders at
-                      the rate of $0.01 per order.
-
-                  </div>-->
-    <p></p>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#q6">
+                                <span>What is Amazon Payments? Can I use Paypal or a credit card instead?</span>
+                            </a>
+                        </h4>
+                        <div id="q6" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <p>
+                                    At this point, the only form of payment we accept is via Amazon Payments. It is a
+                                    trusted service for both shoppers and merchants and you can read up more about it
+                                    <a href="https://pay.amazon.com/us/shopper" target="_blank" style="color: darkorange">here</a>.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#q7">
+                                <span>How do you handle account cancellations?</span>
+                            </a>
+                        </h4>
+                        <div id="q7" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <p>
+                                    Once you cancel your order we will remove your account from our system. You will
+                                    need to manually disable permissions for Efficient Era from your Seller Central account.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#q8">
+                                <span>Can I trust Efficient Era with access to my seller account?</span>
+                            </a>
+                        </h4>
+                        <div id="q8" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <p>
+                                    We, at Efficient Era take security very seriously. All passwords are encrypted using
+                                    PBKDF2 algorithm with a SHA256 hash. Your Amazon credentials are encrypted with
+                                    AES-GCM 256-bit encryption. Also, we use two-factor authentication to log into
+                                    servers and services. All servers have firewalls, and we apply security updates regularly.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 
 
 
 
 <script>
-
-
 function calc() {
-        var temp = 0;
-		var asins = parseInt(document.getElementById("asins").value);
-		var orders = parseInt(document.getElementById("orders").value);
-		temp = asins * 0.08 + orders * 0.01;
-        temp = temp.toFixed(2);
+    var temp = 0;
+    var asins = parseInt(document.getElementById("asins").value);
+    var orders = parseInt(document.getElementById("orders").value);
+    temp = asins * 0.08 + orders * 0.01;
+    temp = temp.toFixed(2);
 
-        if (!isNaN(temp)){
-		document.getElementById("demo").innerHTML = "$" + temp.toString();
+    if (!isNaN(temp)){
+        document.getElementById("demo").innerHTML = "$" + temp.toString();
         }
         else {
             (temp = 0)
         }
-	}
-
-function clearit() {
-		document.getElementById("asins").value = "";
-		document.getElementById("orders").value = "";
-		document.getElementById("demo").innerHTML = "";
-
-	}
+    }
 </script>
+<!-- Facebook Pixel Code Price Event-->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '987946037923422', {em: 'insert_email_variable,'});
+fbq('track', 'PageView');
+fbq('track', 'PriceInquiry');
 
-
-    <!-- Facebook Pixel Code Price Event-->
-    <script>
-    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-    document,'script','https://connect.facebook.net/en_US/fbevents.js');
-    fbq('init', '987946037923422', {em: 'insert_email_variable,'});
-    fbq('track', 'PageView');
-    fbq('track', 'PriceInquiry');
-
-    </script>
-    <noscript><img height="1" width="1" style="display:none"
-    src="https://www.facebook.com/tr?id=987946037923422&ev=PageView&noscript=1"
-    /></noscript>
-    <!-- DO NOT MODIFY -->
-    <!-- End Facebook Pixel Code -->
-
-
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=987946037923422&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
 </body>
 </html>
-
-
-
-
-<!--
-
-PRICING CALC
-                   <div class="thumbnail" style="padding: 0%">
-                        <div class="caption">
-                            <h5 style="text-align: left"> Enter approx. number of orders per month:</h5>
-                            <input type="text" name="orders" id="orders"/>
-                        </div>
-                    </div>
-
-                    <div class="thumbnail">
-                            <div class="caption">
-                                <h5 style="text-align: left">Enter number of ASINs to monitor:</h5>
-                                <input type="text" name="asins" id="asins"/>
-                            </div>
-                    </div>
-
-                    <div class="thumbnail" style="padding: 0%">
-                        <div class="caption">
-                           <h5 id="result" style="text-align: left"> Your monthly charge will be...</h5>
-                            <input type="button" value="Calculate Charge" OnClick="calc()"/> OR <input type="button" value="Start Over" OnClick="clearit()"/>
-                        </div>
-                    </div>
-                    <p><span style="color: darkorange"><strong>NOTE: Charges less than $1 will be waived off.</strong></p>
-                    -->
-
-
-
-
-                <!--
-<div class="well well-lg">
-<h3> Here's what our customers are saying about us!</h3>
-    <div class="well well-lg" style="background-color: dimgrey; color: white">
-        <p>"We were looking for a service to help us match Amazon reviews with customer orders and came across Efficient Era.  I was instantly impressed with the intuitive layout of the dashboards and accessibility of information.  Once I added the products that I wanted to track I was blown away that close to 100% of our product reviews were linked back to a customer order!  This is by far the best service for matching customer review to Amazon orders - nothing else that we have used even comes close.  Add in all the other great features like product sales charts with price change and event indicators, downloadable large order reports, and more - this is an incredible tool for delivering actionable, accessible data to anyone who sells on Amazon." <strong style="color: darkorange">~ Devin Kelly, <a href = "http://softy.com">www.softy.com</a></strong></p>
-    </div>
-    <div class="well well-lg" style="background-color: dimgrey; color: white">
-       <p>"I love the large order email from Efficient Era.  I use this to keep an eye on my FBA inventory levels and also to help me see when I need to add a listing with larger quantities to give my customer a better value." <strong style="color: darkorange">~ Kathy M.</strong></p>
-    </div>
-
-    <div class="well well-lg" style="background-color: dimgrey; color: white">
-    <p>"I have fallen in love with this software much to my partner and childrens dismay ;-)" <strong style="color: darkorange">~ Dr P Proctor MRCVS, SimplyPetsOnline Limited</strong></p>
-    </div>
-    <div class="well well-lg" style="background-color: dimgrey; color: white">
-    <p>
-                Efficient Era saved one of my products! We had a product that had some sudden issues and got a string of a few negative reviews. We were losing sales and rank and were not sure if the product could be saved.
-                Efficient Era was a lifesaver as it gave us the ability to match the review with the order information. It even could find the order information for reviews left as "Anonymous" or the frequent shopper "Amazon Customer". We were able to contact the customers who gave negative reviews and resolve issues that they had. Many of them who previously left a one or two-star rating changed their review to 5 stars and raved about our customer service!
-                This helped us not only get the overall star rating back up but also identify product issues. We now use this product regularly to communicate with any buyers who left negative reviews. More often than not we are also able to get the star rating to improve. The software also has great alerts to monitor inventory levels, listing health, and hijacker detection. Efficient Era has saved me thousands in potential lost sales and has paid for itself over and over. <strong style="color: darkorange">~ Jonathan J.</strong>
-            </p>
-    </div>
-
-    <div class="well well-lg" style="background-color: dimgrey; color: white">
-        <div class="row">
-        <div class="col-lg-8 col-lg-push-2">
-            <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/tPKqGJvcMWQ"></iframe>
-            </div>
-            <p><strong style="color: darkorange">Erick Rodriguez - Founder of <a href="http://virtuousgraphics.com/" target="_blank">Virtuous Graphics</strong></p>
-        </div>
-    </div>
-    </div>
-
-
-    </div>
--->
-
-
-
-
-
