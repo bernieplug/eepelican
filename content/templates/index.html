@@ -4,53 +4,64 @@
 {% set BOOTSTRAP_FLUID = true %}
 
 {% block banner %}
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
-  <!-- Indicators -->
-  <ol class="carousel-indicators">
-    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#myCarousel" data-slide-to="1"></li>
-    <li data-target="#myCarousel" data-slide-to="2"></li>
-  </ol>
 
-  <!-- Wrapper for slides -->
-  <div class="carousel-inner" role="listbox">
-    <div class="item active">
-      <a href="https://app.efficientera.com/signup/" target="_blank"><img src="/images/pages/2.png" alt="Tools for Amazon Sellers"></a>
-    </div>
+{##}
+{#<div id="myCarousel" class="carousel slide" data-ride="carousel">#}
+{#  <!-- Indicators -->#}
+{#  <ol class="carousel-indicators">#}
+{#    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>#}
+{#    <li data-target="#myCarousel" data-slide-to="1"></li>#}
+{#    <li data-target="#myCarousel" data-slide-to="2"></li>#}
+{#  </ol>#}
+{##}
+{#  <!-- Wrapper for slides -->#}
+{#  <div class="carousel-inner" role="listbox">#}
+{#    <div class="item active">#}
+{#      <a href="https://app.efficientera.com/signup/" target="_blank"><img src="/images/pages/14b.jpg" width="100%" alt="Tools for Amazon Sellers"></a>#}
+{#    </div>#}
+{##}
+{#    <div class="item">#}
+{#        <a href="/pages/feedback" target="_blank"><img src="/images/pages/4.png" alt="Buyer Reviewer Matching"></a>#}
+{#    </div>#}
+{##}
+{#    <div class="item">#}
+{#        <a href="https://app.efficientera.com/signup/" target="_blank"><img src="/images/pages/13.png" alt="Tools for Amazon Sellers"></a>#}
+{#    </div>#}
+{#  </div>#}
+{##}
+{#  <!-- Left and right controls -->#}
+{#  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">#}
+{#    <span class="glyphicon glyphicon-chevron-left"></span>#}
+{#    <span class="sr-only">Previous</span>#}
+{#  </a>#}
+{#  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">#}
+{#    <span class="glyphicon glyphicon-chevron-right"></span>#}
+{#    <span class="sr-only">Next</span>#}
+{#  </a>#}
+{#</div>#}
 
-    <div class="item">
-        <a href="/pages/feedback" target="_blank"><img src="/images/pages/4.png" alt="Buyer Reviewer Matching"></a>
-    </div>
 
-    <div class="item">
-        <a href="https://app.efficientera.com/signup/" target="_blank"><img src="/images/pages/3.png" alt="Tools for Amazon Sellers"></a>
-    </div>
-  </div>
-
-  <!-- Left and right controls -->
-  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
 {% endblock %}
 
 {% block content %}
 <section id="content" class="body">
+
+{#
 <div class="jumbotron" style="opacity: 50; background-color: #f4f4f4; padding: 10px">
   <div class="container" style="padding: 10px;  text-align: center">
     <img src="/images/logo_name.png" width="30%">
     <h2 style="padding: 0px; color:black; font-weight:200">Powerful Tools for Amazon Sellers</h2>
   </div>
 </div>
+#}
+    <div class="row" style="padding: 0px">
+        <img class="img-responsive" src="/images/pages/14b.jpg" width="100%" style="padding: 0px; margin: 0%">
+        <h3 style="color: dimgray" class="text-center">ALERTS | ANALYTICS | AUTOMATION</h3>
+
 
         <div class="col-sm-12 col-lg-12">
             <h4 style="color: #0b0b0b; line-height: 150%">Build your brand and protect your brand on Amazon, with Efficient Era's powerful software.
-                Access all the tools in our ever-growing bundle of offerings for the same price!
+                Access all the tools in our ever-growing bundle of offerings for ONE price!
                 We support North America, EU and JP marketplaces and allow unlimited emails and alerts.
                 Activate your 30-Day <a href="https://app.efficientera.com/signup/?" target="_blank" style="color:darkorange">FREE trial</a> now!</h4>
             <hr>
@@ -119,10 +130,11 @@
                             <h4>Email Automator</h4>
                             <p>
                                 Even with buyer opt-outs, sending follow-up emails is totally worth it!
-                                Our Email Automator helps you trigger emails when a product is ordered,
-                                shipped or delivered. We make it easy to weave placeholders into your message to dynamically address the buyer by full name,
-                                refer to the product they bought and add links to leave reviews.
-                                Create eye-catching emails with our rich text editor or modify HTML.
+                                Our easy to use Email Automator helps you trigger emails when a product is ordered,
+                                shipped or delivered. Weave placeholders into your message to
+                                dynamically address the buyer by full name,
+                                include the product they bought and add links to leave reviews.
+                                Create eye-catching emails with our rich text editor or customize the HTML.
 
                             </p>
 
@@ -300,6 +312,8 @@
 <div>
 
     <div class="row">
+        <img class="img-responsive" style="width: 100%" src="/images/pages/World-Map.jpg">&nbsp;
+
         <div class="col-sm-12 col-lg-12 text-center">
             <h3 style="align-self; color: #f47424"><strong>Here's What Customers are Saying About Efficient Era</strong></h3>
        <!--     <h3 style="align-self"><strong>TESTIMONIALS</strong></h3>-->
