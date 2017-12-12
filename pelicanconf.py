@@ -84,7 +84,7 @@ SITELOGO = 'images/logo_name.png'
 SITELOGO_SIZE = '140px'
 HIDE_SITENAME = True
 FAVICON = 'images/logo_e.png'
-BACK_TO_TOP = True
+BACK_TO_TOP = False
 
 # Plugins
 PLUGIN_PATHS = ["plugins", "plugins"]
