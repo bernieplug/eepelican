@@ -11,7 +11,7 @@
             </div>
         </div>
         <hr>
-        <div class="row">
+        <div class="row" style="margin-bottom: 20px;">
             {% if articles %}
             {% set copy_date = articles[0].date.strftime('%Y') %}
             {% else %}
@@ -29,8 +29,7 @@
                 {% endif %}
 
             </div>
-            <div class="col-xs-12 col-sm-6 text-right-sm">
-                Follow us on
+            <div class="col-xs-12 col-sm-6 text-right">
                 <a class="btn btn-sm btn-social-icon btn-facebook" target="_blank" href="https://www.facebook.com/efficientera">
                     <span class="fa fa-facebook"></span>
                 </a>
