@@ -52,7 +52,7 @@ Chances are you are centering your brand around a certain niche market. When you
 ###How Do You Get Access to the Promotions Tracker?
 
 It is obvious now that you need one of these! The best place to get your hands on our Promotions Tracker
-is by <a href ="https://app.efficientera.com/signup/" target="_blank">signing up for Efficient Era's 60-Day free
+is by <a href ="https://app.efficientera.com/signup/" target="_blank">signing up for Efficient Era's 30-Day free
 trial</a>. A one-stop-shop for a growing collection of tools, an Efficient Era subscription
 will not only help you maximize your promotions but also gain access to the Data Warehouse,
 a giant repository of all your Amazon data. Some of the repositories under our Data Warehouse

@@ -5,40 +5,40 @@
 
 {% block banner %}
 
-{##}
-{#<div id="myCarousel" class="carousel slide" data-ride="carousel">#}
-{#  <!-- Indicators -->#}
-{#  <ol class="carousel-indicators">#}
-{#    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>#}
-{#    <li data-target="#myCarousel" data-slide-to="1"></li>#}
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="4000">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
 {#    <li data-target="#myCarousel" data-slide-to="2"></li>#}
-{#  </ol>#}
-{##}
-{#  <!-- Wrapper for slides -->#}
-{#  <div class="carousel-inner" role="listbox">#}
-{#    <div class="item active">#}
-{#      <a href="https://app.efficientera.com/signup/" target="_blank"><img src="/images/pages/14b.jpg" width="100%" alt="Tools for Amazon Sellers"></a>#}
-{#    </div>#}
-{##}
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <a href="https://app.efficientera.com/signup/" target="_blank"><img src="/images/pages/14b.jpg" width="100%" alt="Tools for Amazon Sellers"></a>
+    </div>
+
+    <div class="item">
+        <a href="/pages/feedback" target="_blank"><img src="/images/pages/external-emails.png" alt="External Email Tracker"></a>
+    </div>
+
 {#    <div class="item">#}
-{#        <a href="/pages/feedback" target="_blank"><img src="/images/pages/4.png" alt="Buyer Reviewer Matching"></a>#}
-{#    </div>#}
-{##}
-{#    <div class="item">#}
-{#        <a href="https://app.efficientera.com/signup/" target="_blank"><img src="/images/pages/13.png" alt="Tools for Amazon Sellers"></a>#}
+{#        <a href="https://app.efficientera.com/signup/" target="_blank"><img src="/images/pages/14b.jpg" alt="Tools for Amazon Sellers"></a>#}
 {#    </div>#}
 {#  </div>#}
-{##}
-{#  <!-- Left and right controls -->#}
-{#  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">#}
-{#    <span class="glyphicon glyphicon-chevron-left"></span>#}
-{#    <span class="sr-only">Previous</span>#}
-{#  </a>#}
-{#  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">#}
-{#    <span class="glyphicon glyphicon-chevron-right"></span>#}
-{#    <span class="sr-only">Next</span>#}
-{#  </a>#}
-{#</div>#}
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 
 
 {% endblock %}
@@ -56,7 +56,7 @@
 #}
     <div class="row" style="padding: 0px">
 
-        <a href="https://app.efficientera.com/signup/" target="_blank"><img class="img-responsive" src="/images/pages/14b.jpg" width="100%" style="padding: 0px; margin: 0%">
+{#        <a href="https://app.efficientera.com/signup/" target="_blank"><img class="img-responsive" src="/images/pages/14b.jpg" width="100%" style="padding: 0px; margin: 0%">#}
         <h3 style="color: dimgray" class="text-center">ALERTS | ANALYTICS | AUTOMATION</h3>
 
 
@@ -152,7 +152,7 @@
 
                      <!--<a href="/pages/feedback">-->
                         <div class="col-xs-2 col-sm-3 img-main">
-                            <img class="img img-responsive" src="images/icons/Listing Hijack Alerts.png" alt="Alerts &  Notification Tools for Amazon Sellers Amazon Seller Tools">
+                            <img class="img img-responsive" src="images/icons/Buybox_alert.png" alt="Alerts &  Notification Tools for Amazon Sellers Amazon Seller Tools">
                         </div>
                         <div class="col-xs-10 col-sm-9">
 
@@ -171,6 +171,50 @@
                         </div>
                         <!--</a>-->
 
+                    </div>
+                </div>
+
+
+                <div class="col-xs-12 col-sm-6">
+                    <div class="row feature-panel">
+                    <a href="/pages/salescharts">
+                    <div class="col-xs-2 col-sm-3 img-main">
+                        <img class="img img-responsive" src="images/icons/Listing Hijack Alerts.png" alt="Amazon Inventory, Tools for Amazon Sellers, Amazon Seller Tools">
+                    </div>
+                        <div class="col-xs-10 col-sm-9">
+
+                            <h4>Listing Alerts</h4>
+                            <p>Hijackers get more sophisticated by the day and you need to keep track of
+                                every event that could threaten your business.
+                                Even if you are Brand Registered and Private Label, your listing can still be overwritten
+                                or silently suspended by Amazon. Efficient Era sends email alerts
+                                when your listings were changed, what exactly was changed,
+                                when you lost the BuyBox and also when you hit new sales records.
+
+                            </p>
+                        </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                    <div class="row feature-panel">
+                        <a href="/blog/2017/12/does-your-external-email-list-convert-on-amazon.html">
+                        <div class="col-xs-2 col-sm-3 img-main">
+                            <img class="img img-responsive" src="images/icons/ExternalEmail_Tracker.png" alt="Amazon Category Ranking">
+                        </div>
+                        <div class="col-xs-10 col-sm-9">
+                            <h4>External Email Tracker</h4>
+                            <p>Are you building an email list outside of Amazon? If not, it's never too late to get started!
+                                An email list allows you to offer discounts and coupons to your audience through Facebook
+                                and other social platforms
+                                <i><strong>without </strong></i>violating Amazon ToS.
+                                But how do you know if your leads actually converted to a sale?
+                                The External Email Tracker traces all emails on your list to any orders placed
+                                on Amazon with them within a date range. <strong style="color: darkorange">NEW!</strong>
+                            </p>
+                        </div>
+                            </a>
                     </div>
                 </div>
 
@@ -216,6 +260,7 @@
                             </a>
                     </div>
                 </div>
+
 
                  <div class="col-xs-12 col-sm-6">
                     <div class="row feature-panel">
