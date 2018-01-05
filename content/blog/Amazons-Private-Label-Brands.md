@@ -21,7 +21,7 @@ Many sellers believe that while Amazon provides an opportunity to start out on a
 
 Let us not for a moment forget, that Amazon sits on over 2 decades of priceless data on market demand, customer behavior and successful product lines. And they have proven time and time again that they are capable of mimicking the best and making it even better.
 
-###What’s Amazon has to Offer
+###What are Amazon's Private Label Brands?
 
 Do you recognize these names? They are Amazon's in-house brands. Some of these are offered to just the Prime members while other distribute broadly.
 
