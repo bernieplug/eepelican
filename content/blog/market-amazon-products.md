@@ -1,5 +1,5 @@
 Title: Everything You Wanted to Know About Building Your Amazon Sales Funnel
-Author: Ritu J, & Elyse S.
+Author: Ritu J. & Elyse S.
 Category: Marketing
 Date: 2018-01-30 3:00
 Tags: Advertising, Products, Marketing
