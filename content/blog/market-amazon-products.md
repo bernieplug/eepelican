@@ -42,7 +42,7 @@ For decades, businesses have been using micro-influencers for advertising. From 
 
 In today's social media scene, you can find micro-influencers everywhere. On Instagram, Pinterest, Facebook and Blogs. You don't need to find a Kardashian to speak about your products. Most influencers would be happy to take your product and write you a review or do a video for your product. Some charge a small amount but it's all worth it.
 
-### No Time Like now to Grow a Facebook Audience ###
+### No Time Like Now to Grow a Facebook Audience ###
 Facebook has more than 2 BILLION active users, and they offer you easy access to your desired demographic. Build your audience, your tribe, your people who are interested in topics related to your brand. Give them valuable content to consume so that they are drawn to you and finally get interested in what you have to sell.
 
 If you have a Facebook page or group already, that's awesome! You can also learn from leading Facebook experts like Rachel Miller and Amy Porterfield. A lot of their content is free but you could also join their paid classes. Here is a quick video by Rachel Miller where she talks about getting more traffic.
