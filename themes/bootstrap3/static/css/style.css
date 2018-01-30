@@ -44,6 +44,10 @@ a:hover.back-to-top {
     word-wrap: break-word;
 }
 
+p {
+  font-size: 14px !important;
+}
+
 /* styling for about page wells */
 .well-lg h3 {
     margin-top: 0px;
