@@ -4,8 +4,8 @@
 {% set BOOTSTRAP_FLUID = true %}
 
 {% block banner %}
-
-
+{##}
+{##}
 {#<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="4000">#}
 {#  <!-- Indicators -->#}
 {#  <ol class="carousel-indicators">#}
@@ -14,11 +14,11 @@
 {#    <li data-target="#myCarousel" data-slide-to="2"></li>#}
 {#  </ol>#}
 {##}
+{##}
 {#  <!-- Wrapper for slides -->#}
 {#  <div class="carousel-inner" role="listbox">#}
-{#    <div class="item active">#}
+{#    <div class="item active" >#}
 {#      <a href="https://efficientera.com/blog/2017/12/does-your-external-email-list-convert-on-amazon.html" target="_blank"><img src="/images/pages/ee_banner_white.png" width="100%" alt="Tools for Amazon Sellers"></a>#}
-{#      <a href="https://efficientera.com/blog/2017/12/does-your-external-email-list-convert-on-amazon.html" target="_blank"><img src="/images/pages/external-emails.png" width="100%" alt="Tools for Amazon Sellers"></a>#}
 {#    </div>#}
 {##}
 {#    <div class="item">#}
@@ -46,6 +46,7 @@
 
 {% block content %}
 <section id="content" class="body">
+{#    <div class="bg"></div>#}
 
 {#
 <div class="jumbotron" style="opacity: 50; background-color: #f4f4f4; padding: 10px">
@@ -55,82 +56,84 @@
   </div>
 </div>
 #}
-    <div class="row" style="padding: 0px;" >
-
-        <a href="https://app.efficientera.com/signup/" target="_blank"><img class="img-responsive" src="/images/pages/ee_banner.png" width="100%" style="padding: 0px; margin: 0%">
-
-        <h3 style="color: dimgray" class="text-center">ALERTS | ANALYTICS | AUTOMATION</h3>
 
 
-        <div class="col-sm-12 col-lg-12">
-            <h4 style="color: #0b0b0b; line-height: 150%">Build your brand and protect your brand on Amazon, with Efficient Era's powerful software.
-                Access all the tools in our ever-growing bundle of offerings for ONE price!
-                We support North America, EU and JP marketplaces and allow unlimited emails and alerts.
-                Activate your 30-Day <a href="https://app.efficientera.com/signup/?" target="_blank" style="color:darkorange">FREE trial</a> now!</h4>
-            <hr>
-        </div>
+<div class="row" style="padding: 0px; " >
+    <a href="https://app.efficientera.com/signup/" target="_blank"><img class="img-responsive" src="/images/pages/ee_banner_1.jpg" width="100%" style="padding: 0px; margin: 0%"></a>
+    <div class="row" style="background-color: #f6f6f6; padding: 0%">
+        <h3 style="color: #323232" class="text-center">ALERTS | ANALYTICS | AUTOMATION</h3>
 
-        <div class="col-xs-12 col-lg-10 col-lg-offset-1">
-            <div class="row">
+    <div class="col-sm-12 col-lg-12">
+        <h4 style="color: #0b0b0b; margin-right: 20px; margin-left: 20px; line-height: 150%">Build your brand and protect your brand on Amazon, with Efficient Era's powerful software.
+            Access all the tools in our ever-growing bundle of offerings for ONE price!
+            We support North America, EU and JP marketplaces and allow unlimited emails and alerts.
+            Activate your 30-Day <a href="https://app.efficientera.com/signup/?" target="_blank" style="color:darkorange">FREE trial</a> now!
+        <br></br></h4>
+    </div>
+    </div>
+</div>
+
+<div class="col-xs-12 col-lg-10 col-lg-offset-1">
+    <div class="row">
                 <div class="col-xs-12 col-sm-6">
-                    <div class="row feature-panel">
+                <div class="row feature-panel">
 
-                   <a href="/pages/feedback/">
+                   <!--<a href="/pages/feedback/">-->
+                    <div class="col-xs-2 col-sm-3 img-main">
+                        <img class="img img-responsive " src="images/icons/Seller Feedback Alerts1.png" alt="Amazon Seller Feedback, Buyer-Review Matching ,Buyer-Reviewer Matching">
+                    </div>
+
+                    <div class="col-xs-10 col-sm-9">
+                    <h4>Feedback Manager</h4>
+                        <p class="Class2">
+                        Reviews and feedback are the most important social proof of your product.
+                        Amazon's ranking algorithm places heavy importance on the first 21 reviews
+                        received after product launch and beyond.
+                        With Feedback Manager, you can set up alerts to track your feedback
+                            and always be ready to support buyers by taking quick action.
+                            At any time, search all
+                        of your feedback and reviews and detect patterns for potential problems.
+                         </p>
+                    </div>
+                       <!-- </a>-->
+                </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-6">
+                <div class="row feature-panel">
+                        <a href="/blog/2017/12/does-your-external-email-list-convert-on-amazon.html">
                         <div class="col-xs-2 col-sm-3 img-main">
-                            <img class="img img-responsive " src="images/icons/Seller Feedback Alerts1.png" alt="Amazon Seller Feedback, Buyer-Review Matching ,Buyer-Reviewer Matching">
+                            <img class="img img-responsive" src="images/icons/ExternalEmail_Tracker.png" alt="Amazon Category Ranking">
                         </div>
+
                         <div class="col-xs-10 col-sm-9">
-                        <h4>Review Matcher</h4>
-                            <p>
-                            Reviews are, by far, the most important social proof of your product.
-                                When a buyer leaves a negative review, you want
-                                to quickly connect with them and help out. We provide accurate
-                                <strong style="color: #009999">buyer-reviewer matching</strong>, including for anonymous 'Amazon Customers'.
-                                Our Review Monitor notifies you about
-                                reviews and feedback. At any time, you can search all
-                                of your reviews within the our Data Warehouse.
-                             </p>
+                            <h4>Funnel Manager</h4>
+                            <p class="Class2">
+                                If you're not building an email list outside the Amazon eco-system you're missing out on a
+                                huge opportunity. An email list allows you to offer discounts and coupons to your audience through Facebook
+                                and other social platforms
+                                <i><strong>without </strong></i>violating Amazon ToS.
+                                But how do you know if your leads are actually converting?
+                                Our Funnel Manager matches emails on your list to orders placed
+                                on Amazon, and also detects Amazon promotions that were claimed.
+                                <strong style="color: darkorange">NEW!</strong>
+                            </p>
                         </div>
                         </a>
-                    </div>
                 </div>
-
-                <div class="col-xs-12 col-sm-6">
-                    <div class="row feature-panel">
-
-                        <!--                       <a href="/pages/postorder">-->
-                        <div class="col-xs-2 col-sm-3 img-main">
-                           <img class="img img-responsive" src="images/icons/Order Data Automation.png" width ="100%" alt="Amazon Review Notifications">
-                        </div>
-                        <div class="col-xs-10 col-sm-9">
-                            <h4>Data Warehouse</h4>
-                            <p>
-                            Overwhelmed with data scattered across Amazon reports, pages and listings?
-                                Want the ability to quickly search, sort, filter? Efficient Era's Data Warehouse is a
-                                giant repository of <strong>YOUR</strong> data gathered from multiple
-                                sources on Amazon, cleaned, normalized and organized at one single location. Easily export lists so you can
-                                slice-and-dice them for advanced analysis, offline retargeting or customer retention.
-                                <strong style="color:darkorange">NEW!</strong></p>
-                            </p>
-
-
-
-                        </div>
-                        <!--</a>-->
-                    </div>
                 </div>
 
 
                 <div class="col-xs-12 col-sm-6">
-                    <div class="row feature-panel">
+                <div class="row feature-panel">
                         <!--<a href="/pages/alerts">-->
                         <div class="col-xs-2 col-sm-3 img-main">
                             <img class="img img-responsive " src="images/icons/Email Automation.png" alt="Amazon Email Automation">
                         </div>
-                        <div class="col-xs-10 col-sm-9">
 
+                        <div class="col-xs-10 col-sm-9">
                             <h4>Email Automator</h4>
-                            <p>
+                            <p class="Class2">
                                 Even with buyer opt-outs, sending follow-up emails is totally worth it!
                                 Our easy to use Email Automator helps you trigger emails when a product is ordered,
                                 shipped or delivered. Weave placeholders into your message to
@@ -139,97 +142,130 @@
                                 Create eye-catching emails with our rich text editor or customize the HTML.
 
                             </p>
-
-
-
                         </div>
                         <!--</a>-->
-                    </div>
                 </div>
+                </div>
+{##}
+{##}
+{#                <div class="col-xs-12 col-sm-6">#}
+{#                <div class="row feature-panel">#}
+{##}
+{#                        <div class="col-xs-2 col-sm-3 img-main">#}
+{#                            <img class="img img-responsive" src="images/icons/Buybox_alert.png" alt="Alerts &  Notification Tools for Amazon Sellers Amazon Seller Tools">#}
+{#                        </div>#}
+{##}
+{#                        <div class="col-xs-10 col-sm-9">#}
+{##}
+{#                            <h4>Buy Box Monitor</h4>#}
+{#                            <p>#}
+{#                               A competitor overrides your listing while you weren’t paying attention.#}
+{#                                Happens all the time! It's easy for a fly-by-night seller to steal your#}
+{#                                Buy Box and replace your beautifully crafted listings with shoddy images#}
+{#                                and incorrect details. Get notified when you lose the Buy Box, or when your#}
+{#                                listing was silently modified by malicious bots, competitors, Amazon Warehouse#}
+{#                                or Amazon Retail in every marketplace.#}
+{#                            </p>#}
+{#                        </div>#}
+{##}
+{#                </div>#}
+{#                </div>#}
 
 
-                <div class="col-xs-12 col-sm-6">
-                    <div class="row feature-panel">
+{#                <div class="col-xs-12 col-sm-6">#}
+{#                <div class="row feature-panel">#}
+{##}
+{#                    <div class="col-xs-2 col-sm-3 img-main">#}
+{#                        <img class="img img-responsive" src="images/icons/Listing Hijack Alerts.png" alt="Amazon Inventory, Tools for Amazon Sellers, Amazon Seller Tools">#}
+{#                    </div>#}
+{##}
+{#                    <div class="col-xs-10 col-sm-9">#}
+{##}
+{#                            <h4>Listing Alerts</h4>#}
+{#                            <p>Hijackers get more sophisticated by the day and you need to keep track of#}
+{#                                every event that could threaten your business.#}
+{#                                Even if you are Brand Registered and Private Label, your listing can still be overwritten#}
+{#                                or silently suspended by Amazon. Efficient Era sends email alerts#}
+{#                                when your listings were changed, what exactly was changed,#}
+{#                                when you lost the BuyBox and also when you hit new sales records.#}
+{##}
+{#                            </p>#}
+{#                    </div>#}
+{#                </div>#}
+{#                </div>#}
 
-                     <!--<a href="/pages/feedback">-->
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <div class="row feature-panel">
                         <div class="col-xs-2 col-sm-3 img-main">
-                            <img class="img img-responsive" src="images/icons/Buybox_alert.png" alt="Alerts &  Notification Tools for Amazon Sellers Amazon Seller Tools">
+                           <img class="img img-responsive" src="images/icons/Order Data Automation.png" width ="100%" alt="Amazon Review Notifications">
                         </div>
+
                         <div class="col-xs-10 col-sm-9">
-
-                            <h4>Buy Box Monitor</h4>
-                            <p>
-                               A competitor overrides your listing while you weren’t paying attention.
-                                Happens all the time! It's easy for a fly-by-night seller to steal your
-                                Buy Box and replace your beautifully crafted listings with shoddy images
-                                and incorrect details. Get notified when you lose the Buy Box, or when your
-                                listing was silently modified by malicious bots, competitors, Amazon Warehouse
-                                or Amazon Retail in every marketplace.
+                            <h4>Data Warehouse</h4>
+                            <p class="Class2">
+                            Overwhelmed with data scattered across Amazon reports, pages and listings?
+                                Want the ability to quickly search, sort, filter? Efficient Era's Data Warehouse is a
+                                giant repository of <strong>YOUR</strong> data gathered from multiple
+                                sources on Amazon, cleaned, normalized and organized at one single location. Easily export lists so you can
+                                slice-and-dice them for advanced analysis, offline retargeting or customer retention.
                             </p>
-
-
-
                         </div>
-                        <!--</a>-->
-
-                    </div>
+                </div>
                 </div>
 
 
                 <div class="col-xs-12 col-sm-6">
-                    <div class="row feature-panel">
-{#                    <a href="/pages/salescharts">#}
-                    <div class="col-xs-2 col-sm-3 img-main">
-                        <img class="img img-responsive" src="images/icons/Listing Hijack Alerts.png" alt="Amazon Inventory, Tools for Amazon Sellers, Amazon Seller Tools">
-                    </div>
-                        <div class="col-xs-10 col-sm-9">
-
-                            <h4>Listing Alerts</h4>
-                            <p>Hijackers get more sophisticated by the day and you need to keep track of
-                                every event that could threaten your business.
-                                Even if you are Brand Registered and Private Label, your listing can still be overwritten
-                                or silently suspended by Amazon. Efficient Era sends email alerts
-                                when your listings were changed, what exactly was changed,
-                                when you lost the BuyBox and also when you hit new sales records.
-
-                            </p>
+                <div class="row feature-panel">
+                        <div class="col-xs-2 col-sm-3 img-main">
+                            <img class="img img-responsive" src="images/icons/Returns_Tracker.png" alt="Amazon VAT Automation, Tools for Amazon Sellers, Amazon Seller Tools">
                         </div>
-                        </a>
-                    </div>
+
+                        <div class="col-xs-10 col-sm-9">
+                            <h4>Returns Tracker</h4>
+                            <p class="Class2">
+                                A high return rate can make your product ineligible for FBA and even lead to suspension.
+                                With Returns Tracker, you can track return rates on a per product basis and measure how they are contributing
+                                to your overall return rate.
+                                A buyer is likely to follow up a return request with a negative review.
+                                Take action quickly and prevent a negative situation.
+                                <strong style="color:darkorange">NEW!</strong></p>
+                        </div>
+                </div>
                 </div>
 
                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                    <div class="row feature-panel">
-                        <a href="/blog/2017/12/does-your-external-email-list-convert-on-amazon.html">
+                <div class="row feature-panel">
+                        <a href="/pages/adreports">
                         <div class="col-xs-2 col-sm-3 img-main">
-                            <img class="img img-responsive" src="images/icons/ExternalEmail_Tracker.png" alt="Amazon Category Ranking">
+                            <img class="img img-responsive" src="images/icons/Ad Analysis.png" alt="Amazon Category Ranking">
                         </div>
+
                         <div class="col-xs-10 col-sm-9">
-                            <h4>External Email Tracker</h4>
-                            <p>Are you building an email list outside of Amazon? If not, it's never too late to get started!
-                                An email list allows you to offer discounts and coupons to your audience through Facebook
-                                and other social platforms
-                                <i><strong>without </strong></i>violating Amazon ToS.
-                                But how do you know if your leads actually converted to a sale?
-                                The External Email Tracker traces all emails on your list to any orders placed
-                                on Amazon with them within a date range. <strong style="color: darkorange">NEW!</strong>
+                            <h4>Ad Analyzer</h4>
+                            <p class="Class2">
+                                How do you gauge the profitability of your Amazon Sponsored Products Ad campaigns?
+                                How many impressions does it take to make an advertised SKU sell? How is your CTR?
+                                What about conversions? Efficient Era's historical Ad Analysis charts provide product level
+                                drill down insights, helping you see where your Ad spending is working and where
+                                to cut back.
                             </p>
                         </div>
-                            </a>
-                    </div>
+                        </a>
+                </div>
                 </div>
 
 
                 <div class="col-xs-12 col-sm-6">
-                    <div class="row feature-panel">
+                <div class="row feature-panel">
                     <a href="/pages/salescharts">
                     <div class="col-xs-2 col-sm-3 img-main">
                         <img class="img img-responsive" src="images/icons/Inventory Health Analysis.png" alt="Amazon Inventory, Tools for Amazon Sellers, Amazon Seller Tools">
                     </div>
-                        <div class="col-xs-10 col-sm-9">
 
-                            <h4>Inventory Health Analyzer</h4>
-                            <p>
+                    <div class="col-xs-10 col-sm-9">
+
+                            <h4>Inventory Analyzer</h4>
+                            <p class="Class2">
                                 Want to investigate that mysterious spike in sales? Efficient Era's Inventory Health
                                 Analysis Charts help you visually track sales and stock and also provide you with Alerts.
                                 Annotate these charts with event tags such as price or name changes, special campaigns or
@@ -238,116 +274,73 @@
                             </p>
                         </div>
                         </a>
-                    </div>
                 </div>
-
-                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                    <div class="row feature-panel">
-                        <a href="/pages/adreports">
-                        <div class="col-xs-2 col-sm-3 img-main">
-                            <img class="img img-responsive" src="images/icons/Ad Analysis.png" alt="Amazon Category Ranking">
-                        </div>
-                        <div class="col-xs-10 col-sm-9">
-                            <h4>Ads Analyzer</h4>
-                            <p>How do you gauge the profitability of your Amazon Sponsored Products Ad campaigns?
-                                How many impressions does it take to make an advertised SKU sell? How is your CTR?
-                                What about conversions? Efficient Era's historical Ad Analysis charts provide product level
-                                drill down insights, helping you see where your Ad spending is working and where
-                                to cut back.
-
-
-                            </p>
-                        </div>
-                            </a>
-                    </div>
                 </div>
 
 
-                 <div class="col-xs-12 col-sm-6">
-                    <div class="row feature-panel">
-
-                        <div class="col-xs-2 col-sm-3 img-main">
-                            <img class="img img-responsive" src="images/icons/Returns_Tracker.png" alt="Amazon VAT Automation, Tools for Amazon Sellers, Amazon Seller Tools">
-                        </div>
-                        <div class="col-xs-10 col-sm-9">
-                            <h4>Returns Tracker</h4>
-                            <p>When a buyer initiates a return request, chances are, they will follow it up with a negative review.
-                                There's a small window of opportunity to quickly reach out to them and prevent a negative situation. With Returns Tracker,
-                                you can search for return requests within a date range and locate corresponding Order IDs,
-                                so you can close the loop effectively.
-                                <strong style="color:darkorange">NEW!</strong></p>
-
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                    <div class="row feature-panel">
-                        <div class="col-xs-2 col-sm-3 img-main">
-                            <img class="img img-responsive" src="images/icons/Questions_Tracker.png" alt="Tools for Amazon Sellers, Amazon Seller Tools">
-                        </div>
-                        <div class="col-xs-10 col-sm-9">
-                            <h4>Questions Tracker</h4>
-                            <p>
-                                Buyers these days pay a lot of attention to questions asked by others
-                                before they go ahead with a purchase decision. A great way to build your brand
-                                is to ensure that customer questions are answered satisfactorily.
-                                It just shows that you care!
-                                Our Questions Tracker gives you a weekly update of questions asked so you
-                                can always be part of the discussion.
-
-
-                                <strong style="color:darkorange">NEW!</strong></p>
-
-                        </div>
-                    </div>
-                </div>
-
-
-                 <div class="col-xs-12 col-sm-6">
-                    <div class="row feature-panel">
-                    <a href="/blog/2017/11/finally-a-way-to-track-your-amazon-promotions.html" target="_blank">
-                        <div class="col-xs-2 col-sm-3 img-main">
-                            <img class="img img-responsive" src="images/icons/Promotion Tracker.png" alt="Tools for Amazon Sellers, Amazon Seller Tools">
-                        </div>
-                        <div class="col-xs-10 col-sm-9">
-                            <h4>Promotions Tracker</h4>
-                            <p>
-                            Want to measure the effectiveness of your promotions on Amazon? How many of your one-time-use discount codes
-                                are actually being claimed? Amazon does not provide this information but we do! Efficient Era will track your promotion
-                                codes and match them to resulting Order IDs.
-                                <strong style="color:darkorange">NEW!</strong></p>
-                        </div>
-                    </a>
-                    </div>
-                </div>
+{#                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">#}
+{#                <div class="row feature-panel">#}
+{#                        <div class="col-xs-2 col-sm-3 img-main">#}
+{#                            <img class="img img-responsive" src="images/icons/Questions_Tracker.png" alt="Tools for Amazon Sellers, Amazon Seller Tools">#}
+{#                        </div>#}
+{##}
+{#                        <div class="col-xs-10 col-sm-9">#}
+{#                            <h4>Questions Tracker</h4>#}
+{#                            <p>#}
+{#                                Buyers these days pay a lot of attention to questions asked by others#}
+{#                                before they go ahead with a purchase decision. A great way to build your brand#}
+{#                                is to ensure that customer questions are answered satisfactorily.#}
+{#                                It just shows that you care!#}
+{#                                Our Questions Tracker gives you a weekly update of questions asked so you#}
+{#                                can always be part of the discussion.#}
+{#                                <strong style="color:darkorange">NEW!</strong></p>#}
+{#                        </div>#}
+{#                </div>#}
+{#                </div>#}
+{##}
+{#                <div class="col-xs-12 col-sm-6">#}
+{#                <div class="row feature-panel">#}
+{#                    <a href="/blog/2017/11/finally-a-way-to-track-your-amazon-promotions.html" target="_blank">#}
+{##}
+{#                        <div class="col-xs-2 col-sm-3 img-main">#}
+{#                            <img class="img img-responsive" src="images/icons/Promotion Tracker.png" alt="Tools for Amazon Sellers, Amazon Seller Tools">#}
+{#                        </div>#}
+{##}
+{#                        <div class="col-xs-10 col-sm-9">#}
+{#                            <h4>Promotions Tracker</h4>#}
+{#                            <p>#}
+{#                            Want to measure the effectiveness of your promotions on Amazon? How many of your one-time-use discount codes#}
+{#                                are actually being claimed? Amazon does not provide this information but we do! Efficient Era will track your promotion#}
+{#                                codes and match them to resulting Order IDs.#}
+{#                                <strong style="color:darkorange">NEW!</strong></p>#}
+{#                        </div>#}
+{#                    </a>#}
+{#                </div>#}
+{#                </div>#}
 
 
                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                    <div class="row feature-panel">
+                <div class="row feature-panel">
+                   <a href="/pages/accounting">
 
-                    <a href="/pages/accounting">
                         <div class="col-xs-2 col-sm-3 img-main">
                             <img class="img img-responsive" src="images/icons/VAT Invoice Automation.png" alt="Amazon VAT Automation, Tools for Amazon Sellers, Amazon Seller Tools">
                         </div>
+
                         <div class="col-xs-10 col-sm-9">
                             <h4>VAT Invoice Automator</h4>
-                            <p>
+                            <p class="Class2">
                                 If you sell in Europe, you know that VAT invoice generation can be a complicated and time-consuming task.
                                 With our VAT Invoice Tool you could either automate the process of creating and sending VAT invoices to every customer who makes a purchase,
                                 or chose to send them a link to our VAT invoice generation form that they fill out.
                             </p>
-                            </a>
-
-
                         </div>
-                    </div>
+                   </a>
+                </div>
                 </div>
 
-            </div>
 
+            </div>
         </div>
     </div>
 

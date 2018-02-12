@@ -34,6 +34,8 @@ a:hover.back-to-top {
 
 /* adds scaling floating box around text in jumbotron for readability*/
 .jumbotron-text {
+      font-size: 24px !important;
+
     background: rgba(255, 255, 255, .4);
     padding: 10px 30px 15px 30px;
 }
@@ -42,6 +44,12 @@ a:hover.back-to-top {
 .btn-wrap {
     white-space:normal !important;
     word-wrap: break-word;
+}
+
+p.Class2
+{
+    font-size: 16px !important;
+    font-weight: 300; !important;
 }
 
 p {
@@ -68,6 +76,20 @@ body {
     padding-top: 70px;
 }
 /* end styling for sidebar.html */
+
+div.bg {
+
+    background-image: url('/content/images/pages/ee_banner.png'); !important;
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 
 #sidebar .list-group, #sidebar .list-group-item {
     background-color: transparent;
