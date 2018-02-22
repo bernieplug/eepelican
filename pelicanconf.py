@@ -31,12 +31,14 @@ AUTHOR_FEED_RSS = None
 #RELATIVE_URLS = True
 
 # Menu
-MENUITEMS_RIGHT = (('Blog', '/blog/'),
-                   ('About', '/about/'),
-                   ('Affiliate', '/pages/affiliate'),
-                   ('Resources', '/resources/'),
-                   ('Pricing', '/pricing/'),
-                   ('Support', '/support/'))
+MENUITEMS_RIGHT = (
+                    ('Pricing', '/pricing/'),
+                    ('Blog', '/blog/'),
+                    ('Resources', '/resources/'),
+                    ('Support', '/support/'),
+                    ('Affiliate', '/pages/affiliate'),
+                    ('About', '/about/')
+                   )
 
 # Post Settings
 DEFAULT_PAGINATION = 8
