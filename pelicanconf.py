@@ -36,9 +36,9 @@ MENUITEMS_RIGHT = (
                     ('Blog', '/blog/'),
                     ('Resources', '/resources/'),
                     ('Support', '/support/'),
-                    ('Affiliate', '/pages/affiliate'),
-                    ('About', '/about/')
+                    ('Affiliate', '/pages/affiliate')
                    )
+# Removed:  ('About', '/about/')
 
 # Post Settings
 DEFAULT_PAGINATION = 8
