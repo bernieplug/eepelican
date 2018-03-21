@@ -1,6 +1,6 @@
-<div class="post-info panel-heading" id="article-info">
+<div class="post-info panel-heading" id="article-info" style="background-color: #222222">
     <span class="published article-info">
-        <i class="fa fa-calendar"></i><span class="icon-label"><time datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }}</time>
+{#        <i class="fa fa-calendar"></i><span class="icon-label"><time datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }}</time>#}
     </span></span>
     {% if SHOW_DATE_MODIFIED %}
         {% if article.modified %}
