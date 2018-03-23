@@ -4,7 +4,7 @@
         {% for article in (articles_page.object_list if articles_page else articles) %}
         <div class="col-md-6">
             <article class="article-list-item">
-                <div class="panel panel-info">
+                <div class="panel panel-info" style="border-color: #222222">
                     <a href="{{ SITEURL }}/{{ article.url }}">
                         {% if article.image %}
                         <img src="{{ SITEURL }}/images/category/{{ article.image }}" class="img img-responsive">

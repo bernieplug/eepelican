@@ -1,7 +1,7 @@
 Title: Does Your External Email List Convert on Amazon?
 Author: Ritu J.
 Category: Social Media, Email Lists
-Date: 2017-12-28 09:00
+Date: 2018-03-20 09:00
 Image: external-email-tracker.png
 Tags: Social Media, Email Lists
 Summary: Are you building an email list outside of Amazon? If not, it's never too late to get started!
