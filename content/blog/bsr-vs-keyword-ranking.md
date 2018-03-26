@@ -14,7 +14,7 @@ Status: published
 <i>For the scope of this article, we are skipping the role that reviews play in the success of a product. Your review rating is by far THE most important social proof there can be to increase conversions, and we'll reserve that discussion for a whole 'nother blogpost.</i>
 
 ###Best Seller Ranking
-<p class="Class2">The BSR, or Best Seller Ranking, is (yet) another mysterious number that Amazon assigns to an ASIN to indicate how well it is selling within a category or subcategory. As such, this number is specific to an ASIN and does NOT get assigned to your entire catalog. In a sense, each product carries its own the <i>karma</i>.</p>
+<p class="Class2">The BSR, or Best Seller Ranking, is (yet) another mysterious number that Amazon assigns to an ASIN to indicate how well it is selling within a category or subcategory. As such, this number is specific to an ASIN and does NOT get assigned to your entire catalog. In a sense, each product carries its own <i>karma</i>.</p>
 
 <p class="Class2">While the number itself might be mysterious, we all know that it is based on sales data. Simply put, the more you sell the more likely you are to improving your BSR. But based on our experiments, we have also learned that it is dependent on two other factors - <i>Sales History</i> and <i>Sales Velocity</i>.</p>
 
