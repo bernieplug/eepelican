@@ -54,9 +54,9 @@ Status: published
 
 <p class="Class2">BSR is assigned to an ASIN, and each ASIN in turn, could have multiple keywords that it is ranking for.</p>
 
-<p class="Class2">When people say "ranking for", it usually means that when someone punches in a string of words (a keyword phrase) into Amazon's product search bar, say 'turmeric supplement for pets,' that YOUR product shows up on the first page. Ranking (or appearing) on page 3 and beyond, really doesn't matter because the bulk of busy shoppers make their pick on page 1 or 2.</p>
+<p class="Class2">When people say that a product is "ranking", it usually means that when a buyer punches in a keyword or keyword phrase  into Amazon's product search bar, say "turmeric supplement for pets," that YOUR product shows up on the first page. So, ranking essentially refers to proximity to the top of page 1 <i>for a keyword phrase</i> in organic search results. Ranking on page 3 and beyond doesn't even count, because the bulk of busy shoppers make their pick on page 1 or 2.</p>
 
-<p class="Class2">You may as well rank on page 600!</p>
+<p class="Class2">You may as well rank on page 600.</p>
 <br>
 <p class="text-center">
 <img src="/images/blog/2018/03/pet-supplement.png") width=80% alt text="Amazon Keyword Ranking">
@@ -85,7 +85,7 @@ Status: published
 </p>
 
 ###BSR, Keyword Ranking or Amazon's Choice Badge?
-<p class="Class2">Our recommendation is to focus on Keyword Ranking (<i>and goes without saying, on reviews</i>). Do everything you can to optimize your listing regularly and also train the algorithm using PPC to rank your products for relevant keywords. This is your best shot at breaking through the "cold start" problem. </p>
+<p class="Class2">Our recommendation is to focus on Keyword Ranking (<i>and it goes without saying, on reviews</i>). Do everything you can to optimize your listing regularly and also train the algorithm using PPC to rank your products for relevant keywords. This is your best rashot at breaking through the "cold start" problem. </p>
 
 <p class="Class2">BSR only matters if you are at the #1 spot. It is the result of your efforts elsewhere and not a number that you have too much direct control over.</p>
 
