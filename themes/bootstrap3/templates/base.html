@@ -3,9 +3,13 @@
     {% set USE_OPEN_GRAPH = True %}
 {% endif %}
 <html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock %}"{% if USE_OPEN_GRAPH %} prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml"{% endif %}>
+
+<!--Crazy Egg Heat Map-->
+<script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0076/1303.js" async="async"></script>
+
 <head>
     <!--<title>Efficient Era: Powerful Tools for Amazon Sellers</title>-->
-    <title>{{ SITENAME }}{% block title %}{% endblock %}</title>
+    <title>{{ SITENAME }} {% block title %}{% endblock %}</title>
 
 
     <!-- Using the latest rendering mode for IE -->
