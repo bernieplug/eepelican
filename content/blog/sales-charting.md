@@ -50,7 +50,7 @@ Efficient Era will even help you out a bit with these events. We’ll automatica
 
 ### Conclusion
 
-If you’re interested in trying out the next generation of sales charts right now, as well as our whole portfolio of Amazon tools, [sign up for our 60-day free trial today](https://app.efficientera.com/register/)! Our other tools include:
+If you’re interested in trying out the next generation of sales charts right now, as well as our whole portfolio of Amazon tools, [sign up for our 60-day free trial today](https://mailchi.mp/500caf5d697b/efficientera)! Our other tools include:
 
 * [Automatic follow-up emails](https://efficientera.com/pages/postorder/)
 * [VAT invoice automation](https://efficientera.com/pages/accounting/)

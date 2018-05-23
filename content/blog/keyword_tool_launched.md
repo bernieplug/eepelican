@@ -43,7 +43,7 @@ The tool provides you with:
 
 ### Conclusion
 
-The keyword tool is ready for you to start using today! If you're already a member, enable the feature on [your dashboard](https://app.efficientera.com/login/?next=/settings/ "Log in"). Otherwise, [sign up today](https://app.efficientera.com/register/ "Sign up")  for your free trial and see what our keyword management tool can do for you.
+The keyword tool is ready for you to start using today! If you're already a member, enable the feature on [your dashboard](https://app.efficientera.com/login/?next=/settings/ "Log in"). Otherwise, [sign up today](https://mailchi.mp/500caf5d697b/efficientera "Sign up")  for your free trial and see what our keyword management tool can do for you.
 
 If you're looking for more information, check out our product page or send us an email at [support@efficientera.com](support@efficientera.com).
 

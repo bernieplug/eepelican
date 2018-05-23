@@ -15,7 +15,7 @@ Efficient Era just launched a brand new, completely overhauled Post-Order Email 
 * Email triggers on Confirmed, Shipped or Delivered status, with customizable delays for precise timing
 * Themes and text placeholders to easily create content for dozens of campaigns, while still providing product-specific information.
 
-To try it out now, [sign up for our 60-day free trial here](https://app.efficientera.com/signup/?){:target="_blank"}!
+To try it out now, [sign up for our 60-day free trial here](https://mailchi.mp/500caf5d697b/efficientera){:target="_blank"}!
 
 ---
 

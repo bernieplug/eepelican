@@ -4,13 +4,13 @@ Category: How-to
 Date: 2015-08-21 8:00
 Tags: Customer Service, Amazon, Getting Started
 Summary: Authors are a unique group of sellers on Amazon. Here is a guide, developed specifically for authors, to walk through the sign up process.
-Status: published
+Status: draft
 
 Efficient Era has many services, so which ones are right for you? Well, to start, the [review notification tool](https://efficientera.com/pages/feedback/review-notifications.html){:target="_blank"}. This feature will alert you any time someone leaves a review for your product. No more checking your listings every day in the hopes of a positive review. Instead, you’ll get an email automatically to let you know.
 
 Interested? Here’s a few tips to help you get started.
 
-1. Go to the [sign up page](https://app.efficientera.com/register/?){:target="_blank"} and create an account. If you have any trouble with this process, send us an email at [support@efficientera.com](mailto:support@efficientera.com). <br>![Sign up](/images/blog/2015/08/sign_up.png)
+1. Go to the [sign up page](https://mailchi.mp/500caf5d697b/efficientera){:target="_blank"} and create an account. If you have any trouble with this process, send us an email at [support@efficientera.com](mailto:support@efficientera.com). <br>![Sign up](/images/blog/2015/08/sign_up.png)
 2. Once you're logged in, the first thing you’ll want to do is enter your products. Under "Account Settings" click "Products" and follow the instructions. Just remember that for books, the ASIN is  the 10 digit ISBN.<br>![Sign up](/images/blog/2015/08/product.png)
 3. Go back to Services & Settings and click "Product Review Notifications." On this page you should enable the service.
 4. After the service is enabled, you can customize the tool for your needs. I’ll walk you through the fields one by one.

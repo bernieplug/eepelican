@@ -71,6 +71,6 @@ Of course, getting a resolved review on your product page involves a bit of luck
 
 Overall, just remember not to freak out too much about a few negative reviews. Every Amazon seller has them. They’re a sign of an honest business, and something that customers value when they’re looking for a balanced opinion on your product. If you can resolve the issue and the customer edits their review, that’s ideal; if not, that’s okay too. 
 
-Despite the slight sarcasm, our team at Efficient Era really does believe in the importance of reviews. We believe so much that we developed [feedback automation systems](https://efficientera.com/pages/feedback/){:target="_blank"} to help you stay on top of your Amazon reviews. [Sign up for a free trial now!](https://app.efficientera.com/register/?){:target="_blank"}
+Despite the slight sarcasm, our team at Efficient Era really does believe in the importance of reviews. We believe so much that we developed [feedback automation systems](https://efficientera.com/pages/feedback/){:target="_blank"} to help you stay on top of your Amazon reviews. [Sign up for a free trial now!](https://mailchi.mp/500caf5d697b/efficientera){:target="_blank"}
 
 If you need more specific actionable advice about responding with negative reviews, [check out our article on the subject](https://efficientera.com/blog/2015/08/3-steps-to-changing-a-negative-amazon-review.html){:target="_blank"}. If you have any other questions or comments, post them below!

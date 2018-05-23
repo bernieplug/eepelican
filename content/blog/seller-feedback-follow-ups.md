@@ -36,7 +36,7 @@ You're not only targeting confused customers who left product reviews on the wro
 
 There’s only one thing you need to do to bring this all together: **set up automatic follow-up emails.** This way, any time a customer leaves positive seller feedback, they’ll automatically receive an email asking them for a product review!
 
-If you’re looking for the right tool for this job, look no further. Efficient Era recently launched its brand-new [Seller Feedback Alerts & Automation feature](https://efficientera.com/pages/seller-feedback/){:target="_blank"}! To learn more, [visit this page](https://efficientera.com/pages/seller-feedback/){:target="_blank"}. If you want to take advantage of this right away, you can [sign up for our 60-day free trial](https://app.efficientera.com/register/?){:target="_blank"} any time!
+If you’re looking for the right tool for this job, look no further. Efficient Era recently launched its brand-new [Seller Feedback Alerts & Automation feature](https://efficientera.com/pages/seller-feedback/){:target="_blank"}! To learn more, [visit this page](https://efficientera.com/pages/seller-feedback/){:target="_blank"}. If you want to take advantage of this right away, you can [sign up for our 60-day free trial](https://mailchi.mp/500caf5d697b/efficientera){:target="_blank"} any time!
 
 #### Etiquette
 
