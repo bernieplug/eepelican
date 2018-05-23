@@ -173,7 +173,7 @@ Here’s the problem—tracking keywords manually, although doable, is impractic
 
 The **Efficient Era Keyword Tool** is nearing the end of development, and we’ll update you as soon as it’s released. It tracks all keywords you choose, as well as automatically generated keywords, gives you your ranking for them, gives you new keyword suggestions, and much more. Once it is released, links and more information will be posted in an update below.
 
-<!-- *Update*: **The Keyword Tool has been released!** [Read the release post here](ADD KEYWORD RELEASE POST LINK) and [check out the product page here](ADD KEYWORD PRODUCT PAGE LINK). If you haven’t registered for your Efficient Era free trial yet, [sign up now!](https://app.efficientera.com/register/?) -->
+<!-- *Update*: **The Keyword Tool has been released!** [Read the release post here](ADD KEYWORD RELEASE POST LINK) and [check out the product page here](ADD KEYWORD PRODUCT PAGE LINK). If you haven’t registered for your Efficient Era free trial yet, [sign up now!](https://mailchi.mp/500caf5d697b/efficientera) -->
 
 ### Conclusion: Making Changes
 

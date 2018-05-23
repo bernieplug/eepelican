@@ -69,6 +69,6 @@ All you have to do here is ask them to consider leaving a review once they’ve 
 
 Keeping track of seller feedback takes one of two things: a team of sleep-deprived interns constantly refreshing your Seller Central page, or some level of automation. Efficient Era is here to help—with the latter. We’re clean out of interns at the moment. 
 
-With our alert systems, buyer-reviewer matching software, seller feedback dashboards, and automatic post-order emails, you’ll have everything you need to leverage your seller feedback—and more—to its greatest potential. [Sign up for a free trial today!](https://app.efficientera.com/register/?){:target="_blank"}
+With our alert systems, buyer-reviewer matching software, seller feedback dashboards, and automatic post-order emails, you’ll have everything you need to leverage your seller feedback—and more—to its greatest potential. [Sign up for a free trial today!](https://mailchi.mp/500caf5d697b/efficientera){:target="_blank"}
 
 Have any questions, additions, or comments? Let us know below!
