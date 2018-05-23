@@ -3,7 +3,7 @@ Author: Bruce O.
 Category: Private Label
 Date: 2017-02-24 13:00
 Image: top-events.jpg
-Tags: Ecommerce, Shows, Networking
+Tags: Ecommerce
 Summary: Conferences, shows, fairs — ecommerce has a lot of events, and we've compiled a list of some of the best ones coming up this year!
 Status: published
 
