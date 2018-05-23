@@ -19,4 +19,4 @@ Before you sign up for Efficient Era tools, please take a moment to review our <
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal and trade information is protected and maintained.
 
-Last Updated: May 22, 2018
+Last Updated: May 23, 2018
