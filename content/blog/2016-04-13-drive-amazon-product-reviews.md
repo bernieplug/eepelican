@@ -26,5 +26,5 @@ Read more at in [Amazon’s Customer Review Guidelines](http://www.amazon.com/gp
 
 Lastly, don’t forget to say thank you for the review. Saying thank you can lead to a multitude of positive results. This person will become a repeat client and in addition to a good review, their word of mouth recommendation will also be huge.  
 
-To see how Efficient Era’s tools can help encourage reviews, visit: [https://efficientera.com/pages/feedback/review-notifications.html](https://efficientera.com/pages/feedback/review-notifications.html){:target="_blank"}
+To see how Efficient Era’s tools can help encourage reviews, visit: [https://efficientera.com/pages/feedback](https://efficientera.com/pages/feedback){:target="_blank"}
 

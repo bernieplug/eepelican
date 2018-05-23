@@ -59,6 +59,6 @@ It can sometimes seem you have no control over your product reviews, but there a
 
 Ultimately, Amazon product reviews are a reflection of your company, both for consumers and for yourself. You should be just as alarmed as customers are if your product reviews aren’t stellar. Building a positive brand image is critical to success for private label selling.
 
-If you need some help staying on top of product reviews, Efficient Era has you covered. [Learn about our Product Review Notification service here!](https://efficientera.com/pages/feedback/review-notifications.html){:target="_blank"}
+If you need some help staying on top of product reviews, Efficient Era has you covered. [Learn about our Product Review Notification service here!](https://efficientera.com/pages/feedback){:target="_blank"}
 
 Thoughts, criticisms, or topic requests? We love to hear from our readers and Amazon sellers. Leave your comments below!
