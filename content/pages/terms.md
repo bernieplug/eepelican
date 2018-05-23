@@ -44,9 +44,9 @@ The materials appearing on Efficient Era's web site could include technical, typ
 
 Efficient Era has not reviewed all of the sites linked to its Internet web site and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Efficient Era of the site. Use of any such linked web site is at the user's own risk.
 
-### **8. Site Terms of Use Modifications**
+### **8. Service Agreement Modifications**
 
-Efficient Era may revise these terms of use for its web site at any time without notice. By using this web site you are agreeing to be bound by the then current version of these Terms and Conditions of Use.
+Efficient Era may revise this Service Agreement for its web site at any time without notice. By using this web site you are agreeing to be bound by the then current version of this Service Agreement.
 
 ### **9. Severability**
 
