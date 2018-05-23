@@ -18,10 +18,13 @@ By accessing Efficient Era tools, you are agreeing to be bound by these Terms an
 
 1. Efficient Era processes data from the Amazon MWS and Advertising APIs along with other API providers in order to provide the Services under this agreement. As part of setting up the service, you will authorize access for Efficient Era’s application to use these APIs. You can revoke this authorization at any time without seeking agreement from or contacting Efficient Era, by de-authorizing the Efficient Era application from using each API. For example, removing Efficient Era’s MWS application authorization from within Amazon’s Seller Central user interface. Efficient Era will also stop using these APIs automatically upon account termination.
 
-2. If your use of the Efficient Era tools are subject to the EU <strong>General Data Protection Regulations</strong> (GDPR), these Service Terms incorporate the Efficient Era Data Processing Addendum (“DPA”), available
+2. Efficient Era treats each Customer’s data as confidential, and reserves no right share or sell any part of that data for use by 3rd parties. Efficient Era will not sell or share our Customer’s customer lists, sales data, or any other details specific to their business for use by 3rd parties.
+
+
+3. If your use of the Efficient Era tools are subject to the EU <strong>General Data Protection Regulations</strong> (GDPR), these Service Terms incorporate the Efficient Era Data Processing Addendum (“DPA”), available
 <a href="https://s3-eu-west-1.amazonaws.com/eebotfe/media/Efficient+Era+Data+Processing+Addendum+5_22_18.pdf">here.</a>
 
-3. Both parties agree to be bound by this Data Processing Addendum.
+4. Both parties agree to be bound by this Data Processing Addendum.
 
 
 ### **4. Disclaimer**
