@@ -4,55 +4,63 @@
 {% set BOOTSTRAP_FLUID = true %}
 
 {% block banner %}
-{##}
-{##}
-{#<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="4000">#}
-{#  <!-- Indicators -->#}
-{#  <ol class="carousel-indicators">#}
-{#    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>#}
-{#    <li data-target="#myCarousel" data-slide-to="1"></li>#}
-{#    <li data-target="#myCarousel" data-slide-to="2"></li>#}
-{#  </ol>#}
-{##}
-{##}
-{#  <!-- Wrapper for slides -->#}
-{#  <div class="carousel-inner" role="listbox">#}
-{#    <div class="item active" >#}
-{#      <a href="https://efficientera.com/blog/2017/12/does-your-external-email-list-convert-on-amazon.html" target="_blank"><img src="/images/pages/ee_banner_white.png" width="100%" alt="Tools for Amazon Sellers"></a>#}
-{#    </div>#}
-{##}
-{#    <div class="item">#}
-{#        <a href="https://app.efficientera.com/signup/" target="_blank"><img src="/images/pages/14b.jpg" alt="External Email Tracker"></a>#}
-{#    </div>#}
-{##}
-{#    <div class="item">#}
-{#        <a href="https://app.efficientera.com/signup/" target="_blank"><img src="/images/pages/14b.jpg" alt="Tools for Amazon Sellers"></a>#}
-{#    </div>#}
-{#  </div>#}
-{##}
-{#  <!-- Left and right controls -->#}
-{#  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">#}
-{#    <span class="glyphicon glyphicon-chevron-left"></span>#}
-{#    <span class="sr-only">Previous</span>#}
-{#  </a>#}
-{#  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">#}
-{#    <span class="glyphicon glyphicon-chevron-right"></span>#}
-{#    <span class="sr-only">Next</span>#}
-{#  </a>#}
-{#</div>#}
-
 
 {% endblock %}
 
 {% block content %}
 <section id="content" class="body">
+<!--
 
-<div class="row" style="padding: 0px; " >
+    <style>
+    div.headerfont {
+      background-color: lightgrey;
+
+    }
+
+    @media screen and (min-width: 601px) {
+      div.headerfont {
+        font-size: 8vw;
+      }
+    }
+
+    @media screen and (max-width: 600px) {
+      div.headerfont {
+        font-size: 4vw;
+      }
+    }
+    </style>
+
+<div style="position:relative" class="row">
+  <img src="/images/pages/graphbanner3a.jpg" alt=""  style="width: 100%"/>
+  <div style="position:absolute;left:0%;top:3%;" class="text-center">
+      <br>
+      <br>
+      <br>
+        <div class="text-center">
+                <span style="color: #000000;font-size: 5vw" margin="0.5%" padding="1%">AI Powered Tools for Amazon Sellers</span>
+                <!--<h1 style="color: #000000;">AI Powered Tool for Amazon Sellers</h1>-->
+     <!--   </div>
+      <br>
+
+          <div style="position:relative;left:0%;top: 7%;" class="text-center">
+            <a href="https://app.efficientera.com/signup/?" style="text-transform: uppercase;
+            background-color: #fc6264; border-color: lightcoral; color: white"
+            class="btn btn-info btn btn-primary btn-lg text-center" target="_blank" role="button">30-Day Free Trial</a>
+          </div>
+  </div>
+</div>
+
+
+
+    -->
+
+    <!--<div class="row" style="padding: 0px; background-image: image('../images/pages/graphbanner.jpg')" >-->
+    <div class="row">
     <a href="https://app.efficientera.com/signup/" target="_blank"><img class="ba"  src="/images/pages/blackbannerthin.jpg" width="100%" alt="Powerful Tools for Amazon Sellers" style="padding: 0px; margin: 0%"></a>
+    </div>
 
-
-    <div class="row" style="background-color: #eeeeee; padding: 5%">
-    <h1 style="color: #000000;font-size: 24px" margin="0.5%" padding="1%" class="text-center">Efficient Era is a powerful All-in-One Tool for Amazon Sellers</h1>
+    <div class="row" style="background-color: #eeeeee; padding: 2%">
+    <h2 style="color: #000000;font-size: 125%" margin="0.5%" padding="1%" class="text-center">Efficient Era is a Powerful All-in-One Solution for Amazon Sellers</h2>
     <br>
     <div class="col-lg-10 col-lg-offset-1">
         <h4 style="color: #0b0b0b; margin-right: 20px; margin-left: 20px; line-height: 150%">
@@ -107,10 +115,10 @@
     </div>
     </div>
 
-</div>
 
-    <div class="row" style=" padding: 1% ;background-color: #222222">
-        <a href="https://efficientera.com/pricing/" target="_blank"><h2 style="color: #ffffff;font-size: 250%; padding: 1%; text-transform: uppercase;" class="text-center">So affordable, its a no-brainer!</h2></a>
+
+    <div class="row" style=" padding: 1% ; margin-top: 1%; background-color: #222222">
+        <a href="https://efficientera.com/pricing/" target="_blank"><h2 style="color: #ffffff;font-size: 250%; padding: 1%; text-transform: uppercase;" class="text-center">So affordable, it's a no-brainer!</h2></a>
     </div>
 
 
@@ -120,7 +128,7 @@
         <br>
             <div class="col-lg-6">
                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                    <img class="img-responsive" src="/images/stevechou.png" width="100%" style="padding: 0px; margin: 0%">
+                    <img class="img-responsive" src="/images/stevechou.png" width="70%" style="padding: 0px; margin: 0%">
                 </div>
 
                 <div class="col-lg-9">
@@ -128,21 +136,22 @@
                     <p style="color: orange" class="text-left">
                         <i>Steve Chou, <a href="https://mywifequitherjob.com/" target="_blank" style="color:orange">mywifequitherjob.com</a></i>
                     </p>
-                            <br>
-        <br>
+                <br>
+                <br>
                 </div>
             </div>
 
 <!--Dana Testimonial -->
             <div class="col-lg-6">
                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
-                    <img class="img-responsive" src="/images/dana.png" width="100%" style="padding: 0px; margin: 0%">
+                    <img class="img-responsive" src="/images/dana.png" width="70%" style="padding: 0px; margin: 0%">
                 </div>
 
                 <div class="col-lg-9">
                     <h4 style="color: white; line-height: 1.5; ">"I started using Efficient Era for my feedback alerts, but then discovered that it's part of a whole suite of tools that can really help our business. You can tell this software was designed by an Amazon seller."</h4>
                     <p style="color: orange" class="text-left">
-<i>Dana Jaunzemis, <a href="https://www.homehealthtesting.com/" target="_blank" style="color:orange">Home Health Testing</a></i>                    </p>
+                        <i>Dana Jaunzemis, <a href="https://www.homehealthtesting.com/" target="_blank" style="color:orange">Home Health Testing</a></i>
+                    </p>
                 </div>
 
             </div>
