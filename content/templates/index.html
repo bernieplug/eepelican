@@ -3,12 +3,24 @@
 {% set BANNER = true %}
 {% set BOOTSTRAP_FLUID = true %}
 
+
 {% block banner %}
 
 {% endblock %}
 
 {% block content %}
-<section id="content" class="body">
+
+    <!-- popover scripts-->
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">-->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <!-- end of popover scripts-->
+
+    <section id="content" class="body">
 <!--
 
     <style>
@@ -55,70 +67,105 @@
     -->
 
     <!--<div class="row" style="padding: 0px; background-image: image('../images/pages/graphbanner.jpg')" >-->
+
+    <!--
     <div class="row">
     <a href="https://app.efficientera.com/signup/" target="_blank"><img class="ba"  src="/images/pages/blackbannerthin.jpg" width="100%" alt="Powerful Tools for Amazon Sellers" style="padding: 0px; margin: 0%"></a>
-    </div>
+    </div> -->
 
-    <div class="row" style="background-color: #eeeeee; padding: 2%">
-    <h2 style="color: #000000;font-size: 125%" margin="0.5%" padding="1%" class="text-center">Efficient Era is a Powerful All-in-One Solution for Amazon Sellers</h2>
+
+<!--
+    background-color: #cbcbcb;-->
+
+     <div class="row " style="background: linear-gradient(to RIGHT, #2EBBB0, #41B9E7 )">
+            <br>
+             <div class="text-center">
+                <span style="color: #ffffff; font-size: 280%" margin="1%" padding="2%" class=" text-center">AI Powered Tools for Amazon Sellers</span>
+             </div>
+         <br>
+
+         <div class="text-center">
+          <a href="https://app.efficientera.com/signup/?" style="text-transform: uppercase;
+            background-color: darkorange; border-color: white; border-radius: 2px; color: white"
+            class="btn btn-info btn btn-primary btn-md text-center" target="_blank" role="button">30-Day Free Trial</a>
+             <br><h6 style="text-transform: uppercase;">No Credit Card Required</h6>
+         </div>
+         <br>
+
+         <div class="row text-center" style="margin: 0%; padding: 0%">
+            <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3 well" style="background-color: white; border-radius: 20px; border-color: darkgray ;color: white; border-color: white   ">
+             <a href="https://app.efficientera.com/signup/" target="_blank"><img src="/images/pages/dashboardprofit.png" width=100% alt="AI Powered Tools for Amazon Sellers"></a>
+            </div>
+         </div>
+        <br>
+        <br>
+
+        </div>
+
+
+<!-- Jquery for Popover -->
+    <script>
+    $(document).ready(function(){
+        $('[data-toggle="popover"]').popover();
+    });
+    </script>
+<!-- end of popovers -->
+
+
+    <div class="row" style="background-color: #eeeeee; border-spacing: 0px">
     <br>
+    <br>
+    <h2 style="color: #ffffff; text-transform: uppercase; text-shadow: 2px 2px 4px #bbbbbb; font-size: 250%; line-height: 120%;" class="text-center Roboto_Thin">All-in-One Solution</h2>
+    <h3 id="subtag" style="color: #000000;font-size: 125%" margin="0.5%" padding="1%" class="text-center">Multiple Geographies | Integrated Dashboard | One Price </h3>
+
+        <br>
     <div class="col-lg-10 col-lg-offset-1">
         <h4 style="color: #0b0b0b; margin-right: 20px; margin-left: 20px; line-height: 150%">
-            <div class="col-lg-4 col-sm-4 col-sx-4 col-md-4 col=lg-offset-2">
+            <div class="col-lg-4 col-sm-4 col-sx-4 col-md-4 col=lg-offset-2 text-center">
+
             <p class="text-center">
-                <a href="https://app.efficientera.com/signup/" target="_blank"><img src="/images/icons/alertsicon.png" width=35% alt="Powerful Tools for Amazon Sellers"></a>
+                <img src="/images/icons/alertsicon.png" width=35% alt="Powerful Tools for Amazon Sellers">
             </p>
-            <h4 class="text-center" style="color:black">ALERTS</h4>
-            <ul class="fa-ul">
-                <li class=""><i class="fa-li fa fa-rocket" style="color: #FC6264"></i><span style="color:black; ">Lost BuyBox</span></li>
-                <li class=""><i class="fa-li fa fa-rocket" style="color: #FC6264"></i><span style="color:black; ">Listing Hijack</span></li>
-                <li class=""><i class="fa-li fa fa-rocket" style="color: #FC6264"></i><span style="color:black; ">Reviews and Feedback</span></li>
-                <li class=""><i class="fa-li fa fa-rocket" style="color: #FC6264"></i><span style="color:black; ">Sales Records</span></li>
-                <li class=""><i class="fa-li fa fa-rocket" style="color: #FC6264"></i><span style="color:black; ">20+ Alerts</span></li>
-            </ul>
+                <a data-toggle="popover" data-trigger="hover" data-content="Be the first one to know if you ever lose the buy box." style="color:black; ">Lost Buy Box</a><br>
+                <a data-toggle="popover" data-trigger="hover" data-content="Get alerted when something about your listing changes." style="color:black; ">Listing Hijack Alert</a><br>
+                <a data-toggle="popover" data-trigger="hover" data-content="Get alerted when someone leaves a review or feedback." style="color:black; ">Reviews and Feedback</a><br>
+                <a data-toggle="popover" data-trigger="hover" data-content="Get alerted when you hit a new sales record." style="color:black; ">Sales Records</a><br>
+                <a data-toggle="popover" data-trigger="hover" data-content="20+ alerts and counting!" style="color:black; ">20+ Alerts</a><br>
+                <br>
             </div>
 
-
-            <div class="col-lg-4 col-sm-4 col-sx-4 col-md-4">
+            <div class="col-lg-4 col-sm-4 col-sx-4 col-md-4 text-center">
             <p class="text-center">
-                <a href="https://app.efficientera.com/signup/" target="_blank"><img src="/images/icons/analyticsicon.png" width=35% alt="Powerful Tools for Amazon Sellers"></a>
+                <img src="/images/icons/analyticsicon.png" width=35% alt="Powerful Tools for Amazon Sellers">
             </p>
-                <h4 class="text-center" style="color:black">ANALYTICS</h4>
-
-            <ul class="fa-ul">
-                <li class=""><i class="fa-li fa fa-rocket" style="color: #BBD95E"></i><span style="color:black; ">Business Dashboard</span></li>
-                <li class=""><i class="fa-li fa fa-rocket" style="color: #BBD95E"></i><span style="color:black; ">Customer Insights</span></li>
-                <li class=""><i class="fa-li fa fa-rocket" style="color: #BBD95E"></i><span style="color:black; ">Return Rates</span></li>
-                <li class=""><i class="fa-li fa fa-rocket" style="color: #BBD95E"></i><span style="color:black; ">Restock Dashboard</span></li>
-                <li class=""><i class="fa-li fa fa-rocket" style="color: #BBD95E"></i><span style="color:black; ">Inventory Charts</span></li>
-            </ul>
+                <a data-toggle="popover" data-trigger="hover" data-content="Your most important numbers: Sales, Profits, Costs, Returns."  style="font-size: 100%;">Business Dashboard</a><br>
+                <a data-toggle="popover" data-trigger="hover" data-content="Export profiles of repeat buyers, VIP customers." style="font-size: 100%;">Customer Insights</a><br>
+                <a data-toggle="popover" data-trigger="hover" data-content="Know your product wise return rates and eliminate loss making ones."  style="font-size: 100%;">Return Rates</a><br>
+                <a data-toggle="popover" data-trigger="hover" data-content="Find out when to restock at fulfilment centers (Beta)."  style="font-size: 100%;">Restock Dashboard</a><br>
+                <a data-toggle="popover" data-trigger="hover" data-content="Get a historial view of sales and inventory to plan for reorders."  style="font-size: 100%;">Inventory Charts</a><br>
+                <br>
             </div>
+            <div class="col-lg-4 col-sm-4 col-sx-4 col-md-4 text-center">
 
-            <div class="col-lg-4 col-sm-4 col-sx-4 col-md-4">
             <p class="text-center">
-            <a href="https://app.efficientera.com/signup/" target="_blank"><img src="/images/icons/automationicon.png" width=35% alt="Powerful Tools for Amazon Sellers"></a>
+            <img src="/images/icons/automationicon.png" width=35% alt="Powerful Tools for Amazon Sellers">
             </p>
-                <h4 class="text-center" style="color:black">AUTOMATION</h4>
-                <ul class="fa-ul">
-                <li class=""><i class="fa-li fa fa-rocket" style="color: #FBA842"></i><span style="color:black; ">Ad Manager</span></li>
-                <li class=""><i class="fa-li fa fa-rocket" style="color: #FBA842"></i><span style="color:black; ">Email Automator</span></li>
-                <li class=""><i class="fa-li fa fa-rocket" style="color: #FBA842"></i><span style="color:black; ">Feedback Manager</span></li>
-                <li class=""><i class="fa-li fa fa-rocket" style="color: #FBA842"></i><span style="color:black; ">Facebook Audiences</span></li>
-                <li class=""><i class="fa-li fa fa-rocket" style="color: #FBA842"></i><span style="color:black; ">Promotions Tracker</span></li>
-            </ul>
-
-                </br></br>
-
-
+                <a data-toggle="popover" data-trigger="hover" data-content="Get our automated bid recommendations, match type recommendations and new keyword discovery." style="font-size: 100%;">Ad Manager</a><br>
+                <a data-toggle="popover" data-trigger="hover" data-content="Set your thank-you and review-request emails on auto-pilot."  style="font-size: 100%;">Email Automator</a><br>
+                <a data-toggle="popover" data-trigger="hover" data-content="Manage your product reviews and seller feedback."  style="font-size: 100%;">Feedback Manager</a><br>
+                <a data-toggle="popover" data-trigger="hover" data-content="Create custom Facebook audiences from your data for remarketing purposes."  style="font-size: 100%;">Facebook Audience Generator</a><br>
+                <a data-toggle="popover" data-trigger="hover" data-content="See which promotions were claimed and by whom. Also match your off-Amazon Email List to actual sales on Amazon."  style="font-size: 100%;">Promotions Tracker</a><br>
+                </br>
+                </br>
             </div>
-        <br></br></h4>
+            <br>
+        </h4>
     </div>
     </div>
 
 
-
-    <div class="row" style=" padding: 1% ; margin-top: 1%; background-color: #222222">
-        <a href="https://efficientera.com/pricing/" target="_blank"><h2 style="color: #ffffff;font-size: 250%; padding: 1%; text-transform: uppercase;" class="text-center">So affordable, it's a no-brainer!</h2></a>
+    <div class="row" style=" padding: 1% ; background-color: #222222">
+        <h4 href="https://efficientera.com/pricing/" target="_blank"><h2 style="color: #ffffff;font-size: 3vw; padding: 1%; text-transform: uppercase;" class="text-center">So affordable, it's a no-brainer!</h2></h4>
     </div>
 
 
@@ -185,7 +232,7 @@
 
                    <a href="/pages/feedback/">
                     <div class="col-xs-2 col-sm-3 img-main">
-                        <img class="img img-responsive " src="images/icons/Seller Feedback Alerts1.png" alt="Amazon Seller Feedback, Buyer-Review Matching ,Buyer-Reviewer Matching">
+                        <img class="img img-responsive " src="images/icons/Seller Feedback Alerts1.png" alt="Amazon Seller Feedback Alert">
                     </div>
 
                     <div class="col-xs-10 col-sm-9">
@@ -384,10 +431,12 @@
 
 <div>
 
-    <div class="row" >
+    <div class="row text-center" >
+        <div class="col-lg-8 col-lg-offset-2">
         <p class="text-center">
             <img class="img-responsive" style="width: 100%; padding: 0%" src="/images/pages/worldmap.jpg">&nbsp;
         </p>
+    </div>
     </div>
 </div>
 
