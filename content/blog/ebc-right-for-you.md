@@ -3,7 +3,7 @@ Author: Bruce O.
 Category: Private Label
 Date: 2017-07-11 10:00
 Image: ebc-right-for-you.jpg
-Tags: Listing Content, Marketing, Brand Registry
+Tags: Enhanced Brand Content, Amazon Brand Registry
 Summary: Enhanced Brand Content finally gives third-party sellers an equivalent to A+ Content. Find out if it's right for your brand here.
 Status: published
 
