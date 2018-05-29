@@ -1,23 +1,26 @@
-Title: Enhanced Brand Content: Is It Right For You?
+Title: Amazon Enhanced Brand Content: Is It Right For You?
 Author: Bruce O.
 Category: Private Label
 Date: 2017-07-11 10:00
 Image: ebc-right-for-you.jpg
-Tags: Enhanced Brand Content, Amazon Brand Registry
-Summary: Enhanced Brand Content finally gives third-party sellers an equivalent to A+ Content. Find out if it's right for your brand here.
+Tags: Amazon Enhanced Brand Content, Amazon Brand Registry
+Summary: Amazon Enhanced Brand Content finally gives third-party sellers an equivalent to A+ Content. Find out if it's right for your brand here.
 Status: published
 
 Enhanced Brand Content is a feature that’s been on a lot of sellers’ minds recently. Amazon quietly rolled the feature out to all sellers last November, and there’s been much discussion of its merits since then. 
 
-In short, Enhanced Brand Content a version of A+ Content, a feature previously only available to Amazon Vendors, that is now available to third-party sellers. We should note Enhanced Brand Content is only available to Brand Registered sellers — if you have questions about Brand Registry, consult our post on the subject, linked below.  
+In short, Enhanced Brand Content a version of A+ Content, a feature previously only available to Amazon Vendors, that is now available to third-party sellers. We should note Enhanced Brand Content is only available to Brand Registered sellers — if you have questions about Brand Registry, consult our post on the subject, linked below.
+
+
 <a href="https://efficientera.com/blog/2016/09/amazon-brand-registry.html">![Brand Registry Image](/images/blog/related/brand-registry_small.jpg)</a>  
+
 [*Why You Should Be Using Amazon Brand Registry*](https://efficientera.com/blog/2016/09/amazon-brand-registry.html)
 
-However, there are a few key differences between Enhanced Brand Content and A+ Content that are important to go over. Let’s get into what the feature does, and what you should know about it.
+However, there are a few key differences between Amazon Enhanced Brand Content and A+ Content that are important to go over. Let’s get into what the feature does, and what you should know about it.
 
 ### What Is Enhanced Brand Content?
 
-Basically, Enhanced Brand Content (I’ll be calling it EBC from now on) lets sellers spice up their product description beyond the normal plain text. Although you don’t have custom HTML control, you’ll be able to select from a list of templates, add images, and generally make your description look nicer and more inviting. 
+Basically, Amazon Enhanced Brand Content (I’ll be calling it EBC from now on) lets sellers spice up their product description beyond the normal plain text. Although you don’t have custom HTML control, you’ll be able to select from a list of templates, add images, and generally make your description look nicer and more inviting.
  
 ![EBC Templates](/images/blog/2017/07/ebc-templates.jpg)
 
@@ -49,7 +52,9 @@ You may have heard rumors of a hidden downside to Enhanced Brand Content: that t
 
 While this may have been true very close to release, when the feature was presumably not fully complete, **this is no longer the case as of May 2017.** Although EBC is still in a “promotional” period, it is now fully indexed, just like standard descriptions and A+ content. 
 
-We should add a disclaimer, though: Amazon is notorious for compartmentalizing its different categories, so although EBC may be indexed for most categories, it may not be indexed for all. Keep this in mind: if you see a suspicious drop in sessions after implementing EBC, it may be due to your category’s EBC not being search indexed. If this is consistently the case for your category, you may want to switch back to the plain HTML descriptions for the time being.   
+We should add a disclaimer, though: Amazon is notorious for compartmentalizing its different categories, so although EBC may be indexed for most categories, it may not be indexed for all.
+
+Keep this in mind: if you see a suspicious drop in sessions after implementing EBC, it may be due to your category’s EBC not being search indexed. If this is consistently the case for your category, you may want to switch back to the plain HTML descriptions for the time being.
 
 ### Is It Worth It?
 
