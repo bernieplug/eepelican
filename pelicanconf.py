@@ -6,7 +6,8 @@ from os import environ
 AUTHOR = u'Efficient Era'
 SITENAME = u'Efficient Era'
 SITEURL = 'http://127.0.0.1:8080'
-#SITEURL = 'efficientera.com'
+#SITEURL = 'https://efficientera.com'
+OPEN_GRAPH_IMAGE ='images/pages/dashboard.png'
 
 # URLS
 TAGS_URL = 'tags'
