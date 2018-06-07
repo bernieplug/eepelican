@@ -26,9 +26,10 @@ The issue becomes even stickier when you are handling multiple products. Offerin
 
 
 ###Now You Can Track Promotions .. Introducing Promotions Tracker!
-While there’s no way to track your promotions through Seller Central, Efficient Era has just added a brand new solution that doesn’t involve the mind-numbing sifting of data. This is important to those of us who don’t exactly call our selves data gurus, but still want to have a decent idea of how much revenue is generated from our promotions.
+While there’s no way to track your Amazon promo code through Seller Central, Efficient Era has just added a brand new solution that doesn’t involve the mind-numbing sifting of data.
+This is important to those of us who don’t exactly call our selves data gurus, but still want to have a decent idea of how much revenue is generated from our promotions.
 
-By using Efficient Era’s Promotions Tracker, you can effectively monitor how many times your discount codes were used, including the exact orders that were generated from each of your promotions. We compile all of your data into easily readable tables, searchable in a variety of ways so you can know exactly how promotions performed. Ok, we just got goosebumps at the thought of measurable promotions, what a concept!
+By using Efficient Era’s Promotions Tracker, you can effectively monitor how many times your Amazon promo codes were used, including the exact orders that were generated from each of your promotions. We compile all of your data into easily readable tables, searchable in a variety of ways so you can know exactly how promotions performed. Ok, we just got goosebumps at the thought of measurable promotions, what a concept!
 
 ![Promotions Tracker](/images/blog/2017/11/promotions-dashboard.png)
 

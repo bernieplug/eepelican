@@ -34,7 +34,7 @@ Bloggers, or influencers, like Tasty, usually will allow a few sponsored ads on 
 
 ###4. Increase Your Conversion Rates
 
-Using deals and coupon ads to drive traffic to your Amazon product listing is another excellent way to increase your conversion rates. However, you want to be careful that you only drive traffic to your page that you think will have the intention to buy, so be selective. Driving traffic that is only looking, or curious about your product might have a negative impact. That is the opposite of what you want to do.
+Using Amazon promo codes and coupon ads to drive traffic to your product listing is another excellent way to increase your conversion rates. However, you want to be careful that you only drive traffic to your page that you think will have the intention to buy, so be selective. Driving traffic that is only looking, or curious about your product might have a negative impact. That is the opposite of what you want to do.
 
 Facebook and Pinterest have now released a ‘Buy Button’ which allows interested, and maybe slightly impulsive, shoppers to purchase your product directly from their news feed. The process is easy, simple and within minutes they can have your product already on its way. Both platforms provide a sleek, uncomplicated way for sellers to put their items into potential buyer’s hands.
 

@@ -64,7 +64,7 @@ How do you know if leads from your email list actually converted to a sale? The 
 Once you import your email list into our system we will match them to orders that were placed with those emails on Amazon. We also give you the ability to export a list of your VIP customers, who made at least one purchase. These are the people that are more likely to buy from you again. So feed this list back into your email list and market to them again.
 
 ####Promotions Tracker:
-If you have created any promotions on Amazon you will never know if they were claimed. Our Promotions Tracker will match those promotions to real orders and also give you access to their profiles.
+If you have created any promotion codes for Amazon you will never know if they were claimed. Our Promotions Tracker will match those Amazon promo codes to real orders and also give you access to their profiles.
 
 ####Orders:
 Not only this, we give you access to your entire Orders List so you can easily export your customer information to build a Facebook custom audience.
