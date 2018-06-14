@@ -35,6 +35,7 @@ AUTHOR_FEED_RSS = None
 MENUITEMS_RIGHT = (
                     ('Pricing', '/pricing/'),
                     ('Blog', '/blog/'),
+                    ('Clients', '/clients/'),
                     ('Resources', '/resources/'),
                     ('Support', '/support/'),
                     ('Affiliate', '/pages/affiliate')
