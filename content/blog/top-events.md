@@ -1,91 +1,102 @@
 Title: Top 10 Events for Amazon Sellers
-Author: Bruce O.
+Author: Joni S.
 Category: Private Label
 Date: 2017-02-24 13:00
-Image: top-events.jpg
+Image: Top10AmazonConference.png
 Tags: Ecommerce
 Summary: Conferences, shows, fairs — ecommerce has a lot of events, and we've compiled a list of some of the best ones coming up this year!
 Status: published
 
-If you’re looking to take your Amazon selling to the next level, there are a number of paths you can take. One path, of course, is to keep reading the Efficient Era blog for all the latest industry tips and tricks. For some of you, though, that might not be enough. (Don’t worry, I’m not upset, I understand…) One of the best ways to take your business to next level is to learn from the best of the best. Thankfully, there just so happens to be a number of events each year where the best of the best gather in the same place… I’m talking, of course, about ecommerce shows!
+(This article has been updated for 2018 conferences!)
 
-We’ve compiled a list of some of the best ecommerce shows, conferences, and fairs for Amazon sellers, all of which are happening later this year. This is a catchall list, and the conferences vary from affordable to pricey, beginner-friendly to expert-oriented, and close-by to an ocean away. Hopefully, you’ll be able to find something in this list that matches your budget and your needs.
+#Get out of your bubble!
 
-You may have been to a show or two already. If you found you got something out of it at all, we strongly recommend going to more. Even if you think you have everything figured out, you’ll almost always meet some attendees with genius ideas that would never have occurred to you otherwise. Plus, the marketplace is always evolving, so these shows are a great way to stay on top of cutting-edge trends and strategies.
+<p class="Class2">In the daily grind of tweaking keywords, responding to reviews, and all the other details of growing your business, it's easy to become glued to your computer screen. We get it. But there's huge value in attending an ecommerce expo specifically for online sellers.
+</p>
 
-So, without further ado, bring on the list! — 
+<p class="Class2">It's not just that you can learn secrets not yet revealed on the Amazon Sellers Forum, blog posts, or Reddit articles. Most people selling on Amazon realize, sooner or later, that if they want sustainable growth, they've got to get out and actually talk to other business owners who've found long-term success.
+</p>
 
-#### 1) The Sellers’ Conference
-* **When:** March 7–10
-* **Where:** Philadelphia, PA
-* **Website:** [http://thesellersconference.com/](http://thesellersconference.com/)
+<p class="Class2">Virtual conferences only scrape at the full benefits. Five reasons to attend a live ecommerce conference include:
+</p>
 
-You may have heard of (or attended) the Sellers’ Conference for Online Entrepreneurs, or SCOE, in previous years. This year, they’re rebranding as simply The Sellers’ Conference. This conference is designed to be useful to sellers across many ecommerce platforms, but has an emphasis on Amazon selling and strategy. This year, there’s an extra focus on international expansion. As usual, tons of great speakers are slotted to come, including our very own Bernie Thompson!
+<p class="Class2">1. <strong>New mentors and collaborators</strong>. Meeting other business owners who can provide mutual help may be the most important reason to show up IRL. The person next to you in the elevator may have dealt with a similar problem or spent a past life producing the widgets you want to source. Make friends who might hold a key to your future success.
+</p>
 
-#### 2) Prosper Show
-* **When:** March 22–23
-* **Where:** Las Vegas, NV
-* **Website:** [https://www.prospershow.com/](https://www.prospershow.com/)
+<p class="Class2">2. <strong>Insight and ideas</strong>. Get intel on pending changes or trends or confirm your own hunches. Some of the best and most productive discussions at a good Amazon seller convention take place in a hallway or over a drink, when business owners can toss around new ideas and, like rocks in a tumbler, polish them until they shine. Then you can take that gem home and use it.
+</p>
 
-The Prosper Show is one of the other biggest shows designed specifically for Amazon sellers, and it makes a great addition to The Sellers’ Conference.
-There are plenty of successful sellers coming to seek, as well as owners of service companies across the entire Amazon spectrum of needs, from search optimization to VAT services.
+<p class="Class2">3. <strong>Cross-pollination</strong>. It's a well-known tenet of creativity that the intersection of otherwise unrelated things is where innovative ideas are born. So put yourself in intersections where every seller around you has experience and ideas from their business that might have a new application in yours. An internet retail conference is the single best place -- with other online sellers there for the same reason.
+</p>
 
-#### 3) ASD Market Week
-* **When:** March 19–22, July 30–August 2
-* **Where:** Las Vegas, NV
-* **Website:** [http://www.asdonline.com/lv/index.shtml](http://www.asdonline.com/lv/index.shtml)
+<p class="Class2">4. <strong>Inspiration</strong>. When you've been battling dragons, a trade show can be energizing. In addition to finding specific answers to problems, simply being with so many established Amazon sellers can give you fresh perspective and enthusiasm.
+</p>
 
-If you can’t make it out to any of the big Chinese trade shows (listed below), but still want to source new products in a marketplace environment, ASD is the show for you! It’s a massive, U.S.-based trade show with over 45,000 exhibitors every event, so there’s bound to be something that catches your eye. It’s also co-located with the Prosper Show (listed below), so if you’re going to one, you might as well go to the other!
+<p class="Class2">5. <strong>Visibility</strong>. Nobody who speaks at a virtual conference knows who's on the other end of the Internet watching. If you want to get noticed--by Amazon and successful peers--it helps to become a face, personality, and memory. Then you can build the promotional value of a reputation.
+</p>
 
-#### 4) Global Sources Summit
-* **When:** April 17–19
-* **Where:** Hong Kong
-* **Website:** [https://globalsourcessummit.eventgrid.com/](https://globalsourcessummit.eventgrid.com/)
+<p class="Class2">With so many great reasons to go, even the most reluctant business owners typically find that once they start attending Amazon seller conventions, they want to keep going back. But there are definitely too many trade shows to choose from! Choose based on your experience level, proximity, and conference focus. Here are our top recommendations, with those you can still attend this year listed first. (We're skipping most "invitation only" seller summits, because why rub it in -- but if that privilege pops up in your inbox, go!)
+</p>
 
-Global Sources Summit is one of two huge Chinese trade fairs, and many, many experienced sellers attend each year. Chinese trade fairs are not only good for learning from successful sellers, but also for learning the specifics of sourcing from China, and even finding brand new products to sell!
+##Our top Amazon Conferences Picks
 
-#### 5) China Import and Export Fair (Canton Fair)
-* **When:** 
-	* Phase 1: April 15–19
-	* Phase 2: April 23–27
-	* Phase 3: May 1–5
-* **Where:** Guangzhou
-* **Website:** [http://www.cantonfair.org.cn/en/index.aspx](http://www.cantonfair.org.cn/en/index.aspx)
+###<a href="https://www.boostwithfbaevent.com/" target="_blank">Boost with FBA Sellers Summit</a>
+<p class="Class2">This one-day Amazon seller convention is hosted by Bezo's crew just for Amazon FBA sellers, so it doesn't get more specific. The first Boost last year turned off some sellers as self-congratulatory but gave many others access to Amazon representatives and experienced sellers they'd never otherwise connect with. Our advice is to know why you're going--it's not the place to plot revolution, but you could learn a lot about sponsored products. If you move fast, you can still attend in New Orleans on June 20, 2018. (Would-be attendees must be approved, but FBA sellers who ask often get in.)
+</p>
 
-The China Import and Export Fair, or simply the Canton Fair, is more specifically focused on sourcing than Global Sources Summit (despite the latter’s name). Hundreds of manufacturers consistently come to the biannual event, so if you want to get hands-on experience with the products you’re buying and talk to the manufacturers face-to-face, there’s no better place to do it.
+###<a href="https://www.prospershow.com/" target="_blank">Prosper Show</a>
+<p class="Class2">One of just a few conferences especially for established Amazon sellers, the Prosper Show is a sellers' summit especially for those who already have intermediate or advanced know-how. The educational content includes up-to-the-minute strategies and insights from industry leaders, including former Amazon insiders. Exhibits take a backseat to focused educational tracks and pre-conference workshops. The fourth annual event will be in 2019, with dates and location still to be set; this year's event was held at the Las Vegas Convention Center in March.
+</p>
 
-#### 6) Sellers Summit
-* **When:** May 18-21
-* **Where:** Fort Lauderdale, FL
-* **Website:** [http://sellerssummit.com/](http://sellerssummit.com/)
+###<a href="http://sellerssummit.com/" target="_blank">Sellers Summit</a>
+<p class="Class2">Unlike the Prosper Show, Sellers Summit appeals to both advanced sellers and novices, with separate educational tracks in a practical, small-group workshop format. There's also a masters' session only for established Amazon sellers doing more than $250,000 in annual sales. Like the Prosper Show, Sellers Summit doesn't address platforms other than Amazon, though it does include content for sellers who are interested in developing more Amazon FBA business or creating their own private ecommerce store. The 2018 event was held in May. 2019 dates and location are still to be set. You can still buy digital access to 2018 sessions until July 1.
+</p>
 
-Sellers Summit does have the regular suite of highly experienced and knowledgeable sellers to learn from, but it’s structured a bit differently than most other conferences. In fact, the founder of Sellers Summit prefers to call it “an intense 2-day workshop,” rather than a conference. The summit is structured around workshops, which means splitting attendees into small groups where everyone can talk and ask questions. They also offer a “special mastermind meeting” for sellers who make over $250,000 in revenue, which you can learn more about from their website. 
+###<a href="http://www.midwestecom.com/" target="_blank">Midwest e-Com Conference</a>
+<p class="Class2">2018 marks the fifth annual version of this ecommerce expo, which is billed as "for sellers by sellers." The conference addresses other internet retailing platforms as well as Amazon, with content for both experienced sellers and novices. More-or-less central in Minneapolis, it brings speakers and sellers from across the country July 20-21, 2018.
+</p>
 
-#### 7) Internet Retailer Conference + Exhibition (IRCE)
-* **When:** June 6-9
-* **Where:** Chicago, IL
-* **Website:** [http://www.irce.com/](http://www.irce.com/)
+###<a href="https://go.amazing.com/sellerconnect/" target="_blank">SellerConnect</a>
+<p class="Class2">This 3-day event in the Netherlands is invitation only, at least to start, and limited to just a few hundred intermediate sellers looking to go to the next level. It’s sponsored by Amazing.com, focuses on support for networking, and takes place August 10-12, so if you haven’t received an invitation, it can’t hurt to ask.
+</p>
 
-A general ecommerce conference curated by the staff at [*Internet Retailer*](https://www.internetretailer.com/) magazine, the Internet Retailer Conference + Exhibition (IRCE) combines the speakers-on-a-stage aspect of conferences with the booth-based nature and massive floor space of an exhibition. Besides the speakers, over 600 vendors will appear in the 250,000-square-foot exhibit hall. If some of the other conferences felt *too* small and cozy for you, IRCE is the conference for you. 
+###<a href="http://accelerate.skubana.com/" target="_blank">Accelerate</a>
+<p class="Class2">Skubana hosts this one-day ecommerce conference for “high-volume, multi-channel” sellers looking to grow their businesses even farther. Details are still firming for 2018 but it’s expected October 4 and will focus strictly on education, insights, and networking for advanced sellers.
+</p>
 
-#### 8) Retail Global
-* **When:** September 12-14
-* **Where:** Las Vegas, NV
-* **Website:** [https://www.retailglobal.com/](https://www.retailglobal.com/)
+###<a href="https://globalsourcessummit.eventgrid.com/" target="_blank">Global Sources Summit</a>
+<p class="Class2">This extravaganza especially for private labelers takes place twice a year in Hong Kong. (October 2018 dates are still TBD.) Thousands of exhibitors woo intermediate or advanced sellers and help plot new product strategies and sources. While not Amazon-specific, there's no better one-stop trade show for sourcing and building relationships with suppliers.
+</p>
 
-Retail Global is a newer conference, putting on its third show this year, but they’ve already grown to an impressive size, with a pool of speakers just as high-quality as most of the other conferences on this list. The conference is made up of a mixture of speakers and workshops, and the actual event space is somewhat smaller, meaning you’ll have plenty of great opportunities to network and converse with leading ecommerce experts.
+###<a href="https://retailglobal.com/" target="_blank">Retail Global</a>
+<p class="Class2">If you can't get to Asia, Retail Global is a highly rated international option that'll be easier for North American private labelers to reach in 2018, since it'll be held in Las Vegas October 9-11. The broad internet retail content includes a track for advanced Amazon sellers.
+</p>
 
-#### 9) EcommerceFuel Live
-* **When:** October 19-21
-* **Where:** Savannah, GA
-* **Website:** [http://www.live.ecommercefuel.com/](http://www.live.ecommercefuel.com/)
+###<a href="https://www.irce.com/" target="_blank">Internet Retailer Conference and Exhibition (IRCE)</a>
+<p class="Class2">This is one of the largest ecommerce expos, with thousands of attendees and more than 600 exhibitors. It's neither specific to Amazon nor cozy, but with dozens of educational sessions, there's sure to be a topic that's perfect for you. You may just have to work a bit harder at networking than at a smaller, more casual conference. The next will be in Chicago June 25-29, 2019.
+</p>
 
-EcommerceFuel Live is another great conference pulling in experienced speakers from all over, including Ezra Firestone and Nate Friedman. Some of the content is meant for sellers with their own online stores, but there’s a great amount of Amazon-specific content too, including a panel of Amazon experts discussing trends, strategies, and the future of the platform. 
+###<a href="https://www.meetup.com/Amazon-Professional-Sellers-Meetup-Workshop/" target="_blank">Amazon Sellers Professional Meetup & Workshop</a>
+<p class="Class2">This New York-based sellers group has created a small-but-potent spring seller meetup where you're sure to make contacts and learn secrets, from tweaking keywords to optimizing sponsored products ads. Keep an eye on planning for a possible 2019 workshop.
+</p>
 
-#### 10) Private Label World Virtual Summit
-* **Website:** [https://plsummit.com/summit-information](https://plsummit.com/summit-information)
+###<a href="https://www.sellerlabs.com/resonate/" target="_blank">Resonate by Seller Labs</a>
+<p class="Class2">This graduate-level sellers' summit is put on by a large service provider to help experienced business owners already doing six figures selling on Amazon to continue to learn and grow their businesses. The last was in May in Atlanta, but you can still buy digital access.
+</p>
 
-The only virtual summit on this list, the Private Label World Virtual Summit can get you tons of great strategies and information from the comfort of your office chair! The summit itself happened earlier last year, but tickets are still available, and with a purchase, you get access to all the recordings from every talk given at the event! Those recordings will be available until September 2017.
+###<a href="https://etaileast.wbresearch.com/" target="_blank">Etail</a>
+<p class="Class2">Held twice a year in the U.S. in <a href="https://etaileast.wbresearch.com/" target="_blank">East</a> and <a href="https://etailwest.wbresearch.com/" target="_blank">West</a> versions (with international options complete for 2018), Etail is a large trade show for everyone from startups to established Amazon sellers to companies with private ecommerce platforms. Your next chance is August 6-9 in Boston.
+</p>
+
+<p class="Class2">So there you have it! Our Top 10 Picks. Let us know what you think? Know of a conference that we did not include? Leave us a comment and we just might add your recommendations into a larger list.
+</p>
+
+<p class="Class2">Also, if you like this article, please do share on social media.
+</p>
+
+<p class="Class2">Don't miss articles like these. Click to Subscribe:
+</p>
+
 
 
 <!--Added this section from Leadboxes-->
