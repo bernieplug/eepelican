@@ -4,6 +4,7 @@ Category: Social Media, Email Lists
 Date: 2018-03-20 09:00
 Image: external-email-tracker.png
 Tags: Social Media, Email Lists
+Status: draft
 Summary: Are you building an email list outside of Amazon? If not, it's never too late to get started!
 
 You’ve heard it from the gurus. Don’t put all your eggs in Bezos’ basket. Build your audience through Facebook groups, social media, contests, and the like. At the end of the day, they are your customers, but Amazon won’t let you have them. A lot of sellers are worried about violating Terms of Service by offline marketing activities, and rightfully so. When it comes to Amazon, one strike and you could be out of business. Yet, there are grey areas that most sellers are willing to bet their stakes on. Email list building is one of them.</p>
