@@ -5,6 +5,7 @@ Date: 2017-11-10 09:00
 Image: promotion-tracker.png
 Tags: Social Media, Product Launch, Promotions
 Summary: Want to measure the effectiveness of your promotions on Amazon and don't know how to? Well now, there is way!
+Status: published
 
 Running a promotion with discount codes is a great way to launch a new product on Amazon and boost your sales. (read our 3-part series on <a href="https://efficientera.com/blog/2017/10/part-1-ten-steps-to-a-super-successful-product-launch.html" target="_blank"> Super Successful Product Launches</a>.) While Amazon makes it fairly straight forward for you to set up a promotion for your product in Seller Central, what it does not do, is to match promotions to the orders that resulted from them. Critical information you would think right, but at the end of a promotion, you are still left stuck with the million dollar question: “Was that promotion effective?”
 

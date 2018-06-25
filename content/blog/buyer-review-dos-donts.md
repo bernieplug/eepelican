@@ -5,7 +5,7 @@ Date: 2017-05-22 11:00
 Image: buyer-review-dos-donts.jpg
 Tags: Amazon, Reviews, Buyer-Review
 Summary: Buyer-Review Matching, one of Efficient Era's most powerful tools, comes with great ways to use it as well as ways to misuse it. Read more about it here.
-Status: published
+Status: draft
 
 [Buyer-Review Matching](https://efficientera.com/pages/feedback/) is one of Efficient Era’s most valuable features. It opens up the possibilities for customer service on Amazon in a way unlike any other tool.
 
