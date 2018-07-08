@@ -33,6 +33,7 @@ AUTHOR_FEED_RSS = None
 
 # Menu
 MENUITEMS_RIGHT = (
+                    ('Features', '/features/'),
                     ('Pricing', '/pricing/'),
                     ('Blog', '/blog/'),
                     ('Clients', '/clients/'),
