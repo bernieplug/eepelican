@@ -5,7 +5,7 @@ Date: 2016-06-21 14:00
 Image: buyer-reviewer-matching.jpg
 Tags: Amazon, Feedback, Reviews
 Summary: With Efficient Era's advanced buyer-reviewer matching software, you'll never struggle to contact a reviewer again.
-Status: published
+Status: draft
 
 We all know [how important reviews are](https://efficientera.com/blog/2015/08/start-paying-attention-to-your-amazon-reviews.html){:target="_blank"}. They can make or break your Amazon career, especially as a [private label seller](https://efficientera.com/blog/2015/08/5-reasons-you-should-be-a-private-label.html){:target="_blank"}. One too many negative reviews can send a product to the dustbin of low sales and search ranking, while enough positive reviews can drive your rank and your sales to the very top of your category. 
 	

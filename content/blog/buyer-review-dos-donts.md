@@ -68,5 +68,4 @@ Want to try out Buyer-Review Matching today? [Sign up for a free, 60-day trial h
 #### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
 
 <a href="https://efficientera.com/blog/2016/07/why-customer-service-matters-on-amazon.html">![Customer Service Image](/images/blog/related/why-customer-service_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/06/buyer-reviewer-matching-with-efficient-era.html">![Buyer-Reviewer Matching Image](/images/blog/related/buyer-reviewer-matching_small.jpg)</a>
 <a href="https://efficientera.com/blog/2016/08/how-to-respond-to-angry-customers-in-6-steps.html">![Angry Customers Image](/images/blog/related/respond-angry-customers_small.jpg)</a>
