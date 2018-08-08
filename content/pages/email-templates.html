@@ -3,85 +3,202 @@
     <title>Email Automation Sample</title>
     <meta name="save_as" content="pages/email-templates/index.html" />
     <meta name="no_well" content="true" />
+    <meta name="tool_page" content="true"/>
+
 </head>
 
 
 <body>
-<div class="row vcenter">
-    <div class="col-md-8">
-        <div>
-        <p>
-            Here is a sample email sent automatically each time a purchase is made for a
-            product named PC-Glass. There are 2 main parts to how the email is composed: Theme and the Campaign.
-            Further, there are three specific fields that you need to enter text into:</p>
-            <ul class="fa-ul">
-                <li class=""><i class="fa-li fa fa-check-square"></i>Title : The subject line</li>
-                <li class=""><i class="fa-li fa fa-check-square"></i>Email Body : The main body of the email</li>
-                <li class=""><i class="fa-li fa fa-check-square"></i>Theme Body : The footer that goes on every email that uses this theme</li>
-            </ul>
-        <p>
-        <img src="/images/pages/sturdycases.png" width = "90%" class="img-thumbnail" alt="Email Template">
-        </p>
+
+        <div class="row" style="background: linear-gradient(to RIGHT, #009A99, #2F86A5)">
+            <br>
+            <br>
+            <div style="color: white" class="text-center"><span style="font-size: 300%; ">Email Automation</span></div>
+            <h4 style="color: white; font-size: 100%; text-transform: uppercase" class="text-center">Get started with Email Campaigns</h4>
+
+            <br>
+            <br>
+            <br>
         </div>
 
-        <h3>Building your Email</h3>
-        <p>Here is how you would actually build a mail like the one above using placeholder text. All the text that is enclosed in square
-        brackets is a "placeholder". This will be replaced by the actual text at the point when the email is actually sent out.
-        You can use this template as a starting point and change the text as appropriate. More placeholders can be found on the text formatting toolbar.</p>
-        <div class="page-header">
-            <h4>Title (Locate in Email Campaigns)</h4>
-        </div>
-        <p>Your Purchase of <span style="color: #ff0000">[ProductTitle]</span>, Phone Case</p>
+
+        <div class="row" style="padding: 0%">
+            <br>
+            <br>
+            <div class="col-lg-6 col-lg-offset-3">
+            With Efficient Era you can create and customize a variety of email types. You can weave text, images, placeholders and insert links for product reviews and seller feedback.
+            Here are some examples to get you started. Feel free to copy and use in your emails.
 
 
-        <div class="page-header">
-            <h4>Email Body (Locate in Email Campaigns)</h4>
-        </div>
-        <p>Thank you for purchasing the SturdyCases <span style="color: #ff0000">[ProductTitle]</span>​ Phone Case! FAQs can be found on the product page at:</p>
 
-        <p>http://www.yoursitedomain.com/yourproductxyzabz123</p>
+            <div class="col-lg-6 col-lg-offset-3">
+                   <h3>Thank You Email Template</h3>
 
-        <p>Before your <span style="color: #ff0000">[ProductTitle]</span> Phone Case arrives, take a quick look at the product page to get answers to many of the common questions
-            that come up for this type of screen protector. Please note that in order to attach to place the screen correctly, we have enclosed
-            as special cleaning tool that should be used prior to affixing the screen.
-        </p>
-        <div class="page-header">
-            <h4>Theme Body (Locate in Email Themes)</h4>
-        </div>
-        <p><span style="color: #ff0000">$email_body</span></p>
-            <p>Any questions or problems? We're on your side and happy to help.
-            Save this email and reply anytime to reach our knowledgeable online support team.
-            If we ever ask, the model you have is the PC-Class and your order id was <span style="color: #ff0000">[OrderId]</span>.
-            Once you've had a chance to try the product it'd be wonderful if you could share your experiences
-            with other customers. Customer reviews have a big impact on a small business like ours,
-            and we deeply appreciate your time to let people know how you've put the product to use.
-            Just visit:</p>
-            <p>https://www.amazon.<span style="color: #ff0000">[AmazonMarket]</span>/review/create-review?asin=<span style="color: #ff0000">[asin]</span></p>
+                    <div class="text-left border-left" style="background-color: gainsboro; padding: 10px; border-radius: 5px ; ">
+                    <br>
+                       Dear <strong style="color: #0000aa">[Name]</strong>,
+                    <br><br>
+                       Thanks for purchasing <strong style="color: #0000aa">[ProductTitle]​</strong>! Your product is on its way!
+                    <br><br>
+                    A quick start guide is included in the box, but more detailed instructions and troubleshooting tips can be found on the product page at:
+                    <br>
 
+                       http://www.example.com/products/<strong style="color: #0000aa">[SellerSKU]</strong>
+                       <!--Before your <strong style="color: #0000aa">[ProductTitle]​</strong> arrives, take a quick look at the product page to answer many of the common questions that come up with this type of device.-->
+                    <br>
+                    <br>
+                    If you have any questions at all, hit reply on this email to contact us. We are here to help!
+                    <br>
+                    <br>
+                       Best Regards,
+                    <br>
+                       Thom Bender
+                       </div>
+                    <br>
 
-        <p>Thanks again for joining the community of SturdyCases users!</p>
-        <p>Thom Bender</p>
-        <p>Founder, SturdyCases</p>
+                   <br>
+                   <br>
+                    </div>
 
-      <div class="page-header">
-        <h4>A Note About Placeholder Text</h4>
-    </div>
-        <p>The following placeholder text will be replaced by the actual values at the point when the email is being sent.</p>
-        <p><span style="color: #ff0000">[Name]</span>: The customer's name.</p>
-        <p><span style="color: #ff0000">[OrderId]</span>: The customer's Order ID number, in the format 123-4567890-1234567.</p>
-        <p><span style="color: #ff0000">[SellerSKU]</span>: The SKU of the product, as listed on Amazon or Efficient Era.</p>
-        <p><span style="color: #ff0000">[ProductTitle]</span>: The title of the product, as listed on Amazon.</p>
-        <p><span style="color: #ff0000">[ASIN]</span>: The product's ASIN, in the format B00ABCDEFG.</p>
-        <p><span style="color: #ff0000">[QuantityShipped]</span>: The quantity of products shipped within this order in numerical form.</p>
-        <p><span style="color: #ff0000">[AmazonMarket]</span>: The marketplace that the order occurred on, in the format com/ca/co.uk/co.jp/de/fr (with no period in front).</p>
-        <p><span style="color: #ff0000">[AmazonEmail]</span>: Your Buyer-Seller Messaging email, in the format abc12defg34hi56@marketplace.amazon.com.</p>
-        <p><span style="color: #ff0000">$email_body</span>: This is a special placeholder, only available under Email Themes, that displays the text of the Email Body
-            field of a campaign that you apply this theme to.</p>
-        Important note about <span style="color: #ff0000">$email_body</span>: You can position this field anywhere in the Theme Body and it will get replaced by the text of the
-        Email Body of the campaign that you apply this theme to. If this code is not present, the Campaign's Email Body text will NOT be displayed.
+                        <div class="col-lg-6 col-lg-offset-3">
+
+                       <h3>Review Request Email Template</h3>
+
+                    <div class="text-left border-left" style="background-color: gainsboro; padding: 10px; border-radius: 5px ; ">
+                    <br>
+                       Dear <strong style="color: #0000aa">[Name]</strong>,
+                    <br><br>
+                       You recently purchased <strong style="color: #0000aa">[ProductTitle]​</strong> from our store on Amazon. Thank you!
+                    <br>
+                    <br>
+                    If you have any questions at all, hit reply on this email to contact us. We are here to help!
+                       If we ever ask, your order ID is <strong style="color: #0000aa">[OrderId]</strong>.
+                    <br>
+                    <br>
+                   Customer reviews have a big impact on a small business like ours, and we deeply appreciate your time to let people
+                       know how you've put the product to use. We'd love for you to share your thoughts by <strong style="color: #0000aa">leaving a product review</strong> here.
+                    <br>
+                    <br>
+                       Best Regards,
+                    <br>
+                       Thom Bender
+                       </div>
+                    <br>
+
+                   <br>
+                   <br>
+                    </div>
+
+                    <div class="col-lg-6 col-lg-offset-3">
+                       <h3>Follow Up Email Template</h3>
+
+                    <div class="text-left border-left" style="background-color: gainsboro; padding: 10px; border-radius: 5px ; ">
+                    <br>
+                       Dear <strong style="color: #0000aa">[Name]</strong>,
+                    <br><br>
+                       Thank you for your recent purchase of <strong style="color: #0000aa">[ProductTitle]​</strong>. Hope you are enjoying it!
+                    <br>
+                    <br>
+                    Did you have any questions? Not 100% Satisfied? Hit reply on this email to contact us. We are here to help!
+                       If we ever ask, your order ID is <strong style="color: #0000aa">[OrderId]</strong>.
+                    <br>
+                    <br>
+                    Customer reviews have a big impact on a small business like ours, and we deeply appreciate your time to let people
+                       know how you've put the product to use. We'd love for you share your thoughts by <strong style="color: #0000aa">leaving a product review</strong> here.
+
+                    <br>
+                    <br>
+
+                    Best Regards,
+                    <br>
+                       Thom Bender
+                   </div>
+                   <br>
+
+                   <br>
+                   <br>
+                   </div>
+                   <br>
     </div>
 </div>
 
+
+        <div class="row" style="background: linear-gradient(to RIGHT, gainsboro, lightgrey)">
+            <br>
+
+            <div style="color: black" class="text-center"><span style="font-size: 300%; ">Placeholders and Links</span></div>
+
+            <br>
+        </div>
+
+        <div class="row" style="padding: 0%">
+            <br>
+            <br>
+            <div class="col-lg-6 col-lg-offset-3">
+            <h4>Placeholders</h4>
+                <p>Efficient Era provides a variety of placeholders that you can insert into your
+                Email body. These will get replaced by the actual values from your orders dynamically
+                when the email is being sent out.</h5>
+            <p><span style="color: blue">[Name]</span>: The customer's name.</p>
+            <p><span style="color: blue">[OrderId]</span>: The customer's Order ID number, in the format 123-4567890-1234567.</p>
+            <p><span style="color: blue">[SellerSKU]</span>: The SKU of the product, as listed on Amazon or Efficient Era.</p>
+            <p><span style="color: blue">[ProductTitle]</span>: The title of the product, as listed on Amazon.</p>
+            <p><span style="color: blue">[ASIN]</span>: The product's ASIN, in the format B00ABCDEFG.</p>
+            <p><span style="color: blue">[QuantityShipped]</span>: The quantity of products shipped within this order in numerical form.</p>
+            <p><span style="color: blue">[AmazonMarket]</span>: The marketplace that the order occurred on, in the format com/ca/co.uk/co.jp/de/fr (with no period in front).</p>
+            <p><span style="color: blue">[AmazonEmail]</span>: Your Buyer-Seller Messaging email, in the format abc12defg34hi56@marketplace.amazon.com.</p>
+            <br>
+            <p><span style="color: blue">$email_body</span>: This is a special placeholder, only available under Email Themes, that displays the text of the Email Body
+                field of a campaign that you apply this theme to.</p>
+            Important note about <span style="color: #ff0000">$email_body</span>: You can position this field anywhere in the Theme Body and it will get replaced by the text of the
+            Email Body of the campaign that you apply this theme to. If this code is not present, the Campaign's Email Body text will NOT be displayed.
+                <h4>Easy to Insert Links</h4>
+                <p>Efficient Era provides easy to insert links that you can weave anywhere into your email. These are available on the formatting panel of the Email Body:</p>
+
+            <p><span style="color: blue">leave a product review</span>: This will direct them to the page where they can leave a product review.</p>
+            <p><span style="color: blue">leave a general review</span>: This will direct them to the page where they can leave a general review.</p>
+            <p><span style="color: blue">submit a VAT invoice</span>: This will let them get a VAT invoice.</p>
+            <p><span style="color: blue">leave seller feedback</span>: This will direct them to the page where they can leave Seller Feedback.</p>
+            <p><span style="color: blue">view order details</span>: This will allow buyers to view the details of their order.</p>
+
+            </div>
+    </div>
+        <div class="row" style="background: linear-gradient(to RIGHT, gainsboro, lightgrey)">
+            <br>
+
+            <div style="color: black" class="text-center"><span style="font-size: 300%; ">Campaigns and Themes</span></div>
+
+            <br>
+        </div>
+
+        <div class="row" style="padding: 0%">
+            <br>
+            <br>
+            <div class="col-lg-6 col-lg-offset-3">
+            <p>Each email campaign can be styled with pre-created themes.
+                These are available to change swap out at any time under the Theme drop down selector in the Email Body.
+                <p>
+                Themes: In general, we recommend you start with one of our pre-created themes:</p>
+                <p><span style="color: blue">Plain Text</span>: A simple text based theme with no ability to add images</p>
+                <p><span style="color: blue">Post Order Theme</span>: A simple HTML based theme with the ability to add images and links</p>
+                <p class="text-center"><img src="/images/pages/Post Order Theme.png"></p>
+                <p><span style="color: blue">Post Order Theme 2</span>: A simple HTML based theme with the ability to add images and links</p>
+                <p class="text-center"><img src="/images/pages/Post Order Theme 2.png"></p>
+                <p><span style="color: blue">Simple Theme</span>: A simple HTML based theme with <strong>no styling</strong> with the ability to add images and links</p>
+                <p class="text-center"><img src="/images/pages/Simple Theme.png"></p>
+                <p><span style="color: blue">Simple Theme 2:</span> A simple HTML based theme with <strong>no styling</strong> with the ability to add images and links</p>
+                <p class="text-center"><img src="/images/pages/Simple Theme 2.png"></p>
+
+
+            <br>
+
+                Advanced: You can also create more advanced themes with your own HTML styling but we do not recommend it for beginners.
+            <br>
+            <br>
+            <br>
+            <br>
+            </div>
+    </div>
 
 
 </body>
