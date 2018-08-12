@@ -3,104 +3,177 @@
     <title>Efficient Era Startup Kit</title>
     <meta name="save_as" content="pages/startup/index.html" />
     <meta name="no_well" content="true" />
+    <meta name="tool_page" content="true"/>
+
 </head>
+
 <body>
+        <div class="row" style="background: linear-gradient(to RIGHT, #009A99, #2F86A5)">
+            <br>
+            <br>
+            <div style="color: white" class="text-center"><span style="font-size: 300%; ">Efficient Era Startup Kit</span></div>
+            <h4 style="color: white; font-size: 100%; text-transform: uppercase" class="text-center">Setup Guide</h4>
+
+            <br>
+            <br>
+            <br>
+        </div>
+
+
 <div class="row vcenter">
-    <div class="col-md-8">
 
-<!--        <p>
-        <img src="/images/pages/startup.png" class="img-thumbnail" alt="Tools for Amazon Sellers">
-        </p>
--->
 
+
+    <div class="col-lg-8 col-lg-offset-2">
         <h3>Welcome to Efficient Era!</h3>
         <p>We are excited to have you use our software. In order to derive maximum benefit from our ever growing set of tools, we have put together a recommended sequence of steps to follow. </p>
 
 
-        <h4>1. Complete MWS Authorization</h4>
-        <p>Our software relies on MWS APIs to gather your data and send emails on your behalf. If you haven't activated your account yet, simply log into Efficient Era and follow the instructions for MWS authorization.</p>
-        <p>Note: If you are using Efficient Era for Japan only please note that you will need either and Amazon.com or Amazon.co.uk account.</p>
-
-        <p></p>
-
-        <h4>2. Set up Alerts</h4>
-        <p>Efficient Era offers broad range of alerts such as Listing Hijack Alerts, Sales Alerts,
-            Product Review Alerts and more to help you stay on top of your business. This is a list of alerts we support:</p>
-        <img src="/images/pages/ee_alerts.png" class="img-responsive" alt="Listing Hijack Alerts" style="width: 40%;"></img>
-        <p>You can adjust the frequency of alerts to one that you prefer. By default all of these alerts are set to "off".</p>
-        <p>There are a few alerts that are enabled by default. These are:</p>
-
+        <h4>1. Complete API Authorizations</h4>
         <ul class="fa-ul">
-            <li class=""><i class="fa-li fa fa-check-square"></i>Product Review Alerts (daily)</li>
-            <li class=""><i class="fa-li fa fa-check-square"></i>Seller Feedback (daily)</li>
-            <li class=""><i class="fa-li fa fa-check-square"></i>Question Alerts (weekly)</li>
-            <li class=""><i class="fa-li fa fa-check-square"></i>Large Order Alerts (daily)</li>
+        <li><i class="fa-li fa fa-arrow-circle-right"></i>MWS</li>
+        <p>Our software relies on MWS APIs to gather your data and send emails on your behalf. If you haven't activated your account yet, simply log into Efficient Era and follow the instructions for MWS authorization.</p>
+        <li><i class="fa-li fa fa-arrow-circle-right"></i>Sponsored Products API</li>
+        <p>Use your Login With Amazon credentials to enable our use of your Sponsored Products API for automating your PPC Campaigns. </p>
+        <p>Note: In order to enable this API for multiple marketplaces ensure that your first log out of Seller Central from all marketplaces and then attempt
+            to login with the marketplace you want Efficient Era to automate PPC Campaigns in.</p>
         </ul>
 
-<p>If you would like to change these frequencies simply access the tool page, and you will be able to find tool specific settings in the top right area.</p>
+        <hr>
+        <h4>2. Modify Product Details</h4>
+        <ul class="fa-ul">
+        <li><i class="fa-li fa fa-arrow-circle-right"></i>Adjust Product Titles</li>
+        <p>Products are detected automatically by Efficent Era from Amazon. By default, the listing title on Amazon is the display name within Efficient Era.
+            However, sometimes these titles can be fairly long when selecting them in dropdowns or settings.
+            Feel free to edit these display names. These will only affect how your product is displayed within Efficient Era.
+            In order to change display names, access Products from the <a href="https://app.efficientera.com/products/settings" target="_blank"></a> Products menu.
+            You can also upload product details via csv by clicking on the Import/Export button at the top right are of your Products list.</p>
+        <li><i class="fa-li fa fa-arrow-circle-right"></i>Enter Landed Costs</li>
+        <p>The Landed Cost of a product is the cost to produce or procure each unit,
+            along with any costs you incurred up until your product reaches an Amazon Fulfillment Center.
+            If you are foulfilling a product via MFN, be sure to add the average cost of shipping from
+            your warehouse.
+
+            To set up Landed Costs visit Account Settings or go <a href="https://app.efficientera.com/settings/landedCost" target="_blank">here.</a>
+            This information is required by us to correctly display your profit calculations on the Profits dashboard.</p>
+
+        <p>Note: Since we auto-detect your products from Amazon, based on a listing report that we request,
+            you might start noticing a new type of daily notification from Amazon letting you know that this report was requested. Since this alert can get noisy for some people, we recommend switching it off by going to Seller Central, access Notifications under your account name and then deselect
+
+        <img src="/images/pages/listing_report_notification.png" class="img-responsive" alt="Tools for Amazon Sellers" style="width: 100%;"></img>
+
+        </p>
+        </ul>
+
+        <hr>
+        <h4>3. Set up Alerts</h4>
+        <p>Efficient Era offers broad range of alerts such as Listing Hijack Alerts, Sales Alerts,
+        Product Review Alerts and more to help you stay on top of your business. This is a list of alerts we support:</p>
+
+        <p>You can adjust the frequency of alerts to one that you prefer. </p>
+
+        <p>On By Default:</p>
+        <ul class="fa-ul">
+            <li><i class="fa-li fa fa-check-square"></i>Product Review Alerts (daily)</li>
+            <li><i class="fa-li fa fa-check-square"></i>Seller Feedback (daily)</li>
+            <li><i class="fa-li fa fa-check-square"></i>Question Alerts (weekly)</li>
+            <li><i class="fa-li fa fa-check-square"></i>Large Order Alerts (daily)</li>
+            <li><i class="fa-li fa fa-check-square"></i>Top Level Category Change Alerts (daily)</li>
+            <li><i class="fa-li fa fa-check-square"></i>SKU Change Alerts (daily)</li>
+            <li><i class="fa-li fa fa-check-square"></i>Weekly Movers (weekly)</li>
+        </ul>
+        <p>Off by Default:</p>
+        <ul class="fa-ul">
+            <li><i class="fa-li fa fa-check-square"></i>A+ Listing Monitoring (daily)</li>
+            <li><i class="fa-li fa fa-check-square"></i>Brand Changes (daily)</li>
+            <li><i class="fa-li fa fa-check-square"></i>Feature Bullet Changes (daily)</li>
+            <li><i class="fa-li fa fa-check-square"></i>Product Title Changes (daily)</li>
+            <li><i class="fa-li fa fa-check-square"></i>Monthly Movers Report (monthly)</li>
+            <li><i class="fa-li fa fa-check-square"></i>No Listing (daily)</li>
+            <li><i class="fa-li fa fa-check-square"></i>Weekly Refund Report (weekly)</li>
+        </ul>
+
+        <p>If you would like to change these frequencies simply access Alert Settings <a href="https://app.efficientera.com/settings/notification" target="_blank">here</a>,</p>
+
+        <hr>
+        <h4>4. Create Follow-up Email Campaigns <a href="https://www.youtube.com/watch?v=Uo-CeLkYqX4" target="_blank">(Watch Video)</a>
+            <a href="https://efficientera.com/pages/email-templates/" target="_blank">
+            (Read Documentation)</a></h4>
 
 
-        <p></p>
-
-        <h4>3. Create Follow-up Email Campaigns <a href="https://www.youtube.com/watch?v=Uo-CeLkYqX4" target="_blank">(Watch Video)</a> </h4>
-            <p>Emails are a great way to provide customer support and also request for reviews. Your email campaigns can be set to trigger each time a product was purchased, shipped or delivered. Define the layout and formatting of the email as you like. To enable and design Email Campaigns, access Email Automation settings within the Email Automator tool and make sure the follow-up email button is enabled. Also, choose the marketplaces you would like automation to be enabled for.
+            <p>Emails are a great way to provide customer support and also request for reviews.
+                Your email campaigns can be set to trigger each time a product was purchased, shipped or delivered.
+                Define the layout and formatting of the email as you like. To enable and design Email Campaigns,
+                access Email Automation settings within the Emails tool and make sure the follow-up email button
+                is enabled. Also, choose the marketplaces you would like automation to be enabled for.
             </p>
 
-        <p>In order for our Email Automator can start using Amazon's buyer-seller messaging system to send follow-up emails you need to add noreply@efficientera.com to the list of approved senders on Amazon</p>
+        <p>In order for our Email automation system to start using Amazon's
+            buyer-seller messaging system to send follow-up emails you need to add
+            noreply@efficientera.com to the list of approved senders on Amazon. The steps are:</p>
+           <ul class="fa-ul">
+            <li><i class="fa-li fa fa-arrow-circle-right"></i>From Seller Central Settings select Messages in the top right area</li>
+            <li><i class="fa-li fa fa-arrow-circle-right"></i>Select Authorized Emails</li>
+            <br>
+                <img src="/images/pages/authorizedSender.png" class="img-responsive" alt="Tools for Amazon Sellers" style="width: 30%;"></img>
+                </br><li class=""><i class="fa-li fa fa-arrow-circle-right"></i>Add noreply@efficientera.com to the list of approved senders</li>
+                    <br>
 
-        <p>The steps are:</p>
+                <img src="/images/pages/noreply.png" class="img-responsive" alt="Seller Tools for Amazon Sellers" style="width: 30%;"></img>
+            <br>
+            <li><i class="fa-li fa fa-arrow-circle-right"></i>Test if Emails Are Sending</li>
+            <p>To test if your Emails are getting sent out correctly from Efficient Era, access Amazon's outbox on Buyer-Seller messages
+            <a href="https://sellercentral.amazon.com/gp/communication-manager/outbox.html" target="_blank">here</a>.
+                <p>Note: Your emails will only get sent to Amazon once they hit an event trigger.
+               For example, if your Email Trigger is set to <strong>Delivered + 2 Days</strong>
+               then please check your Seller Central outbox when <strong>the first order that comes in <i>after</i> you signed up for Efficient Era</strong> is likely to
+               get delivered + 2 days. Typically, this is 7-10 days from purchase.</p>
+               <p>Also note: We currently do not have the ability to send emails for orders placed before you signed up for our service.</p>
+            </p>
+        </ul>
+        <hr>
+        <h4>5. Set up Bulk Order Alerts</h4>
+        <p>While you are in the Email Automation settings (same as the previous step), you can specify how you would like to be notified each time there is a bulk order. Specify what you consider a bulk order. We have set it to default value of 10 but you can change this at any time. </p>
+
+        <hr>
+        <h4>6. Set up Return Reply Emails</h4>
         <p>
-            <ul class="fa-ul">
-            <li class=""><i class="fa-li fa fa-check-square"></i>From Seller Central Settings select Messages in the top right area</li>
-            <li class=""><i class="fa-li fa fa-check-square"></i>Select Authorized Emails</li>
-        <br>
-            <img src="/images/pages/authorizedSender.png" class="img-responsive" alt="Tools for Amazon Sellers" style="width: 40%;"></img>
-            </br><li class=""><i class="fa-li fa fa-check-square"></i>Add noreply@efficientera.com to the list of approved senders</li>
-                <br>
+        Return Reply Email is a new feature that allows you to send an automatic email response
+        to someone who has initiated a return. This is a good opportunity for you to take quick automated action,
+        to ward off a negative feedback or better still, reverse their decision to return. Here are the steps to set it up:
+
+        <ul class="fa-ul">
+
+            <li><i class="fa-li fa fa-arrow-circle-right"></i>Auto-forward Return Emails</li>
+            The email to auto-forward to, is
+            mentioned in the right hand area of that page. In your case it is: R4N7J61Q8@refund.efficientera.com.
+
+            In order for these emails to work, you will need to set an auto-forward rule in your email system (such as Gmail) where
+                you receive return initiated notices from Amazon, to your unique returns auto-forwarding email at Efficent Era.
+            This looks like <strong>Z4X7J30Q8@refund.efficientera.com</strong> and is located
+            in the top right area of the <strong>Return Reply Emails</strong> sub-menu under <strong>Emails</strong>.
+            As our system receives your auto-forwarded emails, we send out your returns reply email to the buyer.
+            <li><i class="fa-li fa fa-arrow-circle-right"></i>Set Up Return Replt Templates</li>
+            Next pick a Returns Reply template for your marketplace, and add content to it.
+            Each marketplace has one template each. You can edit the contents of relevant templates and then enable them when you are ready.
+        </ul>
+​
+        <p>Once you have completed these two steps, the replies for all your returns will be activated.</p>
 
 
-            <img src="/images/pages/noreply.png" class="img-responsive" alt="Tools for Amazon Sellers" style="width: 40%;"></img>
-            </ul>
-        </p>
-            <h4>4. Set up Bulk Order Alerts</h4>
-            <p>While you are in the Email Automation settings (same as the previous step), you can specify how you would like to be notified each time there is a bulk order. Specify what you consider a bulk order. We have set it to default value of 10 but you can change this at any time. </p>
-
-
-        <h4>5. Modify Product Details</h4>
-        <p>Products are detected automatically from Amazon. By default, the listing title on Amazon is the display name within Efficient Era. However, sometimes these titles can be fairly long when selecting them in dropdowns or settings. Feel free to edit these display names. These will only affect how your product is displayed within Efficient Era. In order to change display names, access Product Settings from the gear icon under your username in the top right corner of any page. You can also upload product details via csv.</p>
-
-        <p>Once in the Product Settings page, you can provide us with the landed cost of your ASINs. This will be useful in displaying profit calculations in the Efficient Era dashboard.</p>
-
-          <p>Note: Since we auto-detect your products from Amazon, based on a listing report that we request, you might start noticing a new type of daily notification from Amazon letting you know that this report was requested. Since this alert can get noisy for some people, we recommend switching it off by going to Seller Central, access Notifications under your account name and then deselect
-
-                        <img src="/images/pages/listing_report_notification.png" class="img-responsive" alt="Tools for Amazon Sellers" style="width: 100%;"></img>
-
-        </p>
-
-        <p></p>
-
-
-
-<!--            <h4>7. Set up Inventory Health Charts<a href="https://youtu.be/M6hELJZ9J2w?list=PLUYdN3DukWcJz0YGzj3QHLCjI7aIdPyiC" target="_blank"> (Watch Video)</a> </h4>
-            <p>Create events to mark the dates when special actions were taken by you that you think might have had an impact on your sales. For example, a special campaign you ran or a promotion.</p>
+        <hr>
+<!--        <h4>6. Product Review Settings<a href="https://youtu.be/kYtOuRg5tf8?list=PLUYdN3DukWcJz0YGzj3QHLCjI7aIdPyiC" target="_blank"> (Watch Video)</a> </h4>
+        <p>Access Product Review settings located in the right top area within the Product Review dashboard.
+            Would you like to be notified each time you receive a review? Or would you like one daily digest email instead?
+            By default, you will receive a weekly digest. For negative reviews set the star level below which you want to be notified.</p>
 -->
 
-            <h4>6. Product Review Settings<a href="https://youtu.be/kYtOuRg5tf8?list=PLUYdN3DukWcJz0YGzj3QHLCjI7aIdPyiC" target="_blank"> (Watch Video)</a> </h4>
-            <p>Access Product Review settings located in the right top area within the Product Review dashboard.
-                Would you like to be notified each time you receive a review? Or would you like one daily digest email instead?
-                By default, you will receive a weekly digest. For negative reviews set the star level below which you want to be notified.</p>
-
-
-        <h4>7. Set up Seller Feedback automation & alerts</h4>
+        <h4>7. Set up Seller Feedback Automation & Alerts</h4>
         <p>Our Seller Feedback tool gives you email notifications, dashboard based analytics of your seller performance, as well the ability to send automated mails each time you receive a negative Seller Feedback. Access Automatic Replies and Settings from the Feedback Manager tool.</p>
 
-
-
-
-        <h4>VAT Invoice Automation (optional) <a href="https://efficientera.com/guide-vat/" target="_blank">(Read Documentation) </a> <a href="https://youtu.be/JsjAsQgSpwk" target="_blank"> (Watch Video)</a></h4>
+        <hr>
+        <h4>8. VAT Invoice Automation (optional) <a href="https://efficientera.com/guide-vat/" target="_blank">(Read Documentation) </a> <a href="https://youtu.be/JsjAsQgSpwk" target="_blank"> (Watch Video)</a></h4>
         <p>If you sell in Europe and need to help your customers generate VAT invoices. Provide your VAT registration number and countries in which you are VAT registered.</p>
-
-
 
             <p>We are constantly working on improving our products and our documentation, so please feel free to let us know what features you would like to see and also if you find our instructions clear.</p>
 
