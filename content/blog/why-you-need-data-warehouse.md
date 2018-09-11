@@ -5,6 +5,7 @@ Date: 2017-11-17 09:00
 Image: data-warehouse.png
 Tags: Data Analytics, Amazon, Efficient Era
 Summary: When Amazon throws boatloads of data at you, you start to tune out, just a little bit at first. And then, one day you realize...
+Status: draft
 
 For a moment, look back to when you started your Amazon store. You were pumped with energy, excited to make more sales and diligently caught and analyzed all the data that Amazon sent your way. Back then, the game of catch was all new and fun and you could cope with it. But as time went by and Amazon continued to throw boatloads of data at you, there came a point when you started to tune out, just a little bit at first. And then, one day you realized, you had literally no way of making sense of all those numbers.
 

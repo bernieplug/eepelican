@@ -22,8 +22,6 @@ This can be a full time job for most, especially if you see continued growth in 
 
 An expert customer service representative is just that; an extension of your brand itself. They stand in proxy for you and act as a go-between and a problem solver to the outside world. This person will be well-versed in people skills and should know your business and its products inside and out to be most effective.
 
-*(Editor’s Note: If you’re using Efficient Era with Buyer-Review Matching, customer service also includes emailing negative reviewers and addressing their concerns — a task perfectly suited for virtual assistants. -Bruce)*
-
 ### 2 - Fulfilling Orders
 
 One of the biggest time sucking responsibilities is getting all of your customer orders sent to your patrons. 

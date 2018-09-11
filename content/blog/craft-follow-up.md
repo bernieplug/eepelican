@@ -87,7 +87,7 @@ Plus, if a customer is receiving an email from you, an Amazon seller, they shoul
 
 Of course, providing great customer service means more than just attaching a manual in your follow-up emails — it optimally requires a support team, something that isn’t feasible for every seller. However, some customer service is always preferable to none, and follow-up emails are an effective and easy place to include it.
 
-If you want to get started with follow-up email automation with Efficient Era, [sign up for our free, 60-day trial by clicking here](https://app.efficientera.com/signup/)! Beyond email automation, you’ll also get access to tons of other great features, such as [Buyer-Review Matching](https://efficientera.com/pages/feedback/){:target="_blank"}, [Listing Hijack Alerts](https://efficientera.com/pages/alerts/){:target="_blank"}, [Ad Analysis](https://efficientera.com/pages/adreports/){:target="_blank"}, [Seller Feedback Automation](https://efficientera.com/pages/seller-feedback/){:target="_blank"}, and more!
+If you want to get started with follow-up email automation with Efficient Era, [sign up for our free, 30-day trial by clicking here](https://app.efficientera.com/signup/)!
 
 How are you approaching follow-up emails? Share your strategies or questions in the comments below!
 

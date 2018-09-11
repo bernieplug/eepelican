@@ -51,7 +51,7 @@ Let’s discuss this further, because this is a tricky point.
 
 #### Support Links in Follow-Up Emails
 
-Naturally, requesting that a customer talks to you before leaving their negative review makes sense. I’m sure we’ve all looked at a negative review and though “Argh, if only they’d talked to us first!” This instinct isn’t wrong, either. Negative reviews can and should be thought of as customer service incidents, because that’s what they are in the vast majority of cases. Efficient Era’s [Buyer-Review Matching](https://efficientera.com/pages/feedback/) does help with this, since we let you contact buyers *after* they leave their negative reviews.
+Naturally, requesting that a customer talks to you before leaving their negative review makes sense. I’m sure we’ve all looked at a negative review and though “Argh, if only they’d talked to us first!” This instinct isn’t wrong, either. Negative reviews can and should be thought of as customer service incidents, because that’s what they are in the vast majority of cases.
 
 However, despite all of that, what matters is **how Amazon perceives these emails.**
 

@@ -54,5 +54,4 @@ If you’re interested in trying out the next generation of sales charts right n
 
 * [Automatic follow-up emails](https://efficientera.com/pages/postorder/)
 * [VAT invoice automation](https://efficientera.com/pages/accounting/)
-* [Review notifications with buyer-review matching](https://efficientera.com/pages/feedback/)
 * *And much more, coming soon!*

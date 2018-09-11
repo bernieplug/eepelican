@@ -68,7 +68,7 @@ I use those all the time as a trigger to look back at these charts to say “oh,
 
 ### Conclusion
 
-So there you go! This is just one of many tools that Efficient Era has. It’s always difficult to tell whether tools are worth it for you, so we try to make it easy. Join Efficient Era, and we give you a (very long) 60-day free trial to try out the Inventory Health analysis tool, *and* all of our other tools, including: Buyer-Review Matching, Post-Order Emails, and a bunch of other stuff that is all intended to help you build your brand and protect your brand. So, hope that was useful, and thank you for trying the Efficient Era toolset! We hope it helps your business. 
+So there you go! This is just one of many tools that Efficient Era has. It’s always difficult to tell whether tools are worth it for you, so we try to make it easy.  Join Efficient Era, and we give you a (very long) 30-day free trial to try out the Inventory Health analysis tool, *and* all of our other tools, including: Post-Order Emails, and a bunch of other stuff that is all intended to help you build your brand and protect your brand. So, hope that was useful, and thank you for trying the Efficient Era toolset! We hope it helps your business.
 
 ---
 
