@@ -5,7 +5,7 @@ Date: 2016-12-07 13:00
 Image: address-cold-start.jpg
 Tags: Reviews, Follow-Up Emails, Seller Feedback
 Summary: The cold start problem has always existed on Amazon, but it's gotten worse of late. Learn some strategies to fight the frost and get your sales moving!
-Status: published
+Status: draft
 
 Changes are sweeping through the Amazon marketplace these days. The most obvious one would be the [incentivized review ban](https://efficientera.com/blog/2016/10/breaking-news-discount-reviews-prohibited.html), but [plenty of subtler changes](https://efficientera.com/blog/2016/11/amazon-msrp-disappearing.html) have been cropping up here and there as well.
 

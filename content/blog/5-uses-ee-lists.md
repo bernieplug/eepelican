@@ -5,7 +5,7 @@ Date: 2017-07-31 13:00
 Image: 5-uses-ee-lists.jpg
 Tags: Efficient Era, Reviews, Orders
 Summary: Efficient Era's Lists aren't just there to look pretty. Our three Lists have a number of clever use cases that you can use to take your business to the next level.
-Status: published
+Status: draft
 
 Everybody knows about Efficient Era’s [Buyer-Review Matching](https://efficientera.com/pages/feedback/) and [Email Automation](https://efficientera.com/pages/postorder/), but Efficient Era has a lot of other features that we haven’t written so much about. Today, I’m trying to remedy that imbalance and talk about our **Lists!**
 
