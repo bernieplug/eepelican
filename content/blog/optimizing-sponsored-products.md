@@ -4,7 +4,7 @@ Category: News
 Date: 2018-09-13 11:00
 Image: optimize-ads.png
 Tags: Advertising
-Summary: Advertising on Amazon Seller Central is a powerful way to drive additional traffic to your listings. How do manually optimize your Ads?
+Summary: Advertising on Amazon Seller Central is a powerful way to drive additional traffic to your listings. How to manually optimize your Ads?
 status: published
 
 
