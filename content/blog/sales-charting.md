@@ -6,7 +6,7 @@ Image: sales-chart.jpg
 Tags: Efficient Era, Sales Charting, Reports
 Slug: sales-charting
 Summary: Charting is important, but you don't just want data for data's sake. Your data should be easy to read, and it should be actionable. We made Efficient Era sales charting to fit that bill!
-Status: published
+Status: draft
 
 Everyone knows that you should chart your sales data — it’s a basic instinct that comes with selling. But, at the end of the day, what does that data actually tell you? Sure, it tells you when your sales peak and when they fall, but can you really take action based on that knowledge?
 

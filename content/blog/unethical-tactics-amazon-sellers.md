@@ -1,4 +1,4 @@
-Title: Extremely Unethical Black Hat Tactics of Amazon Sellers
+Title: 7 Extremely Unethical Black Hat Tactics of Amazon Sellers
 Author: Joni S.
 Category: FBA
 Date: 2018-07-25 11:00
@@ -6,7 +6,7 @@ Image: unethical-amazon-sellers.png
 Slug: unethical-black-hat-tactics-amazon-sellers
 status: published
 Tags: Listing Hijackers
-Summary: Competition among private label sellers using Amazon is tougher than ever and some sellers are resorting to unethical tactics.
+Summary: Competition among private label sellers using Amazon is tougher than ever and some sellers resort to unethical tactics.
 
 <p class="Class2"> Competition among private label sellers using Amazon is tougher than ever, with sellers around the world jumping into the fray. As we all jockey for any advantage, it’s no wonder that some sellers ignore the rules.</p>
 

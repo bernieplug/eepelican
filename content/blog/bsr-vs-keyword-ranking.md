@@ -59,7 +59,7 @@ Status: published
 <p class="Class2">You may as well rank on page 600.</p>
 <br>
 <p class="text-center">
-<img src="/images/blog/2018/03/pet-supplement.png") width=80% alt text="Amazon Keyword Ranking">
+<img src="/images/blog/2018/03/pet-supplement.png" width=80% alt text="Amazon Keyword Ranking">
 </p>
 <br>
 <p class="Class2">So how do products start to rank for certain keywords?</p>

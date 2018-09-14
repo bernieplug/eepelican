@@ -6,7 +6,7 @@ Date: 2017-08-23 12:00
 Image: inventory-health-video.jpg
 Tags: Efficient Era, Inventory, Charts
 Summary: Check out this video (with transcript included) featuring our founder, Bernie Thompson.
-Status: published
+Status: draft
 
 We hope you enjoy this video featuring our founder, Bernie Thompson, explaining his top 5 ways to get the most out of Efficient Era’s Inventory Health Charts. Below the video, you’ll find a lightly edited transcript with some of the referenced images included. 
 
