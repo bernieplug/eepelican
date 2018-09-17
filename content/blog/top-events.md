@@ -64,7 +64,7 @@ Status: published
 <p class="Class2">Skubana hosts this one-day ecommerce conference for “high-volume, multi-channel” sellers looking to grow their businesses even farther. Details are still firming for 2018 but it’s expected October 4 and will focus strictly on education, insights, and networking for advanced sellers.
 </p>
 
-###<a href="https://globalsourcessummit.eventgrid.com/" target="_blank">Global Sources Summit</a>
+###<a href="https://www.globalsources.com/summit" target="_blank">Global Sources Summit</a>
 <p class="Class2">This extravaganza especially for private labelers takes place twice a year in Hong Kong. (October 2018 dates are still TBD.) Thousands of exhibitors woo intermediate or advanced sellers and help plot new product strategies and sources. While not Amazon-specific, there's no better one-stop trade show for sourcing and building relationships with suppliers.
 </p>
 
