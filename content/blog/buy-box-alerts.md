@@ -16,7 +16,7 @@ Summary: As Amazon gets more aggressive about its policies, products start disap
 <p class="Class2">Brands may see a top selling product replaced by one of the famous “Dogs of Amazon” (Amazon’s coy way of returning a “Page not Found”). Or it may merely be the buy box suppressed, forcing customers into multiple clicks to buy your product, driving down conversion rates. Amazon sends no notice to sellers or brands about products being suppressed like this. Sellers often discover the problem only by stumbling across a product that has suddenly dropped off in sales.
 </p>
 
-###What’s behind Amazon thinking?
+###What’s Behind Amazon's Thinking?
 <p class="Class2">Sometimes it’s enforcing its own internal rules, choosing to pull a product down for high return rates or customers reporting an inconsistency.  But with increasing frequency, it’s Amazon being driven by government actions (particularly in Europe) or lawsuits -- and then doing overly broad or poorly targeted sweeps, taking down products and bystanders in the process.
 </p>
 <p class="Class2">For example, Apple had realized that a high percentage of ‘genuine’ Apple Chargers on Amazon were counterfeit. They were right, and moved Amazon to action. Amazon’s recent response has been to take down products that make mention of any Apple trademark, even in ways Apple allows in in the context of 3rd party products expressing compatibility with the iPhone or MacBook, etc.  This is just one of many initiatives actively taking down products.
