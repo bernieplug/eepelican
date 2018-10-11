@@ -21,7 +21,7 @@ Summary: As Amazon gets more aggressive about its policies, products start disap
 </p>
 <p class="Class2">For example, Apple had realized that a high percentage of ‘genuine’ Apple Chargers on Amazon were counterfeit. They were right, and moved Amazon to action. Amazon’s recent response has been to take down products that make mention of any Apple trademark, even in ways Apple allows in in the context of 3rd party products expressing compatibility with the iPhone or MacBook, etc.  This is just one of many initiatives actively taking down products.
 </p>
-<p class="Class2">So how can brands selling on Amazon product themselves when Amazon is dominating sales and months of inventory and profits are at stake with every suspension?
+<p class="Class2">So how can brands selling on Amazon protect themselves when Amazon is dominating sales and months of inventory and profits are at stake with every suspension?
 </p>
 
 ###How Efficient Era Tools Can Help
