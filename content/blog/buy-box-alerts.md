@@ -36,7 +36,7 @@ one of the tools in <a href="https://sellercentral.amazon.com/apps/store/dp/amzn
 </p>
 
 
-<p class="Class2">Learn more about how Efficient Era’s tools help at http://efficientera.com/alerts.
+<p class="Class2">Learn more about how Efficient Era’s tools help at <a href="http://efficientera.com/alerts" taerget="_blank">http://efficientera.com/alerts</a>.
 </p>
 
 
