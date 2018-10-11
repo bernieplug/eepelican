@@ -2,7 +2,7 @@ Title: As Amazon Gets More Aggressive About Its Policies, Products Start Disappe
 Author: Bernie T.
 Category: FBA
 Date: 2018-10-11 11:00
-Image: amazon-suppression.jpg
+Image: amazon-suppression.png
 Slug: Amazon-Page-Suppression
 status: published
 Tags: Alerts
