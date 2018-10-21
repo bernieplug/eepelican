@@ -36,10 +36,15 @@ one of the tools in <a href="https://sellercentral.amazon.com/apps/store/dp/amzn
 </p>
 
 
-<p class="Class2">Learn more about how Efficient Era’s tools help at <a href="http://efficientera.com/alerts" taerget="_blank">http://efficientera.com/alerts</a>.
+<p class="Class2">Learn more about how Efficient Era’s tools help at <a href="https://efficientera.com/alerts" target="_blank">https://efficientera.com/alerts</a>.
 </p>
 
 
-<p class="Class2">Stay in the know when we publish posts like these. Subscribe to our blog!</p>
-</p>
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
+  <div class="row text-center" style="margin: 0%; padding: 0%">
+     <div class="text-center">
+      <a href="https://app.efficientera.com/signup/?" style="text-transform: uppercase;
+        background-color: darkorange; border-color: white; border-radius: 2px; color: white"
+        class="btn btn-info btn btn-primary btn-lg text-center" target="_blank" role="button">Start 30-Day Free Trial</a>
+         <br><h6 style="text-transform: uppercase;">No Credit Card Required</h6>
+     </div>
+ </div>
