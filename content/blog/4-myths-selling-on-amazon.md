@@ -3,7 +3,7 @@ Author: Annika L.
 Category: FBA
 Date: 2018-11-01 11:00
 Image: myths-selling.png
-Slug: 4-Myths-FBA-success-stories
+Slug: 4-Myths-selling-amazon
 status: published
 Tags: FBA
 Summary: Like with every community, Amazon sellers have a few urban legends floating around. The problem is that believing in some of these misconceptions can seriously hurt your business if you’re not careful.
