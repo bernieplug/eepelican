@@ -92,8 +92,8 @@ FAVICON = 'images/logo_e.png'
 BACK_TO_TOP = False
 
 # Plugins
-PLUGIN_PATHS = ["plugins", "plugins"]
-PLUGINS = ["thumbnailer", "tipue_search"]
+PLUGIN_PATHS = ["plugins"]
+PLUGINS = ["thumbnailer", "tipue_search", "i18n_subsites"]
 
 # Thumbnailer
 IMAGE_PATH = 'images'
@@ -101,3 +101,5 @@ THUMBNAIL_DIR = 'images/thumbnails/'
 THUMBNAIL_SIZES = {'small': '250x?',
                    'medium': '500x?',
                    'large': '800x?'}
+
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}

@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block title %} {{ page.title }} {% endblock %}
+
+{% block extra_scripts %}
+
+{% endblock %}
+
+{% block content %}
+	<hr role="none" />
+	<div class='row'>
+		<div class="col" role="none">
+			{% if page.translations %}
+				<div role="none" class="card card-body card-metadata my-3">
+					<span>{% trans %}translations{% endtrans %}:  </span>
+					{% for translation in page.translations|sort %}
+						<a href="{{ SITEURL }}/{{ translation.url }}"
+						aria-label="{% trans %}link to article in language{% endtrans %} {{ translation.lang }}"
+						title="{% trans %}read article in language{% endtrans %} {{ translation.lang }}">{{ translation.lang }}</a>
+					{% endfor %}
+				</div>
+			{% endif %}
+		</div>
+	</div>
+	<div class='row'>
+    	<div role="none" class="col">
+			<div class='my-4' role="region" title="{% trans %}page content{% endtrans %}">
+					{{ page.content }}
+			</div>
+		</div>
+	</div>
+{% endblock %}

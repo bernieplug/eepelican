@@ -1,0 +1,32 @@
+{% if FEED_ALL_ATOM %}
+    <a class="social" href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" aria-label="{% trans %}Atom feed, all articles{% endtrans %}"
+        title="{% trans %}Atom feed{% endtrans %}">
+    {% if item|length > 2 %} 
+      <i class="fas fa-atom"></i>
+    {% endif %}
+      <span class="sr-only">{% trans %}atom feed{% endtrans %}</span>
+    </a>
+{% endif %}
+{% if FEED_ALL_RSS %}
+    <a class="social" href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" aria-label="{% trans %}RSS feed, all articles{% endtrans %}"
+        title="{% trans %}RSS feed{% endtrans %}">
+    {% if item|length > 2 %} 
+      <i class="fas fa-rss-square"></i>
+    {% endif %}
+      <span class="sr-only">{% trans %}rss feed{% endtrans %}</span>
+    </a>
+{% endif %}
+{% if SOCIAL_FOOTER %}
+    {% if SOCIAL %}
+        {% for item in SOCIAL %}
+          {% if item|length > 2 %} 
+            <a class="social" href="{{ item[1] }}" aria-label="{{ item[0] }}"
+              title="{{ item[0] }}">
+              <i class="fab {{ item[2] }}"></i>
+              <span class="sr-only">{% trans caption=item[0] %}{{ caption }}{% endtrans %}</span>
+            </a>
+          {% endif %}
+        {% endfor %}
+    {% endif %}
+
+{% endif %}

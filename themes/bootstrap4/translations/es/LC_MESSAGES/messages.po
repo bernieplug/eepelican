@@ -1,0 +1,355 @@
+# Spanish translations for .
+# Copyright (C) 2018 ORGANIZATION
+# This file is distributed under the same license as the  project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version:  1.3.3\n"
+"Report-Msgid-Bugs-To: rolandjamesaskew37@gmail.com\n"
+"POT-Creation-Date: 2018-12-14 10:23+1300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Roland James Askew <rolandjamesaskew37@gmail.com>\n"
+"Language: es\n"
+"Language-Team: Roland James Askew <rolandjamesaskew37@gmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: templates/archives.html:2
+msgid "Archive"
+msgstr "Archivo"
+
+#: templates/archives.html:7
+msgid "list of archived articles"
+msgstr "listas del artículos en el archivos"
+
+#: templates/article.html:18
+msgid "Comments"
+msgstr "Comentarias"
+
+#: templates/article_metadata.html:5
+msgid "By"
+msgstr "Por"
+
+#: templates/article_metadata.html:6
+msgid "link to all articles by"
+msgstr "enlace a todo el artículos por"
+
+#: templates/article_metadata.html:7
+msgid "articles by"
+msgstr "artículos por"
+
+#: templates/article_metadata.html:12
+msgid "category"
+msgstr "categoría"
+
+#: templates/article_metadata.html:13
+msgid "link to articles in category"
+msgstr "enlaces al artículo en categoría"
+
+#: templates/article_metadata.html:14 templates/article_metadata.html:19
+msgid "articles for"
+msgstr "artículos por"
+
+#: templates/article_metadata.html:16
+msgid "tags"
+msgstr "etiquetas"
+
+#: templates/article_metadata.html:18
+msgid "link to articles tagged"
+msgstr "enlace al artículos con etiquetas"
+
+#: templates/article_metadata.html:21 templates/page.html:14
+msgid "translations"
+msgstr "traducción"
+
+#: templates/article_metadata.html:24 templates/page.html:17
+msgid "link to article in language"
+msgstr "Enlace al artículo en el languaje"
+
+#: templates/article_metadata.html:25 templates/page.html:18
+msgid "read article in language"
+msgstr "leer artículo el el idioma"
+
+#: templates/author.html:2
+msgid "Author"
+msgstr "Autor"
+
+#: templates/authors.html:2 templates/navigation_bar.html:107
+#: templates/navigation_bar.html:108 templates/sidebar.html:115
+msgid "Authors"
+msgstr "Autoras"
+
+#: templates/authors.html:7
+msgid "list of article authors"
+msgstr "lista de autoras de artículos"
+
+#: templates/authors.html:16
+#, python-format
+msgid "%(author)s, %(total)s article"
+msgid_plural "%(author)s, %(total)s articles"
+msgstr[0] "%(author)s, %(total)s artículo"
+msgstr[1] "%(author)s, %(total)s artículos"
+
+#: templates/base.html:103
+msgid ""
+"This page uses bootstrap which relies on Javascript. Until you enable "
+"Javascript, This site will not work properly."
+msgstr ""
+"Esta página utiliza bootstrap que se basa en JavaScript. Hasta que "
+"habilites JavaScript, este sitio no funcionará correctamente."
+
+#: templates/categories.html:2 templates/navigation_bar.html:93
+#: templates/navigation_bar.html:94 templates/sidebar.html:66
+msgid "Categories"
+msgstr "Categorias"
+
+#: templates/categories.html:6
+msgid "list of article categories"
+msgstr "lista de Categorias de Artículos"
+
+#: templates/categories.html:15
+#, python-format
+msgid "%(category)s, %(total)s article"
+msgid_plural "%(category)s, %(total)s articles"
+msgstr[0] "%(category)s, %(total)s artículo"
+msgstr[1] "%(category)s, %(total)s artículos"
+
+#: templates/category.html:2
+msgid "Category"
+msgstr "Categoría"
+
+#: templates/disqus.html:22
+msgid "Please enable JavaScript to view the"
+msgstr "Por favor habilite JavaScript para ver"
+
+#: templates/disqus.html:22
+msgid "comments powered by Disqus"
+msgstr "comentarios administratos por Disqus"
+
+#: templates/facebook.html:2
+msgid "facebook comments"
+msgstr "comentarios de facebook"
+
+#: templates/footer_bar.html:1
+msgid "copyright and supplementary info"
+msgstr "derechos de autor y información de blog"
+
+#: templates/footer_bar.html:4
+msgid "Powered by"
+msgstr "Administratos por"
+
+#: templates/footer_bar.html:4
+msgid "Pelican Static Site Generator"
+msgstr "Pelican, Creador del sitio web"
+
+#: templates/footer_bar.html:4
+msgid "Bootstrap CSS Library "
+msgstr "Biblioteca de Bootstrap CSS"
+
+#: templates/footer_bar.html:4
+msgid "Python Language"
+msgstr "Lenguaje de programación Python"
+
+#: templates/footer_bar.html:13
+msgid "copyright"
+msgstr "derechos de autor"
+
+#: templates/index.html:29
+msgid "article"
+msgstr "artículo"
+
+#: templates/index.html:31
+msgid "read more"
+msgstr "leer más"
+
+#: templates/index_pagination.html:2
+msgid "Page Navigation"
+msgstr "Navegación de Página"
+
+#: templates/index_pagination.html:8 templates/index_pagination.html:10
+#: templates/index_pagination.html:15 templates/index_pagination.html:17
+msgid "Previous"
+msgstr "Anterior"
+
+#: templates/index_pagination.html:24
+msgid "Page"
+msgstr "Página"
+
+#: templates/index_pagination.html:31 templates/index_pagination.html:33
+#: templates/index_pagination.html:38 templates/index_pagination.html:40
+msgid "Next"
+msgstr "Próxima"
+
+#: templates/navigation_bar.html:3
+msgid "Link to home page"
+msgstr "Enlaces de página hogar"
+
+#: templates/navigation_bar.html:4
+msgid "Home"
+msgstr "Página Hogar"
+
+#: templates/navigation_bar.html:6
+msgid "Website Brand"
+msgstr "Marca del sitio web"
+
+#: templates/navigation_bar.html:11
+msgid "Toggle navigation"
+msgstr "Alternar la Barra de Navegación"
+
+#: templates/navigation_bar.html:12
+msgid "Main Navigation Bar"
+msgstr "Barra de Navegación principal"
+
+#: templates/navigation_bar.html:18
+msgid "pages"
+msgstr "Páginas"
+
+#: templates/navigation_bar.html:28
+msgid "menu items"
+msgstr "Elementos del menú"
+
+#: templates/navigation_bar.html:37
+msgid "blogroll and site sections"
+msgstr "Enlaces de Blog y seccións de sitio"
+
+#: templates/navigation_bar.html:43 templates/navigation_bar.html:44
+#: templates/sidebar.html:15
+msgid "Blogroll"
+msgstr "Enlaces de Blogs"
+
+#: templates/navigation_bar.html:48
+#, python-format
+msgid "Link to %(name)s blog"
+msgstr "Enlace a blog de %(name)s"
+
+#: templates/navigation_bar.html:64 templates/navigation_bar.html:67
+#: templates/navigation_bar.html:83
+msgid "Link to"
+msgstr "Enlace a"
+
+#: templates/navigation_bar.html:78
+msgid "Social Links"
+msgstr "Enlaces de Redes Sociales"
+
+#: templates/navigation_bar.html:79 templates/sidebar.html:41
+msgid "Social"
+msgstr "Social"
+
+#: templates/navigation_bar.html:92
+msgid "Categories section"
+msgstr "Sección de Categorias"
+
+#: templates/navigation_bar.html:99
+msgid "Tags Section"
+msgstr "Sección de msgstr Etiquetas"
+
+#: templates/navigation_bar.html:100 templates/navigation_bar.html:101
+#: templates/sidebar.html:90 templates/tags.html:2
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: templates/navigation_bar.html:106
+msgid "Authors Section"
+msgstr "Sección de Autoras"
+
+#: templates/navigation_bar.html:112
+msgid "Archives Section"
+msgstr "Sección de Archivos"
+
+#: templates/navigation_bar.html:113 templates/navigation_bar.html:114
+msgid "Archives"
+msgstr "Archivos"
+
+#: templates/page.html:26
+msgid "page content"
+msgstr "contenido de la página"
+
+#: templates/sidebar.html:13
+msgid "Blogroll Sidebar"
+msgstr "Enlaces de Blogs"
+
+#: templates/sidebar.html:39
+msgid "Social Sidebar"
+msgstr "Enlaces de Reces Sociales"
+
+#: templates/sidebar.html:64
+msgid "Categories Sidebar"
+msgstr "Enlaces de Categorias"
+
+#: templates/sidebar.html:88
+msgid "Tags Sidebar"
+msgstr "Enlaces de Etiquetas"
+
+#: templates/sidebar.html:113
+msgid "Authors Sidebar"
+msgstr "Enlaces de Autoras"
+
+#: templates/social.html:2
+msgid "Atom feed, all articles"
+msgstr ""
+
+#: templates/social.html:3
+msgid "Atom feed"
+msgstr ""
+
+#: templates/social.html:7
+msgid "atom feed"
+msgstr ""
+
+#: templates/social.html:11
+msgid "RSS feed, all articles"
+msgstr ""
+
+#: templates/social.html:12
+msgid "RSS feed"
+msgstr ""
+
+#: templates/social.html:16
+msgid "rss feed"
+msgstr ""
+
+#: templates/social.html:26
+#, python-format
+msgid "%(caption)s"
+msgstr ""
+
+#: templates/tag.html:2
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: templates/tags.html:6
+msgid "list of article tags"
+msgstr "lista de etiquetas de artículos"
+
+#: templates/tags.html:15
+#, python-format
+msgid "%(tag)s, %(total)s article"
+msgid_plural "%(tag)s, %(total)s articles"
+msgstr[0] "%(tag)s, %(total)s artículo"
+msgstr[1] "%(tag)s, %(total)s artículos"
+
+#~ msgid "%(name)s"
+#~ msgstr ""
+
+#~ msgid "%(category)s"
+#~ msgstr ""
+
+#~ msgid "%(tag)s"
+#~ msgstr ""
+
+#~ msgid "%(author)s"
+#~ msgstr ""
+
+#~ msgid "Pelican"
+#~ msgstr "Pelican"
+
+#~ msgid "Bootstrap"
+#~ msgstr "Bootstrap"
+
+#~ msgid "Python"
+#~ msgstr "Python"
+

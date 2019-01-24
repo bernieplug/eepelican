@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}{% trans %}Tags{% endtrans %}{% endblock %}
+{% block content %}
+<hr role="none"/>
+
+<ul class="clear-list" aria-label="{% trans %}list of article tags{% endtrans %}">
+    {% for tag, articles in tags|sort %}
+    {% if article == articles|last %}
+	<li role="none" class="py-4">
+    {% else %}
+    <li role="none" class="pt-4">
+    {% endif %}
+        <div  role="none" class="card card-body card-metadata">
+            <a href="{{ SITEURL }}/{{ tag.url }}"
+               title="{% trans total=articles|count %}{{ tag }}, {{ total }} article{% pluralize %}{{ tag }}, {{ total }} articles{% endtrans %}">{{ tag }}</a>
+            <span class="article-count">{{ articles|count }}</span>
+        </div>
+	</li>
+{% endfor %}
+</ul>
+{% endblock %}
