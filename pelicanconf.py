@@ -67,6 +67,7 @@ TEMPLATE_PAGES = {
     'templates/flywheels.html': 'flywheels.html',
     'templates/index.html': 'index.html',
     'templates/atlassian-domain-verification.html': 'atlassian-domain-verification.html',
+    'templates/new-index.html': 'new-index.html',
 }
 SITEMAP_SAVE_AS = 'sitemap.xml'
 

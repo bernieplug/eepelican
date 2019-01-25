@@ -1,0 +1,97 @@
+{% extends "bare_base.html" %}
+
+{% block navbar %}
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav ml-auto ">
+        <li class="nav-item">
+            <a class="nav-link" href="#features">Features</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="#pricing">Pricing</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="https://app.efficientera.com/">Login</a>
+        </li>
+    </ul>
+    <form class="form-inline my-2 my-lg-0">
+        <button class="btn btn-outline-success my-2 my-sm-0 app-btn" href="https://app.efficientera.com/signup/">Sign Up</button>
+    </form>
+</div>
+{% endblock %}
+
+{% block content %}
+    <div id="hero"></div>
+    <div class="row light-row hero jump-target" id="hero">
+        <div class="col-lg-5 align-self-center py-md-2 py-sm-2">
+            <div class="row">
+                <div class="col">
+                    <h1>Success on Amazon</h1>
+                    <h2>The leading All-in-One software dedicated to helping you succeed on Amazon. Increase organic
+                        traffic, automate PPC campaigns, track profits, and much more.</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <div class="d-flex justify-content-center">
+                        <button class="btn btn-success btn-lg" href="https://app.efficientera.com/signup/">Get Started</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-7 py-md-2 py-sm-2">
+            <div>
+                <img class="img-fluid rounded mx-auto" src="/images/pages/index/ad_tool_dashboard.jpg" alt="Advertising Dashboard">
+            </div>
+        </div>
+    </div>
+    <div id="features"></div>
+    <div class="row dark-row">
+        <div class="col-12">
+            <h1 class="text-center">A Comprehensive Suite of Tools for Amazon Sellers</h1>
+            <h2 class="text-center">We automate the tedious stuff, analyze a wealth of data, and package it all up into
+                intuitive reporting and tools, backed by exceptional support, that you can use: </h2>
+        </div>
+    </div>
+    <div class="row dark-row">
+        <div class="col-4">
+            <div class="card">
+                <div class="card-header">
+                    Ads
+                </div>
+                <div class="card-body">
+                    Easily update your campaigns, bids, keywords – even negative flagging – and more with a few mouse
+                    clicks. Our optimizer helps eliminate wasted spend and increase sales.
+                </div>
+            </div>
+        </div>
+        <div class="col-4">
+            <div class="card">
+                <div class="card-header">
+                    Alerts
+                </div>
+                <div class="card-body">
+                    Intelligent Amazon Product Alerts - Instant Notifications of Buybox Hijackers, Product Suppressions,
+                    Bad Reviews, Price Changes, Scammers, and MUCH More, to finally rest easy at night!
+                </div>
+            </div>
+        </div>
+        <div class="col-4">
+            <div class="card">
+                <div class="card-header">
+                    Automation
+                </div>
+                <div class="card-body">
+                    Build and nurture relationships with your customers, automatically.
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="pricing"></div>
+    <div class="row light-row">
+        <div class="col-6">
+        </div>
+        <div class="col-6">
+            <img class="rounded img-fluid" src="/images/pages/index/ad_tool_dashboard.jpg" alt="Advertising Dashboard">
+        </div>
+    </div>
+{% endblock %}
