@@ -1,106 +1,42 @@
 <footer>
     <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
-{#        <br>#}
-        <!--<div class="row">
-            <div class="col-xs-12 text-center">
-                <span style="font-size: large">
-                <a href="https://app.efficientera.com/signup/" type="button" class="btn btn-info btn-wrap" style="color: white">
-                   <span style="font-size: medium">SIGN UP NOW</span>
-                </a>
-                </span>
-            </div>
-        </div> -->
-{#        <hr>#}
         <div class="row" style="margin-bottom: 20px;">
             {% if articles %}
-            {% set copy_date = articles[0].date.strftime('%Y') %}
+                {% set copy_date = articles[0].date.strftime('%Y') %}
             {% else %}
-            {% set copy_date = '' %}
+                {% set copy_date = '' %}
             {% endif %}
 
-        <!--Footer start-->
-        <div class="row" style="padding: 0% ; background-color: #222">
-                <h3 style="color: #fff; padding:0%; font-family:Roboto;; " class="text-center"></h3>
-        <div class="col-lg-8 col-lg-offset-2">
-               <div class="col-lg-4 text-left">
-                   <p style="color: lightgrey"><strong>Popular Posts</strong></p>
-                   <hr style="height: 1px; border-color: #333333; padding: 0%;">
-                   <a href="https://efficientera.com/blog/2017/02/top-10-events-for-amazon-sellers.html" target="_blank"><p style="color: grey; line-height: 120%; padding: 0%; margin: 0%">Top 10 Conferences for Amazon Sellers</p></a>
-                   <hr style="border-radius: 1ch; border-color: #333333; padding: 0%">
-                   <a href="https://efficientera.com/blog/2017/11/finally-a-way-to-track-your-amazon-promotions.html" target="_blank"><p style="color: grey; line-height: 120%; padding: 0%; margin: 0%">Finally! A Way to Track Your Amazon Promotions</p></a>
-                   <hr style="border-radius: 1ch; border-color: #333333; padding: 0%">
-                   <a href="https://efficientera.com/blog/2016/08/how-to-stay-compliant-when-soliciting-reviews.html" target="_blank"><p style="color: grey; line-height: 120%; padding: 0%; margin: 0%">How to Stay Compliant When Soliciting Reviews</p></a>
-                   <hr style="border-radius: 1ch; border-color: #333333; padding: 0%">
-                   <a href="https://efficientera.com/blog/2017/09/why-high-acos-isnt-always-bad.html" target="_blank"><p style="color: grey; line-height: 120%; padding: 0%; margin: 0%">Why High ACoS Isn't Always Bad</p></a>
-                   <br><br><br>
-               </div>
-               <div class="col-lg-4 text-left">
-                   <p style="color: lightgrey"><strong>Resources</strong></p>
-                   <hr style="height: 1px; border-color: #333333; padding: 0%;">
-                   <a href="https://www.youtube.com/watch?v=xoCXN6d8Ty8&list=PLUYdN3DukWcJquEkYiFuewVyPUfSlCXUR" target="_blank"><p style="color: grey; line-height: 150%; padding: 0%; margin: 0%">Webinars</p></a>
-                   <a href="https://www.youtube.com/watch?v=smhpVxWR7Lk&list=PLUYdN3DukWcJHkwkFEjJY5-cVhXYWBsS6" target="_blank"><p style="color: grey; line-height: 150%; padding: 0%; margin: 0%">Ask Bernie Q&A Series</p></a>
-                   <a href="https://mailchi.mp/57bcb1fadca1/813a50jz2c" target="_blank"><p style="color: grey; line-height: 150%; padding: 0%; margin: 0%">eBook: Amazon Sponsored Products</p></a>
-                   <a href="https://efficientera.com/flywheels.html" target="_blank"><p style="color: grey; line-height: 150%; padding: 0%; margin: 0%">Book: Flywheels and Feedback Loops</p></a>
-                  <a href="https://efficientera.com/pricing/" target="_blank"><p style="color: grey; line-height: 150%; padding: 0%; margin: 0%">Pricing</p></a>
-                   <a href="https://efficientera.com/pages/affiliate" target="_blank"><p style="color: grey; line-height: 150%; padding: 0%; margin: 0%">Affiliate Program</p></a>
-                   <a href="https://efficientera.com/careers/" target="_blank"><p style="color: grey; line-height: 150%; padding: 0%; margin: 0%">Careers</p></a>
-                   <br><br><br>
-               </div>
-
-               <div class="col-lg-4 text-left">
-                   <p style="color: lightgrey"><strong>Connect</strong></p>
-                   <hr style="height: 1px; border-color: #333333; padding: 0%;">
-                   <a href="https://www.facebook.com/efficientera" target="_blank"><p style="color: grey; line-height: 130%; padding: 0%; margin: 0%">Facebook page</p></a>
-                   <a href="https://web.facebook.com/groups/toolsforamazonsellersuccess/" target="_blank"><p style="color: grey; line-height: 130%; padding: 0%; margin: 0%">Facebook group</p></a>
-                   <a href="https://twitter.com/EfficientEra" target="_blank"><p style="color: grey; line-height: 130%; padding: 0%; margin: 0%">Twitter</p></a>
-                   <a href="https://www.youtube.com/efficientera" target="_blank"><p style="color: grey; line-height: 130%; padding: 0%; margin: 0%">YouTube</p></a>
-                   <a href="https://www.linkedin.com/company/efficientera" target="_blank"><p style="color: grey; line-height: 130%; padding: 0%; margin: 0%">LinkedIn</p></a>
-                   <p style="color: grey; line-height: 130%; padding: 0%; margin: 0%">support@efficientera.com</p>
-
-
-               </div>
-            </div>
-        </div>
-        </div>
-        <!--Footer end-->
-
-
-
             <div class="col-xs-12 col-sm-6">&copy; {{ copy_date }} {{ AUTHOR }}
-            <a href="https://efficientera.com/privacy">&middot; Privacy Policy</a>
-            <a href="https://efficientera.com/careers">&middot; Careers</a>
-            <a href="https://efficientera.com/pages/affiliate">&middot; Affiliate Program</a>
-                &middot; Powered by <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>
-                {%- if CC_LICENSE or CC_LICENSE_DERIVATIVES or CC_LICENSE_COMMERCIAL %}
-                {% from 'includes/cc-license.html' import cc_license_mark %}
-                <p><small>{{ cc_license_mark(cc_name=CC_LICENSE,derivatives=CC_LICENSE_DERIVATIVES,commercial=CC_LICENSE_COMMERCIAL,attr_markup=CC_ATTR_MARKUP,attr_props={'title':SITENAME,'name':article.author if article else AUTHOR,'url':SITEURL}) }}</small></p>
-                {% elif CUSTOM_LICENSE %}
-                <p><small>{{ CUSTOM_LICENSE }}</small></p>
-                {% endif %}
-
+                <span>
+                    &middot;<a href="https://efficientera.com/privacy" target="_blank"> Privacy Policy </a>
+                    &middot;<a href="https://efficientera.com/careers" target="_blank"> Careers </a>
+                    &middot;<a href="https://efficientera.com/pages/affiliate" target="_blank"> Affiliate Program </a>
+                    &middot;<a href="https://efficientera.com/blog" target="_blank"> Blog </a>
+                </span>
             </div>
             <div class="col-xs-12 col-sm-6 text-right">
-                <a class="btn btn-sm btn-social-icon btn-facebook" target="_blank" href="https://www.facebook.com/efficientera">
+                <a class="btn btn-sm btn-social-icon btn-facebook" target="_blank"
+                   href="https://www.facebook.com/efficientera">
                     <span class="fa fa-facebook"></span>
                 </a>
-                <a class="btn btn-sm btn-social-icon btn-twitter" target="_blank" href="https://twitter.com/EfficientEra">
+                <a class="btn btn-sm btn-social-icon btn-twitter" target="_blank"
+                   href="https://twitter.com/EfficientEra">
                     <span class="fa fa-twitter"></span>
                 </a>
-                <a class="btn btn-sm btn-social-icon btn-linkedin" target="_blank" href="https://www.linkedin.com/company/3609977">
+                <a class="btn btn-sm btn-social-icon btn-linkedin" target="_blank"
+                   href="https://www.linkedin.com/company/3609977">
                     <span class="fa fa-linkedin"></span>
                 </a>
-                <a class="btn btn-sm btn-social-icon btn-youtube" target="_blank" href="https://www.youtube.com/efficientera">
+                <a class="btn btn-sm btn-social-icon btn-youtube" target="_blank"
+                   href="https://www.youtube.com/efficientera">
                     <span class="fa fa-youtube-play"></span>
                 </a>
-                <a class="btn btn-sm btn-social-icon btn-rss" target="_blank" href="https://efficientera.com/feeds/all.atom.xml">
+                <a class="btn btn-sm btn-social-icon btn-rss" target="_blank"
+                   href="https://efficientera.com/feeds/all.atom.xml">
                     <span class="fa fa-rss"></span>
                 </a>
             </div>
         </div>
-        <!--<p class="pull-right">-->
-            <!--<i class="fa fa-arrow-up"></i> <a href="#">Back to top</a>-->
-            <!--<a href="#" class="back-to-top">Back to Top</a>-->
-        <!--</p>-->
-
     </div>
 </footer>

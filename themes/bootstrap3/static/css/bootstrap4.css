@@ -1,0 +1,50 @@
+div.content {
+    padding-top: 3.1em;
+}
+
+nav.navbar {
+    padding-top: .2em;
+    background-color: #222;
+}
+
+div.footer {
+    background-color: #222;
+}
+
+button.app-btn {
+    padding-top: .1em;
+    padding-bottom: .2em;
+}
+
+div.light-row {
+    background-color: whitesmoke;
+    padding: 2em;
+}
+
+div.dark-row {
+    background-color: darkgrey;
+    padding: 2em;
+}
+
+div.hero {
+    padding: 5em 2em 5em 2em;
+}
+
+
+*[id]:before {
+  display: block;
+  content: " ";
+  margin-top: -75px;
+  height: 75px;
+  visibility: hidden;
+}
+
+
+html {
+  scroll-behavior: smooth;
+    background-color: #222;
+}
+
+nav#footer {
+    font-size: .8em;
+}
