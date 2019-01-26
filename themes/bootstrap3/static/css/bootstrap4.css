@@ -7,26 +7,60 @@ nav.navbar {
     background-color: #222;
 }
 
+.nav-item .out-nav-link {
+    display: block;
+    padding: .5rem .5rem;
+    color: rgba(255,255,255,.5);
+}
+
+.nav-item .out-nav-link:hover {
+    color: rgba(255,255,255,.75);
+    text-decoration: none;
+}
+
 div.footer {
     background-color: #222;
 }
 
-button.app-btn {
+button.btn-sign-up {
     padding-top: .1em;
     padding-bottom: .2em;
 }
 
+button.btn-ee {
+    background-color: #f9741e;
+    color: white;
+    font-weight: bold;
+}
+
 div.light-row {
-    background-color: whitesmoke;
+    background-color: lightgrey;
     padding: 2em;
 }
 
+@keyframes animated-row {
+  0% {background-position: 0 0;}
+  100% {background-position: 100% 0;}
+}
+
+div.animated-row {
+    background: #1e898f url(https://efficientera.com/images/pages/index/background.png) repeat 0 0;
+    -webkit-animation: 60s linear 0s reverse none infinite animated-row;
+    -moz-animation: 60s linear 0s reverse none infinite animated-row;
+    -o-animation: 60s linear 0s reverse none infinite animated-row;
+    animation: 60s linear 0s reverse none infinite animated-row;
+}
+
 div.dark-row {
-    background-color: darkgrey;
+    background-color: #1e898f;
     padding: 2em;
 }
 
 div.hero {
+    padding: 5em 2em 5em 2em;
+}
+
+div.pricing {
     padding: 5em 2em 5em 2em;
 }
 
@@ -47,4 +81,62 @@ html {
 
 nav#footer {
     font-size: .8em;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.feature-card {
+}
+
+.feature-card .card-header {
+    font-size: 1.8em;
+}
+
+.feature-card .card-body {
+    font-size: 1.1em;
+}
+
+.card-body .fa {
+    color: #f9741e;
+    font-size: 2.5em;
+}
+
+.counter {
+    background-color:#f5f5f5;
+    padding: 20px 0;
+    border-radius: 5px;
+}
+
+.count-title {
+    font-size: 40px;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.count-text {
+    font-size: 13px;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.hover-scale:hover{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.testimonial-text {
+    font-size: 1.15rem;
+    font-style: italic;
 }
