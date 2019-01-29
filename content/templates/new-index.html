@@ -13,6 +13,9 @@
             <a class="nav-link" href="#pricing">Pricing</a>
         </li>
         <li class="nav-item">
+            <a class="out-nav-link" href="https://efficientera.com/blog/">Blog</a>
+        </li>
+        <li class="nav-item">
             <a class="out-nav-link" href="https://app.efficientera.com">Login</a>
         </li>
     </ul>
@@ -51,7 +54,7 @@
     <div class="row light-row">
         <div class="col-lg-auto offset-xl-1 col-xl-10">
             <div class="row">
-                <div class="col hover-scale">
+                <div class="col">
                     <h2 class="text-center">A Comprehensive Suite of Tools for Amazon Sellers</h2>
                     <h4 class="text-center">We automate the tedious stuff, analyze a wealth of data, and package it all up into
                         intuitive reporting and tools, backed by exceptional support, that you can use: </h4>
@@ -136,16 +139,61 @@
     </div>
     <div id="pricing"></div>
     <div class="row animated-row pricing">
-        <div class="offset-1 col-10">
+        <div class="col-lg offset-xl-1 col-xl-10 align-self-center py-xs-2 py-sm-2 py-md-2">
             <div class="row">
                 <div class="col">
                     <h1 class="text-center">Some Header Text About Pricing</h1>
                 </div>
             </div>
-            <div class="row pt-5">
-                <div class="col">
-                    <div class="d-flex justify-content-center">
-                        <img class="img-fluid" src="/images/pages/index/pricing.png" alt="Pricing">
+            <div class="row justify-content-center pt-5">
+                <div class="col order-1 py-xs-2 py-sm-2 py-md-2">
+                    <div class="card card-pricing hover-scale">
+                        <div class="card-header">Basic</div>
+                        <div class="card-body">
+                            <p class="price">$50</p>
+                            <p class="details">0-19</p>
+                            <p class="details">ASINS</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col order-2 py-xs-2 py-sm-2 py-md-2">
+                    <div class="card card-pricing hover-scale">
+                        <div class="card-header">Standard</div>
+                        <div class="card-body">
+                            <p class="price">$100</p>
+                            <p class="details">20-49</p>
+                            <p class="details">ASINS</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col order-3 py-xs-2 py-sm-2 py-md-2">
+                    <div class="card card-pricing hover-scale">
+                        <div class="card-header">Plus</div>
+                        <div class="card-body">
+                            <p class="price">$200</p>
+                            <p class="details">50-199</p>
+                            <p class="details">ASINS</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col order-4 py-xs-2 py-sm-2 py-md-2">
+                    <div class="card card-pricing hover-scale">
+                        <div class="card-header">Premium</div>
+                        <div class="card-body">
+                            <p class="price">$400</p>
+                            <p class="details">200-1000</p>
+                            <p class="details">ASINS</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col order-5 py-xs-2 py-sm-2 py-md-2">
+                    <div class="card card-pricing hover-scale">
+                        <div class="card-header">Enterprise</div>
+                        <div class="card-body">
+                            <p class="price" style="font-size:1.2em;">Contact Us</p>
+                            <p class="details" style="font-size:.7em;">1,000+ ASINS or</p>
+                            <p class="details" style="font-size:.7em;">15,000+ Orders/mo</p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -159,19 +207,19 @@
     <div id="testimonials"></div>
     <div class="row light-row">
         <div class="offset-1 col-10">
-            <div class="hover-scale text-center">
-                <h1 class="hover-scale">So affordable, it's a no brainer</h1>
+            <div class="text-center">
+                <h1>So affordable, it's a no brainer</h1>
             </div>
         </div>
     </div>
     <div class="row light-row">
         <div class="offset-lg-3 col-lg-6">
-            <div id="testimonials-slider" class="carousel slide" data-ride="carousel">
+            <div id="testimonials-slider" class="carousel slide" data-ride="carousel" data-interval="4000">
                 <div class="carousel-inner">
-                    <ol class="carousel-indicators">
+                    <!--<ol class="carousel-indicators">
                         <li data-target="#testamonial-slider" data-slide-to="0" class="active"></li>
                         <li data-target="#testamonial-slider" data-slide-to="1" class="active"></li>
-                    </ol>
+                    </ol>-->
                     <div class="carousel-item active">
                         <div class="row pb-5">
                             <div class="col-3">
@@ -180,7 +228,7 @@
                                 </div>
                             </div>
                             <div class="col-9">
-                                <p class="testimonial-text hover-scale">"Efficient Era saves me time and money by monitoring my product listings so I can focus my efforts on growing my business.  This all-in-one suite is so inexpensive that it's a no-brainer to sign up."</p>
+                                <p class="testimonial-text">"Efficient Era saves me time and money by monitoring my product listings so I can focus my efforts on growing my business.  This all-in-one suite is so inexpensive that it's a no-brainer to sign up."</p>
                                 <p>Steve Chou, <a href="https://mywifequitherjob.com/" target="_blank">My Wife Quit Her Job</a></p>
                             </div>
                         </div>
@@ -198,6 +246,14 @@
                             </div>
                         </div>
                     </div>
+                    <!--<a class="carousel-control-prev" href="#testimonials-slider" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#testimonials-slider" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>-->
                 </div>
             </div>
         </div>

@@ -129,6 +129,12 @@ nav#footer {
     text-align: center;
 }
 
+.hover-scale{
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -ms-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
 .hover-scale:hover{
     -webkit-transform: scale(1.1);
     -ms-transform: scale(1.1);
@@ -139,4 +145,36 @@ nav#footer {
 .testimonial-text {
     font-size: 1.15rem;
     font-style: italic;
+}
+
+.card-pricing {
+    border: none;
+    height: 19em;
+    width: 15em;
+}
+
+.card-pricing>.card-header{
+    color: whitesmoke;
+    background-color: #1F56A8;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+}
+
+.card-pricing>.card-body{
+    text-align: center;
+    background-color: #1F56A866;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.card-pricing>.card-body>.price{
+    font-size: 2em;
+    color: #545454;
+}
+
+.card-pricing>.card-body>.details{
+    color: black;
+    font-size: .8em;
+    margin: 0;
 }
