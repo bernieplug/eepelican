@@ -34,7 +34,7 @@ button.btn-ee {
 }
 
 div.light-row {
-    background-color: lightgrey;
+    background-color: white;
     padding: 2em;
 }
 
@@ -56,12 +56,8 @@ div.dark-row {
     padding: 2em;
 }
 
-div.hero {
-    padding: 5em 2em 5em 2em;
-}
-
-div.pricing {
-    padding: 5em 2em 5em 2em;
+div.section {
+    padding: 5em 0 5em 0;
 }
 
 
@@ -75,8 +71,12 @@ div.pricing {
 
 
 html {
-  scroll-behavior: smooth;
+    scroll-behavior: smooth;
     background-color: #222;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
 }
 
 nav#footer {
@@ -91,15 +91,14 @@ nav#footer {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.feature-card {
-}
-
-.feature-card .card-header {
-    font-size: 1.8em;
-}
 
 .feature-card .card-body {
     font-size: 1.1em;
+}
+
+.feature-card .card-body > .card-title {
+    font-size: 1.8em;
+    text-align: center;
 }
 
 .card-body .fa {
@@ -151,30 +150,28 @@ nav#footer {
     border: none;
     height: 19em;
     width: 15em;
+    background-color: white;
 }
 
-.card-pricing>.card-header{
-    color: whitesmoke;
-    background-color: #1F56A8;
-    font-weight: bold;
-    font-size: 2em;
+.card-pricing>.card-body>.price-title{
+    color: black;
+    font-size: 1.1em;
     text-align: center;
 }
 
 .card-pricing>.card-body{
     text-align: center;
-    background-color: #1F56A866;
+    background-color: white;
     font-size: 2em;
-    font-weight: bold;
 }
 
-.card-pricing>.card-body>.price{
+.card-pricing>.card-body>.price-detail>.price{
     font-size: 2em;
-    color: #545454;
+    color: #f9741e;
 }
 
-.card-pricing>.card-body>.details{
+.card-pricing>.card-body>.price-detail>.details{
     color: black;
-    font-size: .8em;
+    font-size: .5em;
     margin: 0;
 }
