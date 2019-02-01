@@ -30,7 +30,6 @@ button.btn-sign-up {
 button.btn-ee {
     background-color: #f9741e;
     color: white;
-    font-weight: bold;
 }
 
 div.light-row {
@@ -44,11 +43,12 @@ div.light-row {
 }
 
 div.animated-row {
-    background: #1e898f url(https://efficientera.com/images/pages/index/background.png) repeat 0 0;
+    background: #3f696c url(https://efficientera.com/images/pages/index/background.png) repeat 0 0;
     -webkit-animation: 60s linear 0s reverse none infinite animated-row;
     -moz-animation: 60s linear 0s reverse none infinite animated-row;
     -o-animation: 60s linear 0s reverse none infinite animated-row;
     animation: 60s linear 0s reverse none infinite animated-row;
+    background-blend-mode: screen;
 }
 
 div.dark-row {

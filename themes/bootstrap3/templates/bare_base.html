@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock %}">
 <head>
+    {% block head %}
     <title>{{ SITENAME }}</title>
+    {% endblock %}
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
