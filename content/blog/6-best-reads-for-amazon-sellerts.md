@@ -4,10 +4,7 @@ Category: Efficient Era
 Date: 2019-02-14 13:00
 Image: 6BestReads.png
 Tags: Efficient Era
-Summary: Reading is the source of knowledge, or at least that’s what some people say. As an Amazon private label
-seller, there are plenty of educational resources you have at your disposal: podcasts, videos,
-guidebooks, etc. But with all these resources at hand, you may need help sorting through them all. Here
-are some top reads for Amazon sellers, books that can help you grow your private label and more!
+Summary: Reading is the source of knowledge, or at least that’s what some people say. Here are some top reads for Amazon sellers, books that can help you grow your private label and more!
 Status: published
 
 Reading is the source of knowledge, or at least that’s what some people say. As an Amazon private label
