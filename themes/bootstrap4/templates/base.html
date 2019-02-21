@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>{% block windowtitle %}{{ SITENAME }}{% endblock %}</title>
+	<meta name="description" content="{{ SITE_DESCRIPTION }}">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		
+	{% if article %}
+            <meta name="title" content="{{ article.title }}" />
+            {% if article.tags %}
+            <meta name="tags" content="{{ article.tags|first }}{% for tag in article.tags[1:] %}, {{ tag }}{% endfor %}" />
+            {% endif %}
+            <meta name="category" content="{{ article.category }}" />
+            <meta name="date" content="{{ article.date }}" />
+            {% if article.authors %}
+            <meta name="authors" content="{{ article.authors|first }}{% for author in article.authors[1:] %}, {{ author }}{% endfor %}" />
+            {% endif %}
+            <meta name="lang" content="{{ article.lang }}" />
+            <meta name="summary" content="{{ article.summary }}" />
+        {% endif %}
+
+	{% if page %}
+            <meta name="title" content="{{ page.title }}" />
+            {% if page.tags %}
+            <meta name="tags" content="{% for tag in page.tags %} {{ tag }}, {% endfor %}" />
+            {% endif %}
+            <meta name="lang" content="{{ page.lang }}" />
+        {% endif %}
+
+	<!-- Styles -->
+	<link rel="stylesheet" href="/theme/bootstrap.min.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+	<link rel="stylesheet" href="/theme/local.min.css">
+	<link rel="stylesheet" href="/theme/colors.css">
+
+	{% if CUSTOM_CSS_URL %}
+	<link href="{{ CUSTOM_CSS_URL }}" rel="stylesheet">
+    {% endif %}
+
+	<!-- Feeds -->
+	{% if FEED_ALL_ATOM %}
+	<link href="{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
+	{% endif %}
+
+	{% if FEED_ATOM %}
+        <link href="{{ FEED_ATOM }}" rel="alternate" title="{{ SITENAME }}" type="application/atom+xml">
+	{% endif %}
+
+	{% if CATEGORY_FEED_ATOM %}
+        <link href="{{ CATEGORY_FEED_ATOM }}" rel="alternate" title="{{ SITENAME }}" type="application/atom+xml">
+	{% endif %}
+
+	{% if TAG_FEED_ATOM %}
+        <link href="{{ TAG_FEED_ATOM }}" rel="alternate" title="{{ SITENAME }}" type="application/atom+xml">
+	{% endif %}
+
+	{% if TRANSLATION_FEED_ATOM %}
+        <link href="{{ TRANSLATION_FEED_ATOM }}" rel="alternate" title="{{ SITENAME }}" type="application/atom+xml">
+	{% endif %}
+
+	{% if FEED_ALL_RSS %}
+	<link href="{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+	{% endif %}
+
+	{% if FEED_RSS %}
+        <link href="{{ FEED_RSS }}" rel="alternate" title="{{ SITENAME }}" type="application/rss+xml">
+	{% endif %}
+
+	{% if CATEGORY_FEED_RSS %}
+        <link href="{{ CATEGORY_FEED_RSS }}" rel="alternate" title="{{ SITENAME }}" type="application/atom+xml">
+	{% endif %}
+
+	{% if TAG_FEED_RSS %}
+        <link href="{{ TAG_FEED_RSS }}" rel="alternate" title="{{ SITENAME }}" type="application/atom+xml">
+	{% endif %}
+
+	{% if TRANSLATION_FEED_RSS %}
+        <link href="{{ TRANSLATION_FEED_RSS }}" rel="alternate" title="{{ SITENAME }}" type="application/atom+xml">
+	{% endif %}
+
+	<script src="/theme/jquery-3.3.1.min.js"></script>
+    <script src="/theme/bootstrap.bundle.min.js"></script>
+	<script src="/theme/html5shiv-printshiv.min.js"></script>
+	{% if CUSTOM_JS_URL %}
+	<script href="{{ CUSTOM_JS_URL }}"></script>
+
+	<script>
+      window.$ = window.jQuery = require('jquery');
+      window.Bootstrap = require('bootstrap');
+    </script>
+    {% endif %}
+
+    </head>
+<body>
+    <div id="back-cover">
+
+	{% include "navigation_bar.html" %}
+
+    <noscript>
+        <main role="main">
+            <p tabindex="0" class="lead">
+                <em>{% trans %}This page uses bootstrap which relies on Javascript. Until you enable Javascript, This site will not work properly.{% endtrans %}</em>
+            </p>
+        </main>
+    </noscript>
+
+    <main role="main">
+        <div class="container-fluid">
+            <div class="row">
+
+				{% include "sidebar.html" %}
+
+				{% if BLOGROLL_SIDEBAR or AUTHORS_SIDEBAR or CATEGORIES_SIDEBAR or
+					TAGS_SIDEBAR or SOCIAL_SIDEBAR %}
+				<div role="none" class="col-sm-12 col-md-9">
+				{% else %}
+				<div role="none" class="col-sm-12 col-md-12">
+				{% endif %}
+					<div id="index_content" class="container my-4" role="document" tabindex="0"
+						 style="margin-bottom: 60px;">
+						{% block indextitle %}<h1 class="my-5" tabindex="0">{% block
+						title %} {{ self.windowtitle() }} {% endblock %}</h1>{% endblock %}
+						{% block content %}{% endblock %}
+					</div>
+				</div>
+
+			</div>
+			<div class="row">
+    			<div role="none" class="col-md-12 col-lg-12">
+    			    {% include "footer_bar.html" %}
+                </div>
+			</div>
+        </div>
+    </main>
+
+	<div class="container-fluid">
+    {% include "analytics.html" %}
+    </div>
+
+	</div>
+
+</body>
+</html>

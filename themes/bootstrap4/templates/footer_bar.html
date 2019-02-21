@@ -1,0 +1,15 @@
+<nav aria-label="{% trans %}copyright and supplementary info{% endtrans %}" class="navbar navbar-expand-sm bottom-bar" role="contentinfo">
+    <div class="container-fluid">
+
+        <small tabindex="0" class="navbar-text mr-auto">{% trans %}Powered by{% endtrans %}: <a href="http://getpelican.com/" aria-label="{% trans %}Pelican Static Site Generator{% endtrans %}">Pelican</a><a href="http://getbootstrap.com/" aria-label="{% trans %}Bootstrap CSS Library {% endtrans %}">Bootstrap</a><a href="http://python.com/" aria-label="{% trans %}Python Language{% endtrans %}">Python</a>
+        </small>
+
+        {% if EMAIL %}
+        <small tabindex="0" class="navbar-text mr-auto">
+            {{ EMAIL }}
+        </small>
+        {% endif %}
+        {% include "social.html" %}
+        <small aria-label="{% trans %}copyright{% endtrans %}" tabindex="0" class="navbar-text" style="margin-left:8px;">&copy; {{ AUTHOR }}</small>
+    </div>
+</nav>

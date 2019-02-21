@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock %}">
+<head>
+    {% block head %}
+    <title>{{ SITENAME }}</title>
+    {% endblock %}
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+          content="Powerful Alerts, Analytics, Automation software for Amazon Sellers.">
+    <!--To be indexed and searchable in Bing -->
+    <meta name="msvalidate.01" content="CA3016EE7AFC48DB412E21362936B7D8"/>
+
+    {# Favicons are a touchy subject. For reasoning for the following code, see: http://stackoverflow.com/a/23851464/872397 #}
+    {% if FAVICON %}
+        <link href="{{ SITEURL }}/{{ FAVICON }}" rel="icon">
+    {% endif %}
+    {% if FAVICON_IE %}
+        <!--[if IE]><link rel="shortcut icon" href="{{ SITEURL }}/{{ FAVICON_IE }}"><![endif]-->
+    {% endif %}
+    {% if TOUCHICON %}
+        <link rel="apple-touch-icon" href="{{ SITEURL }}/{{ TOUCHICON }}">
+    {% endif %}
+
+    {% block meta %}
+        <meta name="author" content="{{ AUTHOR }}"/>
+    {% endblock %}
+
+    {# Twitter Cards tags #}
+    {% include 'includes/twitter_cards.html' %}
+
+    <!-- Google Code for Remarketing Tag -->
+    <!--------------------------------------------------
+    Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+    --------------------------------------------------->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 844660134;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt=""
+                 src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/844660134/?guid=ON&amp;script=0"/>
+        </div>
+    </noscript>
+
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window,
+            document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '987946037923422', {em: 'insert_email_variable,'});
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"src="https://www.facebook.com/tr?id=987946037923422&ev=PageView&noscript=1"/></noscript>
+    <!-- DO NOT MODIFY -->
+    <!-- End Facebook Pixel Code -->
+
+    <!-- REFERSION TRACKING: BEGIN -->
+    <script src="//efficientera.refersion.com/tracker/v3/pub_4d512e3d44821c745dda.js"></script>
+    <script>_refersion();</script>
+    <!-- REFERSION TRACKING: END -->
+
+    <!-- start bootstrap4 -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <!-- end bootstrap4 -->
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap4.css" type="text/css"/>
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap-social.css" type="text/css"/>
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/font-awesome.css" type="text/css"/>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
+</head>
+<body data-spy="scroll" data-target="#navbar" data-offset="10">
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top" id="navbar">
+        <a class="navbar-brand" href="#">
+            <img src="{{ SITEURL }}/{{ SITELOGO }}" width="{{ SITELOGO_SIZE }}" alt="{{ SITENAME }}"/>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        {% block navbar %}
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto ">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Link</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://app.efficientera.com/">Login</a>
+                </li>
+            </ul>
+            <form class="form-inline my-2 my-lg-0">
+                <button class="btn btn-outline-success my-2 my-sm-0 app-btn" href="https://app.efficientera.com/signup/">Sign Up</button>
+            </form>
+        </div>
+        {% endblock %}
+    </nav>
+    <div class="container-fluid content">
+        {% block content %}
+        {% endblock %}
+    </div>
+    <div class="container-fluid footer">
+        <nav class="navbar navbar-expand-md navbar-dark" id="footer">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    {% if articles %}
+                        {% set copy_date = articles[0].date.strftime('%Y') %}
+                    {% else %}
+                        {% set copy_date = '' %}
+                    {% endif %}
+                    <a class="nav-link" href="#"> &copy; {{ copy_date }} {{ AUTHOR }}</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://efficientera.com/privacy" target="_blank">Privacy Policy</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://efficientera.com/careers" target="_blank"> Careers </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://efficientera.com/pages/affiliate" target="_blank"> Affiliate Program </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://efficientera.com/blog" target="_blank"> Blog </a>
+                </li>
+            </ul>
+            <ul class="navbar-nav ml-auto">
+                <li>
+                    <img src="/images/pages/index/amazon_dev_council.png" alt="Amazon Marketplace Developer Council"
+                         style="padding: .4em .75em 0 .1em; height: 2.5em;">
+                </li>
+                <li>
+                    <div class="p-1">
+                        <a class="btn btn-sm btn-social-icon btn-facebook" target="_blank"
+                           href="https://www.facebook.com/efficientera">
+                            <span class="fa fa-facebook"></span>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                    <div class="p-1">
+                        <a class="btn btn-sm btn-social-icon btn-linkedin p-1" target="_blank"
+                           href="https://www.linkedin.com/company/3609977">
+                            <span class="fa fa-linkedin"></span>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                    <div class="p-1">
+                        <a class="btn btn-sm btn-social-icon btn-twitter p-1" target="_blank"
+                           href="https://twitter.com/EfficientEra">
+                            <span class="fa fa-twitter"></span>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                    <div class="p-1">
+                        <a class="btn btn-sm btn-social-icon btn-youtube p-1" target="_blank"
+                           href="https://www.youtube.com/efficientera">
+                            <span class="fa fa-youtube-play"></span>
+                        </a>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <!-- start bootstrap4 -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+    <!-- end bootstrap4 -->
+    {% block scripts %}
+    {% endblock %}
+</body>
+</html>

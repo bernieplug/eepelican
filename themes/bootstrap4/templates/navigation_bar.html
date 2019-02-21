@@ -1,0 +1,119 @@
+<nav class="navbar navbar-expand-md fixed-top" role="navigation">
+    <div class="container-fluid">
+        <a id="navbar-brand" class="navbar-brand" href="{{ SITEURL }}/" aria-label="{% trans %}Link to home page{% endtrans %}"
+            title="{% trans %}Home{% endtrans %}">
+            <img src="/images/home.png" aria-labelledby="navbar-brand"
+            width="30" height="30" alt="{% trans %}Website Brand{% endtrans %}">
+        </a>
+        <button type="button" class="navbar-toggler"
+                data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="{% trans %}Toggle navigation{% endtrans %}"
+                title="{% trans %}Main Navigation Bar{% endtrans %}">
+            <span class="navbar-toggler-icon navbar-toggler-icon-custom"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            {% if DISPLAY_PAGES_ON_MENU %}
+            <ul class="navbar-nav float-left mr-auto" aria-label="{% trans %}pages{% endtrans %}">
+                {% for page in pages %}
+                <li role="none" class="nav-item"><a class="nav-link" href="{{ SITEURL }}/{{ page.url }}"
+                    aria-label="The {{ page.title }} page"
+                    title="{{ page.title }}">{{ page.title }}</a></li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+
+            {% if MENUITEMS %}
+            <ul class="navbar-nav float-left mr-auto" aria-label="{% trans %}menu items{% endtrans %}">
+                {% for title, link in MENUITEMS %}
+                <li role="none" class="nav-item">
+                    <a class="nav-link" aria-label="{{ title }}"
+                        title="{{ title }}" href="{{ link }}">{{ title }}</a></li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+
+            <ul class="navbar-nav float-right" aria-label="{% trans %}blogroll and site sections{% endtrans %}">
+                {% if DISPLAY_LINKS_ON_MENU %}
+                    <li role="none" class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlogroll"
+                            role="button"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+                            title="{% trans %}Blogroll{% endtrans %}">
+                            <small>{% trans %}Blogroll{% endtrans %}</small>
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownBlogroll">
+                            {% for name, link in LINKS %}
+                            <a class="dropdown-item" aria-label="{% trans %}Link to {{ name }} blog{% endtrans %}"
+                                title="{{ name }}" href="{{ link }}">
+                                {{ name }}</a>
+                            {% endfor %}
+                        </div>
+                    </li>
+                {% endif %}
+                {% if I18N_SUBSITES %}
+                    <li role="none" class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownLang"
+                            role="button"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+                            title="Languages">
+                            <small>Languages</small>
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownLang">
+                            <a class="dropdown-item" aria-label="{% trans %}Link to{% endtrans %} English"
+                                href="{{ SITEURL }}">English</a>
+                            {% for lang in I18N_SUBSITES %}
+                            <a class="dropdown-item" aria-label="{% trans %}Link to{% endtrans %} {{ lang }}"
+                                href="{{ SITEURL }}/{{ lang }}">{{ LANGUAGES[lang] }}</a>
+                            {% endfor %}
+                        </div>
+                    </li>
+                {% endif %}
+                {% if DISPLAY_SOCIAL_ON_MENU %}
+                    <li role="none" class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownSocial"
+                        role="button"
+                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+                        title="{% trans %}Social Links{% endtrans %}">
+                            <small>{% trans %}Social{% endtrans %}</small>
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownSocial">
+                            {% for item in SOCIAL %}
+                            <a class="dropdown-item" aria-label="{% trans %}Link to{% endtrans %} {{ item[0] }}"
+                                title="{{ item[0] }}" href="{{ item[1] }}">
+                                {{ item[0] }}</a>
+                            {% endfor %}
+                        </div>
+                    </li>
+                {% endif %}
+                {% if DISPLAY_CATEGORIES_ON_MENU %}
+                    <li role="none" class="nav-item">
+                        <a class="nav-link" aria-label="{% trans %}Categories section{% endtrans %}"
+                            href="{{ SITEURL }}/categories.html" title="{% trans %}Categories{% endtrans %}">
+                            <small>{% trans %}Categories{% endtrans %}</small></a>
+                    </li>
+                {% endif %}
+                {% if DISPLAY_TAGS_ON_MENU %}
+                    <li role="none" class="nav-item">
+                        <a class="nav-link" aria-label="{% trans %}Tags Section{% endtrans %}"
+                            href="{{ SITEURL }}/tags.html" title="{% trans %}Tags{% endtrans %}">
+                            <small>{% trans %}Tags{% endtrans %}</small></a>
+                    </li>
+                {% endif %}
+                {% if DISPLAY_AUTHORS_ON_MENU %}
+                    <li role="none" class="nav-item">
+                        <a class="nav-link" aria-label="{% trans %}Authors Section{% endtrans %}"
+                            href="{{ SITEURL }}/authors.html" title="{% trans %}Authors{% endtrans %}">
+                            <small>{% trans %}Authors{% endtrans %}</small></a>
+                    </li>
+                {% endif %}
+                <li role="none" class="nav-item">
+                    <a class="nav-link" aria-label="{% trans %}Archives Section{% endtrans %}"
+                        href="{{ SITEURL }}/archives.html" title="{% trans %}Archives{% endtrans %}">
+                        <small>{% trans %}Archives{% endtrans %}</small></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>

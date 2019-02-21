@@ -1,0 +1,177 @@
+div.content {
+    padding-top: 3.1em;
+}
+
+nav.navbar {
+    padding-top: .2em;
+    background-color: #222;
+}
+
+.nav-item .out-nav-link {
+    display: block;
+    padding: .5rem .5rem;
+    color: rgba(255,255,255,.5);
+}
+
+.nav-item .out-nav-link:hover {
+    color: rgba(255,255,255,.75);
+    text-decoration: none;
+}
+
+div.footer {
+    background-color: #222;
+}
+
+button.btn-sign-up {
+    padding-top: .1em;
+    padding-bottom: .2em;
+}
+
+button.btn-ee {
+    background-color: #f9741e;
+    color: white;
+}
+
+div.light-row {
+    background-color: white;
+    padding: 2em;
+}
+
+@keyframes animated-row {
+  0% {background-position: 0 0;}
+  100% {background-position: 100% 0;}
+}
+
+div.animated-row {
+    background: #3f696c url(https://efficientera.com/images/pages/index/background.png) repeat 0 0;
+    -webkit-animation: 60s linear 0s reverse none infinite animated-row;
+    -moz-animation: 60s linear 0s reverse none infinite animated-row;
+    -o-animation: 60s linear 0s reverse none infinite animated-row;
+    animation: 60s linear 0s reverse none infinite animated-row;
+    background-blend-mode: screen;
+}
+
+div.dark-row {
+    background-color: #1e898f;
+    padding: 2em;
+}
+
+div.section {
+    padding: 5em 0 5em 0;
+}
+
+
+*[id]:before {
+  display: block;
+  content: " ";
+  margin-top: -75px;
+  height: 75px;
+  visibility: hidden;
+}
+
+
+html {
+    scroll-behavior: smooth;
+    background-color: #222;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+nav#footer {
+    font-size: .8em;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.feature-card .card-body {
+    font-size: 1.1em;
+}
+
+.feature-card .card-body > .card-title {
+    font-size: 1.8em;
+    text-align: center;
+}
+
+.card-body .fa {
+    color: #f9741e;
+    font-size: 2.5em;
+}
+
+.counter {
+    background-color:#f5f5f5;
+    padding: 20px 0;
+    border-radius: 5px;
+}
+
+.count-title {
+    font-size: 40px;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.count-text {
+    font-size: 13px;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.hover-scale{
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -ms-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+.hover-scale:hover{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.testimonial-text {
+    font-size: 1.15rem;
+    font-style: italic;
+}
+
+.card-pricing {
+    border: none;
+    height: 19em;
+    width: 15em;
+    background-color: white;
+}
+
+.card-pricing>.card-body>.price-title{
+    color: black;
+    font-size: 1.1em;
+    text-align: center;
+}
+
+.card-pricing>.card-body{
+    text-align: center;
+    background-color: white;
+    font-size: 2em;
+}
+
+.card-pricing>.card-body>.price-detail>.price{
+    font-size: 2em;
+    color: #f9741e;
+}
+
+.card-pricing>.card-body>.price-detail>.details{
+    color: black;
+    font-size: .5em;
+    margin: 0;
+}

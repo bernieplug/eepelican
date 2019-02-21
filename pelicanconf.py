@@ -34,7 +34,7 @@ AUTHOR_FEED_RSS = None
 # Menu
 MENUITEMS_RIGHT = (
                     ('Features', '/features/'),
-                    ('Pricing', '/pricing/'),
+                    ('Pricing', '/#pricing'),
                     ('Blog', '/blog/'),
                     ('Clients', '/clients/'),
                     ('Resources', '/resources/'),
@@ -67,6 +67,7 @@ TEMPLATE_PAGES = {
     'templates/flywheels.html': 'flywheels.html',
     'templates/index.html': 'index.html',
     'templates/atlassian-domain-verification.html': 'atlassian-domain-verification.html',
+    'templates/pricing.html': 'pricing/index.html'
 }
 SITEMAP_SAVE_AS = 'sitemap.xml'
 
@@ -92,8 +93,8 @@ FAVICON = 'images/logo_e.png'
 BACK_TO_TOP = False
 
 # Plugins
-PLUGIN_PATHS = ["plugins", "plugins"]
-PLUGINS = ["thumbnailer", "tipue_search"]
+PLUGIN_PATHS = ["plugins"]
+PLUGINS = ["thumbnailer", "tipue_search", "i18n_subsites"]
 
 # Thumbnailer
 IMAGE_PATH = 'images'
@@ -101,3 +102,5 @@ THUMBNAIL_DIR = 'images/thumbnails/'
 THUMBNAIL_SIZES = {'small': '250x?',
                    'medium': '500x?',
                    'large': '800x?'}
+
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
