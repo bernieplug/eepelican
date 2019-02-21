@@ -34,7 +34,7 @@ AUTHOR_FEED_RSS = None
 # Menu
 MENUITEMS_RIGHT = (
                     ('Features', '/features/'),
-                    ('Pricing', '/pricing/'),
+                    ('Pricing', '/#pricing'),
                     ('Blog', '/blog/'),
                     ('Clients', '/clients/'),
                     ('Resources', '/resources/'),
@@ -67,7 +67,7 @@ TEMPLATE_PAGES = {
     'templates/flywheels.html': 'flywheels.html',
     'templates/index.html': 'index.html',
     'templates/atlassian-domain-verification.html': 'atlassian-domain-verification.html',
-    'templates/new-index.html': 'new-index.html',
+    'templates/pricing.html': 'pricing/index.html'
 }
 SITEMAP_SAVE_AS = 'sitemap.xml'
 
