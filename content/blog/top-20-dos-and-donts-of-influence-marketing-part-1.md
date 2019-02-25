@@ -1,5 +1,5 @@
 Title: The Top 20 Dos and Don’ts of Influencer Marketing – Part I 
-Author: Ritu J
+Author: Arlen Robinson
 Category: Efficient Era
 Date: 2019-02-18 13:00
 Image: DosAndDonts.png
@@ -69,3 +69,6 @@ As I have mentioned a while ago, influencers are already so used to promotions. 
 Also, it doesn’t hurt to ask for [feedback](http://www.osifeedback.com/) . It is easy for business owners to view influencers as some sort of god because of what they have achieved. But they are just humans too. They may have some point-of-views about your products and services and how it can be promoted. Don’t be afraid to ask for feedback. You’ll never know what you’ll uncover. 
 
 In our next article in this series, we’ll go into more detail about the don’ts of influencer marketing and what you should do instead.  
+
+
+Arlen Robinson is the co-founder and VP of Business Development at OSI Affiliate Software. He is also the host of The Ecommerce Marketing Podcast where he discusses marketing strategies with experts from all over the world
