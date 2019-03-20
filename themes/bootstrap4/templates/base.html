@@ -1,144 +1,86 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock %}">
 <head>
-	<meta charset="utf-8">
-	<title>{% block windowtitle %}{{ SITENAME }}{% endblock %}</title>
-	<meta name="description" content="{{ SITE_DESCRIPTION }}">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		
-	{% if article %}
-            <meta name="title" content="{{ article.title }}" />
-            {% if article.tags %}
-            <meta name="tags" content="{{ article.tags|first }}{% for tag in article.tags[1:] %}, {{ tag }}{% endfor %}" />
-            {% endif %}
-            <meta name="category" content="{{ article.category }}" />
-            <meta name="date" content="{{ article.date }}" />
-            {% if article.authors %}
-            <meta name="authors" content="{{ article.authors|first }}{% for author in article.authors[1:] %}, {{ author }}{% endfor %}" />
-            {% endif %}
-            <meta name="lang" content="{{ article.lang }}" />
-            <meta name="summary" content="{{ article.summary }}" />
-        {% endif %}
+    {% block head %}
+    <title>{{ SITENAME }}</title>
+    {% endblock %}
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+          content="Powerful Alerts, Analytics, Automation software for Amazon Sellers.">
+    <!--To be indexed and searchable in Bing -->
+    <meta name="msvalidate.01" content="CA3016EE7AFC48DB412E21362936B7D8"/>
 
-	{% if page %}
-            <meta name="title" content="{{ page.title }}" />
-            {% if page.tags %}
-            <meta name="tags" content="{% for tag in page.tags %} {{ tag }}, {% endfor %}" />
-            {% endif %}
-            <meta name="lang" content="{{ page.lang }}" />
-        {% endif %}
-
-	<!-- Styles -->
-	<link rel="stylesheet" href="/theme/bootstrap.min.css">
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-	<link rel="stylesheet" href="/theme/local.min.css">
-	<link rel="stylesheet" href="/theme/colors.css">
-
-	{% if CUSTOM_CSS_URL %}
-	<link href="{{ CUSTOM_CSS_URL }}" rel="stylesheet">
+    {# Favicons are a touchy subject. For reasoning for the following code, see: http://stackoverflow.com/a/23851464/872397 #}
+    {% if FAVICON %}
+        <link rel="icon" href="{{ SITEURL }}/{{ FAVICON }}">
+        <link rel="apple-touch-icon" sizes="180x180" href="{{ SITEURL }}/images/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="{{ SITEURL }}/images/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="{{ SITEURL }}/images/favicon/favicon-16x16.png">
+        <link rel="manifest" href="{{ SITEURL }}/images/favicon/site.webmanifest">
+        <link rel="mask-icon" href="{{ SITEURL }}/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+        <link rel="shortcut icon" href="{{ SITEURL }}/images/favicon/favicon.ico">
+        <meta name="msapplication-TileColor" content="#35527e">
+        <meta name="msapplication-TileImage" content="{{ SITEURL }}/images/favicon/mstile-144x144.png">
+        <meta name="msapplication-config" content="{{ SITEURL }}/images/favicon/browserconfig.xml">
+        <meta name="theme-color" content="#ffffff">
     {% endif %}
 
-	<!-- Feeds -->
-	{% if FEED_ALL_ATOM %}
-	<link href="{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
-	{% endif %}
+    {% block meta %}
+        <meta name="author" content="{{ AUTHOR }}"/>
+    {% endblock %}
 
-	{% if FEED_ATOM %}
-        <link href="{{ FEED_ATOM }}" rel="alternate" title="{{ SITENAME }}" type="application/atom+xml">
-	{% endif %}
-
-	{% if CATEGORY_FEED_ATOM %}
-        <link href="{{ CATEGORY_FEED_ATOM }}" rel="alternate" title="{{ SITENAME }}" type="application/atom+xml">
-	{% endif %}
-
-	{% if TAG_FEED_ATOM %}
-        <link href="{{ TAG_FEED_ATOM }}" rel="alternate" title="{{ SITENAME }}" type="application/atom+xml">
-	{% endif %}
-
-	{% if TRANSLATION_FEED_ATOM %}
-        <link href="{{ TRANSLATION_FEED_ATOM }}" rel="alternate" title="{{ SITENAME }}" type="application/atom+xml">
-	{% endif %}
-
-	{% if FEED_ALL_RSS %}
-	<link href="{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
-	{% endif %}
-
-	{% if FEED_RSS %}
-        <link href="{{ FEED_RSS }}" rel="alternate" title="{{ SITENAME }}" type="application/rss+xml">
-	{% endif %}
-
-	{% if CATEGORY_FEED_RSS %}
-        <link href="{{ CATEGORY_FEED_RSS }}" rel="alternate" title="{{ SITENAME }}" type="application/atom+xml">
-	{% endif %}
-
-	{% if TAG_FEED_RSS %}
-        <link href="{{ TAG_FEED_RSS }}" rel="alternate" title="{{ SITENAME }}" type="application/atom+xml">
-	{% endif %}
-
-	{% if TRANSLATION_FEED_RSS %}
-        <link href="{{ TRANSLATION_FEED_RSS }}" rel="alternate" title="{{ SITENAME }}" type="application/atom+xml">
-	{% endif %}
-
-	<script src="/theme/jquery-3.3.1.min.js"></script>
-    <script src="/theme/bootstrap.bundle.min.js"></script>
-	<script src="/theme/html5shiv-printshiv.min.js"></script>
-	{% if CUSTOM_JS_URL %}
-	<script href="{{ CUSTOM_JS_URL }}"></script>
-
-	<script>
-      window.$ = window.jQuery = require('jquery');
-      window.Bootstrap = require('bootstrap');
-    </script>
-    {% endif %}
-
-    </head>
-<body>
-    <div id="back-cover">
-
-	{% include "navigation_bar.html" %}
-
-    <noscript>
-        <main role="main">
-            <p tabindex="0" class="lead">
-                <em>{% trans %}This page uses bootstrap which relies on Javascript. Until you enable Javascript, This site will not work properly.{% endtrans %}</em>
-            </p>
-        </main>
-    </noscript>
-
-    <main role="main">
-        <div class="container-fluid">
-            <div class="row">
-
-				{% include "sidebar.html" %}
-
-				{% if BLOGROLL_SIDEBAR or AUTHORS_SIDEBAR or CATEGORIES_SIDEBAR or
-					TAGS_SIDEBAR or SOCIAL_SIDEBAR %}
-				<div role="none" class="col-sm-12 col-md-9">
-				{% else %}
-				<div role="none" class="col-sm-12 col-md-12">
-				{% endif %}
-					<div id="index_content" class="container my-4" role="document" tabindex="0"
-						 style="margin-bottom: 60px;">
-						{% block indextitle %}<h1 class="my-5" tabindex="0">{% block
-						title %} {{ self.windowtitle() }} {% endblock %}</h1>{% endblock %}
-						{% block content %}{% endblock %}
-					</div>
-				</div>
-
-			</div>
-			<div class="row">
-    			<div role="none" class="col-md-12 col-lg-12">
-    			    {% include "footer_bar.html" %}
-                </div>
-			</div>
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap.min.css" type="text/css"/>
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap-grid.min.css" type="text/css"/>
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap-reboot.min.css" type="text/css"/>
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/style.css" type="text/css"/>
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/font-awesome.min.css" type="text/css"/>
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap-social.css" type="text/css"/>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
+</head>
+<body data-spy="scroll" data-target="#navbar" data-offset="10">
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top" id="navbar">
+        <a class="navbar-brand" href="{{ SITEURL }}">
+            <img src="{{ SITEURL }}/{{ SITELOGO }}" width="{{ SITELOGO_SIZE }}" alt="{{ SITENAME }}"/>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        {% block navbar %}
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto pr-2">
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ SITEURL }}/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link out-nav-link" href="{{ SITEURL }}/blog/">Blog</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link out-nav-link" href="https://app.efficientera.com">Login</a>
+                </li>
+                <li class="nav-item">
+                    <a class="btn btn-sign-up btn-ee" href="https://app.efficientera.com/signup/" onclick="window.open('https://app.efficientera.com/signup/', '_blank');">Sign Up</a>
+                </li>
+            </ul>
         </div>
-    </main>
-
-	<div class="container-fluid">
-    {% include "analytics.html" %}
+        {% endblock %}
+    </nav>
+    <div class="container-fluid content">
+        {% block content %}
+        {% endblock %}
+    </div>
+    <div class="container-fluid footer">
+        {% include 'includes/footer.html' %}
     </div>
 
-	</div>
+    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.min.js"></script>
+    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/bootstrap.min.js"></script>
 
+    {% include 'includes/ga.html' %}
+    {% block scripts %}
+    {% endblock %}
 </body>
 </html>

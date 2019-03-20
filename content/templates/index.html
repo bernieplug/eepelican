@@ -1,4 +1,4 @@
-{% extends "bare_base.html" %}
+{% extends "base.html" %}
 
 {% block navbar %}
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -13,16 +13,15 @@
                 <a class="nav-link" href="#pricing">Pricing</a>
             </li>
             <li class="nav-item">
-                <a class="out-nav-link" href="https://efficientera.com/blog/">Blog</a>
+                <a class="nav-link out-nav-link" href="{{ SITEURL }}/blog/">Blog</a>
             </li>
             <li class="nav-item">
-                <a class="out-nav-link" href="https://app.efficientera.com">Login</a>
+                <a class="nav-link out-nav-link" href="https://app.efficientera.com">Login</a>
+            </li>
+            <li class="nav-item">
+                <a class="btn btn-sign-up btn-ee" href="https://app.efficientera.com/signup/" onclick="window.open('https://app.efficientera.com/signup/', '_blank');">Sign Up</a>
             </li>
         </ul>
-        <form class="form-inline my-2 my-lg-0">
-            <button class="btn my-2 my-sm-0 btn-sign-up btn-ee" href="https://app.efficientera.com/signup/" onclick="window.open('https://app.efficientera.com/signup/', '_blank');">Sign Up
-            </button>
-        </form>
     </div>
 {% endblock %}
 

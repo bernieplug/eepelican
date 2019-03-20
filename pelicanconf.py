@@ -1,12 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
-from os import environ
 
 AUTHOR = u'Efficient Era'
 SITENAME = u'Efficient Era'
 SITEURL = 'http://127.0.0.1:8080'
-#SITEURL = 'https://efficientera.com'
+# SITEURL = 'https://efficientera.com'
 OPEN_GRAPH_IMAGE ='images/pages/dashboard.png'
 
 # URLS
@@ -29,7 +28,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# RELATIVE_URLS = True
 
 # Menu
 MENUITEMS_RIGHT = (
@@ -72,8 +71,7 @@ TEMPLATE_PAGES = {
 SITEMAP_SAVE_AS = 'sitemap.xml'
 
 # Theme
-THEME = "themes/bootstrap3"
-BOOTSTRAP_THEME = 'effera'
+THEME = "themes/bootstrap4"
 DISPLAY_BREADCRUMBS = True
 DISPLAY_CATEGORY_IN_BREADCRUMBS = False
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
@@ -102,5 +100,3 @@ THUMBNAIL_DIR = 'images/thumbnails/'
 THUMBNAIL_SIZES = {'small': '250x?',
                    'medium': '500x?',
                    'large': '800x?'}
-
-JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}

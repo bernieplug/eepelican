@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block content %}
+    <div class="row pt-3">
+        <div class="offset-xl-3 col-xl-6 offset-lg-3 col-lg-6 col-md-12 col-sm-12 col-xs-12">
+            {% if articles %}
+                {% for article in (articles_page.object_list if articles_page else articles) %}
+                    <div class="card my-2">
+                        {% if article.image %}
+                            <img src="{{ SITEURL }}/images/category/{{ article.image }}" class="card-img-top" alt="{{ article.title }}">
+                        {% else %}
+                            <img src="{{ SITEURL }}/images/category/{{ article.category }}.png" class="card-img-top" alt="{{ article.category }}">
+                        {% endif %}
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h5>
+                            {% if DISPLAY_SUMMARY %}
+                                <p class="card-text">{{ article.summary }}</p>
+                                <a class="btn btn-primary btn-xs" href="{{ SITEURL }}/{{ article.url }}">more &rightarrow;</a>
+                            {% else %}
+                                <p class="card-text">{{ article.content }}</p>
+                            {% endif %}
+                        </div>
+                        {% if DISPLAY_ARTICLE_INFO_ON_INDEX %}
+                            {% include "includes/article_info.html" %}
+                        {% endif %}
+                    </div>
+                {% endfor %}
+            {% endif %}
+        </div>
+    </div>
+    <div class="offset-xl-3 col-xl-6 offset-lg-3 col-lg-6 col-md-12 col-sm-12 col-xs-12">
+        {% include 'includes/pagination.html' %}
+    </div>
+{% endblock content %}

@@ -1,47 +1,7 @@
-{% extends "base.html" %}
-{% block title %} {{ SITENAME }}  {% endblock %}
+{% extends "article_list.html" %}
 
-{% block extra_scripts %}
-{% endblock %}
+{% block canonical_rel %}<link rel="canonical" href="{{ SITEURL }}">{% endblock %}
 
-{% block content %}
-
-{% if articles %}
-<hr role="none" />
-{% for article in (articles_page.object_list if articles_page else articles) %}
-<div class='row my-3'>
-    <div role="section" class="col-xs-12 col-sm-12">
-        <div class='row'>
-            <div role="none" class="col-xs-12 col-sm-12">
-                <h2 tabindex="0" id="{{ article.title }}_id" class="pt-4"
-                    aria-label="{{ article.title }}"> {{ article.title }} </h2>
-            </div>
-        </div>
-        <div class='row'>
-            <div role="none" class="col-xs-12 col-sm-12">
-                <div role="none" class="card card-body card-metadata my-3">
-                    {% include "article_metadata.html" %} </div>
-            </div>
-        </div>
-        <div class='row'>
-            <div role="none" class="col-xs-12 col-sm-12">
-                <p tabindex="0" class="summary"> {{ article.summary }}</p>
-                <p tabindex="-1" class="mt-2"><a class="btn btn-sm btn-summary" aria-label="{% trans %}article{% endtrans %}, {{ article.title }}"
-                    href="{{ SITEURL }}/{{ article.url }}"
-                    title="Read more on {{ article.title }}">{% trans %}read more{% endtrans %}...</a></p>
-
-            </div>
-        </div>
-    </div>
-</div>
-{% endfor %}
-
-
-<div class='row mt-5'>
-    <div role="none" class="col-xs-12 col-sm-12">
-        {% include "index_pagination.html" %}
-    </div>
-</div>
-{% endif %}
-
+{% block banner %}
+	{% include 'includes/banner.html' %}
 {% endblock %}
