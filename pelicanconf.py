@@ -89,7 +89,7 @@ BOOTSTRAP_NAVBAR_INVERSE = True
 SITELOGO = 'images/logo_name.png'
 SITELOGO_SIZE = '140px'
 HIDE_SITENAME = True
-FAVICON = 'images/logo_e.png'
+FAVICON = 'images/favicon/favicon.ico'
 BACK_TO_TOP = False
 
 # Plugins

@@ -30,7 +30,17 @@
 
     {# Favicons are a touchy subject. For reasoning for the following code, see: http://stackoverflow.com/a/23851464/872397 #}
     {% if FAVICON %}
-        <link href="{{ SITEURL }}/{{ FAVICON }}" rel="icon">
+        <link rel="icon" href="{{ SITEURL }}/{{ FAVICON }}">
+        <link rel="apple-touch-icon" sizes="180x180" href="{{ SITEURL }}/images/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="{{ SITEURL }}/images/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="{{ SITEURL }}/images/favicon/favicon-16x16.png">
+        <link rel="manifest" href="{{ SITEURL }}/images/favicon/site.webmanifest">
+        <link rel="mask-icon" href="{{ SITEURL }}/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+        <link rel="shortcut icon" href="{{ SITEURL }}/images/favicon/favicon.ico">
+        <meta name="msapplication-TileColor" content="#35527e">
+        <meta name="msapplication-TileImage" content="{{ SITEURL }}/images/favicon/mstile-144x144.png">
+        <meta name="msapplication-config" content="{{ SITEURL }}/images/favicon/browserconfig.xml">
+        <meta name="theme-color" content="#ffffff">
     {% endif %}
     {% if FAVICON_IE %}
         <!--[if IE]><link rel="shortcut icon" href="{{ SITEURL }}/{{ FAVICON_IE }}"><![endif]-->
