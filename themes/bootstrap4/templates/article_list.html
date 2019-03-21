@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% block content %}
-    <div class="row pt-3">
-        <div class="offset-xl-3 col-xl-6 offset-lg-3 col-lg-6 col-md-12 col-sm-12 col-xs-12">
+    <div class="row">
+        <div class="offset-xl-2 col-xl-6 offset-lg-2 col-lg-6 col-md-12 col-sm-12 col-xs-12">
             {% if articles %}
                 {% for article in (articles_page.object_list if articles_page else articles) %}
                     <div class="card my-2">
@@ -25,6 +25,9 @@
                     </div>
                 {% endfor %}
             {% endif %}
+        </div>
+        <div class="col-xl-2 col-lg-2 col-md-12 col-sm-12 col-xs-12 my-2">
+            {% include 'includes/sidebar.html' %}
         </div>
     </div>
     <div class="offset-xl-3 col-xl-6 offset-lg-3 col-lg-6 col-md-12 col-sm-12 col-xs-12">

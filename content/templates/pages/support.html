@@ -1,0 +1,145 @@
+{% extends 'base.html' %}
+
+{% block meta %}
+    <meta name="save_as" content="support/index.html" />
+{% endblock %}
+
+{% block content %}
+    <div class="row">
+        <div class="offset-xl-1 col-xl-10 col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="row py-4">
+                <div class="col">
+                    <h1 class="text-center py-4">Support</h1>
+                    <p>Thanks for reaching Customer Support at Efficient Era!</p>
+                    <p>We are a Redmond, WA based company operating on Pacific Standard Time (GMT-8) and strive to offer quick replies during business hours Monday through Friday.</p>
+                    <p>If you would like to contact us or need to submit a support ticket, please email us at <a href="mailto:support@efficientera.com" target="_blank">support@efficientera.com</a>.</p>
+                    <p>To get Amazon industry news and insights, check out our <a href="{{ SITEURL }}/blog/" target="_blank">blog</a>.</p>
+                    <p>If you are a current user and would like to access our on-boarding materials, please click <a href="{{ SITEURL }}/pages/startup/" target="_blank">here</a>.</p>
+                </div>
+            </div>
+            <div class="row py-4">
+                <div class="col">
+                    <div class="accordion" id="faq">
+                        <div class="card">
+                            <div class="card-header p-4">
+                                <h1 class="mb-0">Frequently Asked Questions</h1>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header p-2" id="headingOne">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                      Q: Which geographies does Efficient Era support?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#faq">
+                                <div class="card-body">
+                                    <b>Answer:</b> Our tools support the following geographies: US (includes CA, MX), UK (includes DE, IT, ES, FR), and Japan.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header p-2" id="headingTwo">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                                      Q: I sell in the US and the UK. Do I need to set up two Efficient Era accounts?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#faq">
+                                <div class="card-body">
+                                    <b>Answer:</b> If you have two separate Amazon businesses, you are free to set up more than one account with us as long as your MWS and Seller Central accounts are unique for each of your accounts.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header p-2" id="headingThree">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+                                      Q: Do I have access to all your tools during the free trial?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#faq">
+                                <div class="card-body">
+                                    <b>Answer:</b> Yes you do. We offer a trial period of 14 days which we think is required for reasonable amount of testing.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header p-2" id="headingFour">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+                                      Q: Where can I find product tutorials/videos?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#faq">
+                                <div class="card-body">
+                                    <b>Answer:</b> You can find product tutorial videos on our YouTube channel. You could also refer to our other documents linked through our Startup kit.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header p-2" id="headingFive">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
+                                      Q: How do I know my automated emails are being sent?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#faq">
+                                <div class="card-body">
+                                    <b>Answer:</b> Emails are automatically sent based on the triggers you defined. These can be one of Confirmed, Shipped or Delivered. If your trigger is set to "Delivered", you should allow for a reasonable period of time for Amazon to complete the delivery. You can find the numbers of emails sent by looking at your Efficient Era dashboard under Order Automation at a glance.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header p-2" id="headingSix">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
+                                      Q: How do I automatically send VAT invoices with all my orders?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#faq">
+                                <div class="card-body">
+                                    <b>Answer:</b> In order to automatically send VAT invoices with all of your orders; you must use the Efficient Era Order/Email Automation feature. You will find a button within the campaign you create to turn on the functionality to include a VAT invoice with every order.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header p-2" id="headingSeven">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
+                                      Q: How do I delete my account?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#faq">
+                                <div class="card-body">
+                                    <b>Answer:</b> In order for you to delete your account, you will need to go into your Account Settings, Account and Credential Settings and then click on Request Account Deletion. You may also simply send an email to <a href="mailto:support@efficientera.com" target="_blank">support@efficientera.com</a> and request your account to be deleted.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header p-2" id="headingEight">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseEight" aria-expanded="true" aria-controls="collapseEight">
+                                      Q: Where can I find product tutorials/videos?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#faq">
+                                <div class="card-body">
+                                    <b>Answer:</b> You can find product tutorial videos on our <a href="https://www.youtube.com/efficientera" target="_blank">YouTube channel</a>. You could also refer to our other documents linked through our <a href="{{ SITEURL }}/pages/startup/" target="_blank">Startup kit</a>.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

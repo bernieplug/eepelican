@@ -1,11 +1,9 @@
 {% extends "base.html" %}
-{% set HIDE_SIDEBAR = true %}
-{% if page.tool_page %}
-{% set BOOTSTRAP_FLUID = true %}
-{% endif %}
 
 {% block title %}{{ page.title }} - {{ SITENAME }}{% endblock %}
+
 {% block html_lang %}{{ page.lang }}{% endblock %}
+
 {% block meta %}
     {% if page.author %}
         <meta name="author" content="{{ page.author }}" />
@@ -16,6 +14,7 @@
         <meta name="description" content="{{ page.summary|striptags|escape }}" />
     {% endif %}
 {% endblock %}
+
 {% block opengraph %}
     {% if OPEN_GRAPH_FB_APP_ID %}
         <meta property="fb:app_id" content="{{ OPEN_GRAPH_FB_APP_ID }}"/>
@@ -35,49 +34,10 @@
 {% endblock %}
 
 
-
-
-{% block breadcrumbs %}
-    {% if DISPLAY_BREADCRUMBS and not page.tool_page %}
-    <ol class="breadcrumb">
-        <li><a href="{{ SITEURL }}" title="{{ SITENAME }}"><i class="fa fa-home fa-lg"></i></a></li>
-	  {% if page.url %}
-        <li class="active">{{ page.title }}</li>
-	  {% endif %}
-    </ol>
-    {% endif %}
-{% endblock %}
-
 {% block content %}
-    <section id="content" class="body">
-        {% if not page.tool_page %}<h1 class="entry-title">{{ page.title }}</h1>{% endif %}
-        {% if PDF_PROCESSOR %}
-            <a href="{{ SITEURL }}/pdf/{{ page.slug }}.pdf">
-                get the pdf
-            </a>
-        {% endif %}
-        {% if page.image %}
-        <div class="row">
-            <div class="col-md-6">
-                <div class="entry-content {% if not page.no_well %}well well-lg{% endif %}">
-                    {{ page.content }}
-                </div>
-                {% if page.comments == 'enabled' %}
-                    {% include 'includes/comments.html' %}
-                {% endif %}
-            </div>
-            <div class="col-md-6">
-                <img src="{{ page.image }}" class="img img-responsive">
-            </div>
-
-        </div>
-        {% else %}
-        <div class="entry-content {% if not page.no_well %}well well-lg{% endif %}">
+    <div class="row pt-4">
+        <div class="offset-xl-1 col-xl-10 col-lg-12 col-md-12 col-sm-12 col-xs-12">
             {{ page.content }}
-            {% if page.comments == 'enabled' %}
-                {% include 'includes/comments.html' %}
-            {% endif %}
         </div>
-        {% endif %}
-    </section>
+    </div>
 {% endblock %}
