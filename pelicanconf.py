@@ -18,7 +18,7 @@ DEFAULT_LANG = u'en'
 
 DIRECT_TEMPLATES = ['categories', 'index', 'archives', 'authors', 'tags', 'search', 'sitemap']
 
-GOOGLE_ANALYTICS = ''
+GOOGLE_ANALYTICS = None
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

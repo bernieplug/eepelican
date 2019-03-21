@@ -32,6 +32,8 @@
         <meta name="author" content="{{ AUTHOR }}"/>
     {% endblock %}
 
+    {% include 'includes/ga.html' %}
+
     <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap.min.css" type="text/css"/>
     <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap-grid.min.css" type="text/css"/>
     <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap-reboot.min.css" type="text/css"/>
@@ -71,7 +73,7 @@
                     <a class="nav-link out-nav-link" href="https://app.efficientera.com">Login</a>
                 </li>
                 <li class="nav-item">
-                    <a class="btn btn-sign-up btn-ee" href="https://app.efficientera.com/signup/" onclick="window.open('https://app.efficientera.com/signup/', '_blank');">Sign Up</a>
+                    <a class="btn btn-sign-up btn-ee" href="https://app.efficientera.com/signup/" onclick="handleNavSignup();">Sign Up</a>
                 </li>
             </ul>
         </div>
@@ -88,7 +90,6 @@
     <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.min.js"></script>
     <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/bootstrap.min.js"></script>
 
-    {% include 'includes/ga.html' %}
     {% block scripts %}
     {% endblock %}
 </body>
