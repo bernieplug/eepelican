@@ -65,6 +65,8 @@ TEMPLATE_PAGES = {
     'templates/pages/features.html': 'features/index.html',
     'templates/pages/support.html': 'support/index.html',
     'templates/pages/apphelp.html': 'apphelp/index.html',
+    'templates/pages/clients.html': 'clients/index.html',
+    'templates/pages/resources.html': 'resources/index.html',
 }
 SITEMAP_SAVE_AS = 'sitemap.xml'
 
