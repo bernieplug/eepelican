@@ -1,0 +1,33 @@
+{% if articles_page and articles_paginator.num_pages > 1 %}
+    <nav aria-label="Article Pagination">
+        <ul class="pagination justify-content-center">
+            {% if articles_page.has_previous() %}
+                {% set num = articles_page.number %}
+                <li class="page-item">
+                    <a class="page-link" href="{{ SITEURL }}/{{ articles_previous_page.url }}">Previous</a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" href="{{ SITEURL }}/{{ page_name }}{{ num - 1 }}.html">{{ num - 1 }}</a>
+                </li>
+            {% else %}
+                <li class="page-item disabled"><a class="page-link" href="#">&laquo;</a></li>
+            {% endif %}
+            <li class="page-item active">
+                <a class="page-link" href="{{ SITEURL }}/{{ page_name }}{{ articles_page.number }}.html">{{ articles_page.number }}</a>
+            </li>
+            {% if articles_page.has_next() %}
+                {% set num = articles_page.number %}
+                <li class="page-item">
+                    <a class="page-link" href="{{ SITEURL }}/{{ page_name }}{{ num + 1 }}.html">{{ num + 1 }}</a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" href="{{ SITEURL }}/{{ articles_next_page.url }}">Next</a>
+                </li>
+            {% else %}
+                <li class="page-item disabled">
+                    <a class="page-link" href="#">&raquo;</a>
+                </li>
+            {% endif %}
+        </ul>
+    </nav>
+{% endif %}

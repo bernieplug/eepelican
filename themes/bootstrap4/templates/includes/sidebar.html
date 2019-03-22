@@ -1,0 +1,71 @@
+<div class="row pb-2">
+    <div class="col">
+        <div class="card">
+            <div class="card-header">
+                <i class="fa fa-info"></i> About Efficient Era
+            </div>
+            <div class="card-body">
+                Efficient Era offers Powerful Tools for Amazon sellers. Our Alerts, Analytics, and Automation software is helping hundreds of sellers build and protect their brand on Amazon.
+            </div>
+        </div>
+    </div>
+</div>
+{% if 'tipue_search' in PLUGINS %}
+<div class="row pb-2">
+    <div class="col">
+        <div class="card">
+            <div class="card-body">
+                <form class="" action="{{ SEARCH_URL | default('/search.html') }}">
+                    <div class="form-group mb-0">
+                        <div class="input-group">
+                        <div class="input-group-addon"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></div>
+                            <input type="search" class="form-control" placeholder="Search" name="q" id="tipue_search_input" required>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endif %}
+
+{% if DISPLAY_RECENT_POSTS_ON_SIDEBAR %}
+{% if RECENT_POST_COUNT is not defined %}
+    {% set RECENT_POST_COUNT = 5 %}
+{% endif %}
+<div class="row pb-2">
+    <div class="col">
+        <div class="card">
+            <div class="card-header">
+                <i class="fa fa-home"></i> Recent Posts
+            </div>
+            <ul class="list-group list-group-flush">
+                {% for article in articles[:RECENT_POST_COUNT] %}
+                    <li class="list-group-item">
+                        <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
+{% endif %}
+
+{% if DISPLAY_CATEGORIES_ON_SIDEBAR %}
+<div class="row">
+    <div class="col">
+        <div class="card">
+            <div class="card-header">
+                <i class="fa fa-folder-open"></i> Categories
+            </div>
+            <ul class="list-group list-group-flush">
+                {% for cat, _ in categories %}
+                    <li class="list-group-item">
+                        <a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
+{% endif %}

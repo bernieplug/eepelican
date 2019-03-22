@@ -1,31 +1,43 @@
 {% extends "base.html" %}
-{% block title %} {{ page.title }} {% endblock %}
 
-{% block extra_scripts %}
+{% block title %}{{ page.title }} - {{ SITENAME }}{% endblock %}
 
+{% block html_lang %}{{ page.lang }}{% endblock %}
+
+{% block meta %}
+    {% if page.author %}
+        <meta name="author" content="{{ page.author }}" />
+    {% else %}
+        <meta name="author" content="{{ AUTHOR }}" />
+    {% endif %}
+    {% if page.summary %}
+        <meta name="description" content="{{ page.summary|striptags|escape }}" />
+    {% endif %}
 {% endblock %}
 
+{% block opengraph %}
+    {% if OPEN_GRAPH_FB_APP_ID %}
+        <meta property="fb:app_id" content="{{ OPEN_GRAPH_FB_APP_ID }}"/>
+    {% endif %}
+    <meta property="og:site_name" content="{{ SITENAME }}" />
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="{{ page.title|striptags|escape }}"/>
+    <meta property="og:url" content="{{ SITEURL }}/{{ page.url }}"/>
+    <meta property="og:description" content="{{ page.summary|striptags|escape }}" />
+    {% if page.og_image %}
+        <meta property="og:image"
+              content="{{ SITEURL }}/{{ page.og_image }}"/>
+    {% elif OPEN_GRAPH_IMAGE %}
+        <meta property="og:image"
+              content="{{ SITEURL }}/{{ OPEN_GRAPH_IMAGE }}"/>
+    {% endif %}
+{% endblock %}
+
+
 {% block content %}
-	<hr role="none" />
-	<div class='row'>
-		<div class="col" role="none">
-			{% if page.translations %}
-				<div role="none" class="card card-body card-metadata my-3">
-					<span>{% trans %}translations{% endtrans %}:  </span>
-					{% for translation in page.translations|sort %}
-						<a href="{{ SITEURL }}/{{ translation.url }}"
-						aria-label="{% trans %}link to article in language{% endtrans %} {{ translation.lang }}"
-						title="{% trans %}read article in language{% endtrans %} {{ translation.lang }}">{{ translation.lang }}</a>
-					{% endfor %}
-				</div>
-			{% endif %}
-		</div>
-	</div>
-	<div class='row'>
-    	<div role="none" class="col">
-			<div class='my-4' role="region" title="{% trans %}page content{% endtrans %}">
-					{{ page.content }}
-			</div>
-		</div>
-	</div>
+    <div class="row pt-4">
+        <div class="offset-xl-1 col-xl-10 col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            {{ page.content }}
+        </div>
+    </div>
 {% endblock %}

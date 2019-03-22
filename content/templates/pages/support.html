@@ -1,0 +1,130 @@
+{% extends 'base.html' %}
+
+{% block meta %}
+    <meta name="save_as" content="support/index.html" />
+{% endblock %}
+
+{% block content %}
+    <div class="row">
+        <div class="offset-xl-1 col-xl-10 col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="row py-4">
+                <div class="col">
+                    <h1 class="text-center pt-4">Support</h1>
+                    <h2 class="text-center pb-4">We’re here to help!</h2>
+                    <p>Thank you for reaching customer support at Efficient Era!</p>
+                    <p>All inquiries and questions can be sent to <a href="mailto:support@efficientera.com" target="_blank">support@efficientera.com</a>. Our team is based in Seattle, WA and operates during regular business hours in Pacific Standard Time.</p>
+                    <p>If you’re a new user who needs assistance with setting up their account, you can contact our team or read our  <a href="{{ SITEURL }}/pages/startup/" target="_blank">onboarding materials</a>.</p>
+                </div>
+            </div>
+            <div class="row py-4">
+                <div class="col">
+                    <div class="accordion" id="faq">
+                        <div class="card">
+                            <div class="card-header p-4">
+                                <h1 class="mb-0">Frequently Asked Questions</h1>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header p-2" id="headingOne">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                      Q: How can Efficient Era help me save time on Amazon?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#faq">
+                                <div class="card-body">
+                                    <b>Answer:</b> With the tools that Efficient Era provides, you’ll be able to manage your Amazon business more efficiently and easily. We provide an easy way for you to analyze profits, send out automatic review requests, and make changes to your ad campaigns. We’re also proactive about monitoring your product listings for changes, so you don’t have to waste any more time monitoring your listings.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header p-2" id="headingTwo">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                                      Q: What marketplaces does Efficient Era support?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#faq">
+                                <div class="card-body">
+                                    <b>Answer:</b> We support the marketplaces for the US, Canada, Mexico, UK, Germany, Italy, Spain, France, and Japan.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header p-2" id="headingThree">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+                                      Q: Is Efficient Era compliant with Amazon’s TOS?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#faq">
+                                <div class="card-body">
+                                    <b>Answer:</b> Absolutely, we are compliant to Amazon’s ToS. We’re additionally on Amazon’s Seller Central App Store.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header p-2" id="headingFour">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+                                      Q: I sell in multiple marketplaces. Do I need to set up two Efficient Era accounts?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#faq">
+                                <div class="card-body">
+                                    <b>Answer:</b> As long as your business has the same MWS account for both marketplaces, you only need one Efficient Era account. If you have two separate Amazon businesses with different MWS accounts, you are free to set up more than one account with us.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header p-2" id="headingFive">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
+                                      Q: Do I have access to all of your tools during the free trial?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#faq">
+                                <div class="card-body">
+                                    <b>Answer:</b> Yes, you do. We offer a 14-day free trial where you can test all of our tools.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header p-2" id="headingSix">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
+                                      Q: I’m only interested in one of your tools. Can I just use that tool separately and only pay for the one tool?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#faq">
+                                <div class="card-body">
+                                    <b>Answer:</b> As an all-in-one tool provider, we do not charge separately for using only one feature.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header p-2" id="headingSeven">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
+                                      Q: Where can I find product tutorials/videos?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#faq">
+                                <div class="card-body">
+                                    <b>Answer:</b> You can view all our product tutorial videos on our <a href="https://www.youtube.com/efficientera" target="_blank">YouTube</a> channel. We’re working on building our video support as time goes on.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
