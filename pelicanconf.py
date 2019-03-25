@@ -57,8 +57,10 @@ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{slug}.html'
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{slug}.html'
 INDEX_SAVE_AS = 'blog/index.html'
 TEMPLATE_PAGES = {
+    'templates/robots.txt': 'robots.txt',
     'templates/validation/google96a16df7dbeb77e9.html': 'google96a16df7dbeb77e9.html',
     'templates/validation/atlassian-domain-verification.html': 'atlassian-domain-verification.html',
+
     'templates/flywheels.html': 'flywheels.html',
     'templates/pages/index.html': 'index.html',
     'templates/pages/pricing.html': 'pricing/index.html',
@@ -67,6 +69,7 @@ TEMPLATE_PAGES = {
     'templates/pages/apphelp.html': 'apphelp/index.html',
     'templates/pages/clients.html': 'clients/index.html',
     'templates/pages/resources.html': 'resources/index.html',
+
 }
 SITEMAP_SAVE_AS = 'sitemap.xml'
 
