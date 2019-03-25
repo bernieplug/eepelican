@@ -69,6 +69,7 @@ TEMPLATE_PAGES = {
     'templates/pages/apphelp.html': 'apphelp/index.html',
     'templates/pages/clients.html': 'clients/index.html',
     'templates/pages/resources.html': 'resources/index.html',
+    'templates/pages/affiliate.html': 'pages/affiliate/index.html',
 
 }
 SITEMAP_SAVE_AS = 'sitemap.xml'
