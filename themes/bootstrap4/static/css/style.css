@@ -5,7 +5,7 @@ html,body,h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 }
 
 div.content {
-    padding-top: 4rem;
+    padding-top: 3rem;
 }
 
 nav.navbar {
@@ -14,7 +14,7 @@ nav.navbar {
 }
 
 .nav-link {
-    padding: 15px .5rem 15px .5rem;
+    padding: 0.5rem 1rem;
 }
 
 .nav-item>.out-nav-link {
@@ -34,7 +34,7 @@ div.footer {
 .btn-sign-up {
     padding-top: .1em;
     padding-bottom: .2em;
-    margin-top: .8rem;
+    margin-top: .35rem;
     margin-left: .5rem;
 }
 
