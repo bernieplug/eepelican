@@ -190,3 +190,9 @@ nav#footer {
 .feature-list-item {
     background-color: transparent;
 }
+
+/* blog styling */
+/* fix issue with references appearing on a new line */
+[id]::before {
+    content: none;
+}

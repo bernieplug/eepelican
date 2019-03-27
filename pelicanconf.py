@@ -95,7 +95,7 @@ BACK_TO_TOP = False
 
 # Plugins
 PLUGIN_PATHS = ["plugins"]
-PLUGINS = ["thumbnailer", "tipue_search",]
+PLUGINS = ["thumbnailer", ]  # "tipue_search",]
 
 # Thumbnailer
 IMAGE_PATH = 'images'
