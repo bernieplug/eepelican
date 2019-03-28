@@ -66,15 +66,3 @@ Source: [http://amzn.to/2fzUDrQ](http://amzn.to/2fzUDrQ)
 
 ### Conclusion
 At the end of this article we are still contemplating theories. The mystery of the disappearing list prices cannot be solved just yet. What do you as a seller need to do about this? First, know that days of the MSRP might be numbered. Amazon might be doing away with showing list prices altogether. While you can go ahead and raise tickets with Seller Support requesting an explanation for why your list prices are not showing, like a lot of systemic changes that Amazon makes, you may not get much by way of a satisfactory response. So don’t count on sales happening based on a comparison of perceived discounted value. Look for other ways to optimize your listing and make your product stand out. Time to revisit those images and bullet points.
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-
----
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/08/how-to-personalize-amazon-with-post-order-emails.html">![Post-Order Image](/images/blog/related/post-order-emails_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/what-you-should-do-about-amazonbasics.html">![Amazon Basics Image](/images/blog/related/amazon-basics-general_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/07/the-lowdown-on-super-urls.html">![Super URLs Image](/images/blog/related/super-urls_small.jpg)</a>

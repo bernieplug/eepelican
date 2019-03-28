@@ -46,16 +46,3 @@ And, although this goes without saying — if the program works out as intended,
 The introduction of this program might also lead to less reliance on follow-up emails for review generation. [In another recent article](https://efficientera.com/blog/2017/03/language-matters-writing-follow-up-emails-that-actually-get-read.html), we talked about how some customers are getting overwhelmed with review request emails, to the point that many refuse to leave a review or stop buying from sellers. With Early Reviewers taking some of the burden of review generation away from email automation, sellers will hopefully send fewer emails, or focus them more around customer service (which we recommend regardless). As a result, the stigma against follow-up emails could decrease a bit.
 
 Hopefully, Amazon’s algorithm will prevent gaming of the system (e.g. sellers pay customers under the table to buy their program-enrolled product and leave reviews), but we could still see it happening. Theoretically, the $50.00 minimum to leave a review should discourage malicious reviewers from constantly creating new accounts in order to avoid the “fake review history” status, and everything should work out smoothly. On the other hand, you should never underestimate the creativity of people looking to game the system.
-
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/12/4-strategies-to-address-the-cold-start-problem.html">![Cold-Start Image](/images/blog/related/address-cold-start_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/3-tips-for-optimizing-your-amazon-sponsored-products.html">![Sponsored Products Image](/images/blog/related/sponsored-products_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/07/the-lowdown-on-super-urls.html">![Super URLs Image](/images/blog/related/super-urls_small.jpg)</a>
-

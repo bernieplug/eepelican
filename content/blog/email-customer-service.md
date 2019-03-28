@@ -61,14 +61,3 @@ Just to be absolutely clear, we are *not* saying that you *shouldn’t* use emai
 
 This mindset might not dictate your exact content, but it very much affects the wording, structure, and overall “attitude” of the email. “Attitude” might be a bit of a vague term, but it can still come across in an email. Furthermore, don’t underestimate your customers — they can tell when a seller just wants them for their reviews, and when a seller actually cares about their experience.
 
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
----
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/07/why-customer-service-matters-on-amazon.html">![Customer Service Image](/images/blog/related/why-customer-service_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/how-to-respond-to-angry-customers-in-6-steps.html">![Angry Customers Image](/images/blog/related/respond-angry-customers_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/how-to-personalize-amazon-with-post-order-emails.html">![Post-Order Image](/images/blog/related/post-order-emails_small.jpg)</a>

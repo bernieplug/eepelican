@@ -60,15 +60,3 @@ As you read through the rest of the list, be thinking of how you might add some 
 **14) Psychology of the Season** [Gingerbread pancake mix] “Hustle and bustle can be stressful. Ginger, according to many, is calming, relaxing and rejuvenating. So when the hurry-up has you feeling down…”
 
 Are you hungry yet? Excited about applying some of these ideas in your own promotional writing? Just remember not to get carried away. It’s great fun to let your creativity go, and as long as you don’t over-spice your concoction, you’ll end up with a captivating description that amuses, interests and absorbs the reader, paragraph after paragraph, as it sells.
-
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
----
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/08/3-tips-for-optimizing-your-amazon-sponsored-products.html">![Sponsored Products Image](/images/blog/related/sponsored-products_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/what-you-should-do-about-amazonbasics.html">![Amazon Basics Image](/images/blog/related/amazon-basics-general_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/how-to-respond-to-angry-customers-in-6-steps.html">![Angry Customers Image](/images/blog/related/respond-angry-customers_small.jpg)</a>

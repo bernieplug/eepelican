@@ -79,14 +79,3 @@ So, the second option is definitely preferable in the long run, but the tradeoff
 Thanks to Listing Hijack Alerts, you’ll be able to catch hijackers earlier and deal with them before they flood you with negative reviews and counterfeit claims, or ruin your conversion rate with poor listing content. Unfortunately, the work doesn’t stop there, but the earlier you start the process of removing the hijacker, the less damage they’ll be able to do. 
 
 As a final note, if you aren’t already Brand Registered, you should seriously consider it — it will give you increased edit priority on your listings, to ensure that a random listing hijacker can’t edit your content. Unfortunately, Brand Registry won’t help against Amazon Retail or Amazon Warehouse Deals, but some defense is better than none. [Read our post on Brand Registry for more details.](https://efficientera.com/blog/2016/09/amazon-brand-registry.html)
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/09/listing-hijackers.html">![Listing Hijackers Image](/images/blog/related/listing-hijackers_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/09/amazon-overwriting-listings.html">![Overwriting Listings Image](/images/blog/related/overwrite-listings_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/09/amazon-brand-registry.html">![Brand Registry Image](/images/blog/related/brand-registry_small.jpg)</a>

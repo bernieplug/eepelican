@@ -38,13 +38,3 @@ one of the tools in <a href="https://sellercentral.amazon.com/apps/store/dp/amzn
 
 <p class="Class2">Learn more about how Efficient Era’s tools help at <a href="https://efficientera.com/alerts" target="_blank">https://efficientera.com/alerts</a>.
 </p>
-
-
-  <div class="row text-center" style="margin: 0%; padding: 0%">
-     <div class="text-center">
-      <a href="https://app.efficientera.com/signup/?" style="text-transform: uppercase;
-        background-color: darkorange; border-color: white; border-radius: 2px; color: white"
-        class="btn btn-info btn btn-primary btn-lg text-center" target="_blank" role="button">Start 30-Day Free Trial</a>
-         <br><h6 style="text-transform: uppercase;">No Credit Card Required</h6>
-     </div>
- </div>

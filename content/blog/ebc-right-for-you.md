@@ -97,14 +97,3 @@ A list of Enhanced Brand Content violations, compiled by CPC Strategy, is availa
 Overall, our advice is to start out slow: gather high-quality images for a few products and try out a couple of EBC pages, rather than adding shoddy images to all of your products all at once. Track the products you’ve enhanced, see if there’s any notable increase in conversions (enough to justify the cost), and add/remove more EBC pages as you see fit.  
 
 Have you tried out EBC on any of your products? What has your experience been with Amazon Support and/or conversion rates? Let us know in the comments below!
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/09/amazon-brand-registry.html">![Brand Registry Image](/images/blog/related/brand-registry_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/what-you-should-do-about-amazonbasics.html">![Amazon Basics Image](/images/blog/related/amazon-basics-general_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/3-tips-for-optimizing-your-amazon-sponsored-products.html">![Sponsored Products Image](/images/blog/related/sponsored-products_small.jpg)</a>

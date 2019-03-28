@@ -48,15 +48,3 @@ On Amazon’s end, the online marketplace conveniently launched [a new VAT Resou
 It’s unfortunate that HMRC and Amazon moved so slowly on the issue of VAT fraud, because the anti-competitive atmosphere of tax evasion hugely depresses sales for UK sellers and compliant foreign sellers alike. However, HMRC didn’t have the resources or the powers to regulate online marketplaces before March 2016, and Amazon didn’t have the strongest motivation to get involved — after all, they were making money off of fraudsters and legitimate retailers alike.
 
 Despite the passage of these new laws, the problem is far from solved. We’ll see if the continued efforts of interest groups and government powers make the European markets a friendlier place for legitimate sellers, or if we’ll see the same sorts of tax evasion that we’ve been seeing for the past 10 years.
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
----
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/08/how-vat-works-a-guide-to-eu-taxes.html">![VAT Image](/images/blog/related/how-vat-works_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/09/compilation-policy-changes.html">![Policy Compilation Image](/images/blog/related/policy-compilation_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/09/amazon-brand-gating.html">![Brand Gating Image](/images/blog/related/brand-gating_small.jpg)</a>
-

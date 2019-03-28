@@ -51,14 +51,3 @@ If you’re part of a larger company and you have access to an Account Manager, 
 To summarize, the appearance of these fake reviews is 1. weird and 2. concerning. The first batch of fake reviews seems so poorly constructed that no one could possibly doubt that they're fake, but it's still deeply worrying that these reviews are listed as 'Verified Purchase' without an order number to back them up. What will happen when more savvy individuals post fake 'Verified Purchase' reviews, but write the reviews legibly? Who could tell that they were fake? Product pages could take serious hits to their average star ratings if more companies began taking advantage of this ruthless and unethical tactic.
 
 Have you had any experience with these bizarre fake reviews — or even seen them on your own product pages? Let us know in the comments below! 
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/07/why-customer-service-matters-on-amazon.html">![Customer Service Image](/images/blog/related/why-customer-service_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/how-to-respond-to-angry-customers-in-6-steps.html">![Angry Customers Image](/images/blog/related/respond-angry-customers_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/07/the-lowdown-on-super-urls.html">![Super URLs Image](/images/blog/related/super-urls_small.jpg)</a>

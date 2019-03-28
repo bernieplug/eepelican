@@ -117,11 +117,3 @@ You should do the best that you can. You’ll be surprised how much anger will f
 Have any questions, comments, or additions? Leave them below!
 
 ***Still having problems with negative reviews? Learn our best strategies for preventing them before they even happen. Download our 6-step guide: [How to Prevent Negative Reviews on Amazon](https://efficientera.leadpages.co/freebie-negative-reviews/){:target="_blank"}.***
-
----
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/07/why-customer-service-matters-on-amazon.html">![Customer Service Image](/images/blog/related/why-customer-service_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/how-to-stay-compliant-when-soliciting-reviews.html">![Compliant Reviews Image](/images/blog/related/compliant-reviews_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/07/amazons-discounted-review-change-what-it-means.html">![Review Change Image](/images/blog/related/discounted-reviews_small.jpg)</a>

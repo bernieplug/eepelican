@@ -48,14 +48,3 @@ As we have been dealing with an uprising in these baseless spoof email complaint
 Robert is a third year law student at Hofstra University School of Law and a paralegal at Rosenbaum Famularo, P.C., AmazonSellersLawyer.com.*</font>
 
 ![Rosenbaum Famularo, P.C. (Amazon Sellers Lawyer Logo](/images/blog/2017/07/rosenbaum-famularo.jpg)
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2017/07/andon-cord-fba-suspensions-a-worrying-trend.html">![Andon Cord FBA Image](/images/blog/related/andon-cord-fba_small.jpg)</a>
-<a href="https://efficientera.com/blog/2017/06/amazon-suspension-series-selling-safety-infringing-items.html">![Safety Infringing Image](/images/blog/related/sellerengine-safety-infringing_small.jpg)</a>
-<a href="https://efficientera.com/blog/2017/05/product-warranties-for-sellers-protection-from-hijackers.html">![Product Warranties Image](/images/blog/related/cj-guest-warranty_small.jpg)</a>

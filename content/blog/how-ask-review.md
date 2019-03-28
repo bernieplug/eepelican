@@ -111,14 +111,3 @@ It’s impossible to cover all the ways that follow-up emails can provide value 
 Obviously, follow-up emails have become a complicated topic on Amazon. If I had to make a prediction, I’d say that I don’t like the way the winds are blowing. The state of follow-up emails at the moment is reminding me of the atmosphere right before [incentivized reviews were disallowed](https://efficientera.com/blog/2016/10/breaking-news-discount-reviews-prohibited.html) — customers complaining, Amazon suspending greater numbers of sellers, etc. Of course, follow-up emails aren’t really comparable to incentivized reviews: reviews are the lifeblood of Amazon’s platform, whereas follow-up emails are just a source of annoyance for some customers. Plus, Amazon has already introduced the ability for sellers to [opt out of third-party communications](https://efficientera.com/blog/2017/05/amazon-updates-opt-out-feature-for-non-critical-emails.html), as mentioned before. 
 
 Nevertheless, now is still a good time for sellers need to tread carefully and keep their heads down. Suspensions for review manipulation are still the exception rather than the rule, but it might be just a matter of time before they become the norm. We recommend changing your emails to a more neutral wording, just to stay on the safe side. Keep your ear to the ground, too — change might come quickly, and you want to stay on top of it. 
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2017/03/language-matters-writing-follow-up-emails-that-actually-get-read.html">![Language Matters Image](/images/blog/related/language-matters_small.jpg)</a>
-<a href="https://efficientera.com/blog/2017/02/email-automation-review-generation-or-customer-service.html">![Email Automation Image](/images/blog/related/email-customer-service_small.jpg)</a>
-<a href="https://efficientera.com/blog/2017/05/buyer-review-matching-dos-and-donts.html">![Buyer Review Dos and Don’ts Image](/images/blog/related/buyer-review-dos-donts_small.jpg)</a>

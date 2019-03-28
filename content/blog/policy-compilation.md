@@ -104,11 +104,3 @@ Expect this post to be updated as more changes appear. Let’s begin!
 	* [CNBC article about grandfathering update](http://www.cnbc.com/2016/09/02/amazon-says-new-1500-selling-fees-wont-apply-to-existing-merchants.html){:target="_blank"} 
 
 And there you have it! All the significant Amazon policy changes from the last few months. Again, this post will be updated when more major changes come up. 
-
----
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/08/how-to-stay-compliant-when-soliciting-reviews.html">![Compliant Reviews Image](/images/blog/related/compliant-reviews_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/07/the-lowdown-on-super-urls.html">![Super URLs Image](/images/blog/related/super-urls_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/07/amazons-discounted-review-change-what-it-means.html">![Review Change Image](/images/blog/related/discounted-reviews_small.jpg)</a>

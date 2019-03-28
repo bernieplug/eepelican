@@ -40,14 +40,3 @@ In order to make this precaution more manageable, you can use a password databas
 This one is fairly self-explanatory: you can enable email notifications any time your information or settings get changed on your Amazon Seller account. This way, even if all your other security measures fail, you can still get notified about a hacking attempt much more quickly than you would otherwise, and begin taking action immediately.
 
 There are, of course, numerous other safety measures that you can take on top of the above, but what we've listed here are probably the absolute minimum safety features you need to enable if you're serious about your business' security.
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/09/amazon-brand-gating.html">![Brand Gating Image](/images/blog/related/brand-gating_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/09/amazon-brand-registry.html">![Brand Registry Image](/images/blog/related/brand-registry_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/09/amazon-overwriting-listings.html">![Overwriting Listings Image](/images/blog/related/overwrite-listings_small.jpg)</a>

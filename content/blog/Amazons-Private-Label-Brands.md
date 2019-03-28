@@ -65,18 +65,3 @@ Top name brands are fearfully aware of the encroaching shadow that Amazon casts 
 Once Amazon dominates a particular market niche, they *WILL* have an unfair advantage because they control the algorithms on their platform and grant themselves more prominence in ad placements and product recommendations. Their steady expansion and aggressiveness in taking over every possible market is slowly becoming a reality. Amazon’s sheer perseverance to offer products at low prices continues to make such an impact on a vast spectrum that few other e-commerce sites can compete.
 
 
-
-
-
-
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2017/12/demystifying-amazon-returns-refunds-and-reimbursements.html">![Demystifying Refunds and Returns](/images/blog/related/returns-refunds-reimburements.png)</a>
-<a href="https://efficientera.com/blog/2017/12/are-you-at-risk-for-an-amazon-product-suspension.html">![Product Suspension](/images/blog/related/amazon-product-suspension2.jpg)</a>
-<a href="https://efficientera.com/blog/2017/11/amazons-brand-new-self-service-coupons.html">![Amazon Self Service Coupons ](/images/blog/related/amz-coupons-service.png)</a>

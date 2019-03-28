@@ -56,13 +56,3 @@ Lying low basically means trying to stay out of Amazon’s crosshairs. If you fi
 
 Have you run into competition from Amazon, either direct or indirect? What has your experience been? Tell us about it in the comments below!
 
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/08/what-you-should-do-about-amazonbasics.html">![Amazon Basics Image](/images/blog/related/amazon-basics-general_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/09/amazon-overwriting-listings.html">![Overwriting Listings Image](/images/blog/related/overwrite-listings_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/09/amazon-brand-registry.html">![Brand Registry Image](/images/blog/related/brand-registry_small.jpg)</a>

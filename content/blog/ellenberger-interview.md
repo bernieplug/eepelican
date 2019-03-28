@@ -91,14 +91,3 @@ We love exploring data and finding ways to answer our clients’ questions effic
 Our list analysis tool is a free tool that helps sort through long wholesale or liquidation lists to get basic profitability metrics and make short lists for further analysis. 
 
 Agile Merchant works closely with our clients to tailor our service to fit their needs. We’re always looking for ways we can turn data into action.
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/08/3-tips-for-optimizing-your-amazon-sponsored-products.html">![Sponsored Products Image](/images/blog/related/sponsored-products_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/12/4-strategies-to-address-the-cold-start-problem.html">![Cold-Start Image](/images/blog/related/address-cold-start_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/5-kinds-of-amazon-advice-you-should-ignore.html">![Ignore Advice Image](/images/blog/related/amazon-advice-guest-image_small.jpg)</a>

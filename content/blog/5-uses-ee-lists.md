@@ -66,14 +66,3 @@ If you found a review someone left on Amazon and know their nickname, you can se
 ### Conclusion
 
 That concludes our list of favorite use cases for Efficient Era’s Lists! Of course, this list is by no means exhaustive. If you come up with another clever way to use our Lists, or if you’ve tried one of the five use cases listed here, let us know in the comments below!
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2017/06/get-most-out-of-ad-analysis.html">![EE Ad Analysis Image](/images/blog/related/ee-ad-analysis_small.jpg)</a>
-<a href="https://efficientera.com/blog/2017/05/buyer-review-matching-dos-and-donts.html">![Buyer Review Dos and Don’ts Image](/images/blog/related/buyer-review-dos-donts_small.jpg)</a>
-<a href="https://efficientera.com/blog/2017/02/email-automation-review-generation-or-customer-service.html">![Email Automation Image](/images/blog/related/email-customer-service_small.jpg)</a>

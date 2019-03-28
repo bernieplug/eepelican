@@ -25,7 +25,7 @@ Summary: Like with every community, Amazon sellers have a few urban legends floa
 </p>
 
 <p class="text-center">
-<img src="/images/blog/2018/11/Buy-box-alerts.png" width=50% alt text="Buy Box Alerts">
+<img src="/images/thumbnails/blog/2018/11/Buy-box-alerts_medium.png" width=50% alt text="Buy Box Alerts">
 </p>
 
 
@@ -36,7 +36,7 @@ Summary: Like with every community, Amazon sellers have a few urban legends floa
 <a href="https://efficientera.com/ads/" target="_blank">Learn more about Sponsored Products Automation.</a>
 </p>
 
-![Sponsored Products Automation](/images/pages/ads-400.png)
+![Sponsored Products Automation](/images/thumbnails/pages/ads-400_medium.png)
 ###4.	You can just let your product listing sit
 <p class="Class2">Creating the product listing is the easy part. Driving sales to it is harder. If you put no effort into promoting your product listing, you’ll receive no sales either.
 </p>

@@ -33,14 +33,3 @@ Instead of taking any responsibility for the counterfeiting, the court let Amazo
 Plaintiff’s case against Amazon was dismissed because Amazon was not responsible for the infringement of a third-party, and could also not be held contributorily liable since Amazon took immediate action once it was notified of the third-party’s infringement.
 
 *For more information about the law and lawsuits that shape how Amazon conducts its business, check out [The Amazon Law Library](https://www.amazon.com/Amazon-Law-Library-CJ-Rosenbaum/dp/0692762221).*
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
----
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/08/5-kinds-of-amazon-advice-you-should-ignore.html">![Ignore Advice Image](/images/blog/related/amazon-advice-guest-image_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/09/amazon-brand-gating.html">![Brand Gating Image](/images/blog/related/brand-gating_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/09/compilation-policy-changes.html">![Policy Compilation Image](/images/blog/related/policy-compilation_small.jpg)</a>

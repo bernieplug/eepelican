@@ -40,14 +40,3 @@ It seems that Amazon made this change in order to more severely limit the abilit
 However, you might still fall into the category of sellers who rely on external links to provide customer service. Unfortunately, in this case, the new redirect page will hinder your efforts to provide the best experience for your customers, and there’s not much you can do about it. You might try to assure your customers that the redirect page is nothing to worry about, but that might come off as more suspicious than anything else. 
 
 Ultimately, it makes some sense why Amazon has made this change, but they caught some legitimately innocent sellers trying to provide the best experience for their customers in the crossfire. It’s unfortunate, but there’s little we can do about it, aside from rely more on off-Amazon marketing to serve these purposes. 
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2017/02/email-automation-review-generation-or-customer-service.html">![Email Automation Image](/images/blog/related/email-customer-service_small.jpg)</a>
-<a href="https://efficientera.com/blog/2017/03/language-matters-writing-follow-up-emails-that-actually-get-read.html">![Language Matters Image](/images/blog/related/language-matters_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/12/4-strategies-to-address-the-cold-start-problem.html">![Cold-Start Image](/images/blog/related/address-cold-start_small.jpg)</a>

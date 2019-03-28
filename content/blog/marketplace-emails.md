@@ -35,9 +35,3 @@ Is this good for customers? Yes, more control over email volume is good.
 
 Is this bad for sellers?  It’s a challenge. But customers who opt out of seller messaging were not likely to leave you a review anyway. As long as you are doing the right thing for the customer, this change is like one of many changes that Amazon has introduced over time to improve their obsessive commitment to customer satisfaction. 
 
-
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>

@@ -17,25 +17,10 @@ Summary: Building an external email list for your brand is a valuable way to rea
 . Redo your email signature. Eliminate any unnecessary text. An email facelift can do wonders to your email engagement rates.</p>
 <p class="Class2">Here’s an example of the email makeover that we did over the last year. As part of our email refresh, we added more images, centralized our text, and added a button for customers to link to our site. Once we started making these changes, we saw a significant boost in our engagement rates.</p>
 
-<div class="row">
-   <div class="col-lg-6">
-    <p class="text-center">
-    <img src="/images/blog/2018/04/OldEmail.png")  alt text="Email Automation for Amazon">
-    </p>
-   </div>
+![Email Automation for Amazon](/images/blog/2018/04/OldEmail.png)
+![Email Automation for Amazon](/images/blog/2018/04/EmailExample.png)
 
-   <div class="col-lg-6">
-    <p class="text-center">
-    <img src="/images/blog/2018/04/EmailExample.png") alt text="Email Automation for Amazon">
-    </p>
-   </div>
-
-</div>
-
-
-<p class="text-center">
-<i>Our old format vs the new format</i>
-</p>
+*Our old format vs the new format*
 
 
 
@@ -55,30 +40,3 @@ Summary: Building an external email list for your brand is a valuable way to rea
 
 ###Conclusion
 <p class="Class2">Creating engaging email campaigns can be challenging, but it’s ultimately a fun and rewarding experience. There are plenty of ways you can spruce up your email newsletters, but these are the main categories that can directly affect your engagement rates. Always strive to improve your emails and you will see those leads convert to sales.</p>
-
-
----
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<div class="row">
-    <div class="col-lg-4">
-        <a href="https://efficientera.com/blog/2018/03/bsr-keyword-ranking-or-amazons-choice-which-one-brings-you-more-eyeballs.html" target="_blank" alt="amazon sales funnel">
-            <img src="/images/category/bsr.png">
-        </a>
-    </div>
-    <div class="col-lg-4">
-        <a href="https://efficientera.com/blog/2018/01/everything-you-wanted-to-know-about-building-your-amazon-sales-funnel.html" target="_blank" alt="amazon sales funnel">
-            <img src="/images/category/marketing-products.png">
-        </a>
-    </div>
-    <div class="col-lg-4">
-        <a href="https://efficientera.com/blog/2018/03/does-your-external-email-list-convert-on-amazon.html" target="_blank" alt="off amazon emails">
-            <img src="/images/category/external-email-tracker.png">
-        </a>
-    </div>
-</div>
-
-
-
-

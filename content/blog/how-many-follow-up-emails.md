@@ -112,12 +112,3 @@ Unsubscribe: We send just one email to confirm every order. Reply “unsubscribe
 当製品をご使用になりましたら、もしよろしければご感想をお聞かせください。弊社はお客様からのフィードバックを、弊社製品の今後の品質向上に活かしてまいりたいと考えております。
 もしもお時間があるようでしたら、アマゾン・ジャパン様へ製品レビューをお寄せいただければ大変ありがたく思います。
 
-
-
----
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/08/how-to-personalize-amazon-with-post-order-emails.html">![Post-Order Image](/images/blog/related/post-order-emails_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/what-you-should-do-about-amazonbasics.html">![Amazon Basics Image](/images/blog/related/amazon-basics-general_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/07/the-lowdown-on-super-urls.html">![Super URLs Image](/images/blog/related/super-urls_small.jpg)</a>

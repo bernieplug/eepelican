@@ -90,15 +90,3 @@ Of course, providing great customer service means more than just attaching a man
 If you want to get started with follow-up email automation with Efficient Era, [sign up for our free, 30-day trial by clicking here](https://app.efficientera.com/signup/)!
 
 How are you approaching follow-up emails? Share your strategies or questions in the comments below!
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2017/03/language-matters-writing-follow-up-emails-that-actually-get-read.html">![Language Matters Image](/images/blog/related/language-matters_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/how-to-respond-to-angry-customers-in-6-steps.html">![Angry Customers Image](/images/blog/related/respond-angry-customers_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/07/why-customer-service-matters-on-amazon.html">![Customer Service Image](/images/blog/related/why-customer-service_small.jpg)</a>
-

@@ -75,31 +75,3 @@ Summary: Amazon does not want you to contact buyers. So how do you build a susta
 <p class="Class2">Stay in the know when we publish posts like these. Subscribe to our blog!</p>
 </p>
 
-
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-
----
-
-<p class="Class2"><font color="FF751A">If you liked this article, take a look at some of our others!</font></p>
-<br>
-
-<div class="row">
-    <div class="col-lg-4">
-        <a href="https://efficientera.com/blog/2018/07/10-Amazon-FBA-success-stories.html" target="_blank" alt="amazon sales funnel">
-            <img src="/images/category/10-FBA-success-stories.png">
-        </a>
-    </div>
-    <div class="col-lg-4">
-        <a href="https://efficientera.com/blog/2018/09/manually-optimizing-your-sponsored-products-ads.html" target="_blank" alt="amazon sales funnel">
-            <img src="/images/category/optimize-ads.png">
-        </a>
-    </div>
-    <div class="col-lg-4">
-        <a href="https://efficientera.com/blog/2018/06/25-keyword-tools-for-amazon-sellers.html" target="_blank" alt="off amazon emails">
-            <img src="/images/category/25-keyword-tools.png">
-        </a>
-    </div>
-</div>
-
-

@@ -73,14 +73,3 @@ More specifically, for a mature campaign:
 Data is vital when you're selling on Amazon, but being able to interpret that data correctly and make decisions from it is the real key. In our Ad Analysis tool, we've put together the graphs which display your ad data in the most actionable format possible, so that you can best understand where your advertising is going well (or poorly) and respond in fashion. 
 
 To try out our ad analysis tool for yourself, in addition to getting access to our fantastic suite of other seller tools, [click here and sign up for our 60-day free trial, no credit card required](https://app.efficientera.com/signup/?).
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/08/3-tips-for-optimizing-your-amazon-sponsored-products.html">![Sponsored Products Image](/images/blog/related/sponsored-products_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/how-to-respond-to-angry-customers-in-6-steps.html">![Angry Customers Image](/images/blog/related/respond-angry-customers_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/09/listing-hijackers.html">![Listing Hijackers Image](/images/blog/related/listing-hijackers_small.jpg)</a>

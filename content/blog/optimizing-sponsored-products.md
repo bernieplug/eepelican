@@ -86,29 +86,4 @@ are both great ways to achieve sustainable growth on Amazon.
 and <a href="https://www.seeprecisely.com/" target="_blank">Precisely</a>. Mike and his team have been able to achieve incredible growth on the Amazon platform for their clients by optimizing and managing their accounts, creating in-depth content marketing strategies and running effective off-platform marketing campaigns.
 
 
----
-
-<font color="FF751A">If you liked this article, take a look at some of our others!</font>
-<br>
-
-<div class="row">
-    <div class="col-lg-4">
-        <a href="https://efficientera.com/blog/2018/07/10-Amazon-FBA-success-stories.html" target="_blank" alt="amazon sales funnel">
-            <img src="/images/category/10-FBA-success-stories.png">
-        </a>
-    </div>
-    <div class="col-lg-4">
-        <a href="https://efficientera.com/blog/2018/01/everything-you-wanted-to-know-about-building-your-amazon-sales-funnel.html" target="_blank" alt="amazon sales funnel">
-            <img src="/images/category/marketing-products.png">
-        </a>
-    </div>
-    <div class="col-lg-4">
-        <a href="https://efficientera.com/blog/2018/06/25-keyword-tools-for-amazon-sellers.html" target="_blank" alt="off amazon emails">
-            <img src="/images/category/25-keyword-tools.png">
-        </a>
-    </div>
-</div>
-
-
-
 

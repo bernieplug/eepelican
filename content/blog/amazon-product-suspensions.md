@@ -60,15 +60,3 @@ A product suspension can lead to an account suspension. If there are continual p
 ###Conclusion
 Selling can be a daunting task with little guidance! There is no doubt that products will be suspended but keeping a proactive approach to your business and buyer reviews will significantly reduce the chance of a suspension. As a first step, understanding how Amazon's suspensions work is key. Next, make sure you are monitoring your products and reviews to avoid violations.The more you know about your product and the buyer's experience, the more you can grow a healthy business.
 
-
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2017/07/andon-cord-fba-suspensions-a-worrying-trend.html">![Andon Cord FBA Image](/images/blog/related/andon-cord-fba_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/12/4-strategies-to-address-the-cold-start-problem.html">![Cold-Start Image](/images/blog/related/address-cold-start_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/09/listing-hijackers.html">![Listing Hijackers Image](/images/blog/related/listing-hijackers_small.jpg)</a>

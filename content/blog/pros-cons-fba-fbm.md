@@ -137,14 +137,3 @@ Besides the characteristics of the product, you also need to consider your compe
 
 Finally, make sure you use the (above-mentioned) FBA Revenue Calculator if you’re thinking about switching a product to FBA. [Click here to access the FBA Calculator](https://sellercentral.amazon.com/hz/fba/profitabilitycalculator/index?lang=en_US). 
 
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2017/07/andon-cord-fba-suspensions-a-worrying-trend.html">![Andon Cord FBA Image](/images/blog/related/andon-cord-fba_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/12/4-strategies-to-address-the-cold-start-problem.html">![Cold-Start Image](/images/blog/related/address-cold-start_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/09/listing-hijackers.html">![Listing Hijackers Image](/images/blog/related/listing-hijackers_small.jpg)</a>

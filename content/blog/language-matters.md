@@ -76,16 +76,3 @@ Of course, there’s one big rub to all this advice: writing is hard. Copywritin
 <a href="https://www.marketingwords.com/products/review-advantage-ebook/">![Karon Thackston Ebook](/images/blog/2017/03/review-advantage-small.png)</a>
 
 If you want to know more about crafting the perfect follow-up emails, we have a great deal for you! Karon Thackston of [MarketingWords.com](http://marketingwords.com/) has released a new ebook that goes over every detail of creating follow-up emails that actually work. Here’s the best part — as a loyal Efficient Era blog reader, you can use the promo code **review10** to get this excellent ebook for $10 off! **[Check out and purchase the ebook by clicking here.](https://www.marketingwords.com/products/review-advantage-ebook/)**
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
----
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/07/why-customer-service-matters-on-amazon.html">![Customer Service Image](/images/blog/related/why-customer-service_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/how-to-personalize-amazon-with-post-order-emails.html">![Post-Order Image](/images/blog/related/post-order-emails_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/how-to-respond-to-angry-customers-in-6-steps.html">![Angry Customers Image](/images/blog/related/respond-angry-customers_small.jpg)</a>

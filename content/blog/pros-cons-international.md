@@ -74,14 +74,3 @@ Taking your sales overseas is a big leap. Even in an increasingly connected worl
  
 If you do decide to go overseas, however, you’ll find that it can be a very rewarding experience. If your growth was stagnating a bit in America, you might find yourself shooting up the rankings in Europe and beyond, increasing profits to boot. Getting a foothold on the international market will increase sales, solidify your brand’s standing, and continuously present new opportunities for expansion. If you can manage it, you should try it.
 
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/08/how-vat-works-a-guide-to-eu-taxes.html">![VAT Image](/images/blog/related/how-vat-works_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/09/pan-european-fba.html">![Pan-European FBA Image](/images/blog/related/pan-european-fba_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/3-tips-for-optimizing-your-amazon-sponsored-products.html">![Sponsored Products Image](/images/blog/related/sponsored-products_small.jpg)</a>

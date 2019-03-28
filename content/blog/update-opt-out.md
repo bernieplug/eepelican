@@ -30,14 +30,3 @@ However, this feature poses a much bigger problem: it hurts sellers who strive t
 If we are to come together as customer-oriented sellers and convince Amazon to change their mind, it’s incredibly important that we discipline ourselves in our use of follow-up emails. The most likely explanation behind this policy change is a litany of complaints from customers who felt as though they were receiving too many seller emails. Indeed, after the ban on incentivized reviews, sellers have been relying more and more on follow-up emails to gain advantages, sometimes sending huge excesses of messages to buyers. This type of behavior not only doesn’t work — buyers get irritated after too many messages, becoming less responsive — it also leads to increased complaints, which in turn lead policies like the one we’re seeing now. At the end of the day, these policies further homogenize the marketplace and reduce individual differences between sellers, making it more difficult for the best sellers to stand out from the crowd.
 
 Of course, there is a glass-half-full take on this: customers who chose to opt out of seller messages might have been less inclined to open or respond to those emails in the first place, so there may not be a huge loss in conversion rate, despite reaching fewer customers. However, if this feature was introduced as a bundle with an existing “opt out of marketing” option, customers who would have otherwise been receptive to seller emails may have unintentionally opted out, hurting both sellers and customers.
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
----
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/08/how-to-respond-to-angry-customers-in-6-steps.html">![Angry Customers Image](/images/blog/related/respond-angry-customers_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/3-tips-for-optimizing-your-amazon-sponsored-products.html">![Sponsored Products Image](/images/blog/related/sponsored-products_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/what-you-should-do-about-amazonbasics.html">![Amazon Basics Image](/images/blog/related/amazon-basics-general_small.jpg)</a>

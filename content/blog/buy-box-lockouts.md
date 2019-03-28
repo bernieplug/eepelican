@@ -45,14 +45,3 @@ It’s unclear whether this is intended behavior by Amazon, because in its curre
 However, with the algorithm behaving as it is, we strongly caution against lowering your products’ prices below a reasonable margin. It seems as though, even with all other variables in the right places, you could still lose the buy box by not beating *yourself* on price. Instead, you’ll likely have to put your products on sale rather than directly lowering your prices until we know more about this.
  
 What’s worse, Amazon won’t notify you about losing the buy box if something like this ever happens to you… Thankfully, Efficient Era is working on a new Buy Box Alerts tool to notify you if you ever you lose the buy box! Stay tuned for the release, coming in the next few months.
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/08/what-you-should-do-about-amazonbasics.html">![Amazon Basics Image](/images/blog/related/amazon-basics-general_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/how-vat-works-a-guide-to-eu-taxes.html">![VAT Image](/images/blog/related/how-vat-works_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/07/the-lowdown-on-super-urls.html">![Super URLs Image](/images/blog/related/super-urls_small.jpg)</a>

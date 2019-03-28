@@ -77,13 +77,3 @@ Plus, seller feedback is a great way to generate a few extra reviews by appealin
 
 So, you definitely shouldn’t ignore your seller feedback, regardless of how strange it seems in the broader scheme of things. Keeping a close eye on it is one of many keys to successful sellers on Amazon, and it’s absolutely worth doing if you want your business to thrive for years to come. 
 
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/10/seller-feedback-follow-ups.html">![Seller Feedback Image](/images/blog/related/seller-feedback-follow-ups_small.jpg)</a>
-<a href="https://efficientera.com/blog/2017/02/email-automation-review-generation-or-customer-service.html">![Email Automation Image](/images/blog/related/email-customer-service_small.jpg)</a>
-<a href="https://efficientera.com/blog/2017/08/how-to-ask-for-a-review.html">![How to Ask for a Review Image](/images/blog/related/how-ask-review_small.jpg)</a>

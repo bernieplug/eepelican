@@ -95,15 +95,3 @@ Note that, in order for the order matching to work, they have to have a) placed 
 With a system of mitigating negative reviews and encouraging positive reviews set up, an easy method of dealing with negative reviews when they pop up, and a brand and marketing force working to generate sales and reviews in the first place, you should be all set to solve the cold-start problem!
 
 No matter what, it will be slow-going at first. It’s all about getting over that hump. As long as you can get those first few reviews, the flywheel will start turning, sales and reviews will feed into more sales and more reviews, and you’ll be off to the races. Any questions or comments? Feel free to leave them below!
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
----
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/08/how-to-respond-to-angry-customers-in-6-steps.html">![Angry Customers Image](/images/blog/related/respond-angry-customers_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/3-tips-for-optimizing-your-amazon-sponsored-products.html">![Sponsored Products Image](/images/blog/related/sponsored-products_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/what-you-should-do-about-amazonbasics.html">![Amazon Basics Image](/images/blog/related/amazon-basics-general_small.jpg)</a>
-

@@ -102,16 +102,3 @@ Plus, if Amazon decided your product was worth targeting, that means you were do
 Another thing to remember: Amazon makes a huge chunk of its revenue from third-party sellers. 45% of Amazon’s sales came from third-party sellers in 2015, despite the fact that AmazonBasics alone launched almost 300 new products that year. Third-party sellers aren’t going anywhere any time soon, even though it may feel like it sometimes. 
 
 Have any questions, comments, or additions? As always, leave them below!
-
----
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/07/the-lowdown-on-super-urls.html">![Super URLs Image](/images/blog/related/super-urls_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/how-to-personalize-amazon-with-post-order-emails.html">![Post-Order Image](/images/blog/related/post-order-emails_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/07/why-customer-service-matters-on-amazon.html">![Customer Service Image](/images/blog/related/why-customer-service_small.jpg)</a>
-
-
-
-
-

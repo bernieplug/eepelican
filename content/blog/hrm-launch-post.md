@@ -57,14 +57,3 @@ Consult this blog post for our list of the dos and don’ts of Buyer-Review Matc
 If you have any more questions about Historic Review Matching, just email [support@efficientera.com](mailto:support@efficientera.com). 
 
 Other than that, enjoy your newly matched reviews! We’re very excited to finally launch this feature, as so many people have requested it and it’s a huge boon to any Amazon seller’s business. It’s extraordinarily valuable to be able to get in touch with your customers, find out why they had a bad experience, and take steps to make it better. Your business will thrive as buyers old and new learn how committed you are to customer service. Go out there and make your customers happy!
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2017/05/buyer-review-matching-dos-and-donts.html">![Buyer Review Dos and Don’ts Image](/images/blog/related/buyer-review-dos-donts_small.jpg)</a>
-<a href="https://efficientera.com/blog/2017/03/language-matters-writing-follow-up-emails-that-actually-get-read.html">![Language Matters Image](/images/blog/related/language-matters_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/10/seller-feedback-follow-ups.html">![Seller Feedback Image](/images/blog/related/seller-feedback-follow-ups_small.jpg)</a>

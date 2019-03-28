@@ -82,13 +82,3 @@ Amazon sellers that receive letters from law firms alleging an intellectual prop
 <sup>2</sup> *See* [https://www.amazon.com/gp/help/reports/infringement](https://www.amazon.com/gp/help/reports/infringement) (“Amazon respects a manufacturer's right to enter into exclusive distribution agreements for its products. However, violations of such agreements do not constitute intellectual property rights infringement. As the enforcement of these agreements is a matter between the manufacturer and the retailers, it would not be appropriate for Amazon to assist in enforcement activities.”).
 </p>
 
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2017/05/product-warranties-for-sellers-protection-from-hijackers.html">![Product Warranties Image](/images/blog/related/cj-guest-warranty_small.jpg)</a>
-<a href="https://efficientera.com/blog/2017/06/amazon-suspension-series-selling-safety-infringing-items.html">![Safety Infringing Image](/images/blog/related/sellerengine-safety-infringing_small.jpg)</a>
-<a href="https://efficientera.com/blog/2017/08/amazons-private-label-brands-should-you-be-worried.html">![Amazon Private Label Image](/images/blog/related/amz-private-label_small.jpg)</a>

@@ -96,14 +96,3 @@ Waiting this long is also important because Amazon attributes a sale to a click 
 The same advice holds for keyword performance. Week-to-week keyword performance can vary wildly, so to get the big picture, you need to wait for around a month before adjusting bids or removing keywords. For the same reasons, be sure to look at the cumulative data over that entire month rather than weekly performance. Otherwise, slumps or surges could affect your judgment.
 
 Have you run high-ACoS campaigns in the past? What have your experiences been? Let us know in the comments!
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/08/3-tips-for-optimizing-your-amazon-sponsored-products.html">![Sponsored Products Image](/images/blog/related/sponsored-products_small.jpg)</a>
-<a href="https://efficientera.com/blog/2017/06/get-most-out-of-ad-analysis.html">![EE Ad Analysis Image](/images/blog/related/ee-ad-analysis_small.jpg)</a>
-<a href="https://efficientera.com/blog/2017/08/headline-search-ads-a-new-frontier-for-branded-advertising.html">![Headline Search Ads Image](/images/blog/related/headline-search-ads_small.jpg)</a>

@@ -77,14 +77,3 @@ If you want to start playing the influencer game on Amazon, Spark is the place f
 
 What are your thoughts on Spark? Have you tried any marketing on the platform yet? Let us know in the comments below!
 
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/08/3-tips-for-optimizing-your-amazon-sponsored-products.html">![Sponsored Products Image](/images/blog/related/sponsored-products_small.jpg)</a>
-<a href="https://efficientera.com/blog/2017/06/get-most-out-of-ad-analysis.html">![EE Ad Analysis Image](/images/blog/related/ee-ad-analysis_small.jpg)</a>
-<a href="https://efficientera.com/blog/2017/03/language-matters-writing-follow-up-emails-that-actually-get-read.html">![Language Matters Image](/images/blog/related/language-matters_small.jpg)</a>

@@ -72,7 +72,7 @@ From keyword research, to ranking, to bidding, to new keyword discovery, these t
 <p class="Class2">This collection of tools includes a keyword generator, rank tracker, and a backend keyword extractor. More recently, it came out with a search volume estimation tool that provides exact and broad match results.
 
 </p>
-###8. <a href="https://helium10.com/#" target="_blank">Helium 10
+###8. <a href="https://helium10.com/#" target="_blank">Helium 10</a>
 
 <p class="Class2">Ideal for advanced users, Helium 10 offers over 20 different tools related to keywords. Some of their more popular ones include Cerebro and Magnet that help track keyword ranks as well as competition.
 </p>

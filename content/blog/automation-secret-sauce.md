@@ -88,14 +88,3 @@ There’s not much else to say, other than this: automation is great, and you sh
 Seriously, though, automation is practically necessary to take your business to the next level, scale effectively, and compete with other major sellers. It’s not hard to see why: it accomplishes a ton without any effort required on your part other than occasional monitoring and edits. 
 
 If you want to get started with all of our automation services now, [sign up for your free 60-day trial of Efficient Era today](https://app.efficientera.com/signup/?)!
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2017/07/andon-cord-fba-suspensions-a-worrying-trend.html">![Andon Cord FBA Image](/images/blog/related/andon-cord-fba_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/12/4-strategies-to-address-the-cold-start-problem.html">![Cold-Start Image](/images/blog/related/address-cold-start_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/09/listing-hijackers.html">![Listing Hijackers Image](/images/blog/related/listing-hijackers_small.jpg)</a>

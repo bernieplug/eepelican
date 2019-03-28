@@ -48,14 +48,3 @@ And then, in the lower center, stepping back again to our dashboard, we have an 
 And lastly, going back to the dashboard, on the lower right hand corner, we see the VAT invoice section. We sell globally, in every Amazon market we can: one of the amazing things about Amazon is that it lets small sellers sell globally. But, you run into tax and regulatory troubles, and one of those troubles is that your European customers are going to be asking for VAT invoices. It’s a big hassle to do those one-by-one for orders on Amazon, where each individual order might be small. So, we’ve totally automated the process, and we provide it to everybody who is selling in Europe! 
 
 So there you go! That was a walkthrough of the Efficient Era dashboard. There’s a lot here that I wasn’t even able to dive into, so that’s one of the reasons why we give you a long, 60-day free trial for the Efficient Era tools. It lets you have a chance to really use them and figure out whether this tool is worth it for you, both in terms of cost and in terms of time. We’ve tried to make the tools affordable, and we’ve tried to give you enough time to really understand how it’s going to help your business as it’s helped us grow an 8-figure Amazon selling business. So, thanks for watching, and if you have any questions at all, please feel free to ask below. Thanks!
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2017/06/get-most-out-of-ad-analysis.html">![EE Ad Analysis Image](/images/blog/related/ee-ad-analysis_small.jpg)</a>
-<a href="https://efficientera.com/blog/2017/07/5-clever-actionable-uses-for-efficient-eras-lists.html">![5 Uses EE Lists Image](/images/blog/related/5-uses-ee-lists_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/how-vat-works-a-guide-to-eu-taxes.html">![VAT Image](/images/blog/related/how-vat-works_small.jpg)</a>

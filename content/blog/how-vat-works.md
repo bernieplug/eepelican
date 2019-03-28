@@ -152,11 +152,3 @@ If you need additional help — and you likely will at some point, seeing as thi
 If you have any other questions or comments for us, however, please let us know below!
 
 <font color="B0B0B0">*Tags: Amazon, VAT, MwSt, TVA, IVA, Mehrwertsteuer, Taxe sur la Valeur Ajoutée, Impuesto al Valor Agregado, Imposta sul Valore Aggiunto*</font>
-
----
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/08/how-to-personalize-amazon-with-post-order-emails.html">![Post-Order Image](/images/blog/related/post-order-emails_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/how-to-respond-to-angry-customers-in-6-steps.html">![Angry Customers Image](/images/blog/related/respond-angry-customers_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/09/compilation-policy-changes.html">![Policy Compilation Image](/images/blog/related/policy-compilation_small.jpg)</a>

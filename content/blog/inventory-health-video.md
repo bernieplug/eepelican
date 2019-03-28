@@ -69,14 +69,3 @@ I use those all the time as a trigger to look back at these charts to say “oh,
 ### Conclusion
 
 So there you go! This is just one of many tools that Efficient Era has. It’s always difficult to tell whether tools are worth it for you, so we try to make it easy.  Join Efficient Era, and we give you a (very long) 30-day free trial to try out the Inventory Health analysis tool, *and* all of our other tools, including: Post-Order Emails, and a bunch of other stuff that is all intended to help you build your brand and protect your brand. So, hope that was useful, and thank you for trying the Efficient Era toolset! We hope it helps your business.
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2017/07/5-clever-actionable-uses-for-efficient-eras-lists.html">![5 Uses EE Lists Image](/images/blog/related/5-uses-ee-lists_small.jpg)</a>
-<a href="https://efficientera.com/blog/2017/08/amazons-private-label-brands-should-you-be-worried.html">![Amazon Private Label Image](/images/blog/related/amz-private-label_small.jpg)</a>
-<a href="https://efficientera.com/blog/2017/06/get-most-out-of-ad-analysis.html">![EE Ad Analysis Image](/images/blog/related/ee-ad-analysis_small.jpg)</a>

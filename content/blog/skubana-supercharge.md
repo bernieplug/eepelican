@@ -109,14 +109,3 @@ That way, you will always be in the perfect position to offer your customers the
 *<font color="gray">Crucial Vacuum and Skubana Founder Chad Rubin grew his e-commerce business to an 8-figure business in 7 years. He is a Top 250 Amazon Seller, and co-founded [Skubana](http://skubana.com/) as an all-in-one ERP system and operations platform designed for high volume sellers to run and automate their business. It integrates with most e-commerce marketplaces, 3PLs, and warehouses, provides profitability and multi-channel inventory management, and compiles all of your marketplaces on a single convenient dashboard. Learn more at [info@skubana.com](mailto:info@skubana.com) or [sign up here](https://app.skubana.com/signup).</font>*
 
 *<font color="gray">Follow Chad on Twitter [@ecommrenegade](https://twitter.com/ecommrenegade) or connect with him on LinkedIn at [linkedin.com/in/ecommercerenegade](https://www.linkedin.com/in/ecommercerenegade).</font>*
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/08/3-tips-for-optimizing-your-amazon-sponsored-products.html">![Sponsored Products Image](/images/blog/related/sponsored-products_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/12/4-strategies-to-address-the-cold-start-problem.html">![Cold-Start Image](/images/blog/related/address-cold-start_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/what-you-should-do-about-amazonbasics.html">![Amazon Basics Image](/images/blog/related/amazon-basics-general_small.jpg)</a>

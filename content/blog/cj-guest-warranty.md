@@ -109,14 +109,3 @@ This is a program that was pioneered in the UK in 2016, and was rolled out to th
 At the end of the day, your best bet is to opt for a product warranty. The pros far outweigh the cons, and the latter can easily be avoided by following best practices and acquiring Amazon’s approval.
 
 Need help figuring out how to get your warranties set up? Want to learn new ways to protect your product listings from current or future hijackers? Get in touch with our team today.
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/09/listing-hijackers.html">![Listing Hijackers Image](/images/blog/related/listing-hijackers_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/09/amazon-brand-gating.html">![Brand Gating Image](/images/blog/related/brand-gating_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/09/amazon-brand-registry.html">![Brand Registry Image](/images/blog/related/brand-registry_small.jpg)</a>

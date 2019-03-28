@@ -83,11 +83,3 @@ However, there is one major difficulty that could come up — your products lack
 Looking to the future, Brand Registry may begin to offer more concrete anti-counterfeit benefits. Amazon has made it clear that they value the trustworthiness of their marketplace, meaning they value brands over the unreliable resellers that haunt branded listings. First, [gated brands](https://efficientera.com/blog/2016/09/amazon-brand-gating.html){:target="_blank"} got protection; next, private-label sellers of all sizes might get similar protections. Don’t expect an announcement tomorrow, but keep an eye out for any news.
 
 Have any questions or additions? As always, leave your comments below!
-
----
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/09/amazon-brand-gating.html">![Brand Gating Image](/images/blog/related/brand-gating_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/3-tips-for-optimizing-your-amazon-sponsored-products.html">![Sponsored Products Image](/images/blog/related/sponsored-products_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/07/the-lowdown-on-super-urls.html">![Super URLs Image](/images/blog/related/super-urls_small.jpg)</a>

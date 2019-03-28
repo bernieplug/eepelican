@@ -76,14 +76,3 @@ This seems to be another case of Amazon favoring customers at the expense of sel
 It appears that Amazon is taking a ‘better-safe-than-sorry’ approach with these andon cord warnings, but as sellers, we’re concerned that this system grants too much power to arbitrary support agents. There’s a case to be made for an andon cord system to be implemented alongside statistical methods, but it should be done with more oversight, and a product’s suspension shouldn’t hinge upon the subjective opinion of a single support agent. 
 
 Have you had any experience with these andon cord warnings? How have you dealt with them, if you were able? Leave your responses in the comments!
-
----
-
-<!--Added this section from Leadboxes-->
-<a class="btn btn-primary" href="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" target="_blank">Subscribe via Email</a><script data-leadbox="121f91a73f72a2:12c54680e746dc" data-url="https://efficientera.leadpages.co/leadbox/121f91a73f72a2%3A12c54680e746dc/5687539843203072/" data-config="%7B%7D" type="text/javascript" src="https://efficientera.leadpages.co/leadbox-1468522675.js"></script>
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/09/amazon-overwriting-listings.html">![Overwriting Listings Image](/images/blog/related/overwrite-listings_small.jpg)</a>
-<a href="https://efficientera.com/blog/2017/03/language-matters-writing-follow-up-emails-that-actually-get-read.html">![Language Matters Image](/images/blog/related/language-matters_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/09/listing-hijackers.html">![Listing Hijackers Image](/images/blog/related/listing-hijackers_small.jpg)</a>

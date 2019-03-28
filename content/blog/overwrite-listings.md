@@ -91,11 +91,3 @@ I wish I could offer a simple solution to this problem. Unfortunately, neither s
 If these listing overwrites continue to cause problems for you, your best hope is that Amazon becomes aware of this problem at a higher level and does something about it. Even notifying sellers when their listings are overwritten would be a step in the right direction. However, we both know Amazon — they're not known for being the most responsive company. Don’t hold your breath for a sudden change in policy.
 
 Any questions or additions? Have you had your listings overwritten by Amazon? If so, were you able to deal with it successfully? Leave your comments below! 
-
----
-
-#### <font color="FF751A">If you liked this article, take a look at some of our others!</font>
-
-<a href="https://efficientera.com/blog/2016/09/amazon-brand-registry.html">![Brand Registry Image](/images/blog/related/brand-registry_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/09/amazon-brand-gating.html">![Brand Gating Image](/images/blog/related/brand-gating_small.jpg)</a>
-<a href="https://efficientera.com/blog/2016/08/how-to-respond-to-angry-customers-in-6-steps.html">![Angry Customers Image](/images/blog/related/respond-angry-customers_small.jpg)</a>
