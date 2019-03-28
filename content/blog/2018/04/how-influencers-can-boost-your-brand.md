@@ -2,7 +2,7 @@ Title: How Influencers Can Boost Your Brand
 Author: Annika L.
 Category: News
 Date: 2018-04-26 13:00
-Image: /2018/04/influencers.png
+Image: 2018/04/influencers.png
 Tags: Marketing
 Summary: A marketing trend that’s seen a dramatic rise in popularity over recent years is influencer marketing.
 

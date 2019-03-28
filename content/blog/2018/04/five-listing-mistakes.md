@@ -2,7 +2,7 @@ Title: 5 Common Product Listings Mistakes
 Author: Annika L.
 Category: News
 Date: 2018-04-17 11:00
-Image: /2018/04/5CommonProductListingMistakes.png
+Image: 2018/04/5CommonProductListingMistakes.png
 Tags: Product Launch
 Summary: Creating a great product listing is a time-consuming process and you don't want to rush it! Here are 5 common mistakes to avoid.
 
