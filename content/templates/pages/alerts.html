@@ -1,0 +1,416 @@
+{% extends 'base.html' %}
+
+{% block head %}
+    <title>{{ SITENAME }} - Alerts</title>
+{% endblock %}
+
+{% block meta %}
+    <meta name="save_as" content="alerts/index.html" />
+{% endblock %}
+
+{% block content %}
+    <div class="row animated-row">
+        <div class="offset-xl-1 col-xl-10 col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="row pt-5">
+                <div class="col">
+                    <h2 class="text-center">Alerts</h2>
+                    <h3 class="text-center">24/7 ASIN Monitoring</h3>
+                </div>
+            </div>
+            <div class="row py-5">
+                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 align-self-center">
+                    <div class="row">
+                        <div class="col">
+                            <ul>
+                                <li><h4>Catch hijackers before they capture your sales</h4></li>
+                                <li><h4>Know when Amazon is steering away sales to your competitors</h4></li>
+                                <li><h4>Catch Amazon suspended ASINs in hours instead of days</h4></li>
+                                <li><h4>Get notified when you lose the buy box</h4></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <div class="d-flex justify-content-center">
+                                <a class="btn btn-ee" href="https://app.efficientera.com/signup/" target="_blank" onclick="handleSignup();">Stop Losing Sales Now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6 py-md-2 py-sm-2 py-xs-2">
+                    <div class="d-flex justify-content-center">
+                        <figure>
+                            <img class="img-fluid rounded mx-auto shadow" src="/images/pages/index/dashboard0319.png"
+                                 alt="Efficient Era Dashboard">
+                        </figure>
+                    </div>
+                </div>
+            </div>
+            <div class="row py-4">
+                <div class="col">
+                    <div class="card-deck">
+                        <div class="card feature-card hover-scale">
+                            <div class="card-body">
+                                <div class="card-title">Hijack Alerts</div>
+                                <hr/>
+                                <div class="feature-detail">
+                                    <ul>
+                                        <li>Title Changes</li>
+                                        <li>SKU Changes</li>
+                                        <li>Brand Changes</li>
+                                        <li>Other FBA Sellers</li>
+                                        <li>Too Few Images</li>
+                                    </ul>
+                                </div>
+                                <a href="#hijack" class="stretched-link"></a>
+                            </div>
+                        </div>
+                        <div class="card feature-card hover-scale">
+                            <div class="card-body">
+                                <div class="card-title">Buy Box Alerts</div>
+                                <hr/>
+                                <div class="feature-detail">
+                                    <ul>
+                                        <li>Buy Box Lost</li>
+                                        <li>Category Changes</li>
+                                        <li>Lower Priced Items Bar</li>
+                                        <li>Lost A+ Description</li>
+                                    </ul>
+                                </div>
+                                <a href="#buybox" class="stretched-link"></a>
+                            </div>
+                        </div>
+                        <div class="card feature-card hover-scale">
+                            <div class="card-body">
+                                <div class="card-title">Feedback Alerts</div>
+                                <hr/>
+                                <div class="feature-detail">
+                                    <ul>
+                                        <li>Product Reviews</li>
+                                        <li>Review Updates</li>
+                                        <li>Question Posted</li>
+                                        <li>Negative Seller Feedback</li>
+                                        <li>Returns</li>
+                                    </ul>
+                                </div>
+                                <a href="#feedback" class="stretched-link"></a>
+                            </div>
+                        </div>
+                        <div class="card feature-card hover-scale">
+                            <div class="card-body">
+                                <div class="card-title">Sales Alerts</div>
+                                <hr/>
+                                <div class="feature-detail">
+                                    <ul>
+                                        <li>Weekly Movers</li>
+                                        <li>Monthly Movers</li>
+                                        <li>Category Rank Changes</li>
+                                        <li>New Max Shipment</li>
+                                        <li>Large Order Received</li>
+                                    </ul>
+                                </div>
+                                <a href="#sales" class="stretched-link"></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="offset-xl-1 col-xl-10 col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="row pt-5">
+                <div class="col">
+                    <h2 class="text-center">Learn About the Efficient Era Alerts</h2>
+                </div>
+            </div>
+            <div id="hijack"></div>
+            <div class="row pt-5">
+                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 order-0 align-self-center">
+                    <h3 class="text-center">Hijack Alerts</h3>
+                    <h4 class="text-center">Hijackers can take control of your listings, Amazon could be one of them</h4>
+                </div>
+                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 order-1">
+                    <div class="accordion" id="hijack">
+                        <div class="card">
+                            <div class="card-header p-2" id="hijackHeadOne">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#hijackOne" aria-expanded="true" aria-controls="hijackOne">Title Change
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="hijackOne" class="collapse show" aria-labelledby="hijackHeadOne" data-parent="#hijack">
+                                <div class="card-body">
+                                    <p>You know that organic search results and keyword relevancy depend heavily on the words that you use in your Product Title. Unfortunately, Amazon makes it fairly easy for other sellers to change these in ways that can hurt your organic and paid search ranking.</p>
+                                    <p>If you've received this type of alert from us, check that the change was not intentional. Open a ticket with Amazon support if you are brand owner and think it may be an Amazon team like Amazon Warehouse or Amazon Retail that made the change. They always have a higher listing contribution score.</p>
+                                </div>
+                            </div>
+                            <div class="card-header p-2" id="hijackHeadTwo">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#hijackTwo" aria-expanded="true" aria-controls="hijackTwo">SKU Changes
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="hijackTwo" class="collapse" aria-labelledby="hijackHeadTwo" data-parent="#hijack">
+                                <div class="card-body">
+                                    <p>Are you aware that other sellers who have a contribution score higher that yours could change parts of your listing? Also do you know that Amazon Warehouse or Amazon Retail have the highest contribution score, even if you are the brand registered owner. We send you SKU change alerts whenever something about your SKU has changed. If you know it was you who initiated a change you have no cause for concern.</p>
+                                    <p>Our Alerts contain a table of changes. The terms Seller SKU, Mfr Part Number and Model Number are often used interchangeably within Amazon’s listing. Not all ASINs have the same layout for listing detail pages, so these attributes may not be visible to you. However, we have detected that these have been changed in Amazon’s database – they could have been initiated you, Amazon themselves, or a hijacker.</p>
+                                    <p>Check the ‘Vital Info’ and ‘Offer’ tabs of your listing to confirm any changes you might have made. If your contributions for these fields doesn't match the current Amazon values, someone else may be overriding your listing. If you are not brand registered for this product, it may be another seller. If you are brand registered, Amazon internal teams may still override your contributions to the listing. Check if new values match the SKU of any competitors, check for new sellers who might be hijacking your listing, and be on the lookout for further listing changes. If you're brand registered, contact Amazon Seller Support and report the incorrect change to your product, with proof that this is one of your brand registered products, and the correct values you would like Amazon to restore.</p>
+                                </div>
+                            </div>
+                            <div class="card-header p-2" id="hijackHeadThree">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#hijackThree" aria-expanded="true" aria-controls="hijackThree">Brand Changes
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="hijackThree" class="collapse" aria-labelledby="hijackHeadThree" data-parent="#hijack">
+                                <div class="card-body">
+                                    <p>A change of brand can happen if another seller hijacked your listing. Fortunately, with our Brand Change alert, you can take quick action if that ever happens.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="buybox"></div>
+            <div class="row pt-5">
+                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 order-xl-1 order-lg-1 order-md-0 order-sm-0 order-xs-0 align-self-center">
+                    <h3 class="text-center">Buy Box Alerts</h3>
+                    <h4 class="text-center">If you don't own the buy box, you are losing sales</h4>
+                </div>
+                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 order-xl-0 order-lg-0 order-md-1 order-sm-1 order-xs-1">
+                    <div class="accordion" id="buybox">
+                        <div class="card">
+                            <div class="card-header p-2" id="buyboxHeadOne">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#buyboxOne" aria-expanded="true" aria-controls="buyboxOne">Buy Box Lost
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="buyboxOne" class="collapse show" aria-labelledby="buyboxHeadOne" data-parent="#buybox">
+                                <div class="card-body">
+                                    <p>Did you know that over 90% of all sales on Amazon occur using the Buy Box. It’s rare for shoppers to actively seek out a product if it’s hidden behind a “See All Buying Options” button. Unfortunately, you may not always win the Buy Box. Amazon silently rotates the Buy Box among sellers and even takes it away entirely sometimes for various hard-to-predict reasons. Efficient Era's Buy Box events will catch Buy Box loss events every 15 minutes and Page Suppression events every 24 hours. Here are the different types of cases we cover:</p>
+                                    <ul>
+                                        <li><strong> No Buy Box:</strong> No sellers have the buy box.</li>
+                                        <li><strong> Lost Buy Box:</strong> You owned the buy box previously but have now lost it to another seller</li>
+                                        <li><strong> Buy Box Suppressed:</strong> There are offers, but Amazon isn’t giving any of them the buy box</li>
+                                        <li><strong>Page Suppressed:</strong> The product detail page is silently suppressed by Amazon (404 Error Page)</li>
+                                    </ul>
+                                    <p>Depending on the symptom and cause of Buy Box loss, there are multiple things you can do to regain it. We detail this advice within our Buy Box alerts. Here are some examples:</p>
+                                    <ul>
+                                        <li>You were in stock recently, and are now out of stock and have lost the buy box. Stock FBA and/or Convert to Fulfilled by Merchant temporarily</li>
+                                        <li>Another seller is winning the buybox because you have no active offers. In sellercentral, make your offer active</li>
+                                        <li>The product detail page is suppressed (404) by Amazon. This can happen if a product has yet to be launched, or if it's being suppressed for quality, safety, or other performance reasons. Submit a seller central ticket to resolve issue</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="card-header p-2" id="buyboxHeadTwo">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#buyboxTwo" aria-expanded="true" aria-controls="buyboxTwo">Top Level Category Change
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="buyboxTwo" class="collapse" aria-labelledby="buyboxHeadTwo" data-parent="#buybox">
+                                <div class="card-body">
+                                    <p>Amazon assigns products to categories based on descriptions found in the ASIN detail pages. A product could be listed in up to 2 categories. However, these categories could change at Amazon's discretion which, unfortunately, could be incorrect at times.</p>
+                                    <p>Category changes could impact your Amazon fees and drastically slow down your sales especially if the newly assigned category is not relevant to your product or keywords. When you receive this alert, check to see if this change was initiated by you and not randomly changed by Amazon. Also, check if Amazon's category requirements have undergone a change.</p>
+                                </div>
+                            </div>
+                            <div class="card-header p-2" id="buyboxHeadThree">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#buyboxThree" aria-expanded="true" aria-controls="buyboxThree">'Lower Priced Items to Consider' Bar Detected
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="buyboxThree" class="collapse" aria-labelledby="buyboxHeadThree" data-parent="#buybox">
+                                <div class="card-body">
+                                    <p>Did you know that when you increase prices on Amazon, your product pages can get hit with a "Lower Priced Items to Consider" bar that appears above your listing?
+                                    </p>
+                                    <p>This is a new way for Amazon to steer traffic away to what they consider to be similar products at lower prices. Another reason for this bar to appear is if your product is being sold on a off-Amazon ecommerce channel (like Walmart or eBay) at a lower price.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="card-header p-2" id="buyboxHeadFour">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#buyboxFour" aria-expanded="true" aria-controls="buyboxFour">Lost A+ Description
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="buyboxFour" class="collapse" aria-labelledby="buyboxHeadFour" data-parent="#buybox">
+                                <div class="card-body">
+                                    <p>
+                    A+ listings, also known as Enhanced Brand Content (EBC) listings are rich HTML pages that allow Brand Registered sellers to add extensive marketing material and images to their listing, increasing their chances of high conversion rates. Unfortunately, Amazon has the power to remove A+ Content pages for any reason, such as a violation of Amazon’s ToS or failing to provide a good customer experience. We alert you when yoy lose your A+ content, so that you can quickly rectify the issue and request Seller Support to restore your content.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="feedback"></div>
+            <div class="row pt-5">
+                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 order-0 align-self-center">
+                    <h3 class="text-center">Feedback Alerts</h3>
+                    <h4 class="text-center">Customers give important feedback, pay attention and respond</h4>
+                </div>
+                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 order-1">
+                    <div class="accordion" id="feedback">
+                        <div class="card">
+                            <div class="card-header p-2" id="feedbackHeadOne">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#feedbackOne" aria-expanded="true" aria-controls="feedbackOne">Product Reviews
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="feedbackOne" class="collapse show" aria-labelledby="feedbackHeadOne" data-parent="#feedback">
+                                <div class="card-body">
+                                    <p>Efficient Era provides extensive review monitoring for both positive and negative reviews. Receive review alerts as single or digest emails. In addition, we allow you to set alert rules at the product level so you can have emails sent out to different team members or groups for specific products. We report reviews every 8-10 hours.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="card-header p-2" id="feedbackHeadTwo">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#feedbackTwo" aria-expanded="true" aria-controls="feedbackTwo">Review Changes
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="feedbackTwo" class="collapse" aria-labelledby="feedbackHeadTwo" data-parent="#feedback">
+                                <div class="card-body">
+                                    <p>If a buyer change their stand on how they feel about a purchase, it's easy for them to go back and update the rating or the text of their review. You want to make sure that you are notified of all review changes so that you can pay attention to weaknesses in your products, that perhaps cause them to fail after a while of use. It's also nice to know when someone changed their opinion for the better because of superior customer support that you provided. Get notified of review changes as a single email or as a weekly digest.</p>
+                                </div>
+                            </div>
+                            <div class="card-header p-2" id="feedbackHeadThree">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#feedbackThree" aria-expanded="true" aria-controls="feedbackThree">Negative Seller Feedback
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="feedbackThree" class="collapse" aria-labelledby="feedbackHeadThree" data-parent="#feedback">
+                                <div class="card-body">
+                                    <p>Efficient Era provides 8 hourly monitoring for all your negative seller feedback. Receive feedback alerts as single or digest emails. In addition we allow you to automate responses to when you receive negative seller feedback.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="card-header p-2" id="feedbackHeadFour">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#feedbackFour" aria-expanded="true" aria-controls="feedbackFour">Questions
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="feedbackFour" class="collapse" aria-labelledby="feedbackHeadFour" data-parent="#feedback">
+                                <div class="card-body">
+                                    <p>Quickly responding to buyer questions and concerns is a great way for you to publicly establish credibility, especially if you are the brand owner. To analyze popular questions posted about your products, the number of answers received as well as votes, you can visit the Questions dashboard within Efficient Era.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="card-header p-2" id="feedbackHeadFive">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#feedbackFive" aria-expanded="true" aria-controls="feedbackFive">Returns
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="feedbackFive" class="collapse" aria-labelledby="feedbackHeadFive" data-parent="#feedback">
+                                <div class="card-body">
+                                    <p>We provide a consolidated weekly digest of returns that you received on your products. You can also access all of your returns within our Web app. It's important to monitor your per-product return rates on a regular basis. Find out your worst and best performing products in terms of returns. Remember that high return rates are red flags for Amazon.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="sales"></div>
+            <div class="row py-5">
+                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 order-xl-1 order-lg-1 order-md-0 order-sm-0 order-xs-0 align-self-center">
+                    <h3 class="text-center">Sales Alerts</h3>
+                    <h4 class="text-center">Reporting on your best performing products, don't run out of stock</h4>
+                </div>
+                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 order-xl-0 order-lg-0 order-md-1 order-sm-1 order-xs-1">
+                    <div class="accordion" id="sales">
+                        <div class="card">
+                            <div class="card-header p-2" id="salesHeadOne">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#salesOne" aria-expanded="true" aria-controls="salesOne">Weekly Movers 
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="salesOne" class="collapse show" aria-labelledby="salesHeadOne" data-parent="#sales">
+                                <div class="card-body">
+                                    <p>Once every week, we send you a report of top 10 ASINs that have had significant jumps in sales across all geographies. It's always a good idea to know your monthly run rate and analyze factors that might have caused these jumps. Lightning Deals, Coupons, PPC, Off-Amazon marketing campaigns are some possible reasons. Make a note of these reasons for your future reference by annotating them right into your historical sales time line. You can do this with Efficient Era's Inventory Health Charts. Use your annotations to guide future restocking decisions.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="card-header p-2" id="salesHeadTwo">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#salesTwo" aria-expanded="true" aria-controls="salesTwo">Monthly Movers
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="salesTwo" class="collapse" aria-labelledby="salesHeadTwo" data-parent="#sales">
+                                <div class="card-body">
+                                    <p>Once every month, we send you a report of top 10 ASINs that have had significant jumps in sales across all geographies. It's always a good idea to know your monthly run rate and analyze factors that might have caused these jumps. Lightning Deals, Coupons, PPC, Off-Amazon marketing campaigns are some possible reasons. Make a note of these reasons for your future reference by annotating them right into your historical sales time line. You can do this with Efficient Era's Inventory Health Charts. Use your annotations to guide future restocking decisions.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="card-header p-2" id="salesHeadThree">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#salesThree" aria-expanded="true" aria-controls="salesThree">Category Rank Change
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="salesThree" class="collapse" aria-labelledby="salesHeadThree" data-parent="#sales">
+                                <div class="card-body">
+                                    <p>Your Best Seller Rank within a category changes all the time, based primarily on sales, but also on the overall movement of your product compared to competitors. We inform you if your Category Ranking improved in comparison to any past ranking.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="card-header p-2" id="salesHeadFour">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#salesFour" aria-expanded="true" aria-controls="salesFour">New Max Shipment
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="salesFour" class="collapse" aria-labelledby="salesHeadFour" data-parent="#sales">
+                                <div class="card-body">
+                                    <p class="Class2" style="padding: 10px">The New Max Shipment alert lets you know when you have bettered your sales record for any ASIN, over the trailing 7 day period. Mostly useful to prevent stock outs at Amazon Fulfilment centers, this alert gives you an opportunity to analyze recent factors that might have caused a new record to be set and guide your reorder decisions.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="card-header p-2" id="salesHeadFive">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#salesFive" aria-expanded="true" aria-controls="salesFive">Large Order Received
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="salesFive" class="collapse" aria-labelledby="salesHeadFive" data-parent="#sales">
+                                <div class="card-body">
+                                    <p>Our system informs you each time you receive a large order on any of your ASINs. The definition of a large order varies from seller to seller. While our default setting for large orders is 10 units, we allow you to reset this number to what might you consider a large order. Pay attention to these orders because it could be good news if it's a genuine sale, but also bad news if it turns out that a competitor is trying to wipe out your inventory and try to game you.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row animated-row">
+        <div class="offset-xl-1 col-xl-10 col-lg-12 col-md-12 col-sm-12 col-xs-12 justify-content-center">
+                <div class="row py-5">
+                    <div class="col">
+                        <div class="d-flex justify-content-center">
+                            <a class="btn btn-lg btn-ee" href="https://app.efficientera.com/signup/" target="_blank" onclick="handleSignup();">Stop Losing Sales Now</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row pb-5">
+                    <div class="offset-3 col-6">
+                        <h3>Save 20 hours a week, using our alerts to stay on top of your Amazon business.</h3>
+                        <h4>We alert you within hours of new changes made to your product listings. This includes new reviews, buy box changes, and more.</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

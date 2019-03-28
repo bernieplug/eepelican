@@ -70,6 +70,7 @@ TEMPLATE_PAGES = {
     'templates/pages/clients.html': 'clients/index.html',
     'templates/pages/resources.html': 'resources/index.html',
     'templates/pages/affiliate.html': 'pages/affiliate/index.html',
+    'templates/pages/alerts.html': 'alerts/index.html',
 
 }
 SITEMAP_SAVE_AS = 'sitemap.xml'

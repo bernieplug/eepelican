@@ -1,5 +1,9 @@
 {% extends 'base.html' %}
 
+{% block head %}
+    <title>{{ SITENAME }} - Support</title>
+{% endblock %}
+
 {% block meta %}
     <meta name="save_as" content="support/index.html" />
 {% endblock %}
@@ -9,8 +13,8 @@
         <div class="offset-xl-1 col-xl-10 col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <div class="row py-4">
                 <div class="col">
-                    <h1 class="text-center pt-4">Support</h1>
-                    <h2 class="text-center pb-4">We’re here to help!</h2>
+                    <h2 class="text-center pt-4">Support</h2>
+                    <h3 class="text-center pb-4">We’re here to help!</h3>
                     <p>Thank you for reaching customer support at Efficient Era!</p>
                     <p>All inquiries and questions can be sent to <a href="mailto:support@efficientera.com" target="_blank">support@efficientera.com</a>. Our team is based in Seattle, WA and operates during regular business hours in Pacific Standard Time.</p>
                     <p>If you’re a new user who needs assistance with setting up their account, you can contact our team or read our  <a href="{{ SITEURL }}/pages/startup/" target="_blank">onboarding materials</a>.</p>
