@@ -71,6 +71,7 @@ TEMPLATE_PAGES = {
     'templates/pages/resources.html': 'resources/index.html',
     'templates/pages/affiliate.html': 'pages/affiliate/index.html',
     'templates/pages/alerts.html': 'alerts/index.html',
+    'templates/pages/ads.html': 'ads/index.html',
 
 }
 SITEMAP_SAVE_AS = 'sitemap.xml'

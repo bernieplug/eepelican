@@ -1,0 +1,113 @@
+{% extends 'base.html' %}
+
+{% block head %}
+    <title>{{ SITENAME }} - Ads</title>
+{% endblock %}
+
+{% block meta %}
+    <meta name="save_as" content="ads/index.html" />
+{% endblock %}
+
+
+{% block content %}
+    <div class="row animated-row">
+        <div class="offset-xl-1 col-xl-10 col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="row pt-5">
+                <div class="col">
+                    <h2 class="text-center">Ads</h2>
+                    <h3 class="text-center">Save time, increase sales</h3>
+                </div>
+            </div>
+            <div class="row py-5">
+                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 align-self-center">
+                    <div class="row">
+                        <div class="card-deck">
+                            <div class="card feature-card">
+                                <div class="card-body">
+                                    <div class="card-title">Sponsored Products Automation</div>
+                                    <hr/>
+                                    <div class="feature-detail">
+                                        <ul>
+                                            <li>Confidence based bid adjustments</li>
+                                            <li>Keyword harvesting</li>
+                                            <li>Campaign creation recommendations</li>
+                                            <li>Negative keyword recommendations</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card feature-card">
+                                <div class="card-body">
+                                    <div class="card-title">Campaign Management</div>
+                                    <hr/>
+                                    <div class="feature-detail">
+                                        <ul>
+                                            <li>Expanded date ranges greater than 90 days</li>
+                                            <li>Separate keywords and product views </li>
+                                            <li>Set ACOS targets per product and campaign</li>
+                                            <li>Easier and better structured campaigns</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row py-4">
+                        <div class="col">
+                            <div class="d-flex justify-content-center">
+                                <a class="btn btn-lg btn-ee" href="https://app.efficientera.com/signup/" target="_blank" onclick="handleSignup();">Increase Ad Sales Now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6 py-md-2 py-sm-2 py-xs-2">
+                    <div class="d-flex justify-content-center">
+                        <figure>
+                            <img class="img-fluid rounded mx-auto shadow" src="/images/pages/index/ad_tool_dashboard.png"
+                                 alt="Efficient Era Dashboard">
+                        </figure>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row py-5">
+        <div class="offset-xl-1 col-xl-10 col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="row">
+                <div class="col">
+                    <h2 class="text-center">Automate Your Amazon Sponsored Product Ads</h2>
+                </div>
+            </div>
+            <div class="row pt-5">
+                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 align-self-center">
+                    <div class="d-flex justify-content-center">
+                        <figure>
+                            <img class="img-fluid rounded mx-auto shadow" src="/images/pages/ads-400.png"
+                                 alt="Sponsored Products Automation">
+                        </figure>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                    <ul>
+                        <li>
+                            <h4>Intelligent Bid Recommendations</h4>
+                            <p>Efficient Era provides weekly recommendations to adjust bids to maximize campaign and keyword performance.</p>
+                        </li>
+                        <li>
+                            <h4>Match Type Recommendations</h4>
+                            <p>Our software dig through your data to suggest changes to keyword match types, so you can get super targeted and optimize your ad spend.</p>
+                        </li>
+                        <li>
+                            <h4>New Keyword Discovery</h4>
+                            <p>Our Ads tool automates the process of new keyword discovery by digging through your impressions, clicks and sales data and finding the most relevant ones.</p>
+                        </li>
+                        <li>
+                            <h4>ACoS Monitoring</h4>
+                            <p>Set your target ACoS on a per-product basis to optimize advertising performance for products at different stages of maturity.</p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
