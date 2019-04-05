@@ -1,7 +1,7 @@
 Title: How to Protect Your Private Label
 Author: Annika L
 Category: 2019-04-04
-Image: /2019/04/ProtectBlog.png
+Image: 2019/04/ProtectBlog.png
 Tags: Counterfeit
 Summary: While Amazon continues to work on improving their seller protection policies, there are steps you can take to protect your private label products. 
 Status: published
