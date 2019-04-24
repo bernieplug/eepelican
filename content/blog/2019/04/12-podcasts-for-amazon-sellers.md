@@ -75,7 +75,8 @@ getting the scoop from the inside: by interviewing former and current Amazon
 employees. By using the tips received from the podcast, third-party Amazon sellers can
 gain an edge on the competition by learning about topics like “Tips for Amazon FBA”
 and “How to write Jeff Bezos”.
-The Marketer of the Day
+
+### The Marketer of the Day
 With a prolific catalog, the Marketer of the Day podcast interviews top internet
 marketers and entrepreneurs around the world. Hosted by Robert Plank, he focuses on
 interviewing entrepreneurs who’ve struggled and learned through trial and error. We
