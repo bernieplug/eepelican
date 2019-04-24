@@ -61,7 +61,8 @@ to paid advertising, sellers can learn strategies top marketing experts use to g
 business.
 Bernie was featured on this podcast and [talked](https://www.ecommercemarketingpodcast.com/design-effective-marketing-funnel-amazon-sales-bernie-thompson/) about how to design an effective
 marketing funnel.
-EOFire (Entrepreneurship on Fire)
+
+### EOFire (Entrepreneurship on Fire)
 The goal of Entrepreneurs on Fire is to deliver inspirational strategies to listeners on
 how to start your own business. Interviewing people from all walks of life, including
 major stars like Tony Robbins, EOFire is a huge learning resource for entrepreneurs
