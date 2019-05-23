@@ -4,12 +4,8 @@ Category: Interview
 Date: 2019-04-24 15:00
 Image: 2019/04/12Podcasts.png
 Tags: Interview
-Summary: Podcasts are booming right now and are a valuable source of entertainment.
-But they’re also a perfect learning tool, especially for the person without enough time.
-For the busy Amazon seller, there are many podcasts that could be a learning resource
-to you. We’ve listed some of our recommendations below, we’ve even been featured in
-a few of them!
 Status: published
+Summary: Podcasts are booming right now and are a valuable source of entertainment. But they’re also a perfect learning tool, especially for the person without enough time. For the busy Amazon seller, there are many podcasts that could be a learning resource to you. We’ve listed some of our recommendations below, we’ve even been featured in a few of them!
 
 Podcasts are booming right now and are a valuable source of entertainment. But they’re
 also a perfect learning tool, especially for the person without enough time. For the busy

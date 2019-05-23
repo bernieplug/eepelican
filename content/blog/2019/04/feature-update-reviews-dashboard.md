@@ -4,9 +4,7 @@ Category: Efficient Era
 Date: 2019-04-18 3:07 pm
 Image: 2019/04/ReviewDashboard.png
 Tags: Efficient Era
-Summary: We've been continually updating the look of our site and wanted to introduce the updated
-Review Dashboard! With the Dashboard,you'll be able to view a summary of your 7-day, 14-day, and 30-
-day review ratings.
+Summary: We've been continually updating the look of our site and wanted to introduce the updated Review Dashboard! With the Dashboard, you'll be able to view a summary of your 7-day, 14-day, and 30-day review ratings.
 Status: published
 
 We've been continually updating the look of our site and wanted to introduce the updated Review
