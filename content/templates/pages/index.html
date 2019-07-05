@@ -2,29 +2,29 @@
 
 {% block navbar %}
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav ml-auto pr-2">
-            <li class="nav-item">
-                <a class="nav-link" href="#home">Home</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#features">Features</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#pricing">Pricing</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link out-nav-link" href="{{ SITEURL }}/support/">Support</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link out-nav-link" href="{{ SITEURL }}/blog/">Blog</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link out-nav-link" href="https://app.efficientera.com">Login</a>
-            </li>
-            <li class="nav-item">
-                <a class="btn btn-sign-up btn-ee" href="https://app.efficientera.com/signup/" onclick="handleNavSignup();">Sign Up</a>
-            </li>
-        </ul>
+{#        <ul class="navbar-nav ml-auto pr-2">#}
+{#            <li class="nav-item">#}
+{#                <a class="nav-link" href="#home">Home</a>#}
+{#            </li>#}
+{#            <li class="nav-item">#}
+{#                <a class="nav-link" href="#features">Features</a>#}
+{#            </li>#}
+{#            <li class="nav-item">#}
+{#                <a class="nav-link" href="#pricing">Pricing</a>#}
+{#            </li>#}
+{#            <li class="nav-item">#}
+{#                <a class="nav-link out-nav-link" href="{{ SITEURL }}/support/">Support</a>#}
+{#            </li>#}
+{#            <li class="nav-item">#}
+{#                <a class="nav-link out-nav-link" href="{{ SITEURL }}/blog/">Blog</a>#}
+{#            </li>#}
+{#            <li class="nav-item">#}
+{#                <a class="nav-link out-nav-link" href="https://app.efficientera.com">Login</a>#}
+{#            </li>#}
+{#            <li class="nav-item">#}
+{#                <a class="btn btn-sign-up btn-ee" href="https://app.efficientera.com/signup/" onclick="handleNavSignup();">Sign Up</a>#}
+{#            </li>#}
+{#        </ul>#}
     </div>
 {% endblock %}
 
@@ -32,216 +32,256 @@
     <div id="home"></div>
     <div class="row animated-row section">
         <div class="col-lg-4 offset-xl-1 col-xl-3 align-self-center py-xs-2 py-sm-2 py-md-2">
-            <div class="row">
-                <div class="col text-center">
-                    <h2>The All-In-One Amazon Tool</h2>
-                </div>
-            </div>
-            <div class="row pt-1">
-                <div class="col">
-                    <h4>Efficient Era is a comprehensive software tool that helps you succeed on Amazon. Improve your
-                        PPC campaigns, track your product listings, and send feedback requests all in one place.</h4>
-                </div>
-            </div>
-            <div class="row pt-3">
-                <div class="col">
-                    <div class="d-flex justify-content-center">
-                        <a class="btn btn-ee" href="https://app.efficientera.com/signup/" target="_blank" onclick="handleSignup();">Get Started for Free</a>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col">
-                    <div class="d-flex justify-content-center">
-                        <small>No credit card required</small>
-                    </div>
-                </div>
-            </div>
+{#            <div class="row">#}
+{#                <div class="col text-center">#}
+{#                    <h2>The All-In-One Amazon Tool</h2>#}
+{#                </div>#}
+{#            </div>#}
+{#            <div class="row pt-1">#}
+{#                <div class="col">#}
+{#                    <h4>Efficient Era is a comprehensive software tool that helps you succeed on Amazon. Improve your#}
+{#                        PPC campaigns, track your product listings, and send feedback requests all in one place.</h4>#}
+{#                </div>#}
+{#            </div>#}
+{#            <div class="row pt-3">#}
+{#                <div class="col">#}
+{#                    <div class="d-flex justify-content-center">#}
+{#                        <a class="btn btn-ee" href="https://app.efficientera.com/signup/" target="_blank" onclick="handleSignup();">Get Started for Free</a>#}
+{#                    </div>#}
+{#                </div>#}
+{#            </div>#}
+{#            <div class="row">#}
+{#                <div class="col">#}
+{#                    <div class="d-flex justify-content-center">#}
+{#                        <small>No credit card required</small>#}
+{#                    </div>#}
+{#                </div>#}
+{#            </div>#}
         </div>
-        <div class="col-lg-8 col-xl-7 py-xs-2 py-sm-2 py-md-2">
-            <div class="d-flex justify-content-center">
-                <figure>
-                    <img class="img-fluid rounded mx-auto shadow" src="/images/pages/index/dashboard0319.png"
-                         alt="Efficient Era Dashboard">
-                </figure>
-            </div>
-        </div>
-    </div>
-    <div id="features"></div>
-    <div class="row light-row section">
-        {% include "content/features.html" %}
-    </div>
-    <div id="pricing"></div>
-    <div class="row animated-row section">
-        {% include "content/pricing.html" %}
-    </div>
-    <div id="testimonials"></div>
-    <div class="row light-row section">
-        <div class="col">
-            <div class="row">
-                <div class="offset-1 col-10">
-                    <div class="text-center">
-                        <h2>So affordable it's a no brainer</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row pt-4">
-                <div class="offset-lg-2 col-lg-8">
-                    <div id="testimonials-slider" class="carousel slide" data-ride="carousel" data-interval="4000">
-                        <div class="carousel-inner">
-                            <!--<ol class="carousel-indicators">
-                                <li data-target="#testamonial-slider" data-slide-to="0" class="active"></li>
-                                <li data-target="#testamonial-slider" data-slide-to="1" class="active"></li>
-                            </ol>-->
-                            <div class="carousel-item active">
-                                <div class="row pb-5">
-                                    <div class="col-3">
-                                        <div class="d-flex justify-content-center">
-                                            <img class="img-fluid rounded-circle" src="/images/stevechou.png">
-                                        </div>
-                                    </div>
-                                    <div class="col-9">
-                                        <p class="testimonial-text">"Efficient Era saves me time and money by monitoring
-                                            my product listings so I can focus my efforts on growing my business. This
-                                            all-in-one suite is so inexpensive that it's a no-brainer to sign up."</p>
-                                        <p>Steve Chou, <a href="https://mywifequitherjob.com/" target="_blank">My Wife
-                                            Quit Her Job</a></p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <div class="row pb-5">
-                                    <div class="col-3">
-                                        <div class="d-flex justify-content-center">
-                                            <img class="img-fluid rounded-circle" src="/images/dana.png">
-                                        </div>
-                                    </div>
-                                    <div class="col-9">
-                                        <p class="testimonial-text">"I started using Efficient Era for my feedback
-                                            alerts, but then discovered that it's part of a whole suite of tools that
-                                            can really help our business. You can tell this software was designed by an
-                                            Amazon seller."</p>
-                                        <p>Dana Jaunzemis, <a href="https://www.homehealthtesting.com/" target="_blank">Home
-                                            Health Testing</a></p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--<a class="carousel-control-prev" href="#testimonials-slider" role="button" data-slide="prev">
-                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                <span class="sr-only">Previous</span>
-                            </a>
-                            <a class="carousel-control-next" href="#testimonials-slider" role="button" data-slide="next">
-                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                <span class="sr-only">Next</span>
-                            </a>-->
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <div class="col-lg-8 offset-lg-2 text-center">
+{#            col-xl-7 py-xs-2 py-sm-2 py-md-2">#}
+            <h2>Thank you for your interest in Efficient Era!</h2>
+
+            </br>
+{#            <h5 class="text-left">Unfortunately, we had to make the hard decision of shutting down Efficient Era, an all-in-one tool for Amazon Sellers, on July 4th, 2019.#}
+{#                Amazon has gradually and systematically clamped down on tool vendors, restricting our access to data, forcing us to drop features and making it hard for us to provide valuable services to the seller community... profitably.</h5>#}
+{##}
+{#            <h5 class="text-left">#}
+{#                It became clear that advertising is both THE most important problem for sellers, and also the one where Amazon, sellers, and tools are aligned in making sellers successful.#}
+{#                We are shifting gears to focus completely on that with <a href ="https://www.ppcninja.com" target="_blank">PPC Ninja</a>, a PPC Tools and Services company.</h5>#}
+{##}
+{#            <h5>If you have struggled with PPC and are interested in software automation and services to maximize ROI and grow sales through advertising, we can help!#}
+{#                    Please visit us at our new location, <a href ="https://www.ppcninja.com" target="_blank">PPC Ninja</a> where#}
+{#                we will continue to serve the seller community!</h5>#}
+{##}
+{#            </br>#}
+{#            </br>#}
+
+                <h5 class="text-left">Efficient Era is shut down as of July 4th, 2019 so that we could focus singularly on advertising tools and services, which are both critical to seller success and aligned with Amazon's goals.
+                    The Ad Tool portion of Efficient Era has become <a href ="https://www.ppcninja.com" target="_blank" style="font-weight:100%">PPC Ninja</a>.
+                    We're sellers ourselves and we created the agency we wanted for ourselves.</h5>
+                        <p class=text-center">
+                            <figure>
+                                <a href ="https://www.ppcninja.com"><img class="img-fluid rounded mx-auto shadow" src="/images/PPC_Ninja.png" alt="PPC Ninja PPC Account Audit" width="25%"></a>
+                            </figure>
+                        </p>
+                        </br>
+                <h5 class="text-left">PPC Ninja does two things differently:</h5>
+                <h5 class="text-left">1) Software: PPC Ninja provides a set of powerful PPC reporting and automation tools built with a certain degree of flexibility, recognizing
+                    that in the constantly evolving world of Amazon ad features, a human element is needed for success. We understand that sellers may have developed and evolved their own methodology
+                    that is working well. Our tools won't bind you to a structure, process or approach.</h5>
+                <h5 class="text-left">2) Services: PPC Ninja is also an Amazon-focused ad agency that recognizes that keyword understanding and advertising needs to be a core competency
+                    for successful Amazon sellers. So we don't take that away from you. We don't take over your account or ask for a percent of ad spend or revenue long-term. Instead, we offer 'micro services' to let you engage us,
+                    launch products through PPC, fix problems, and learn. But we keep you in control to cost-effectively manage your own ad campaigns over time, with or without the help of our automated tools.</h5>
+                <h5 class="text-left">A great way to help yourself and get a feel for our expertise is to try our free <a href ="https://www.ppcninja.com/free-tool" target="_blank">PPC Ninja Account Audit Tool</a>.
+                    It's an Excel-based tool so you can use it on your own without API access.  It will highlight existing problems and opportunities in your advertising spend that Amazon won't tell you about.
+                    We hope it helps your Amazon selling business and motivates you to try our <a href ="https://www.ppcninja.com/software" target="_blank">Full API-Connected PPC Ninja Tool</a>, which starts at $49 / month, and our <a href ="https://www.ppcninja.com/services" target="_blank">services.</a></h5>
+                <h5 class="text-left">Thank you for all the wonderful and kind comments we've received about Efficient Era. And thank you for letting us continue to help your business succeed on Amazon!</h5>
+
+{#            <div class="d-flex justify-content-center">#}
+{#                <figure>#}
+{#                    <img class="img-fluid rounded mx-auto shadow" src="/images/pages/index/dashboard0319.png"#}
+{#                         alt="Efficient Era Dashboard">#}
+{#                </figure>#}
+{#            </div>#}
         </div>
     </div>
+{#    <div id="features"></div>#}
+{#    <div class="row light-row section">#}
+{#        {% include "content/features.html" %}#}
+{#    </div>#}
+{#    <div id="pricing"></div>#}
+{#    <div class="row animated-row section">#}
+{#        {% include "content/pricing.html" %}#}
+{#    </div>#}
+{#    <div id="testimonials"></div>#}
+{#    <div class="row light-row section">#}
+{#        <div class="col">#}
+{#            <div class="row">#}
+{#                <div class="offset-1 col-10">#}
+{#                    <div class="text-center">#}
+{#                        <h2>So affordable it's a no brainer</h2>#}
+{#                    </div>#}
+{#                </div>#}
+{#            </div>#}
+{#            <div class="row pt-4">#}
+{#                <div class="offset-lg-2 col-lg-8">#}
+{#                    <div id="testimonials-slider" class="carousel slide" data-ride="carousel" data-interval="4000">#}
+{#                        <div class="carousel-inner">#}
+{#                            <!--<ol class="carousel-indicators">#}
+{#                                <li data-target="#testamonial-slider" data-slide-to="0" class="active"></li>#}
+{#                                <li data-target="#testamonial-slider" data-slide-to="1" class="active"></li>#}
+{#                            </ol>-->#}
+{#                            <div class="carousel-item active">#}
+{#                                <div class="row pb-5">#}
+{#                                    <div class="col-3">#}
+{#                                        <div class="d-flex justify-content-center">#}
+{#                                            <img class="img-fluid rounded-circle" src="/images/stevechou.png">#}
+{#                                        </div>#}
+{#                                    </div>#}
+{#                                    <div class="col-9">#}
+{#                                        <p class="testimonial-text">"Efficient Era saves me time and money by monitoring#}
+{#                                            my product listings so I can focus my efforts on growing my business. This#}
+{#                                            all-in-one suite is so inexpensive that it's a no-brainer to sign up."</p>#}
+{#                                        <p>Steve Chou, <a href="https://mywifequitherjob.com/" target="_blank">My Wife#}
+{#                                            Quit Her Job</a></p>#}
+{#                                    </div>#}
+{#                                </div>#}
+{#                            </div>#}
+{#                            <div class="carousel-item">#}
+{#                                <div class="row pb-5">#}
+{#                                    <div class="col-3">#}
+{#                                        <div class="d-flex justify-content-center">#}
+{#                                            <img class="img-fluid rounded-circle" src="/images/dana.png">#}
+{#                                        </div>#}
+{#                                    </div>#}
+{#                                    <div class="col-9">#}
+{#                                        <p class="testimonial-text">"I started using Efficient Era for my feedback#}
+{#                                            alerts, but then discovered that it's part of a whole suite of tools that#}
+{#                                            can really help our business. You can tell this software was designed by an#}
+{#                                            Amazon seller."</p>#}
+{#                                        <p>Dana Jaunzemis, <a href="https://www.homehealthtesting.com/" target="_blank">Home#}
+{#                                            Health Testing</a></p>#}
+{#                                    </div>#}
+{#                                </div>#}
+{#                            </div>#}
+{#                            <!--<a class="carousel-control-prev" href="#testimonials-slider" role="button" data-slide="prev">#}
+{#                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>#}
+{#                                <span class="sr-only">Previous</span>#}
+{#                            </a>#}
+{#                            <a class="carousel-control-next" href="#testimonials-slider" role="button" data-slide="next">#}
+{#                                <span class="carousel-control-next-icon" aria-hidden="true"></span>#}
+{#                                <span class="sr-only">Next</span>#}
+{#                            </a>-->#}
+{#                        </div>#}
+{#                    </div>#}
+{#                </div>#}
+{#            </div>#}
+{#        </div>#}
+{#    </div>#}
 {% endblock %}
 
 
-{% block scripts %}
-    <script type="text/javascript">
-        (function ($) {
-            $.fn.countTo = function (options) {
-                options = options || {};
 
-                return $(this).each(function () {
-                    // set options for current element
-                    var settings = $.extend({}, $.fn.countTo.defaults, {
-                        from: $(this).data('from'),
-                        to: $(this).data('to'),
-                        speed: $(this).data('speed'),
-                        refreshInterval: $(this).data('refresh-interval'),
-                        decimals: $(this).data('decimals')
-                    }, options);
-
-                    // how many times to update the value, and how much to increment the value on each update
-                    var loops = Math.ceil(settings.speed / settings.refreshInterval),
-                        increment = (settings.to - settings.from) / loops;
-
-                    // references & variables that will change with each update
-                    var self = this,
-                        $self = $(this),
-                        loopCount = 0,
-                        value = settings.from,
-                        data = $self.data('countTo') || {};
-
-                    $self.data('countTo', data);
-
-                    // if an existing interval can be found, clear it first
-                    if (data.interval) {
-                        clearInterval(data.interval);
-                    }
-                    data.interval = setInterval(updateTimer, settings.refreshInterval);
-
-                    // initialize the element with the starting value
-                    render(value);
-
-                    function updateTimer() {
-                        value += increment;
-                        loopCount++;
-
-                        render(value);
-
-                        if (typeof (settings.onUpdate) == 'function') {
-                            settings.onUpdate.call(self, value);
-                        }
-
-                        if (loopCount >= loops) {
-                            // remove the interval
-                            $self.removeData('countTo');
-                            clearInterval(data.interval);
-                            value = settings.to;
-
-                            if (typeof (settings.onComplete) == 'function') {
-                                settings.onComplete.call(self, value);
-                            }
-                        }
-                    }
-
-                    function render(value) {
-                        var formattedValue = settings.formatter.call(self, value, settings);
-                        $self.html(formattedValue);
-                    }
-                });
-            };
-
-            $.fn.countTo.defaults = {
-                from: 0,               // the number the element should start at
-                to: 0,                 // the number the element should end at
-                speed: 1000,           // how long it should take to count between the target numbers
-                refreshInterval: 100,  // how often the element should be updated
-                decimals: 0,           // the number of decimal places to show
-                formatter: formatter,  // handler for formatting the value before rendering
-                onUpdate: null,        // callback method for every time the element is updated
-                onComplete: null       // callback method for when the element finishes updating
-            };
-
-            function formatter(value, settings) {
-                return value.toFixed(settings.decimals);
-            }
-        }(jQuery));
-
-        jQuery(function ($) {
-            // custom formatting example
-            $('.count-number').data('countToOptions', {
-                formatter: function (value, options) {
-                    return value.toFixed(options.decimals).replace(/\B(?=(?:\d{3})+(?!\d))/g, ',');
-                }
-            });
-
-            // start all the timers
-            $('.timer').each(count);
-
-            function count(options) {
-                var $this = $(this);
-                options = $.extend({}, options || {}, $this.data('countToOptions') || {});
-                $this.countTo(options);
-            }
-        });
-    </script>
-{% endblock %}
+{#{% block scripts %}#}
+{#    <script type="text/javascript">#}
+{#        (function ($) {#}
+{#            $.fn.countTo = function (options) {#}
+{#                options = options || {};#}
+{##}
+{#                return $(this).each(function () {#}
+{#                    // set options for current element#}
+{#                    var settings = $.extend({}, $.fn.countTo.defaults, {#}
+{#                        from: $(this).data('from'),#}
+{#                        to: $(this).data('to'),#}
+{#                        speed: $(this).data('speed'),#}
+{#                        refreshInterval: $(this).data('refresh-interval'),#}
+{#                        decimals: $(this).data('decimals')#}
+{#                    }, options);#}
+{##}
+{#                    // how many times to update the value, and how much to increment the value on each update#}
+{#                    var loops = Math.ceil(settings.speed / settings.refreshInterval),#}
+{#                        increment = (settings.to - settings.from) / loops;#}
+{##}
+{#                    // references & variables that will change with each update#}
+{#                    var self = this,#}
+{#                        $self = $(this),#}
+{#                        loopCount = 0,#}
+{#                        value = settings.from,#}
+{#                        data = $self.data('countTo') || {};#}
+{##}
+{#                    $self.data('countTo', data);#}
+{##}
+{#                    // if an existing interval can be found, clear it first#}
+{#                    if (data.interval) {#}
+{#                        clearInterval(data.interval);#}
+{#                    }#}
+{#                    data.interval = setInterval(updateTimer, settings.refreshInterval);#}
+{##}
+{#                    // initialize the element with the starting value#}
+{#                    render(value);#}
+{##}
+{#                    function updateTimer() {#}
+{#                        value += increment;#}
+{#                        loopCount++;#}
+{##}
+{#                        render(value);#}
+{##}
+{#                        if (typeof (settings.onUpdate) == 'function') {#}
+{#                            settings.onUpdate.call(self, value);#}
+{#                        }#}
+{##}
+{#                        if (loopCount >= loops) {#}
+{#                            // remove the interval#}
+{#                            $self.removeData('countTo');#}
+{#                            clearInterval(data.interval);#}
+{#                            value = settings.to;#}
+{##}
+{#                            if (typeof (settings.onComplete) == 'function') {#}
+{#                                settings.onComplete.call(self, value);#}
+{#                            }#}
+{#                        }#}
+{#                    }#}
+{##}
+{#                    function render(value) {#}
+{#                        var formattedValue = settings.formatter.call(self, value, settings);#}
+{#                        $self.html(formattedValue);#}
+{#                    }#}
+{#                });#}
+{#            };#}
+{##}
+{#            $.fn.countTo.defaults = {#}
+{#                from: 0,               // the number the element should start at#}
+{#                to: 0,                 // the number the element should end at#}
+{#                speed: 1000,           // how long it should take to count between the target numbers#}
+{#                refreshInterval: 100,  // how often the element should be updated#}
+{#                decimals: 0,           // the number of decimal places to show#}
+{#                formatter: formatter,  // handler for formatting the value before rendering#}
+{#                onUpdate: null,        // callback method for every time the element is updated#}
+{#                onComplete: null       // callback method for when the element finishes updating#}
+{#            };#}
+{##}
+{#            function formatter(value, settings) {#}
+{#                return value.toFixed(settings.decimals);#}
+{#            }#}
+{#        }(jQuery));#}
+{##}
+{#        jQuery(function ($) {#}
+{#            // custom formatting example#}
+{#            $('.count-number').data('countToOptions', {#}
+{#                formatter: function (value, options) {#}
+{#                    return value.toFixed(options.decimals).replace(/\B(?=(?:\d{3})+(?!\d))/g, ',');#}
+{#                }#}
+{#            });#}
+{##}
+{#            // start all the timers#}
+{#            $('.timer').each(count);#}
+{##}
+{#            function count(options) {#}
+{#                var $this = $(this);#}
+{#                options = $.extend({}, options || {}, $this.data('countToOptions') || {});#}
+{#                $this.countTo(options);#}
+{#            }#}
+{#        });#}
+{#    </script>#}
+{#{% endblock %}#}
