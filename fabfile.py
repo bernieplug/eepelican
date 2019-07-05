@@ -79,3 +79,5 @@ def s3_upload():
 #        local('python /usr/local/bin/s3cmd sync output/ --acl-public --delete-removed --guess-mime-type s3://efficientera.com/')
 
        # local('python /usr/local/Cellar/s3cmd/1.6.1/bin/s3cmd sync output/ --acl-public --delete-removed --guess-mime-type s3://efficientera.com/')
+
+s3_upload()
